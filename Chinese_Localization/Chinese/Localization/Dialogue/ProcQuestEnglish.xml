@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  
+  
+  
+  
+  
+  <QuestName>Helping out [FACTION]</QuestName>
+  
+  
+  <and>and</and>
+  
+  
+  <or>or</or>
+  
+  
+  <objectDecl>[definite] [NAME]</objectDecl>
+  
+  
+  <objectIndef>[NAME]</objectIndef>
+  
+
+  
+  
+  <QuestStarter>(Hey you! /You! /You there! /Hello, stranger! /Good day! )[I have the feeling that you are|You look like you're|You seem to be|It seems to me that you are|It appears to me that you are] [someone with courage|on the lookout for a job|on the lookout for work|up for making some money|someone who likes to help|a helpful person].</QuestStarter>
+  
+  
+  <QuestStarterKnown>[You again|Hello|It is nice to see a friendly face around|Welcome back|I am pleased to see you](, [PLAYER])[!|.]( I could use your help again./ I could use your courage again./ Maybe you can help me out again./ I hate to ask, but I need your help again.)</QuestStarterKnown>
+  
+  
+  
+  <ReturnDialog>[Find|Look out for|Search for|Meet|Locate|Talk to|Speak with|Come back to|Return to] me (immediately )[then|once you're finished|once you're done|afterwards], and</ReturnDialog>
+  
+  
+  
+  <RewardDialog1>[you'll|you will] [be rewarded( generously/ well/ kindly)|get a (huge /big )reward|be repaid( generously/ well/ kindly)]( for your efforts)[.|!]</RewardDialog1>
+  
+  
+  <RewardDialog2>[I'll|I will] [treat|reward|repay] you( generously/ kindly/ well)( for your efforts)[.|!]</RewardDialog2>
+  
+
+  
+  <DuringQuest>Good luck!|Be blessed on your way!|I'll await your return!|Be careful out there!|Be careful on your way!|Be careful!|Travel safe!|May the gods be with you!|May the spirit of Odin guide you!|May the gods bless you!|May your travels be blessed!</DuringQuest>
+  
+  
+  
+  <ReturnStarter>[You returned! |You came back! |You came back at last! |You returned at last! |You returned to me! |You came back finally! |You returned to me finally! ][Thank you( so much/ a thousand times)]!</ReturnStarter>
+  
+  
+  <ReturnReward>[Here is your (promised )reward!|You earned your reward!|You will see that I am (most )generous!|You shall be rewarded immediately!|I am henceforth in your dept!]</ReturnReward>
+  
+  
+  <ReturnGoodbye>[Farewell|Travel safe|May you be blessed on your travels|I hope we'll meet again|We shall meet again|May your road onwards be blessed|May the gods bless you on your way|May the gods make that we will meet again](, [PLAYER])!</ReturnGoodbye>
+  
+  
+  
+  
+  <Genders>
+    
+    
+    <Male>
+      
+      
+      <Indefinite>a</Indefinite>
+      
+      
+      <Definite>the</Definite>
+      
+      
+      <Object>him</Object>
+      
+      
+      <Subject>he</Subject>
+      
+      
+      <Possessive>his</Possessive>
+      
+    
+    </Male>
+    
+    
+    <Female>
+      
+      
+      <Indefinite>a</Indefinite>
+      
+      
+      <Definite>the</Definite>
+      
+      
+      <Object>her</Object>
+      
+      
+      <Subject>she</Subject>
+      
+      
+      <Possessive>her</Possessive>
+      
+    
+    </Female>
+    
+    
+    <Neutral>
+      
+      
+      <Indefinite>a</Indefinite>
+      
+      
+      <Definite>the</Definite>
+      
+      
+      <Object>it</Object>
+      
+      
+      <Subject>it</Subject>
+      
+      
+      <Possessive>its</Possessive>
+      
+    
+    </Neutral>
+    
+    
+    <PluralMale>
+      
+      
+      <Indefinite/>
+      
+      
+      <Definite>the</Definite>
+      
+      
+      <Object>them</Object>
+      
+      
+      <Subject>they</Subject>
+      
+      
+      <Possessive>their</Possessive>
+      
+    
+    </PluralMale>
+    
+    
+    <PluralFemale>
+      
+      
+      <Indefinite/>
+      
+      
+      <Definite>the</Definite>
+      
+      
+      <Object>them</Object>
+      
+      
+      <Subject>they</Subject>
+      
+      
+      <Possessive>their</Possessive>
+      
+    
+    </PluralFemale>
+    
+    
+    <PluralNeutral>
+      
+      
+      <Indefinite/>
+      
+      
+      <Definite>the</Definite>
+      
+      
+      <Object>them</Object>
+      
+      
+      <Subject>they</Subject>
+      
+      
+      <Possessive>their</Possessive>
+      
+    
+    </PluralNeutral>
+    
+  
+  </Genders>
+  
+  
+  
+  
+  
+  <Actions>
+    
+	  
+    <Action type="Attack">
+      
+      
+      <Description>
+        
+        
+        <Infinitive>to attack</Infinitive>
+        
+        
+        <Verb>attack</Verb>
+        
+        
+        <Objective>attack [object]</Objective>
+        
+      
+      </Description>
+      
+      
+      <DialogLine>[Objective]( without scruples/ without fear)(, but beware, [subject] might give you a good fight/, but be aware, [subject] might prove a strong defender)</DialogLine>
+      
+	  
+    </Action>
+    
+  
+	  
+    <Action type="Destroy">
+      
+      
+      <Description>
+        
+        
+        <Infinitive>to destroy</Infinitive>
+        
+        
+        <Verb>destroy</Verb>
+        
+        
+        <Objective>destroy [object]</Objective>
+        
+      
+      </Description>
+      
+      
+      <Description>
+        
+        
+        <Infinitive>to smash</Infinitive>
+        
+        
+        <Verb>smash</Verb>
+        
+        
+        <Objective>smash [object]</Objective>
+        
+      
+      </Description>
+      
+      
+      <DialogLine>[Objective](, if you can/, if you manage)</DialogLine>
+      
+    
+    </Action>
+    
+  
+    
+    <Action type="Interact">
+      
+      
+      <Description type="Object">
+        
+        
+        <Infinitive>to push</Infinitive>
+        
+        
+        <Verb>push</Verb>
+        
+        
+        <Objective>push [object]</Objective>
+        
+      
+      </Description>
+      
+      
+      <Description type="Object">
+        
+        
+        <Infinitive>to interact</Infinitive>
+        
+        
+        <Verb>interact</Verb>
+        
+        
+        <Objective>interact with [object]</Objective>
+        
+      
+      </Description>
+      
+      
+      <Description type="Character">
+        
+        
+        <Infinitive>to talk to</Infinitive>
+        
+        
+        <Verb>talk</Verb>
+        
+        
+        <Objective>talk to [object]</Objective>
+        
+      
+      </Description>
+      
+      
+      <Description type="Character">
+        
+        
+        <Infinitive>to speak with</Infinitive>
+        
+        
+        <Verb>speak with</Verb>
+        
+        
+        <Objective>speak with [object]</Objective>
+        
+      
+      </Description>
+      
+      
+      <DialogLine type="T1">You have [Infinitive] [NAME]( first)</DialogLine>
+      
+      
+      <DialogLine>[Verb] [NAME], [you will know what to do then|you will know how to move on from there|you'll see what comes next]</DialogLine>
+      
+      
+      <DialogLine type="T2">(alternatively, /otherwise, /as an alternative, /instead, )you [could |might ]also try [Infinitive] [NAME] ( and then decide what to do/ and then see what to do next/ and then move on)</DialogLine>
+      
+    
+    </Action>
+    
+
+    
+    <Action type="Kill">
+      
+      
+      <Description>
+        
+        
+        <Infinitive>to kill</Infinitive>
+        
+        
+        <Verb>kill [object]</Verb>
+        
+        
+        <Objective>kill [object]</Objective>
+        
+      
+      </Description>
+      
+      
+      <Description>
+        
+        
+        <Infinitive>to finish off</Infinitive>
+        
+        
+        <Verb>finish [object] off</Verb>
+        
+        
+        <Objective>finish off [object]</Objective>
+        
+      
+      </Description>
+      
+      
+      <Description>
+        
+        
+        <Infinitive>to kill</Infinitive>
+        
+        
+        <Verb>send [object] to hell</Verb>
+        
+        
+        <Objective>kill [object]</Objective>
+        
+      
+      </Description>
+      
+      
+      <DialogLine>[Verb]( without mercy/ without observers/ without getting seen)(, if you can/, if you manage)(, but beware, [subject] might give you a good fight/, but be aware, [subject] might prove a strong defender)</DialogLine>
+      
+	  
+    </Action>
+    
+  
+	  
+    <Action type="Leave">
+      
+      
+      <Description>
+        
+        
+        <Infinitive>to leave</Infinitive>
+        
+        
+        <Verb>leave</Verb>
+        
+        
+        <Objective>leave [object]</Objective>
+        
+      
+      </Description>
+      
+      
+      <DialogLine>[Objective]</DialogLine>
+      
+	  
+    </Action>
+    
+  
+	  
+    <Action type="TalkTo">
+      
+      
+      <Description>
+        
+        
+        <Infinitive>to talk to</Infinitive>
+        
+        
+        <Verb>talk to</Verb>
+        
+        
+        <Objective>talk to [object]</Objective>
+        
+      
+      </Description>
+      
+      
+      <Description>
+        
+        
+        <Infinitive>to speak with</Infinitive>
+        
+        
+        <Verb>speak with</Verb>
+        
+        
+        <Objective>speak with [object]</Objective>
+        
+      
+      </Description>
+      
+      
+      <DialogLine>[Verb] [NAME]( about it), [subject] will know what to do</DialogLine>
+      
+      
+      <DialogLine type="T1">you have [Infinitive] [NAME]( about it)( first)</DialogLine>
+      
+      
+      <DialogLine>[Verb] [NAME]( about it), you will know what to do then</DialogLine>
+      
+      
+      <DialogLine type="T2">(alternatively, /otherwise, /as an alternative, /instead, )you [could |might ]also [Verb] [NAME]( about it), and then see what to do next</DialogLine>
+      
+    
+    </Action>
+    
+  
+    
+    <Action type="WalkTo">
+      
+      
+      <Description>
+        
+        
+        <Infinitive>to walk to</Infinitive>
+        
+        
+        <Verb>walk to</Verb>
+        
+        
+        <Objective>walk to [object]</Objective>
+        
+      
+      </Description>
+      
+      
+      <Description>
+        
+        
+        <Infinitive>to find</Infinitive>
+        
+        
+        <Verb>find</Verb>
+        
+        
+        <Objective>find [object]</Objective>
+        
+      
+      </Description>
+      
+      
+      <Description>
+        
+        
+        <Infinitive>to locate</Infinitive>
+        
+        
+        <Verb>locate</Verb>
+        
+        
+        <Objective>locate [object]</Objective>
+        
+      
+      </Description>
+      
+      
+      <Description>
+        
+        
+        <Infinitive>to search for</Infinitive>
+        
+        
+        <Verb>search for</Verb>
+        
+        
+        <Objective>search for [object]</Objective>
+        
+      
+      </Description>
+      
+      
+      <Description>
+        
+        
+        <Infinitive>to look out for</Infinitive>
+        
+        
+        <Verb>look out for</Verb>
+        
+        
+        <Objective>look out for [object]</Objective>
+        
+      
+      </Description>
+      
+      
+      <DialogLine type="T2">[Verb] [NAME], [subject] will make you know what to do</DialogLine>
+      
+      
+      <DialogLine type="T1">You have [Infinitive] [NAME]( first)</DialogLine>
+      
+      
+      <DialogLine type="T1">[Verb] [NAME]( first)</DialogLine>
+      
+      
+      <DialogLine type="T2">[Verb] [NAME](, you will know what to do then)</DialogLine>
+      
+      
+      <DialogLine type="T2">you [could |might ]also try [Infinitive] [NAME] ( and then decide what to do)</DialogLine>
+      
+	  
+    </Action>
+    
+  
+  </Actions>
+  
+
+  
+  
+  
+  <Motivations>
+    
+    
+    <Motivation type="AtSameLocation">
+      
+      
+      <DialogLine type="Character">A good friend of me, [NAME], has been missing for [a while|a week|two weeks already|two moons already]! The last time I saw [object] was at [the funeral of the old king|the spring celebrations|winter's end|the burning of the undying|the day of the black sun]! I would be [in your dept|incredibly grateful|incredibly thankful|calmed|most thankful], if you could find [object].</DialogLine>
+      
+      
+      <DialogLine type="Character">Could you look after [NAME] for me? I am afraid [subject] is [not feeling well lately|feeling a bit off since [possessive] father died|behaving weird lately], but I can not get away from here right now,[ there is so much to do| since I am needed for the harvest| as I have to care for my family][!|.]</DialogLine>
+      
+      
+      <DialogLine type="Object">There is rumoured to be a [magical sign|tremendous treasure|lost artefact|tremendous amount of valuables to be found] at [NAME]. I want to know if the [rumours are true|whisperers have lied to me or not|sayings are true]. (Unfortunately, )[I am bound here by work|I cannot leave this place right now|I am not supposed to be around that place], could you look for it?</DialogLine>
+      
+      
+      <DialogLine type="Object">[An old adventurer|An injured soldier from the front|A seer|A sailor from Scottia|A chieftain from Franconia|A peasant's son from the North] [has been eating at my table|seeked me up|came up to me|dined with me|looked for my guidance|asked for my name|sought to meet me] [yesterday|two days ago|a week ago|two moons ago|a couple of moons ago]. He told me of [indefinite] [NAMEINDEF] close by, that is surrounded by (expensive /legendary /tremendous /wagon loads of )[treasures|goods|supplies|valuables].( I will mark the location on your map for you!/ I will tell you where to find [object]!)</DialogLine>
+      
+    
+    </Motivation>
+    
+    
+    <Motivation type="BeenAt">
+      
+      
+      <DialogLine type="Character">A good friend of me, [NAME], has been missing for [a while|a week|two weeks already|two moons already]! The last time I saw [object] was at [the funeral of the old king|the spring celebrations|winter's end|the burning of the undying|the day of the black sun]! I would be [in your dept|incredibly grateful|incredibly thankful|calmed|most thankful], if you could find [object].</DialogLine>
+      
+      
+      <DialogLine type="Character">Could you look after [NAME] for me? I am afraid [subject] is [not feeling well lately|feeling a bit off since [possessive] father died|behaving weird lately], but I can not get away from here right now,[ there is so much to do| since I am needed for the harvest| as I have to care for my family][!|.]</DialogLine>
+      
+      
+      <DialogLine type="Object">There is rumoured to be a [magical sign|tremendous treasure|lost artefact|tremendous amount of valuables to be found] at [NAME]. I want to know if the [rumours are true|whisperers have lied to me or not|sayings are true]. (Unfortunately, )[I am bound here by work|I cannot leave this place right now|I am not supposed to be around that place], could you look for it?</DialogLine>
+      
+      
+      <DialogLine type="Object">[An old adventurer|An injured soldier from the front|A seer|A sailor from Scottia|A chieftain from Franconia|A peasant's son from the North] [has been eating at my table|seeked me up|came up to me|dined with me|looked for my guidance|asked for my name|sought to meet me] [yesterday|two days ago|a week ago|two moons ago|a couple of moons ago]. He told me of [indefinite] [NAMEINDEF] close by, that is surrounded by (expensive /legendary /tremendous /wagon loads of )[treasures|goods|supplies|valuables].( I will mark the location on your map for you!/ I will tell you where to find [object]!)</DialogLine>
+      
+    
+    </Motivation>
+    
+    
+    <Motivation type="Attacked">
+      
+      
+      <DialogLine type="Object">There happens to be a [NAME] not far from here. It just suddenly appeared out of nowhere one day. They say it is nothing in particular, but I think it is cursed! They say that I turned crazy, but I'm sure the [NAME] has possessed their minds! Help me, oh stranger, to get rid of it!</DialogLine>
+      
+      
+      <DialogLine type="Character">[NAME] has been [annoying|prosecuting|fighting with|attacking|speaking bad about] me too much lately. Could you [take care of|see to|get rid of|stand up against] [object]?( Maybe [subject] will stop harressing me then./ Maybe [subject] will come to his senses./ Maybe this will stop then.)</DialogLine>
+      
+      
+      <DialogLine type="Character">I have known [NAME] for [years|my entire lifetime|my entire youth] now, but I never thought [subject] would (seriously /straightforward /ruthlessly )betray me. Now I'm convinced otherwise. I do not have the [power|strength|abilities|courage|wits|guts] to stand up against [object], but I sense that you [do|can|might|could]!</DialogLine>
+      
+    
+    </Motivation>
+    
+    
+    <Motivation type="IsDead">
+      
+      
+      <DialogLine type="Character">I have known [NAME] for [years|my entire lifetime|my entire youth] now, but I never thought [subject] would (seriously /straightforward /ruthlessly )betray me. Now I'm convinced otherwise. I do not have the [power|strength|abilities|courage|wits|guts] to stand up against [object], but I sense that you [do|can|might|could]!</DialogLine>
+      
+      
+      <DialogLine type="Object">There happens to be a [NAME] not far from here. It just suddenly appeared out of nowhere one day. They say it is nothing in particular, but I think it is cursed! They say that I turned crazy, but I'm sure the [NAME] has possessed their minds! Help me, oh stranger, to get rid of it!</DialogLine>
+      
+    
+    </Motivation>
+    
+    
+    <Motivation type="Knows">
+      
+      
+      <DialogLine type="Character">Could you deliver this [package|box|basket|bundle] to [NAME] for me? It is filled with [blueberry tarts|cinnamon buns|apple pies|strawberry horns], fresh from the oven(, [subject] loves them)!( You can grab one as well if you like.)</DialogLine>
+      
+      
+      <DialogLine type="Character">Have you met a fellow named [NAME] on your travels? [subject] is [my only child|the only relative I have left|a good friend since childhood to me|a saviour of my maiden daughter's life]! If only I could say [object] my good wishes for [possessive] (mother's /father's /daughter's /son's /eir's )[birthday|name day]! If you happen to [pass by|meet|come across|see] [object], could you [do it for me|tell [object] my regards]?</DialogLine>
+      
+      
+      <DialogLine type="Character">Have you spoken with [NAME] already? [subject] is such a lovely person!</DialogLine>
+      
+      
+      <DialogLine type="Character">Have you met [NAME]? [subject] is a person like you've never met before, so full of energy, so spiritful!( Why don't you seek [object] up?)</DialogLine>
+      
+      
+      <DialogLine type="Object">I have always hated [NAME] standing close to here! This ugly thing is disturbing the beautiful view of the scenery! If you happen to pass by, give it a kick from me!</DialogLine>
+      
+      
+      <DialogLine type="Object">They say that [NAME] is a magical artifact. They say that, when you touch it, you fall into a deep slumber and dream of things that will happen in the future, so they say. I am afraid to try it out for myself, but you look like you love to take risks for coin!</DialogLine>
+      
+      
+      <DialogLine type="Object">People say they've seen [indefinite] [NAMEINDEF] not far from here. I have heard much about it, and I would love to go and [check [object] out|take a look at [object] myself], but unfortunately I [am bound here|have so much to do|have to care for my family|am not allowed to leave|'m held here]. Could you [help me out|take a look for me|take a glance at [object] for me|go there and inspect [object] for me]?</DialogLine>
+      
+    
+    </Motivation>
+    
+    
+    <Motivation type="Interacted">
+      
+      
+      <DialogLine type="Character">Could you deliver this [package|box|basket|bundle] to [NAME] for me? It is filled with [blueberry tarts|cinnamon buns|apple pies|strawberry horns], fresh from the oven(, [subject] loves them)!( You can grab one as well if you like.)</DialogLine>
+      
+      
+      <DialogLine type="Character">Have you met [NAME]? [subject] is a person like you've never met before, so full of energy, so spiritful! Why don't you seek [object] up?</DialogLine>
+      
+      
+      <DialogLine type="Character">Have you met a fellow named [NAME] on your travels? [subject] is [my only child|the only relative I have left|a good friend since childhood to me|a saviour of my maiden daughter's life]! If only I could say [object] my good wishes for [possessive] (mother's /father's /daughter's /son's /eir's )[birthday|name day]! If you happen to [pass by|meet|come across|see] [object], could you [do it for me|tell [object] my regards]?</DialogLine>
+      
+      
+      <DialogLine type="Character">Have you spoken with [NAME] already? [subject] is such a lovely person!( Why don't you seek [object] up?)</DialogLine>
+      
+      
+      <DialogLine type="Object">People say they've seen [indefinite] [NAMEINDEF] not far from here. I have heard much about it, and I would love to go and [check [object] out|take a look at [object] myself], but unfortunately I [am bound here|have so much to do|have to care for my family|am not allowed to leave|'m held here]. Could you [help me out|take a look for me|take a glance at [object] for me|go there and inspect [object] for me]?</DialogLine>
+      
+      
+      <DialogLine type="Object">I have always hated [NAME] standing close to here! This ugly thing is disturbing the beautiful view of the scenery! If you happen to pass by, give it a kick from me!</DialogLine>
+      
+      
+      <DialogLine type="Object">They say that [NAME] is a magical artifact. They say that, when you touch it, you fall into a deep slumber and dream of things that will happen in the future, so they say. I am afraid to try it out for myself, but you look like you love to take risks for coin!</DialogLine>
+      
+    
+    </Motivation>
+    
+    
+    <Motivation type="IsInCombat">
+      
+      
+      <DialogLine type="Object">There happens to be a [NAME] not far from here. It just suddenly appeared out of nowhere one day. They say it is nothing in particular, but I think it is cursed! They say that I turned crazy, but I'm sure the [NAME] has possessed their minds! Help me, oh stranger, to get rid of it!</DialogLine>
+      
+      
+      <DialogLine type="Character">[NAME] has been [annoying|prosecuting|fighting with|attacking|speaking bad about] me too much lately. Could you [take care of|see to|get rid of|stand up against] [object]?( Maybe [subject] will stop harressing me then./ Maybe [subject] will come to his senses./ Maybe this will stop then.)</DialogLine>
+      
+      
+      <DialogLine type="Character">I have known [NAME] for [years|my entire lifetime|my entire youth] now, but I never thought [subject] would (seriously /straightforward /ruthlessly )betray me. Now I'm convinced otherwise. I do not have the [power|strength|abilities|courage|wits|guts] to stand up against [object], but I sense that you [do|can|might|could]!</DialogLine>
+      
+    
+    </Motivation>
+    
+  
+  </Motivations>
+  
+
+</Root>

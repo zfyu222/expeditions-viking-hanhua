@@ -1,0 +1,26 @@
+# 游戏安装目录及其资源导出/备份均为本地文件，不进入公开工程仓库。
+/Game/
+/output/
+/backup/
+/uabe_dumps/
+/AssetExport/
+/AAA/
+/AiNieeOutput/
+/AiNieePolishOutput/
+/bilingual_auto/
+
+# 发布包仅上传至 GitHub Releases。
+/Dispatch/
+/*.zip
+
+# 本地缓存、日志和编辑器文件。
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.bak
+*.bak0000
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

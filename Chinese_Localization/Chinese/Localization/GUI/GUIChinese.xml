@@ -1,0 +1,6499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  
+  
+  
+  <MainMenuTitle>远征：维京</MainMenuTitle>
+  
+  
+  <MainMenu>主菜单</MainMenu>
+  
+  
+  <PauseMenu>暂停菜单</PauseMenu>
+  
+  
+  <NewGame>新游戏</NewGame>
+  
+  
+  <ContinueGame>继续</ContinueGame>
+  
+  
+  <SaveGame>保存游戏</SaveGame>
+  
+  
+  <LoadGame>加载游戏</LoadGame>
+  
+  
+  <Codex>典籍</Codex>
+  
+  
+  <Credits>制作人员</Credits>
+  
+  
+  <QuitGame>退出游戏</QuitGame>
+  
+  
+  <ReallyQuitGame>真要退出游戏吗？</ReallyQuitGame>
+  
+  
+  <Options>选项</Options>
+  
+  
+  <LoadingTitle>载入中</LoadingTitle>
+  
+  
+  <Back>返回</Back>
+  
+
+  
+  
+  <ChangelogHeadline>更新日志</ChangelogHeadline>
+  
+
+  
+  
+  <SaveLoadButtonLoad>加载</SaveLoadButtonLoad>
+  
+  
+  <SaveLoadButtonSave>保存</SaveLoadButtonSave>
+  
+  
+  <SaveLoadButtonCreateNew>新建</SaveLoadButtonCreateNew>
+  
+  
+  <SaveLoadButtonOverwrite>覆盖</SaveLoadButtonOverwrite>
+  
+  
+  <SaveLoadPromptOverwriteTitle>确认覆盖</SaveLoadPromptOverwriteTitle>
+  
+  
+  <SaveLoadPromptOverwriteDescription>确认覆盖存档 [color=&quot;orange&quot;][name][/color] 吗？</SaveLoadPromptOverwriteDescription>
+  
+  
+  <SaveLoadPromptLoadUnsavedTitle>确认加载</SaveLoadPromptLoadUnsavedTitle>
+  
+  
+  <SaveLoadPromptLoadUnsavedDescription>确定要加载游戏吗？所有未保存的进度都将丢失。</SaveLoadPromptLoadUnsavedDescription>
+  
+  
+  <SaveLoadPromptDeleteTitle>确认删除</SaveLoadPromptDeleteTitle>
+  
+  
+  <SaveLoadPromptDeleteDescription>确定要删除此存档吗？</SaveLoadPromptDeleteDescription>
+  
+  
+  <SaveLoadPrefixAutosave>自动保存 [x]：</SaveLoadPrefixAutosave>
+  
+  
+  <SaveLoadPrefixQuicksave>快速保存：</SaveLoadPrefixQuicksave>
+  
+  
+  <SaveLoadSaveGameGrammar>[prefix][questname] ([firstname])</SaveLoadSaveGameGrammar>
+  
+  
+  <SaveLoadNoActiveQuest>没有活跃的任务</SaveLoadNoActiveQuest>
+  
+  
+  <SaveLoadPlayerMessageGameSaving>保存游戏中...</SaveLoadPlayerMessageGameSaving>
+  
+  
+  <SaveLoadPlayerMessageGameSaved>[color=&quot;green&quot;]游戏保存成功。[/color]</SaveLoadPlayerMessageGameSaved>
+  
+  
+  <SaveLoadPlayerMessageGameLoadFail>[color=&quot;red&quot;]游戏加载失败：[/color] [error]</SaveLoadPlayerMessageGameLoadFail>
+  
+  
+  <SaveLoadCreateNewOrOverwrite>创建一个新存档，或从下方选择一个</SaveLoadCreateNewOrOverwrite>
+  
+
+  
+  
+  <OptionsTitleControls>控制</OptionsTitleControls>
+  
+  
+  <OptionsTitleMisc>杂项</OptionsTitleMisc>
+  
+  
+  <OptionsTitleDifficulty>难度</OptionsTitleDifficulty>
+  
+  
+  <OptionsTitleVideo>视频</OptionsTitleVideo>
+  
+  
+  <OptionsTitleAudio>音频</OptionsTitleAudio>
+  
+  
+  <OptionsControlsCRPGStyle>CRPG 风格</OptionsControlsCRPGStyle>
+  
+  
+  <OptionsControlsRTSStyle>RTS 风格</OptionsControlsRTSStyle>
+  
+  
+  <OptionsControlsSelectInteract>选择与\n互动</OptionsControlsSelectInteract>
+  
+  
+  <OptionsControlsSelectPan>选择\n与平移</OptionsControlsSelectPan>
+  
+  
+  <OptionsControlsInteract>互动</OptionsControlsInteract>
+  
+  
+  <OptionsControlsRotate>旋转</OptionsControlsRotate>
+  
+  
+  <OptionsControlsPan>平移</OptionsControlsPan>
+  
+  
+  <OptionsControlsAction>动作</OptionsControlsAction>
+  
+  
+  <OptionsControlsInput1>输入 1</OptionsControlsInput1>
+  
+  
+  <OptionsControlsInput2>输入 2</OptionsControlsInput2>
+  
+  
+  <OptionsControlsKeyBindings>键位绑定</OptionsControlsKeyBindings>
+  
+  
+  <OptionsMiscGameLanguageEnglish>英语</OptionsMiscGameLanguageEnglish>
+  
+  
+  <OptionsMiscGameLanguageEnglishNorse>英语（北欧名字）</OptionsMiscGameLanguageEnglishNorse>
+  
+  
+  <OptionsMiscGameLanguageSpanish>西班牙语</OptionsMiscGameLanguageSpanish>
+  
+  
+  <OptionsMiscGameLanguageItalian>意大利语</OptionsMiscGameLanguageItalian>
+  
+  
+  <OptionsMiscGameLanguageGerman>德语</OptionsMiscGameLanguageGerman>
+  
+  
+  <OptionsMiscGameLanguageFrench>法语</OptionsMiscGameLanguageFrench>
+  
+  
+  <OptionsMiscGameLanguageRussian>俄语</OptionsMiscGameLanguageRussian>
+  
+  
+  <OptionsMiscGameLanguagePolish>波兰语</OptionsMiscGameLanguagePolish>
+  
+  
+  <OptionsMiscGameLanguageCzech>捷克语</OptionsMiscGameLanguageCzech>
+  
+  
+  <OptionsMiscGameLanguageDanish>丹麦语</OptionsMiscGameLanguageDanish>
+  
+  
+  <OptionsMiscGoalMarkersNone>隐藏标记</OptionsMiscGoalMarkersNone>
+  
+  
+  <OptionsMiscGoalMarkersShowAll>始终显示标记</OptionsMiscGoalMarkersShowAll>
+  
+  
+  <OptionsMiscGoalMarkersNotInScene>仅区域转换</OptionsMiscGoalMarkersNotInScene>
+  
+  
+  <OptionsControlsClearKeyBindings>全部清除</OptionsControlsClearKeyBindings>
+  
+  
+  <OptionsMiscDisplayTutorials>显示教程</OptionsMiscDisplayTutorials>
+  
+  
+  <OptionsMiscDisplayTutorialsTooltip>关闭教程。除非你已经玩过本游戏，否则建议保持开启。</OptionsMiscDisplayTutorialsTooltip>
+  
+  
+  <OptionsMiscGoalMarkers>显示目标标记</OptionsMiscGoalMarkers>
+  
+  
+  <OptionsMiscGoalMarkersTooltip>目标标记会指引你前往当前激活的任务目标。如果想获得更无拘束的探索体验，可以尝试将其关闭。折中方案是选择“仅区域转换”，这样只会显示指向门或战役地图转换点的标记。</OptionsMiscGoalMarkersTooltip>
+  
+  
+  <OptionsMiscHexes>显示六边形网格</OptionsMiscHexes>
+  
+  
+  <OptionsMiscHexesTooltip>切换辅助六边形的开启或关闭。移动范围不会受到影响。</OptionsMiscHexesTooltip>
+  
+  
+  <OptionsMiscLanguage>语言</OptionsMiscLanguage>
+  
+  
+  <OptionsMiscEdgePanning>边缘滚动</OptionsMiscEdgePanning>
+  
+  
+  <OptionsMiscEdgePanningTooltip>决定是否可以通过将鼠标移动到屏幕边缘来平移镜头。</OptionsMiscEdgePanningTooltip>
+  
+  
+  <OptionsMiscCombatSpeed>战斗速度</OptionsMiscCombatSpeed>
+  
+  
+  <OptionsMiscCombatSpeedTooltip>改变战斗中的动画播放速度。</OptionsMiscCombatSpeedTooltip>
+  
+  
+  <OptionsMiscCombatCameraAll>全部</OptionsMiscCombatCameraAll>
+  
+  
+  <OptionsMiscCombatCameraEnemyOnly>仅敌方回合</OptionsMiscCombatCameraEnemyOnly>
+  
+  
+  <OptionsMiscCombatCameraMinimal>最少</OptionsMiscCombatCameraMinimal>
+  
+  
+  <OptionsMiscCombatCamera>战斗镜头自主性</OptionsMiscCombatCamera>
+  
+  
+  <OptionsMiscCombatCameraTooltip>决定战斗过程中镜头自动移动的程度。如果设为“最少”，镜头将极少自行移动。</OptionsMiscCombatCameraTooltip>
+  
+  
+  <OptionsMiscCameraTiltAngle>自由倾斜镜头</OptionsMiscCameraTiltAngle>
+  
+  
+  <OptionsMiscCameraTiltAngleTooltip>启用后，可以用鼠标控制镜头倾斜。如果禁用，可以在下方指定倾斜角度。</OptionsMiscCameraTiltAngleTooltip>
+  
+  
+  <OptionsMiscCameraTiltAngleValue>固定倾斜角度</OptionsMiscCameraTiltAngleValue>
+  
+  
+  <OptionsMiscCameraTiltAngleValueTooltip>如果“自由倾斜镜头”被禁用，这个滑块可以定义一个固定的倾斜角度。</OptionsMiscCameraTiltAngleValueTooltip>
+  
+  
+  <OptionsMiscTextSize>文字大小</OptionsMiscTextSize>
+  
+  
+  <OptionsMiscTextSizeTooltip>改变对话中的文字大小。</OptionsMiscTextSizeTooltip>
+  
+  
+  <OptionsMiscGore>血腥与断肢</OptionsMiscGore>
+  
+  
+  <OptionsMiscGoreTooltip>切换角色被击中时的血液飞溅效果，以及角色死亡时的断肢效果。</OptionsMiscGoreTooltip>
+  
+  
+  <OptionsMiscHelmets>显示头盔</OptionsMiscHelmets>
+  
+  
+  <OptionsMiscHelmetsTooltip>切换装备头盔时是否可见。即使被隐藏，头盔的效果依然保留。</OptionsMiscHelmetsTooltip>
+  
+  
+  <OptionsDifficultyPreset>预设</OptionsDifficultyPreset>
+  
+  
+  <OptionsDifficultyPresetChange>更改</OptionsDifficultyPresetChange>
+  
+  
+  <OptionsDifficultyPresetEasy>莱夫·埃里克松（简单）</OptionsDifficultyPresetEasy>
+  
+  
+  <OptionsDifficultyPresetMedium>伊瓦尔·无骨者（中等）</OptionsDifficultyPresetMedium>
+  
+  
+  <OptionsDifficultyPresetHard>拉格纳·洛德布罗克（困难）</OptionsDifficultyPresetHard>
+  
+  
+  <OptionsDifficultyPresetInsane>埃里克·血斧（疯狂）</OptionsDifficultyPresetInsane>
+  
+  
+  <OptionsDifficultyPresetEasyDescription>“幸运者”莱夫是发现了北美大陆的冰岛探险家。尽管后人的定居尝试并不顺利，但莱夫本人的远航却极为成功且和平。选择这个设定，好运也将眷顾你的远征。</OptionsDifficultyPresetEasyDescription>
+  
+  
+  <OptionsDifficultyPresetMediumDescription>“无骨者”伊瓦尔是9世纪末入侵不列颠的异教徒大军领袖之一。选择这个设定，你将面临严峻的挑战，但最终很可能赢得胜利。</OptionsDifficultyPresetMediumDescription>
+  
+  
+  <OptionsDifficultyPresetHardDescription>“毛皮裤子”拉格纳是一位传奇维京人，曾劫掠并勒索法兰西和英格兰。他攫取了权力和财富，却最终死于敌手，血溅沙场。你将遭遇顽强的抵抗，但胜利也将因此更加甘甜。</OptionsDifficultyPresetHardDescription>
+  
+  
+  <OptionsDifficultyPresetInsaneDescription>“血斧”埃里克是挪威的掠夺者，曾于10世纪短暂统治诺森布里亚，后遭背叛而丧命。你得不到丝毫怜悯。敌人将冷酷无情，试炼多如牛毛。惨败是最可能的结果。</OptionsDifficultyPresetInsaneDescription>
+  
+  
+  <OptionsDifficultyCustom>自定义难度设置</OptionsDifficultyCustom>
+  
+  
+  <OptionsDifficultyKarma>业力阈值</OptionsDifficultyKarma>
+  
+  
+  <OptionsDifficultyKarmaTooltip>业力影响随机事件的触发。设置较低，可以防止你在运气不佳时再遇坏事。设置较高时，一切就都说不准了。</OptionsDifficultyKarmaTooltip>
+  
+  
+  
+  <OptionsDifficultyWorldResources>世界资源</OptionsDifficultyWorldResources>
+  
+  
+  <OptionsDifficultyWorldResourcesTooltip>完全控制你在箱子、桶、袋等地方找到的资源数量。不会改变装备等级或物品掉落。</OptionsDifficultyWorldResourcesTooltip>
+  
+  
+  <OptionsDifficultyInjuryProbabilities>受伤概率</OptionsDifficultyInjuryProbabilities>
+  
+  
+  <OptionsDifficultyInjuryProbabilitiesTooltip>控制角色在失去行动能力时受伤的可能性。</OptionsDifficultyInjuryProbabilitiesTooltip>
+  
+  
+  
+  <OptionsDifficultyHirdsmenDamage>友方伤害</OptionsDifficultyHirdsmenDamage>
+  
+  
+  <OptionsDifficultyHirdsmenDamageTooltip>调整你的角色造成的伤害量。</OptionsDifficultyHirdsmenDamageTooltip>
+  
+  
+  <OptionsDifficultyEnemyDamage>敌方伤害</OptionsDifficultyEnemyDamage>
+  
+  
+  <OptionsDifficultyEnemyDamageTooltip>调整敌人造成的伤害量。</OptionsDifficultyEnemyDamageTooltip>
+  
+  
+  <OptionsDifficultyItemDegradation>物品损耗几率</OptionsDifficultyItemDegradation>
+  
+  
+  <OptionsDifficultyItemDegradationTooltip>控制敌人造成暴击时，你的物品损失回收物的几率。</OptionsDifficultyItemDegradationTooltip>
+  
+  
+  <OptionsDifficultyEnemyIntelligence>敌方智能</OptionsDifficultyEnemyIntelligence>
+  
+  
+  <OptionsDifficultyEnemyIntelligenceTooltip>控制敌人犯错的概率，以及他们采用最优策略的倾向。</OptionsDifficultyEnemyIntelligenceTooltip>
+  
+  
+  <OptionsDifficultyEnemyEquipment>敌方装备</OptionsDifficultyEnemyEquipment>
+  
+  
+  <OptionsDifficultyEnemyEquipmentTooltip>决定敌人的装备会有多好。设置较高时，会将某几类装备提升1个等级。</OptionsDifficultyEnemyEquipmentTooltip>
+  
+  
+  <OptionsDifficultyMoreEnemies>更多敌人</OptionsDifficultyMoreEnemies>
+  
+  
+  <OptionsDifficultyMoreEnemiesTooltip>在游戏全程中增加更多敌人。增加的数量取决于具体情况，并非所有遭遇战都会发生变化。这将显著提高难度。</OptionsDifficultyMoreEnemiesTooltip>
+  
+  
+  <OptionsDifficultyCombatDeath>战斗中阵亡</OptionsDifficultyCombatDeath>
+  
+  
+  <OptionsDifficultyCombatDeathTooltip>控制角色在战斗中失去行动能力太多回合后，是否会直接死亡。</OptionsDifficultyCombatDeathTooltip>
+  
+  
+  <OptionsDifficultyIronMan>铁人模式</OptionsDifficultyIronMan>
+  
+  
+  <OptionsDifficultyIronManTooltip>只允许保留一个存档。启用此模式，风险自负！</OptionsDifficultyIronManTooltip>
+  
+  
+  <OptionsVideoPreset>预设</OptionsVideoPreset>
+  
+  
+  <OptionsVideoPresetVeryLow>非常低</OptionsVideoPresetVeryLow>
+  
+  
+  <OptionsVideoPresetLow>低</OptionsVideoPresetLow>
+  
+  
+  <OptionsVideoPresetMedium>中</OptionsVideoPresetMedium>
+  
+  
+  <OptionsVideoPresetHigh>高</OptionsVideoPresetHigh>
+  
+  
+  <OptionsVideoPresetVeryHigh>非常高</OptionsVideoPresetVeryHigh>
+  
+  
+  <OptionsVideoResolution>分辨率</OptionsVideoResolution>
+  
+  
+  <OptionsVideoFullscreen>全屏</OptionsVideoFullscreen>
+  
+  
+  <OptionsVideoVSync>垂直同步</OptionsVideoVSync>
+  
+  
+  <OptionsVideoUIScaling>UI缩放</OptionsVideoUIScaling>
+  
+  
+  <OptionsVideoUIScalingTooltip>如果你在小显示器上使用高分辨率，可以增大UI尺寸。更改后，部分图标可能会略显像素化。</OptionsVideoUIScalingTooltip>
+  
+  
+  <OptionsVideoCustom>自定义视频设置</OptionsVideoCustom>
+  
+  
+  <OptionsVideoFramerateLimit>帧率限制</OptionsVideoFramerateLimit>
+  
+  
+  <OptionsVideoFramerateLimitTooltip>如果显卡温度变得异常高，可以降低这个限制。仅在垂直同步关闭时生效。</OptionsVideoFramerateLimitTooltip>
+  
+  
+  <OptionsVideoTextureQuality>纹理质量</OptionsVideoTextureQuality>
+  
+  
+  <OptionsVideoTextureQualityTooltip>降低纹理分辨率。</OptionsVideoTextureQualityTooltip>
+  
+  
+  <OptionsVideoCharacterDetail>角色细节</OptionsVideoCharacterDetail>
+  
+  
+  <OptionsVideoCharacterDetailTooltip>在低面数和高面数角色模型之间切换。将在下次跨关卡转换时生效。</OptionsVideoCharacterDetailTooltip>
+  
+  
+  <OptionsVideoShadowQuality>阴影质量</OptionsVideoShadowQuality>
+  
+  
+  <OptionsVideoShadowQualityTooltip>决定阴影的分辨率和显示距离。</OptionsVideoShadowQualityTooltip>
+  
+  
+  <OptionsVideoAA>抗锯齿</OptionsVideoAA>
+  
+  
+  <OptionsVideoAATooltip>决定游戏平滑边缘所用的方法。SMAA 对多数玩家来说效果应该不错。SSAA 画质更好，但对性能要求很高。</OptionsVideoAATooltip>
+  
+  
+  <OptionsVideoFoliage>植被</OptionsVideoFoliage>
+  
+  
+  <OptionsVideoFoliageTooltip>设置场景中草和植物的数量。不影响树木。</OptionsVideoFoliageTooltip>
+  
+  
+  <OptionsVideoSSAO>环境光遮蔽</OptionsVideoSSAO>
+  
+  
+  <OptionsVideoSSAOTooltip>开启屏幕空间环境光遮蔽，让物体交界的角落更暗沉。能增强视觉对比度，但对性能开销较大。</OptionsVideoSSAOTooltip>
+  
+  
+  <OptionsVideoTerrainQuality>地形质量</OptionsVideoTerrainQuality>
+  
+  
+  <OptionsVideoTerrainQualityTooltip>高：地形会呈现视差效果。低：地形看上去更为平坦。</OptionsVideoTerrainQualityTooltip>
+  
+  
+  <OptionsVideoPixelLightCount>像素光源数量</OptionsVideoPixelLightCount>
+  
+  
+  <OptionsVideoPixelLightCountTooltip>决定影响粒子效果与水体的光照质量。</OptionsVideoPixelLightCountTooltip>
+  
+  
+  <OptionsVideoAnisotropicTextures>各向异性纹理</OptionsVideoAnisotropicTextures>
+  
+  
+  <OptionsVideoAnisotropicTexturesTooltip>控制各向异性过滤，露营时感受尤为明显。</OptionsVideoAnisotropicTexturesTooltip>
+  
+  
+  <OptionsVideoAnimationQuality>动画质量</OptionsVideoAnimationQuality>
+  
+  
+  <OptionsVideoAnimationQualityTooltip>影响角色动画之间混合的顺滑程度。</OptionsVideoAnimationQualityTooltip>
+  
+  
+  <OptionsVideoWorldDetail>世界细节</OptionsVideoWorldDetail>
+  
+  
+  <OptionsVideoWorldDetailTooltip>调整部分物件的细节程度。在较低设置下，某些物体会完全消失。</OptionsVideoWorldDetailTooltip>
+  
+  
+  <OptionsVideoDisplacement>位移</OptionsVideoDisplacement>
+  
+  
+  <OptionsVideoDisplacementTooltip>为水面、旗帜装饰和特定布料表面启用着色器动画。此功能仅兼容 DirectX 11 的显卡。若你看到表面缺失或出现粉色物体，请尝试禁用此选项。</OptionsVideoDisplacementTooltip>
+  
+  
+  <OptionsVideoReflectionProbes>反射探头</OptionsVideoReflectionProbes>
+  
+  
+  <OptionsVideoReflectionProbesTooltip>[color=&quot;red&quot;]将在切换关卡时生效。[/color]\n在材质中启用场景反射。部分显卡（尤其是集成显卡或老旧显卡）不支持该功能。若在游戏内时间变化时（例如露营期间的时间流逝）或载入过程中发生崩溃，请尝试禁用此选项。</OptionsVideoReflectionProbesTooltip>
+  
+  
+  <OptionsVideoBloom>泛光</OptionsVideoBloom>
+  
+  
+  <OptionsVideoBloomTooltip>切换明亮区域周围的泛光效果。</OptionsVideoBloomTooltip>
+  
+  
+  <OptionsVideoHDR>HDR</OptionsVideoHDR>
+  
+  
+  <OptionsVideoHDRTooltip>切换整体画面的高动态范围。在低配置机器上影响会很明显，并使某些区域更亮或更暗。</OptionsVideoHDRTooltip>
+  
+  
+  <OptionsVideoDepthOfField>景深</OptionsVideoDepthOfField>
+  
+  
+  <OptionsVideoDepthOfFieldTooltip>切换露营时及某些高低落差较大场景中的模糊效果。</OptionsVideoDepthOfFieldTooltip>
+  
+  
+  <OptionsAudioMasterVolume>主音量</OptionsAudioMasterVolume>
+  
+  
+  <OptionsAudioSFXVolume>特效音量</OptionsAudioSFXVolume>
+  
+  
+  <OptionsAudioMusicVolume>音乐音量</OptionsAudioMusicVolume>
+  
+  
+  <OptionsVideoResolutionDropdown>[x] x [y] @ [r]Hz</OptionsVideoResolutionDropdown>
+  
+  
+  <OptionsVideoResolutionNA>不适用</OptionsVideoResolutionNA>
+  
+  
+  
+  <OptionsX>[x]x</OptionsX>
+  
+  
+  <OptionsPct>[x]%</OptionsPct>
+  
+
+  
+  
+  <OptionsHighLimits>因果报应偏袒玩家</OptionsHighLimits>
+  
+  
+  <OptionsMediumLimits>正面/负面事件同等受限</OptionsMediumLimits>
+  
+  
+  <OptionsLowLimits>负面事件限制更少</OptionsLowLimits>
+  
+  
+  <OptionsNoLimits>负面事件无限制</OptionsNoLimits>
+  
+
+  
+  <OptionsInjuryProbabilityPos>+[x]% 几率</OptionsInjuryProbabilityPos>
+  
+  
+  <OptionsInjuryProbability0>默认</OptionsInjuryProbability0>
+  
+  
+  <OptionsInjuryProbabilityNeg>[x]% 几率</OptionsInjuryProbabilityNeg>
+  
+  
+  
+  
+  
+  <OptionsEnemyIntelligenceLow>错误频发</OptionsEnemyIntelligenceLow>
+  
+  
+  <OptionsEnemyIntelligenceMedium>错误偶有发生</OptionsEnemyIntelligenceMedium>
+  
+  
+  <OptionsEnemyIntelligenceHard>错误稀少</OptionsEnemyIntelligenceHard>
+  
+  
+  
+  <OptionsEnemyEquipmentEasy>基础装备</OptionsEnemyEquipmentEasy>
+  
+  
+  <OptionsEnemyEquipmentMedium>更好的护甲和盾牌</OptionsEnemyEquipmentMedium>
+  
+  
+  <OptionsEnemyEquipmentHard>更好的护甲、盾牌和武器</OptionsEnemyEquipmentHard>
+  
+
+  
+  <QualityResolutionTooltip>设定游戏运行的分辨率。</QualityResolutionTooltip>
+  
+
+  
+  
+  <OptionsSMAA>普通 (SMAA)</OptionsSMAA>
+  
+  
+  <OptionsSSAA>非常高 (SSAA)</OptionsSSAA>
+  
+
+  
+  
+  <OptionsForceEnable>强制应用于所有纹理</OptionsForceEnable>
+  
+
+  
+  
+  <OptionsFullResolution>全分辨率</OptionsFullResolution>
+  
+  
+  <OptionsHalfResolution>半分辨率</OptionsHalfResolution>
+  
+
+  
+  
+  <OptionsPLC0>无</OptionsPLC0>
+  
+  
+  <OptionsPLC1>一</OptionsPLC1>
+  
+  
+  <OptionsPLC2>二</OptionsPLC2>
+  
+  
+  <OptionsPLC4>四</OptionsPLC4>
+  
+  
+  
+  <OptionsCustom>自定义</OptionsCustom>
+  
+
+  
+  
+  <OptionsFramerateUnlimited>无限制</OptionsFramerateUnlimited>
+  
+
+  
+  
+  <OptionsUIScaling>[x]x</OptionsUIScaling>
+  
+
+
+  
+
+  
+  <OptionsEnable>启用</OptionsEnable>
+  
+  
+  <OptionsDisable>禁用</OptionsDisable>
+  
+  
+  <OptionsDisabled>禁用</OptionsDisabled>
+  
+  
+  <OptionsHigh>高</OptionsHigh>
+  
+  
+  <OptionsVeryLow>极低</OptionsVeryLow>
+  
+  
+  <OptionsLow>低</OptionsLow>
+  
+  
+  <OptionsMedium>中</OptionsMedium>
+  
+
+  
+
+  
+  <QualityFast>快速</QualityFast>
+  
+  
+  <QualityFastest>极速</QualityFastest>
+  
+  
+  <QualitySimple>简易</QualitySimple>
+  
+  
+  <QualityGood>良好</QualityGood>
+  
+  
+  <QualityBeautiful>精美</QualityBeautiful>
+  
+  
+  <QualityFantastic>极佳</QualityFantastic>
+  
+
+  
+  
+  <GeneralBack>返回</GeneralBack>
+  
+  
+  <GeneralNext>下一步</GeneralNext>
+  
+  
+  <GeneralContinue>继续</GeneralContinue>
+  
+  
+  <GeneralClose>关闭</GeneralClose>
+  
+  
+  <GeneralDone>完成</GeneralDone>
+  
+  
+  <GameOver>游戏结束</GameOver>
+  
+  
+  <GameOverFluff>你已山穷水尽</GameOverFluff>
+  
+  
+  <GeneralTimeskip>[x] 小时后</GeneralTimeskip>
+  
+  
+  <GeneralTimeSkipSingular>[x] 小时后</GeneralTimeSkipSingular>
+  
+  
+  <GeneralLoadLastTitle>你想去哪里？</GeneralLoadLastTitle>
+  
+  
+  <GeneralLoadLastDesription>你想回到上一个营地，还是前往战役地图？</GeneralLoadLastDesription>
+  
+  
+  <GeneralLoadLastCamp>前往营地</GeneralLoadLastCamp>
+  
+  
+  <GeneralLoadLastCampaignMap>前往战役地图</GeneralLoadLastCampaignMap>
+  
+  
+  <ItemSingular>物品</ItemSingular>
+  
+  
+  <Items>物品</Items>
+  
+
+
+  
+  
+  <Character>技能</Character>
+  
+  
+  <Equipment>装备</Equipment>
+  
+  
+  <Objectives>目标</Objectives>
+  
+  
+  <MenuInventory>物品栏</MenuInventory>
+  
+  
+  <MenuCharacter>角色</MenuCharacter>
+  
+  
+  <MenuObjectives>任务</MenuObjectives>
+  
+  
+  <MenuSaga>萨加</MenuSaga>
+  
+  
+  <MenuCodex>典籍</MenuCodex>
+  
+  
+  <MenuHomestead>家园</MenuHomestead>
+  
+
+  
+  
+  <CodexStatusEffectsHeadline>状态效果</CodexStatusEffectsHeadline>
+  
+  
+  <CodexFactionsHeadline>派系</CodexFactionsHeadline>
+  
+  
+  <CodexTimelineHeadline>时间线</CodexTimelineHeadline>
+  
+
+  
+  
+  <DialogueStatCheck>{[color=&quot;orange&quot;][x][/color]：[y]}</DialogueStatCheck>
+  
+  
+  <DialogueSkillCheck>{[skill] [value]}</DialogueSkillCheck>
+  
+
+  
+  <DialogueStatCheckSuccess>[color=&quot;#00CC33&quot;]{[x]：成功}[/color]</DialogueStatCheckSuccess>
+  
+  
+  <DialogueStatCheckFailure>[color=&quot;red&quot;]{[x]：失败}[/color]</DialogueStatCheckFailure>
+  
+
+  
+  <DialogueDifficultyEasy>简单</DialogueDifficultyEasy>
+  
+  
+  <DialogueDifficultyMedium>普通</DialogueDifficultyMedium>
+  
+  
+  <DialogueDifficultyHard>困难</DialogueDifficultyHard>
+  
+
+  
+  <DialogueTokenNationalityViking>丹人</DialogueTokenNationalityViking>
+  
+  
+  <DialogueTokenNationalityNorwegian>挪威人</DialogueTokenNationalityNorwegian>
+  
+  
+  <DialogueTokenNationalityMercian>麦西亚人</DialogueTokenNationalityMercian>
+  
+  
+  <DialogueTokenNationalityScot>斯科特人</DialogueTokenNationalityScot>
+  
+  
+  <DialogueTokenNationalityPict>皮克特人</DialogueTokenNationalityPict>
+  
+
+  
+  <DialogueTokenEyeBlue>蓝色</DialogueTokenEyeBlue>
+  
+  
+  <DialogueTokenEyeGrey>灰色</DialogueTokenEyeGrey>
+  
+  
+  <DialogueTokenEyeGreen>绿色</DialogueTokenEyeGreen>
+  
+  
+  <DialogueTokenEyeBrown>棕色</DialogueTokenEyeBrown>
+  
+
+  
+  <DialogueTokenHairBlack>黑色</DialogueTokenHairBlack>
+  
+  
+  <DialogueTokenHairBlonde>金色</DialogueTokenHairBlonde>
+  
+  
+  <DialogueTokenHairBrown>棕色</DialogueTokenHairBrown>
+  
+  
+  <DialogueTokenHairGinger>姜黄色</DialogueTokenHairGinger>
+  
+  
+  <DialogueTokenHairGrey>灰色</DialogueTokenHairGrey>
+  
+  
+  <DialogueTokenHairRed>红色</DialogueTokenHairRed>
+  
+  
+  <DialogueTokenHairWhite>白色</DialogueTokenHairWhite>
+  
+
+  
+  <DialogueTokenArchetypeBrawler>斗士</DialogueTokenArchetypeBrawler>
+  
+  
+  <DialogueTokenArchetypeBerserker>狂战士</DialogueTokenArchetypeBerserker>
+  
+  
+  <DialogueTokenArchetypeBannerman>防御者</DialogueTokenArchetypeBannerman>
+  
+  
+  <DialogueTokenArchetypeSkald>吟游诗人</DialogueTokenArchetypeSkald>
+  
+  
+  <DialogueTokenArchetypeChieftain>领袖</DialogueTokenArchetypeChieftain>
+  
+  
+  <DialogueTokenArchetypeNidding>游荡者</DialogueTokenArchetypeNidding>
+  
+  
+  <DialogueTokenArchetypeRanger>[Hunter/Huntress]</DialogueTokenArchetypeRanger>
+  
+  
+  <DialogueTokenArchetypeHealer>治疗师</DialogueTokenArchetypeHealer>
+  
+  
+  <DialogueTokenArchetypeFighter>战士</DialogueTokenArchetypeFighter>
+  
+  
+  <DialogueTokenArchetypeScout>侦察兵</DialogueTokenArchetypeScout>
+  
+  
+  <DialogueTokenArchetypeDefender>弓箭手</DialogueTokenArchetypeDefender>
+  
+  
+  <DialogueTokenArchetypeCivilian>平民</DialogueTokenArchetypeCivilian>
+  
+  
+  <DialogueTokenArchetypeHirdsman>战斗员</DialogueTokenArchetypeHirdsman>
+  
+  
+  <DialogueTokenArchetypeCustom>自定义</DialogueTokenArchetypeCustom>
+  
+  
+  <DialogueTokenArchetypeMilitiaman>民兵</DialogueTokenArchetypeMilitiaman>
+  
+  
+  <DialogueTokenArchetypeSkirmisher>散兵</DialogueTokenArchetypeSkirmisher>
+  
+  
+  <DialogueTokenArchetypeCleric>牧师</DialogueTokenArchetypeCleric>
+  
+  
+  <DialogueTokenArchetypeProwler>潜行者</DialogueTokenArchetypeProwler>
+  
+  
+  <DialogueTokenArchetypeChampion>冠军</DialogueTokenArchetypeChampion>
+  
+  
+  <DialogueTokenArchetypeTrapper>捕兽者</DialogueTokenArchetypeTrapper>
+  
+  
+  
+  <DialogueTokenArchetypeUlfhedinn>狼皮战士</DialogueTokenArchetypeUlfhedinn>
+  
+  
+  <DialogueTokenArchetypeWitch>女巫</DialogueTokenArchetypeWitch>
+  
+  
+  <DialogueTokenArchetypeMonk>修士</DialogueTokenArchetypeMonk>
+  
+  
+  <DialogueTokenArchetypeAssassin>刺客</DialogueTokenArchetypeAssassin>
+  
+
+  
+  
+  <TooltipArchetypeBerserker>挥舞双斧双剑，鲁莽而暴烈的近战角色。</TooltipArchetypeBerserker>
+  
+  
+  <TooltipArchetypeBannerman>擅长剑盾的防御型近战角色。</TooltipArchetypeBannerman>
+  
+  
+  <TooltipArchetypeSkald>专注治疗与团队增益的远程支援角色。</TooltipArchetypeSkald>
+  
+  
+  <TooltipArchetypeChieftain>强壮的近战角色，具备一些实用的支援与对话技能。</TooltipArchetypeChieftain>
+  
+  
+  <TooltipArchetypeNidding>诡计多端的无赖，一肚子坏水。</TooltipArchetypeNidding>
+  
+  
+  <TooltipArchetypeRanger>专为纯粹伤害打造的远程角色，弓箭致命。</TooltipArchetypeRanger>
+  
+  
+  <TooltipArchetypeHealer>专精恢复与强力减益的远程支援角色。</TooltipArchetypeHealer>
+  
+  
+  <TooltipArchetypeFighter>全面发展的近战角色，用起斧与盾来破坏力惊人。</TooltipArchetypeFighter>
+  
+  
+  
+  <TooltipArchetypeDefender>近战足以自保的防御型远程角色。</TooltipArchetypeDefender>
+  
+  
+
+  
+  
+  <DialogueTokenDifficulty01>未经训练 (0)</DialogueTokenDifficulty01>
+  
+  
+  <DialogueTokenDifficulty02>受过训练 (1)</DialogueTokenDifficulty02>
+  
+  
+  <DialogueTokenDifficulty03>经验丰富 (2)</DialogueTokenDifficulty03>
+  
+  
+  <DialogueTokenDifficulty04>身经百战 (3)</DialogueTokenDifficulty04>
+  
+  
+  <DialogueTokenDifficulty05>技艺娴熟 (4)</DialogueTokenDifficulty05>
+  
+  
+  <DialogueTokenDifficulty06>沙场老兵 (5)</DialogueTokenDifficulty06>
+  
+  
+  <DialogueTokenDifficulty07>精湛掌握 (6)</DialogueTokenDifficulty07>
+  
+  
+  <DialogueTokenDifficulty08>精英翘楚 (7)</DialogueTokenDifficulty08>
+  
+  
+  <DialogueTokenDifficulty09>传奇人物 (8)</DialogueTokenDifficulty09>
+  
+
+  
+  <TooltipDialogueIconCheckStrength>基于力量的能力检定（显示难度）；你的力量越高，成功几率越大。</TooltipDialogueIconCheckStrength>
+  
+  
+  <TooltipDialogueIconCheckEndurance>基于耐力的能力检定（显示难度）；你的耐力越高，成功几率越大。</TooltipDialogueIconCheckEndurance>
+  
+  
+  <TooltipDialogueIconCheckFinesse>基于灵巧的能力检定（显示难度）；你的灵巧越高，成功几率越大。</TooltipDialogueIconCheckFinesse>
+  
+  
+  <TooltipDialogueIconCheckPerception>基于感知的能力检定（显示难度）；你的感知越高，成功几率越大。</TooltipDialogueIconCheckPerception>
+  
+  
+  <TooltipDialogueIconCheckSense>基于感应的能力检定（显示难度）；你的感应越高，成功几率越大。</TooltipDialogueIconCheckSense>
+  
+  
+  <TooltipDialogueIconGeneral>通用选项会推进对话。</TooltipDialogueIconGeneral>
+  
+  
+  <TooltipDialogueIconInquiry>询问选项并不与其他选项冲突，对话随后会回到此处。</TooltipDialogueIconInquiry>
+  
+  
+  <TooltipDialogueIconResource>选择资源选项将消耗资源。</TooltipDialogueIconResource>
+  
+  
+  <TooltipDialogueIconOpenTrade>商店选项会打开交易窗口。</TooltipDialogueIconOpenTrade>
+  
+  
+  <TooltipDialogueIconOpenCrafting>锻造选项会打开锻造窗口或修理窗口。</TooltipDialogueIconOpenCrafting>
+  
+  
+  <TooltipDialogueIconCombat>战斗选项将触发战斗。留意，其他选项同样可能导向战斗。</TooltipDialogueIconCombat>
+  
+  
+  <TooltipDialogueIconEndDialogue>结束选项将结束对话。</TooltipDialogueIconEndDialogue>
+  
+  
+  <TooltipDialogueIconEnterArea>进入区域选项将切换场景。</TooltipDialogueIconEnterArea>
+  
+  
+  <TooltipDialogueIconSelectFollower>追随者选择选项会要求你为某事指定一名角色。</TooltipDialogueIconSelectFollower>
+  
+  
+  <TooltipDialogueIconRomance>浪漫选项可能导致长期承诺。</TooltipDialogueIconRomance>
+  
+  
+  <TooltipDialogueIconKnockOut>击倒选项将发动一次非致命制伏。</TooltipDialogueIconKnockOut>
+  
+  
+  <TooltipDialogueIconKill>杀死选项将发动一次致命制伏。</TooltipDialogueIconKill>
+  
+
+  
+  
+  <TradingTitle>交易</TradingTitle>
+  
+  
+  <TradingVendorResources>商人资源</TradingVendorResources>
+  
+  
+  <TradingYourResources>你的资源</TradingYourResources>
+  
+  
+  <TradingTrade>交易</TradingTrade>
+  
+  
+  <TradingPrices>此商人标价 [x]</TradingPrices>
+  
+  
+  <TradingPricePreposterous>[color=&quot;red&quot;]离谱的[/color]</TradingPricePreposterous>
+  
+  
+  <TradingPriceDisagreeable>[color=&quot;orange&quot;]不厚道的[/color]</TradingPriceDisagreeable>
+  
+  
+  <TradingPriceFair>[color=&quot;yellow&quot;]公道的[/color]</TradingPriceFair>
+  
+  
+  <TradingPriceGenerous>[color=&quot;green&quot;]慷慨的[/color]</TradingPriceGenerous>
+  
+  
+  <TradingPriceCharitable>[color=&quot;lime&quot;]极为慷慨的[/color]</TradingPriceCharitable>
+  
+  
+  <TradingSupplyVeryLow>[color=&quot;red&quot;]极低[/color] 供应</TradingSupplyVeryLow>
+  
+  
+  <TradingSupplyLow>[color=&quot;orange&quot;]低[/color] 供应</TradingSupplyLow>
+  
+  
+  <TradingSupplyNormal>[color=&quot;yellow&quot;]正常[/color] 供应</TradingSupplyNormal>
+  
+  
+  <TradingSupplyHigh>[color=&quot;green&quot;]高[/color] 供应</TradingSupplyHigh>
+  
+  
+  <TradingSupplyVeryHigh>[color=&quot;lime&quot;]极高[/color] 供应</TradingSupplyVeryHigh>
+  
+  
+  <TradingDemandVeryLow>[color=&quot;red&quot;]极低[/color] 需求</TradingDemandVeryLow>
+  
+  
+  <TradingDemandLow>[color=&quot;orange&quot;]低[/color] 需求</TradingDemandLow>
+  
+  
+  <TradingDemandNormal>[color=&quot;yellow&quot;]正常[/color] 需求</TradingDemandNormal>
+  
+  
+  <TradingDemandHigh>[color=&quot;green&quot;]高[/color] 需求</TradingDemandHigh>
+  
+  
+  <TradingDemandVeryHigh>[color=&quot;lime&quot;]极高[/color] 需求</TradingDemandVeryHigh>
+  
+  
+  <TradingResources>资源</TradingResources>
+  
+  
+  <TradingNA>无</TradingNA>
+  
+
+  
+  <TooltipTradingYourResources>下方为你队伍拥有的资源。点击要用于交换的资源。</TooltipTradingYourResources>
+  
+  
+  <TooltipTradingVendorResources>下方为商人的资源。点击要购买的资源。</TooltipTradingVendorResources>
+  
+  
+  <TooltipTradingSlider>拖动滑块决定购买所选商人资源的数量。</TooltipTradingSlider>
+  
+  
+  <TooltipTradingDecrease>将欲购买资源减少1点。</TooltipTradingDecrease>
+  
+  
+  <TooltipTradingIncrease>将欲购买资源增加1点。</TooltipTradingIncrease>
+  
+  
+  <TooltipTradingNotInterested>[color=&quot;red&quot;]商人对这种资源不感兴趣[/color]</TooltipTradingNotInterested>
+  
+  
+  <TooltipTradingSameCounteroffer>[color=&quot;red&quot;]你不能交易同一种资源[/color]</TooltipTradingSameCounteroffer>
+  
+  
+  <TooltipTradingNotEnoughResources>[color=&quot;red&quot;]资源不足，无法交易[/color]</TooltipTradingNotEnoughResources>
+  
+
+  
+  
+  
+  <FinishTurn>结束回合</FinishTurn>
+  
+  
+  <PlayersTurn>你的回合</PlayersTurn>
+  
+  
+  <EnemysTurn>敌人的回合</EnemysTurn>
+  
+  
+  <SurpriseRound>突袭轮</SurpriseRound>
+  
+  
+  <TooltipAttackOfOpportunity>[color=&quot;red&quot;]拥有借机攻击[/color]\n</TooltipAttackOfOpportunity>
+  
+  
+  <Flanked>\n\n[size=&quot;20&quot;]被夹击[/size]</Flanked>
+  
+  
+  <TooltipCover>\n\n[size=&quot;20&quot;]掩体[/size]</TooltipCover>
+  
+  
+  <ToHitChance>[size=&quot;18&quot;][color=&quot;lime&quot;][x]%[/color][/size] 命中率\n</ToHitChance>
+  
+  
+  <ToHitChanceNoLOS>[size=&quot;18&quot;][color=&quot;red&quot;]0%[/color][/size] 命中率\n</ToHitChanceNoLOS>
+  
+  
+  
+  <PopupBlocked>格挡：吸收</PopupBlocked>
+  
+  
+  <PopupBlockedFully>格挡：偏转</PopupBlockedFully>
+  
+  
+  <PopupCriticalHit>暴击！</PopupCriticalHit>
+  
+  
+  <PopupMiss>未命中</PopupMiss>
+  
+  
+  <PopupPanic>恐慌！</PopupPanic>
+  
+  
+  <PopupAoO>借机攻击！</PopupAoO>
+  
+  
+  <PopupFlanked>被夹击！</PopupFlanked>
+  
+  
+  <PopupCover>掩体</PopupCover>
+  
+  
+  <PopupCured>已治愈</PopupCured>
+  
+  
+  <PopupResisted>已抵抗</PopupResisted>
+  
+  
+  <PopupInspired>已激励</PopupInspired>
+  
+  
+  <PopupAoOLost>失去借机攻击</PopupAoOLost>
+  
+  
+  <PopupExecuted>已处决！</PopupExecuted>
+  
+  
+  <PopupOpportunist>机会主义者</PopupOpportunist>
+  
+  
+  <PopupEntangled>纠缠</PopupEntangled>
+  
+  
+  <PopupDisentangled>解除纠缠</PopupDisentangled>
+  
+  
+  <PopupInterrupting>打断！</PopupInterrupting>
+  
+  
+  <PopupTrapSpotted>发现陷阱！</PopupTrapSpotted>
+  
+  
+  <PopupTrapDisarmed>陷阱已拆卸！</PopupTrapDisarmed>
+  
+  
+  <PopupProtectedTile>受保护地块！</PopupProtectedTile>
+  
+  
+  <PopupMoraleLost>士气丧失！</PopupMoraleLost>
+  
+
+  
+  
+  <TooltipCombatTileObject>[size=&quot;16&quot;][name][/size][requirement]\n[difficulty] [archetype]\n[aoo]\n生命值：[color=&quot;orange&quot;][hp1] / [hp2][/color]\n伤害：[color=&quot;orange&quot;][dmg1] - [dmg2][/color]\n\n近战伤害减免：[color=&quot;orange&quot;][drmelee]%[/color]\n远程伤害减免：[color=&quot;orange&quot;][drranged]%[/color]\n格挡几率：[color=&quot;orange&quot;][block]%[/color]\n\n物理抗性：[color=&quot;orange&quot;][physresist]%[/color]\n精神抗性：[color=&quot;orange&quot;][mentresist]%[/color][color=&quot;lime&quot;][flanked][/color][color=&quot;red&quot;][cover][/color]\n\n[tohitchance][size=&quot;18&quot;][color=&quot;lime&quot;][dmgtodeal1] - [dmgtodeal2][/color][/size] 预计伤害\n[size=&quot;18&quot;][color=&quot;lime&quot;][crit]%[/color][/size] 暴击率</TooltipCombatTileObject>
+  
+
+  
+  <TrapHasBeenBurnt>陷阱烧毁了！</TrapHasBeenBurnt>
+  
+  
+  <BarricadeHasCaughtOnFire>路障着火了！</BarricadeHasCaughtOnFire>
+  
+  
+  <TileObjectBarricade>路障</TileObjectBarricade>
+  
+  
+  <TileObjectBarricadeDestroyed>路障倒塌了</TileObjectBarricadeDestroyed>
+  
+  
+  <TileObjectTripwire>绊索</TileObjectTripwire>
+  
+  
+  <TileObjectTripwireTriggered>[y] 被绊索绊倒，陷入[color=&quot;yellow&quot;][StatusEffectName][/color]状态</TileObjectTripwireTriggered>
+  
+  
+  <TileObjectNetTrap>网陷阱</TileObjectNetTrap>
+  
+  
+  <TileObjectNetTrapTriggered>[y] 触发了网陷阱，陷入[color=&quot;yellow&quot;][StatusEffectName][/color]状态</TileObjectNetTrapTriggered>
+  
+  
+  <TileObjectPitTrap>坑陷阱</TileObjectPitTrap>
+  
+  
+  <TileObjectPitTrapTriggered>[y] 掉入了一个坑陷阱，承受了 [z] 点伤害</TileObjectPitTrapTriggered>
+  
+  
+  <TileObjectPoisonPitTrap>毒坑陷阱</TileObjectPoisonPitTrap>
+  
+  
+  <TileObjectPoisonPitTrapTriggered>[y] 掉入了一个毒坑陷阱，承受了 [z] 点伤害，并陷入[color=&quot;yellow&quot;][StatusEffectName][/color]状态</TileObjectPoisonPitTrapTriggered>
+  
+  
+  <TileObjectGreasePatch>油脂区</TileObjectGreasePatch>
+  
+  
+  <TileObjectGreasePatchTriggered>[y] 在一滩油脂上滑倒了</TileObjectGreasePatchTriggered>
+  
+  
+  <TileObjectGreasePatchTriggeredSaved>[y] 走到了一滩滑溜的油脂上，但设法站稳了脚跟</TileObjectGreasePatchTriggeredSaved>
+  
+  
+  <TileObjectTarPot>焦油罐</TileObjectTarPot>
+  
+  
+  <TileObjectTarSpill>焦油泄漏</TileObjectTarSpill>
+  
+  
+  <TileObjectTarSpillTriggered>[y] 被焦油溅到，陷入[color=&quot;yellow&quot;][StatusEffectName][/color]状态</TileObjectTarSpillTriggered>
+  
+  
+  <TileObjectRitualSpear>一柄仪式长矛将在下一回合击中这个格子</TileObjectRitualSpear>
+  
+  
+  <TileObjectRitualSpearTriggered>[y] 被仪式长矛击中并失去行动能力</TileObjectRitualSpearTriggered>
+  
+ 
+  
+  
+  <TileObjectBonfire>篝火</TileObjectBonfire>
+  
+  
+  <TileObjectBonfireTriggered>[y] 踏入了一处篝火，现在处于[color=&quot;yellow&quot;][StatusEffectName][/color]状态</TileObjectBonfireTriggered>
+  
+  
+  <TileObjectBeeHive>蜂巢</TileObjectBeeHive>
+  
+  
+  <TileObjectBeeHiveTriggered>[y] 被愤怒的蜜蜂攻击，承受了 [z] 点伤害，并陷入[color=&quot;yellow&quot;][StatusEffectName][/color]状态</TileObjectBeeHiveTriggered>
+  
+  
+  <TileObjectAntHill>蚁丘</TileObjectAntHill>
+  
+  
+  <TileObjectAntHillTriggered>[y] 惊扰了一个蚁丘，遭到[color=&quot;yellow&quot;][StatusEffectName][/color]攻击</TileObjectAntHillTriggered>
+  
+  
+  <TileObjectAntHillTriggeredAoE>[y] 在蚁丘被惊扰时正处于旁边，因此陷入[color=&quot;yellow&quot;][StatusEffectName][/color]状态</TileObjectAntHillTriggeredAoE>
+  
+  
+  <TileObjectHayPile>干草堆</TileObjectHayPile>
+  
+  
+  <TileObjectBramble>荆棘丛</TileObjectBramble>
+  
+  
+  <TileObjectBrambleTriggered>[y] 进入了一片茂密的荆棘丛；逃离荆棘丛将消耗一整次移动。</TileObjectBrambleTriggered>
+  
+  
+  <TileObjectBrambleStuck>[y] 仍然被纠缠在荆棘丛中，必须消耗一整次移动来逃脱。</TileObjectBrambleStuck>
+  
+  
+  <TileObjectScaffold>脚手架</TileObjectScaffold>
+  
+  
+  <TileObjectScaffoldTriggered>[y] 被倒塌的脚手架砸中，承受了 [z] 点伤害。</TileObjectScaffoldTriggered>
+  
+  
+  <TileObjectSwampMud>沼泽泥</TileObjectSwampMud>
+  
+  
+  <TileObjectSwampMudTriggered>[y] 踏入了一片沼泽泥，额外损失了1点移动力。</TileObjectSwampMudTriggered>
+  
+  
+  <TileObjectIcePatch>冰面</TileObjectIcePatch>
+  
+  
+  <TileObjectIcePatchTriggered>[y] 在冰面上滑倒了。</TileObjectIcePatchTriggered>
+  
+  
+  <TileObjectIcePatchTriggeredSaved>[y] 走到了一片滑溜的冰面上，但设法站稳了脚跟。</TileObjectIcePatchTriggeredSaved>
+  
+  
+  <TileObjectIllumination>光照</TileObjectIllumination>
+  
+  
+  <TileObjectCampfire>篝火</TileObjectCampfire>
+  
+
+  
+  <TileEffectGreaseTriggered>[x] 在油脂区滑倒了</TileEffectGreaseTriggered>
+  
+  
+  <TileEffectGreaseTriggeredSaved>[x]踩到了一滩油渍，但勉强稳住了脚步。</TileEffectGreaseTriggeredSaved>
+  
+  
+  
+  <CombatVictoryConditionsTitle>胜利条件</CombatVictoryConditionsTitle>
+  
+  
+  <CombatVictoryConditionKillAllEnemies>消灭所有敌人：剩余 [enemies] 名敌人。</CombatVictoryConditionKillAllEnemies>
+  
+  
+  <CombatVictoryConditionKillVIP>消灭 [name]。</CombatVictoryConditionKillVIP>
+  
+  
+  <CombatVictoryConditionSurvive>在 [turns] 个回合内存活。</CombatVictoryConditionSurvive>
+  
+  
+  <CombatVictoryConditionEscape>让全员抵达逃脱区域。</CombatVictoryConditionEscape>
+  
+  
+  
+  <CombatVictoryConditionAssassinate>消灭 [name]，并阻止任何敌人抵达逃脱区域。</CombatVictoryConditionAssassinate>
+  
+  
+  <CombatVictoryConditionPreventEscape>阻止任何敌人抵达高亮区域。</CombatVictoryConditionPreventEscape>
+  
+  
+  <CombatVictoryConditionDefendVIP>防止 [name] 失去行动能力。</CombatVictoryConditionDefendVIP>
+  
+  
+  <CombatVictoryConditionWaves>当前波次：[currentwave] / [totalwaves]。</CombatVictoryConditionWaves>
+  
+  
+  <CombatVictoryConditionTimer>必须在 [turns] 个回合内取胜！</CombatVictoryConditionTimer>
+  
+  
+  <CombatVictoryConditionStealLetter>窃取奥斯雷德写给唐德温的信件。</CombatVictoryConditionStealLetter>
+  
+  
+  <CombatVictoryConditionOpenGate>为盟友打开大门。</CombatVictoryConditionOpenGate>
+  
+  
+  <CombatVictoryConditionAmbush>为敌人设下伏击。</CombatVictoryConditionAmbush>
+  
+
+  
+  <CombatTurnEventAmbushArrival>敌军将在 [turns] 个回合后抵达。</CombatTurnEventAmbushArrival>
+  
+  
+  <CombatTurnEventReinforcements>敌方援军将在 [turns] 个回合后抵达！</CombatTurnEventReinforcements>
+  
+  
+  <CombatTurnEventRetreat>敌军将在 [turns] 个回合后开始撤退。</CombatTurnEventRetreat>
+  
+  
+  <CombatTurnEventRescueCillian>基利安将在 [turns] 个回合后死亡！</CombatTurnEventRescueCillian>
+  
+  
+  
+  <CombatResultsOverview>战斗结果</CombatResultsOverview>
+  
+  
+  <CombatResultsVictory>胜利</CombatResultsVictory>
+  
+  
+  <CombatResultsDefeat>战败</CombatResultsDefeat>
+  
+
+  
+  <CombatResultsLabelFollower>追随者生命值</CombatResultsLabelFollower>
+  
+  
+  <CombatResultsLabelUtilityItems>通用道具</CombatResultsLabelUtilityItems>
+  
+  
+  <CombatResultsLabelEquipment>已装备物品</CombatResultsLabelEquipment>
+  
+
+  
+  <CombatResultsDurabilityGrammar>[olddurability] → [color=&quot;red&quot;][newdurability][/color]</CombatResultsDurabilityGrammar>
+  
+  
+  <CombatResultsImproved>[color=&quot;orange&quot;]获得改良！[/color]</CombatResultsImproved>
+  
+  
+  <CombatResultsLost>[color=&quot;red&quot;]物品遗失！[/color]</CombatResultsLost>
+  
+
+  
+  <CombatResultsNoNewInjuries>无新增伤势</CombatResultsNoNewInjuries>
+  
+  
+  <CombatResultsExistingInjuries>现有伤势</CombatResultsExistingInjuries>
+  
+  
+  <CombatResultsNoExistingInjuries>[color=&quot;gray&quot;]无现有伤势[/color]</CombatResultsNoExistingInjuries>
+  
+  
+  <CombatResultsUtilityItemGrammar>[color=&quot;red&quot;]-[itemshift][/color]</CombatResultsUtilityItemGrammar>
+  
+
+  
+  <TooltipCombatBarSwitchWeapons>发动攻击前，可随时在两套武器之间自由切换。</TooltipCombatBarSwitchWeapons>
+  
+  
+  <TooltipCombatBarCharacterInfo>激活此按钮后，点击战斗中的任意角色即可查看其详细信息。若目标是盟友，还可重新调整技能配置。</TooltipCombatBarCharacterInfo>
+  
+  
+  <TooltipCombatBarNonLethal>切换非致命攻击模式。角色将不再造成暴击。</TooltipCombatBarNonLethal>
+  
+
+  
+  <CombatDetailedCharacterWeaponSet1>主武器组</CombatDetailedCharacterWeaponSet1>
+  
+  
+  <CombatDetailedCharacterWeaponSet2>副武器组</CombatDetailedCharacterWeaponSet2>
+  
+
+  
+  <TooltipCombatSeparator>[color=&quot;white&quot;]，[/color]</TooltipCombatSeparator>
+  
+  
+  <TooltipCombatNoStatusEffect>[color=&quot;white&quot;]无状态效果[/color]</TooltipCombatNoStatusEffect>
+  
+
+  
+  
+  
+  <TooltipCombatEnemy>[size=&quot;16&quot;][name][/size][requirement]\n[difficulty] [archetype]\n[aoo]\n生命值：[color=&quot;orange&quot;][hp1] / [hp2][/color]\n[shield]\n伤害：[color=&quot;orange&quot;][dmg1] - [dmg2][/color]（[color=&quot;orange&quot;][ap][/color] 护甲穿透）\n暴击：[color=&quot;orange&quot;][targetcrit]%[/color]\n\n近战伤害减免：[color=&quot;orange&quot;][drmelee]%[/color]\n远程伤害减免：[color=&quot;orange&quot;][drranged]%[/color]\n\n物理抗性：[color=&quot;orange&quot;][physresist]%[/color]\n精神抗性：[color=&quot;orange&quot;][mentresist]%[/color]\n移动：[color=&quot;orange&quot;][moves][/color][color=&quot;lime&quot;][flanked][/color][color=&quot;red&quot;][cover][/color]\n\n[tohitchance][size=&quot;18&quot;][color=&quot;lime&quot;][dmgtodeal1] - [dmgtodeal2][/color][/size] 预期伤害\n[size=&quot;18&quot;][color=&quot;lime&quot;][targetap][/color][/size] 护甲穿透伤害\n[size=&quot;18&quot;][color=&quot;lime&quot;][crit]%[/color][/size] 暴击几率</TooltipCombatEnemy>
+  
+  
+  <TooltipCombatAlly>[size=&quot;16&quot;][name][/size][requirement]\n[difficulty] [archetype]\n[aoo]\n生命值：[color=&quot;orange&quot;][hp1] / [hp2][/color]\n[shield]\n伤害：[color=&quot;orange&quot;][dmg1] - [dmg2][/color]（[color=&quot;orange&quot;][targetap][/color] 护甲穿透）\n暴击：[color=&quot;orange&quot;][targetcrit]%[/color]\n\n近战伤害减免：[color=&quot;orange&quot;][drmelee]%[/color]\n远程伤害减免：[color=&quot;orange&quot;][drranged]%[/color]\n\n物理抗性：[color=&quot;orange&quot;][physresist]%[/color]\n精神抗性：[color=&quot;orange&quot;][mentresist]%[/color]\n移动：[color=&quot;orange&quot;][moves] / [movement][/color][color=&quot;red&quot;][flanked][/color][color=&quot;lime&quot;][cover][/color]</TooltipCombatAlly>
+  
+  
+  <TooltipCombatShield>吸收量：[color=&quot;orange&quot;][ab1] / [ab2][/color]\n格挡几率：[color=&quot;orange&quot;][block]%[/color]\n</TooltipCombatShield>
+  
+  
+  
+  <NotificationSkillpoint>获得 1 个技能点</NotificationSkillpoint>
+  
+  
+  <NotificationSkillpoints>获得技能点</NotificationSkillpoints>
+  
+  
+  <NotificationSkillpointsPrompt>按下 [[hotkey]] 进行分配</NotificationSkillpointsPrompt>
+  
+
+  
+  <NotificationCharacterFollow>[charactername] 正在跟随你</NotificationCharacterFollow>
+  
+  
+  <NotificationCharacterUnfollow>[charactername] 不再跟随你</NotificationCharacterUnfollow>
+  
+  
+  <NotificationCharacterJoinParty>[charactername] 已加入你的家臣团！</NotificationCharacterJoinParty>
+  
+  
+  <NotificationCharacterLeaveParty>[charactername] 已离开你的家臣团</NotificationCharacterLeaveParty>
+  
+  
+  <NotificationCharacterPrompt>按下 [[hotkey]] 查看追随者</NotificationCharacterPrompt>
+  
+
+  
+  <NotificationPowerIncreased>氏族力量提升</NotificationPowerIncreased>
+  
+  
+  <NotificationPowerDecreased>氏族力量下降</NotificationPowerDecreased>
+  
+  
+  <NotificationProsperityIncreased>氏族繁荣度提升</NotificationProsperityIncreased>
+  
+  
+  <NotificationProsperityDecreased>氏族繁荣度下降</NotificationProsperityDecreased>
+  
+  
+  <NotificationUpgradeComplete>家园升级 [upgradename] 已完成！</NotificationUpgradeComplete>
+  
+  
+  <NotificationHomesteadStatsPrompt>按下 [[hotkey]] 查看家园</NotificationHomesteadStatsPrompt>
+  
+  
+  
+  <NotificationReputationChanged>[faction] 视你为 [reputation]</NotificationReputationChanged>
+  
+  
+  <NotificationReputationPrompt>按下 [[hotkey]] 查看声望</NotificationReputationPrompt>
+  
+
+  
+  <NotificationFactionEncountered>你发现了一个新势力：[faction]</NotificationFactionEncountered>
+  
+  
+  
+  <NotificationQuestAdded>新任务：[questname]</NotificationQuestAdded>
+  
+  
+  <NotificationQuestUpdated>任务 [questname] 已更新</NotificationQuestUpdated>
+  
+  
+  <NotificationQuestOpenPrompt>按下 [[hotkey]] 追踪此任务</NotificationQuestOpenPrompt>
+  
+  
+  <NotificationQuestClosed>任务 [questname] 已完成</NotificationQuestClosed>
+  
+  
+  <NotificationQuestClosedPrompt>按下 [[hotkey]] 查看目标</NotificationQuestClosedPrompt>
+  
+
+  
+  <NotificationAreaDiscovered>[areaname] 已在地图上揭示</NotificationAreaDiscovered>
+  
+  
+  <NotificationAreaDiscoveredPrompt>抵达路径点以打开战役地图</NotificationAreaDiscoveredPrompt>
+  
+
+  
+  
+  <PlayerMessageLog>玩家消息日志</PlayerMessageLog>
+  
+  
+  
+  <PlayerMessageAttackOfOpportunity>[y] 诱发了 [x] 的借机攻击。</PlayerMessageAttackOfOpportunity>
+  
+  
+  <PlayerMessageAttackBlockDamage>[y] 格挡了 [x] 的攻击，其盾牌承受了 [z] 点伤害。</PlayerMessageAttackBlockDamage>
+  
+  
+  <PlayerMessageAttackBlockFully>[y] 格挡了 [x] 的攻击，将所有伤害尽数偏转。</PlayerMessageAttackBlockFully>
+  
+  
+  <PlayerMessageCriticalDamage>[x] 对 [y] 造成了一次暴击，造成 [z] 点伤害。</PlayerMessageCriticalDamage>
+  
+  
+  <PlayerMessageAttackDamage>[x] 攻击了 [y]，造成 [z] 点伤害。</PlayerMessageAttackDamage>
+  
+  
+  <PlayerMessageAttackMiss>[y] 闪过了 [x] 的攻击。</PlayerMessageAttackMiss>
+  
+  
+  <PlayerMessageIncapacitated>[y] 丧失了行动能力。</PlayerMessageIncapacitated>
+  
+  
+  <PlayerMessageKilled>[y] 被杀死了！</PlayerMessageKilled>
+  
+  
+  <PlayerMessageStatusEffectDamage>[y] 因 [color=&quot;yellow&quot;][StatusEffectName][/color] 状态效果，受到了 [z] 点伤害。</PlayerMessageStatusEffectDamage>
+  
+  
+  <PlayerMessageCombatInjury>[x] 的 [location] 遭受了 [injury]。</PlayerMessageCombatInjury>
+  
+  
+  <PlayerMessagePlaceTrap>[x] 为敌人准备了一个陷阱。</PlayerMessagePlaceTrap>
+  
+
+  
+  <PlayerMessageTrashItem>[x] 已分崩离析，[y] 丢失了该物品！</PlayerMessageTrashItem>
+  
+  
+  <PlayerMessageInventoryTrashItem>[x] 已分崩离析，你的队伍丢失了该物品！</PlayerMessageInventoryTrashItem>
+  
+  
+  <PlayerMessageDiscardItem>你拆解了 [x]，获得了 [y] [z]。</PlayerMessageDiscardItem>
+  
+  
+  <PlayerMessageGainItem>你获得了一个 [x]。</PlayerMessageGainItem>
+  
+  
+  <PlayerMessageLoseItem>你失去了一个 [x]。</PlayerMessageLoseItem>
+  
+  
+  <PlayerMessageReceiveItem>你收到了 [item]。</PlayerMessageReceiveItem>
+  
+  
+  <PlayerMessageTakenItem>你失去了 [item]。</PlayerMessageTakenItem>
+  
+  
+  <PlayerMessageGainResource>你获得了 [x] [y]。</PlayerMessageGainResource>
+  
+  
+  <PlayerMessageLoseResource>你失去了 [x] [y]。</PlayerMessageLoseResource>
+  
+  
+  <PlayerMessageGainCraftingResource>你获得了 [x] [y]。</PlayerMessageGainCraftingResource>
+  
+  
+  <PlayerMessageLoseCraftingResource>你失去了 [x] [y]。</PlayerMessageLoseCraftingResource>
+  
+  
+  <PlayerMessageHomesteadUpgradeComplete>[name] 的升级已经完成！</PlayerMessageHomesteadUpgradeComplete>
+  
+  
+  <PlayerMessageHomesteadUpgradeStatIncrease>你村庄的 [x] 提升至 [y]。</PlayerMessageHomesteadUpgradeStatIncrease>
+  
+
+  
+  <PlayerMessageMoraleIncreaseAll>你所有的追随者都 [color=&quot;lime&quot;]获得[/color] 了士气！</PlayerMessageMoraleIncreaseAll>
+  
+  
+  <PlayerMessageMoraleIncrease>你的 [color=&quot;yellow&quot;][x][/color] 追随者们 [color=&quot;lime&quot;]获得[/color] 了士气！</PlayerMessageMoraleIncrease>
+  
+  
+  <PlayerMessageMoraleIncreaseSpecific>[x] [color=&quot;lime&quot;]获得[/color] 了士气！</PlayerMessageMoraleIncreaseSpecific>
+  
+  
+  <PlayerMessageMoraleDecreaseAll>你所有的追随者都 [color=&quot;red&quot;]失去[/color] 了士气！</PlayerMessageMoraleDecreaseAll>
+  
+  
+  <PlayerMessageMoraleDecrease>你的 [color=&quot;yellow&quot;][x][/color] 追随者们 [color=&quot;red&quot;]失去[/color] 了士气！</PlayerMessageMoraleDecrease>
+  
+  
+  <PlayerMessageMoraleDecreaseSpecific>[x] [color=&quot;red&quot;]失去[/color] 了士气！</PlayerMessageMoraleDecreaseSpecific>
+  
+  
+  
+  <PlayerMessageStatusEffectAdded>[x] 变得 [y]。</PlayerMessageStatusEffectAdded>
+  
+  
+  <PlayerMessageStatusEffectRemoved>[x] 不再是 [y]。</PlayerMessageStatusEffectRemoved>
+  
+
+  
+  <PlayerMessageSaveGameFailureCombat>战斗中无法保存。</PlayerMessageSaveGameFailureCombat>
+  
+  
+  <PlayerMessageSaveGameFailureGeneral>此时无法保存。</PlayerMessageSaveGameFailureGeneral>
+  
+
+  
+  <PlayerMessageCombatAbilityUse>[caster] 使用了 [color=&quot;orange&quot;][ability][/color]。</PlayerMessageCombatAbilityUse>
+  
+  
+  <PlayerMessageCombatAbilityUseTarget>[caster] 对 [target] 使用了 [color=&quot;orange&quot;][ability][/color]。</PlayerMessageCombatAbilityUseTarget>
+  
+  
+  <PlayerMessageCombatAbilityUseTargetDamage>[caster] 对 [target] 使用了 [color=&quot;orange&quot;][ability][/color]，并造成 [dmg] 点伤害。</PlayerMessageCombatAbilityUseTargetDamage>
+  
+
+  
+  <PlayerMessageCombatRevived>[name] 重新站了起来。</PlayerMessageCombatRevived>
+  
+
+  
+  <PlayerMessageTriggerTrap>[name] 触发了一个陷阱，遭受了 [injury] 伤害。</PlayerMessageTriggerTrap>
+  
+
+  
+  
+  <Morale0>叛变</Morale0>
+  
+  
+  <Morale1>惊骇</Morale1>
+  
+  
+  <Morale2>惊骇</Morale2>
+  
+  
+  <Morale3>不满</Morale3>
+  
+  
+  <Morale4>不满</Morale4>
+  
+  
+  <Morale5>不满</Morale5>
+  
+  
+  <Morale6>犹豫</Morale6>
+  
+  
+  <Morale7>犹豫</Morale7>
+  
+  
+  <Morale8>犹豫</Morale8>
+  
+  
+  <Morale9>冷漠</Morale9>
+  
+  
+  <Morale10>冷漠</Morale10>
+  
+  
+  <Morale11>冷漠</Morale11>
+  
+  
+  <Morale12>满意</Morale12>
+  
+  
+  <Morale13>满意</Morale13>
+  
+  
+  <Morale14>满意</Morale14>
+  
+  
+  <Morale15>忠诚</Morale15>
+  
+  
+  <Morale16>忠诚</Morale16>
+  
+  
+  <Morale17>忠诚</Morale17>
+  
+  
+  <Morale18>忠诚</Morale18>
+  
+  
+  <Morale19>忠诚</Morale19>
+  
+  
+  <Morale20>不屈</Morale20>
+  
+  
+  <MoraleSpecial>英勇</MoraleSpecial>
+   
+
+  
+  
+  <GameOverTitle>游戏结束</GameOverTitle>
+  
+  
+  <GameOverDescription>你的萨加传奇过早落幕。往后你应更加警觉才是。</GameOverDescription>
+  
+
+  
+  
+  
+  <QuestGoalAdded>新目标</QuestGoalAdded>
+  
+  
+  <QuestGoalUpdated>目标已更新</QuestGoalUpdated>
+  
+  
+  <QuestGoalCompleted>目标已完成</QuestGoalCompleted>
+  
+  
+  <QuestGoalFailed>目标失败</QuestGoalFailed>
+  
+  
+  <QuestAdded>新任务</QuestAdded>
+  
+  
+  <QuestCompleted>任务完成</QuestCompleted>
+  
+  
+  <QuestFailed>任务失败</QuestFailed>
+  
+
+  
+  
+  <LaidStoneOnCairn>你发现了一座石冢。</LaidStoneOnCairn>
+  
+  
+  <ReputationIncreased>你在 [x] 中的声望提升了 [y] 点。</ReputationIncreased>
+  
+  
+  <ReputationDecreased>你在 [x] 中的声望降低了 [y] 点。</ReputationDecreased>
+  
+
+  
+  <QuestSkillPointsAwardedIndividual>[x] 获得了 [y] 点技能点。</QuestSkillPointsAwardedIndividual>
+  
+  
+  <QuestSkillPointsAwardedParty>每名侍卫都获得了 [y] 点技能点。</QuestSkillPointsAwardedParty>
+  
+
+  
+  
+  <QuestLocationGrammar>[x]， [y]。 [z] - [color=&quot;orange&quot;][u][/color]</QuestLocationGrammar>
+  
+  
+  
+  <QuestTimeGrammar>[x] [y]</QuestTimeGrammar>
+  
+
+  
+  
+  <QuestStatusClosed>已关闭</QuestStatusClosed>
+  
+  
+  <QuestStatusActive>进行中</QuestStatusActive>
+  
+  
+  <QuestStatusCurrent>追踪中</QuestStatusCurrent>
+  
+
+  
+  
+  <QuestMultiGoal>[color=&quot;orange&quot;] ([x]/[y])[/color]</QuestMultiGoal>
+  
+
+  
+  
+  <QuestOptional>[color=&quot;lightblue&quot;](可选)[/color] [x]</QuestOptional>
+  
+
+  
+  <QuestActiveQuest>按“[keybinding]”即可追踪此任务</QuestActiveQuest>
+  
+  
+  <QuestTooltipActiveQuest>追踪此任务。探索时及区域地图上均会显示其目标。</QuestTooltipActiveQuest>
+  
+
+  
+  
+  <FactionGeneral>通用</FactionGeneral>
+  
+  
+  <FactionClansmen>族人</FactionClansmen>
+  
+  
+  <FactionJelling>耶灵</FactionJelling>
+  
+  
+  <FactionRibe>里伯</FactionRibe>
+  
+  
+  <FactionNorthmen>北方人</FactionNorthmen>
+  
+  
+  <FactionNorthumbria>诺森布里亚</FactionNorthumbria>
+  
+  
+  <FactionMercia>麦西亚</FactionMercia>
+  
+  
+  <FactionPicts>皮克特人</FactionPicts>
+  
+  
+  <FactionGaels>盖尔人</FactionGaels>
+  
+  
+  <FactionOutlaws>亡命徒</FactionOutlaws>
+  
+  
+  
+  
+  <ReputationReviled>辱骂</ReputationReviled>
+  
+  
+  <ReputationHated>憎恨</ReputationHated>
+  
+  
+  <ReputationDisliked>厌恶</ReputationDisliked>
+  
+  
+  <ReputationSuspected>怀疑</ReputationSuspected>
+  
+  
+  <ReputationNeutral>中立</ReputationNeutral>
+  
+  
+  <ReputationTolerated>容忍</ReputationTolerated>
+  
+  
+  <ReputationRespected>尊敬</ReputationRespected>
+  
+  
+  <ReputationLoved>爱戴</ReputationLoved>
+  
+  
+  <ReputationIdolised>崇拜</ReputationIdolised>
+  
+
+  
+  
+  <CampaignDenmark>丹麦</CampaignDenmark>
+  
+  
+  <CampaignBritain>不列颠</CampaignBritain>
+  
+  
+  <CampaignWorldMap>北海</CampaignWorldMap>
+  
+
+  
+  
+  
+  <SceneHomestead>斯凯恩</SceneHomestead>
+  
+  
+  <SceneHomesteadDescription>你的家园，一个坐落在海湾岸边的小村落。</SceneHomesteadDescription>
+  
+
+  
+  <SceneHomesteadForest>斯凯恩森林</SceneHomesteadForest>
+  
+  
+  <SceneHomesteadForestDescription>环绕你家园的森林。</SceneHomesteadForestDescription>
+  
+
+  
+  <SceneHomesteadFarm>埃林的农场</SceneHomesteadFarm>
+  
+  
+  <SceneHomesteadFarmDescription>厄林格·索尔吉斯尔松及其家人的家园。</SceneHomesteadFarmDescription>
+  
+  
+  
+  <SceneHomesteadSummer>斯凯恩</SceneHomesteadSummer>
+  
+  
+  <SceneHomesteadSummerDescription>你的家园，一个坐落在海湾岸边的小村落。</SceneHomesteadSummerDescription>
+  
+
+  
+  <SceneDenmarkRibe>里伯</SceneDenmarkRibe>
+  
+  
+  <SceneDenmarkRibeDescription>雅尔拉格希尔德之座，丹麦人的都城。</SceneDenmarkRibeDescription>
+  
+
+  
+  <SceneDenmarkMarsh>沼泽</SceneDenmarkMarsh>
+  
+  
+  <SceneDenmarkMarshDescription>里伯附近的沼泽地，往来萨克森的旅人多经此地。</SceneDenmarkMarshDescription>
+  
+
+  
+  <SceneDenmarkSkerninge>斯克宁厄</SceneDenmarkSkerninge>
+  
+  
+  <SceneDenmarkSkerningeDescription>菲英岛乡野，藏有一座古老的甬道墓穴。</SceneDenmarkSkerningeDescription>
+  
+
+  
+  <SceneDenmarkAlthing>阿尔庭</SceneDenmarkAlthing>
+  
+  
+  <SceneDenmarkAlthingDescription/>
+  
+
+  
+  <SceneDenmarkJelling>耶灵</SceneDenmarkJelling>
+  
+  
+  <SceneDenmarkJellingDescription/>
+  
+
+  
+  <SceneCampDenmarkForestDeep>森林营地</SceneCampDenmarkForestDeep>
+  
+  
+  <SceneCampDenmarkForestTinyValley>密林空地营地</SceneCampDenmarkForestTinyValley>
+  
+  
+  <SceneCampDenmarkMarsh>沼泽营地</SceneCampDenmarkMarsh>
+  
+  
+  <SceneCampDenmarkMarshHillCenter>泽中丘地营地</SceneCampDenmarkMarshHillCenter>
+  
+  
+  <SceneCampDenmarkPlains>平原营地</SceneCampDenmarkPlains>
+  
+  
+  <SceneCampDenmarkPlainsHillNearby>原上丘地营地</SceneCampDenmarkPlainsHillNearby>
+  
+
+  
+  <SceneTravelDenmarkRoad>蜿蜒之路</SceneTravelDenmarkRoad>
+  
+  
+  <SceneTravelDenmarkRoadDescription/>
+  
+
+  
+  <SceneBritainScarborough>海滩村庄（斯卡伯勒）</SceneBritainScarborough>
+  
+  
+  <SceneBritainScarboroughDescription>临近修道院的田园海滩村落。</SceneBritainScarboroughDescription>
+  
+
+  
+  <SceneBritainYork>埃奥福维克（约克）</SceneBritainYork>
+  
+  
+  <SceneBritainYorkDescription>诺森布里亚首府。</SceneBritainYorkDescription>
+  
+
+  
+  <SceneBritainYorkDungeon>埃奥福维克（约克）地牢</SceneBritainYorkDungeon>
+  
+  
+  <SceneBritainYorkDungeonDescription>约克城下的地牢。</SceneBritainYorkDungeonDescription>
+  
+
+  
+  <SceneBritainYngilwood>英吉尔森林</SceneBritainYngilwood>
+  
+  
+  <SceneBritainYngilwoodDescription>哈德良长城正南方的一片密林。</SceneBritainYngilwoodDescription>
+  
+
+  
+  <SceneBritainChester>莱加塞斯特（切斯特）</SceneBritainChester>
+  
+  
+  <SceneBritainChesterDescription>罗马人定居点的废墟。</SceneBritainChesterDescription>
+  
+
+  
+  <SceneBritainHadriansWall>哈德良长城</SceneBritainHadriansWall>
+  
+  
+  <SceneBritainHadriansWallDescription>古老罗马长城上的一座里堡。</SceneBritainHadriansWallDescription>
+  
+
+  
+  <SceneBritainLindisfarne>林迪斯法恩</SceneBritainLindisfarne>
+  
+  
+  <SceneBritainLindisfarneDescription>孤悬海外的宏伟富庶大修道院。</SceneBritainLindisfarneDescription>
+  
+
+  
+  <SceneBritainPlains>平原</SceneBritainPlains>
+  
+  
+  <SceneBritainPlainsDescription>诺森布里亚北部绵延起伏的青翠原野。</SceneBritainPlainsDescription>
+  
+
+  
+  <SceneBritainSwamp>沼泽</SceneBritainSwamp>
+  
+  
+  <SceneBritainSwampDescription>诺森布里亚与麦西亚边界附近的蛮荒湿地。</SceneBritainSwampDescription>
+  
+
+  
+  <SceneBritainPerth>珀斯</SceneBritainPerth>
+  
+  
+  <SceneBritainPerthDescription>皮克塔维亚首府，于泰河之巅居高临下。</SceneBritainPerthDescription>
+  
+
+  
+  <SceneBritainDunPhris>邓弗里斯</SceneBritainDunPhris>
+  
+  
+  <SceneBritainDunPhrisDescription>哈德良长城以北的一座小村。</SceneBritainDunPhrisDescription>
+  
+
+  
+  <SceneBritainSeahenge>海祭坛</SceneBritainSeahenge>
+  
+  
+  <SceneBritainSeahengeDescription>皮克塔维亚海岸边一处古老的凯尔特祭祀遗址。</SceneBritainSeahengeDescription>
+  
+  
+  
+  <SceneBritainConallFarm>麦克唐纳农场</SceneBritainConallFarm>
+  
+  
+  <SceneBritainConallFarmDescription>洛蒙德湖畔的一座小农场。</SceneBritainConallFarmDescription>
+  
+  
+  
+  <SceneBritainRavine>峡谷</SceneBritainRavine>
+  
+  
+  <SceneBritainRavineDescription>皮克塔维亚低地中草木葱茏的峡谷。</SceneBritainRavineDescription>
+  
+
+  
+  <SceneBritainDonncoirceHomestead>唐科斯家园</SceneBritainDonncoirceHomestead>
+  
+  
+  <SceneBritainDonncoirceHomesteadDescription>盖尔国王的富庶庄园。</SceneBritainDonncoirceHomesteadDescription>
+  
+
+  
+  <SceneBritainRaiderCamp>掠夺者营地</SceneBritainRaiderCamp>
+  
+  
+  <SceneBritainRaiderCampDescription>维京掠夺者在达尔里阿达海岸扎下了营盘。</SceneBritainRaiderCampDescription>
+  
+
+  
+  <SceneBritainRoadsideCamp>路边营地</SceneBritainRoadsideCamp>
+  
+  
+  <SceneBritainRoadsideCampDescription>一群盎格鲁-撒克逊战士在乡间道路旁扎营。</SceneBritainRoadsideCampDescription>
+  
+  
+  
+  <SceneBritainMountainCaveEntrance>山中洞穴</SceneBritainMountainCaveEntrance>
+  
+  
+  <SceneBritainMountainCaveEntranceDescription>皮克特高地中的一处大洞穴。</SceneBritainMountainCaveEntranceDescription>
+  
+  
+  
+  <SceneBritainAvalon>阿瓦隆</SceneBritainAvalon>
+  
+  
+  <SceneBritainAvalonDescription>传说中一位伟大英雄长眠的传奇岛屿。</SceneBritainAvalonDescription>
+  
+
+  
+  <SceneBritainMonastery01>芬尼安礼拜堂</SceneBritainMonastery01>
+  
+  
+  <SceneBritainMonastery01Description>为朝圣者修建的一处避风港小礼拜堂。</SceneBritainMonastery01Description>
+  
+
+  
+  <SceneBritainMonastery02>圣威尔弗里德教堂</SceneBritainMonastery02>
+  
+  
+  <SceneBritainMonastery02Description>一座地处要冲、财力雄厚的教堂。</SceneBritainMonastery02Description>
+  
+
+  
+  <SceneBritainMonastery03>阿伯莱姆诺教堂</SceneBritainMonastery03>
+  
+  
+  <SceneBritainMonastery03Description>一座宏大而富有的石砌教堂。</SceneBritainMonastery03Description>
+  
+
+  
+  <SceneBritainScotlandForestClearing>林中空地</SceneBritainScotlandForestClearing>
+  
+  
+  <SceneBritainScotlandForestClearingDescription>针叶林深处的小片空地。</SceneBritainScotlandForestClearingDescription>
+  
+
+  
+  <SceneBritainCoastalTown01>渔村</SceneBritainCoastalTown01>
+  
+  
+  <SceneBritainCoastalTown01Description>一座小渔村。开放贸易。易受攻击。</SceneBritainCoastalTown01Description>
+  
+  
+  
+  <SceneBritainTreasureCave>水淹洞穴</SceneBritainTreasureCave>
+  
+  
+  <SceneBritainTreasureCaveDescription>海边悬崖底下极为隐蔽的洞穴。</SceneBritainTreasureCaveDescription>
+  
+
+  
+  <SceneTravelBritainEnglandRoad>乡间道路</SceneTravelBritainEnglandRoad>
+  
+  
+  <SceneTravelBritainEnglandRoadDescription/>
+  
+
+  
+  <SceneTravelBritainScotlandRoad>高地道路</SceneTravelBritainScotlandRoad>
+  
+  
+  <SceneTravelBritainScotlandRoadDescription/>
+  
+
+  
+  <SceneTravelBritainAmbushForest>森林伏击</SceneTravelBritainAmbushForest>
+  
+  
+  <SceneTravelBritainAmbushForestDescription/>
+  
+
+  
+  <SceneTravelBritainAmbushMarsh>泽地伏击</SceneTravelBritainAmbushMarsh>
+  
+  
+  <SceneTravelBritainAmbushMarshDescription/>
+  
+
+  
+  <SceneTravelBritainAmbushMountain>山地伏击</SceneTravelBritainAmbushMountain>
+  
+  
+  <SceneTravelBritainAmbushMountainDescription/>
+  
+
+  
+  <SceneTravelBritainAmbushPlains>乡间伏击</SceneTravelBritainAmbushPlains>
+  
+  
+  <SceneTravelBritainAmbushPlainsDescription/>
+  
+
+  
+  <SceneTravelBritainAmbushRoad>道路伏击</SceneTravelBritainAmbushRoad>
+  
+  
+  <SceneTravelBritainAmbushRoadDescription/>
+  
+
+  
+  <SceneCampBritishForest>森林营地</SceneCampBritishForest>
+  
+  
+  <SceneCampBritishPlainsTree>平原树下营地</SceneCampBritishPlainsTree>
+  
+  
+  <SceneCampBritishPlainsSmallHill>平原山丘营地</SceneCampBritishPlainsSmallHill>
+  
+  
+  <SceneCampBritishSwampForest>沼泽营地</SceneCampBritishSwampForest>
+  
+  
+  <SceneCampBritishFarmhouse>废弃农舍营地</SceneCampBritishFarmhouse>
+  
+  
+  <SceneCampBritishMountainsPlateau>山地高原营地</SceneCampBritishMountainsPlateau>
+  
+  
+  <SceneCampBritainRoad>路边营地</SceneCampBritainRoad>
+  
+  
+  <SceneCampBritainScotlandForest>森林营地</SceneCampBritainScotlandForest>
+  
+
+  
+  <SceneWorldOrkney>奥克尼群岛</SceneWorldOrkney>
+  
+  
+  <SceneWorldOrkneyDescription>\n位于不列颠与挪威之间那些荒芜岛屿上的北欧定居点。</SceneWorldOrkneyDescription>
+  
+
+  
+  <SceneDreamGrimnir01>赫尔海姆</SceneDreamGrimnir01>
+  
+  
+  <SceneDreamGrimnir01Description/>
+  
+
+  
+  <SceneDreamGrimnir02>利兹斯基亚尔夫</SceneDreamGrimnir02>
+  
+  
+  <SceneDreamGrimnir02Description/>
+  
+
+  
+  <SceneDreamGrimnir03>诸神黄昏</SceneDreamGrimnir03>
+  
+  
+  <SceneDreamGrimnir03Description/>
+  
+
+  
+  <SceneCampaign00-Denmark>丹麦地图</SceneCampaign00-Denmark>
+  
+  
+  <SceneCampaign00-DenmarkDescription/>
+  
+
+  
+  <SceneCampaign01-EnglandScotland>不列颠地图</SceneCampaign01-EnglandScotland>
+  
+  
+  <SceneCampaign01-EnglandScotlandDescription/>
+  
+
+  
+  <SceneWorldMap>北海地图</SceneWorldMap>
+  
+  
+  <SceneWorldMapDescription/>
+  
+  
+
+  
+
+  
+  
+  <CampaignMapTerrainType>[color=&quot;silver&quot;][x][/color]</CampaignMapTerrainType>
+  
+  
+  <CampaignSceneSunrise>[size=&quot;16&quot;]日出[/size]</CampaignSceneSunrise>
+  
+  
+  <CampaignSceneSunset>[size=&quot;16&quot;]日落[/size]</CampaignSceneSunset>
+  
+  
+  <CampaignSceneFatiguedIconTooltip>[size=&quot;16&quot;]疲惫角色[/size]\n\n[fatiguedcharacters]</CampaignSceneFatiguedIconTooltip>
+  
+  
+  <CampaignSceneTooltipResources>\n\n[size=&quot;12&quot;][color=&quot;silver&quot;]急需：[/color] [color=&quot;red&quot;][x][/color]\n[color=&quot;silver&quot;]充裕：[/color] [color=&quot;orange&quot;][y][/color][/size]</CampaignSceneTooltipResources>
+  
+  
+  <CampaignSceneTooltipTime>\n\n[size=&quot;12&quot;][i][color=&quot;silver&quot;]旅途时间：[/color] [x][/i][/size]</CampaignSceneTooltipTime>
+  
+  
+  <CampaignSceneTooltip>[size=&quot;16&quot;][name][/size]\n[description][time]</CampaignSceneTooltip>
+  
+  
+  <CampaignSceneTooltipCamp>[size=&quot;16&quot;][name][occupied][/size][stats][time]</CampaignSceneTooltipCamp>
+  
+  
+  
+  <CampaignSceneTooltipCampStats>\n[x] 食物，[y] 庇护所，[z] 安保</CampaignSceneTooltipCampStats>
+  
+  
+  <CampaignOtherTooltip>[size=&quot;16&quot;][name][/size][time]</CampaignOtherTooltip>
+  
+
+  
+  <CampaignSceneTooltipNewLocation>你发现了一处新地点！</CampaignSceneTooltipNewLocation>
+  
+
+  
+  <CampaignSceneCampOccupied>\n[color=&quot;red&quot;]已占用[/color]</CampaignSceneCampOccupied>
+  
+  
+  
+  <CampaignSpotLooted>+ [nr] [item]</CampaignSpotLooted>
+  
+
+  
+  
+  <MarkerQuest>任务标记</MarkerQuest>
+  
+  
+  <MarkerTrade>贸易</MarkerTrade>
+  
+  
+  <MarkerPlayer>你的角色</MarkerPlayer>
+  
+  
+  <MarkerFollower>追随者</MarkerFollower>
+  
+  
+  <MarkerCairn>石堆标</MarkerCairn>
+  
+  
+  <MarkerCamp>营地</MarkerCamp>
+  
+  
+  <MarkerLootSpot>已侦察区域</MarkerLootSpot>
+  
+  
+  <MarkerMonastery>修道院</MarkerMonastery>
+  
+  
+  <MarkerUnknown>未知</MarkerUnknown>
+  
+  
+  <MarkerPlain>平原</MarkerPlain>
+  
+
+
+  
+  
+  <CampaignEnterArea>进入区域</CampaignEnterArea>
+  
+
+  
+  <CampaignEnterAreaDialogueBoxTitle>正在进入新区域</CampaignEnterAreaDialogueBoxTitle>
+  
+  
+  <CampaignEnterAreaDialogueBoxDescription>你确定要离开战役地图并进入[x]吗？</CampaignEnterAreaDialogueBoxDescription>
+  
+
+  
+  <CampaignEnterOccupiedArea>营地已被占用</CampaignEnterOccupiedArea>
+  
+  
+  <CampaignEnterOccupiedAreaDialogueBoxDescription>此营地已被他人占用。你想要发动攻击并尝试将其夺下吗？</CampaignEnterOccupiedAreaDialogueBoxDescription>
+  
+
+  
+  
+  <CampaignMapLegend>图例</CampaignMapLegend>
+  
+  
+  <AreaMapHeadline>本地区域</AreaMapHeadline>
+  
+
+  
+  
+  <MapLegendActiveQuest>活跃任务</MapLegendActiveQuest>
+  
+  
+  <MapLegendCairn>石堆标</MapLegendCairn>
+  
+  
+  <MapLegendCampsite>营地</MapLegendCampsite>
+  
+  
+  <MapLegendEnemy>敌人</MapLegendEnemy>
+  
+  
+  <MapLegendMonastery>修道院</MapLegendMonastery>
+  
+  
+  <MapLegendPlayer>玩家</MapLegendPlayer>
+  
+  
+  <MapLegendQuest>任务</MapLegendQuest>
+  
+  
+  <MapLegendTitle>图例</MapLegendTitle>
+  
+  
+  <MapLegendTown>城镇</MapLegendTown>
+  
+  
+  <MapLegendTradepost>贸易站</MapLegendTradepost>
+  
+  
+  <MapLegendUnknown>未发现</MapLegendUnknown>
+  
+  
+  <MapLegendVillage>村庄</MapLegendVillage>
+  
+  
+  <MapLegendPOI>兴趣点</MapLegendPOI>
+  
+  
+  <MapLegendWaymarker>移动点</MapLegendWaymarker>
+  
+  
+  <TooltipMapLegendCompass>罗盘为你指示地图上的基本方向。</TooltipMapLegendCompass>
+  
+
+  
+  
+  <TerrainTypeWater>水域</TerrainTypeWater>
+  
+  
+  <TerrainTypeForest>森林</TerrainTypeForest>
+  
+  
+  <TerrainTypePlains>平原</TerrainTypePlains>
+  
+  
+  <TerrainTypeMarsh>沼泽</TerrainTypeMarsh>
+  
+  
+  <TerrainTypeBridge>桥</TerrainTypeBridge>
+  
+  
+  <TerrainTypeRoads>道路</TerrainTypeRoads>
+  
+  
+  <TerrainTypeMountains>山地</TerrainTypeMountains>
+  
+  
+  <TerrainTypeOffRoad>越野</TerrainTypeOffRoad>
+  
+
+  
+  
+  <PartyMembersCount>[x] [color=&quot;silver&quot;]侍卫[/color]</PartyMembersCount>
+  
+  
+  <PartyMembersFatigued>[x] [color=&quot;silver&quot;]疲惫[/color]</PartyMembersFatigued>
+  
+  
+  <PartyMembersInjured>[x] [color=&quot;silver&quot;]受伤[/color]</PartyMembersInjured>
+  
+  
+  <PartyMembersAverageMorale>[i][x][/i] [color=&quot;silver&quot;]([y])[/color]</PartyMembersAverageMorale>
+  
+  
+  <PartyMembersHungry>[x] [color=&quot;silver&quot;]饥饿[/color]</PartyMembersHungry>
+  
+  
+  <PartyMembersStarving>[x] [color=&quot;silver&quot;]极度饥饿[/color]</PartyMembersStarving>
+  
+
+  
+  
+  <TooltipAreaMapPlayer>你的侍卫队</TooltipAreaMapPlayer>
+  
+  
+  <TooltipAreaMapCampaignMap>战役地图</TooltipAreaMapCampaignMap>
+  
+
+  
+  
+  <CompassNorth>北</CompassNorth>
+  
+  
+  <CompassNorthAbbreviated>N</CompassNorthAbbreviated>
+  
+  
+  <CombassWest>西</CombassWest>
+  
+  
+  <CompassWestAbbreviated>W</CompassWestAbbreviated>
+  
+  
+  <CompassEast>东</CompassEast>
+  
+  
+  <CompassEastAbbreviated>E</CompassEastAbbreviated>
+  
+  
+  <CompassSouth>南</CompassSouth>
+  
+  
+  <CompassSouthAbbreviated>S</CompassSouthAbbreviated>
+  
+
+  
+  
+  <confirm>确认</confirm>
+  
+  
+  <ok>好的</ok>
+  
+  
+  <cancel>取消</cancel>
+  
+  
+  <yes>是</yes>
+  
+  
+  <no>否</no>
+  
+  
+  <close>关闭</close>
+  
+  
+  <dismiss>解散</dismiss>
+  
+  
+  <Continue>继续</Continue>
+  
+  
+  <you>你</you>
+  
+  
+  <Accept>接受</Accept>
+  
+  
+  <Rank>等级</Rank>
+  
+  
+  <Shift>班次</Shift>
+  
+  
+  <Shifts>班次</Shifts>
+  
+  
+  <Purchase>购买</Purchase>
+  
+  
+  <GeneralVersion>版本</GeneralVersion>
+  
+
+  
+  
+  <DialogueContinue>继续。</DialogueContinue>
+  
+  
+  <DialogueEndDialogue>结束对话。</DialogueEndDialogue>
+  
+  
+  <DialogueOpenTrade>打开贸易。</DialogueOpenTrade>
+  
+
+  
+  
+  <DialogueSelectFollower>选择侍卫</DialogueSelectFollower>
+  
+  
+  <DialogueSelectFollowerAmount>已选[x]。最多允许[y]。</DialogueSelectFollowerAmount>
+  
+  
+  <DialogueSelectFollowerEnterScene>谁该跟随你？</DialogueSelectFollowerEnterScene>
+  
+
+  
+  <PartySelectionAbsentFollower>[color=&quot;grey&quot;]缺席[/color]</PartySelectionAbsentFollower>
+  
+
+  
+  
+  <PartySelectionTitle>队伍选择</PartySelectionTitle>
+  
+  
+  <PartySelectionCreateNewButton>新建</PartySelectionCreateNewButton>
+  
+  
+  <PartySelectionCreateNewDescription>点击添加一名侍卫</PartySelectionCreateNewDescription>
+  
+  
+  <PartySelectionDismissTooltip>解散这名侍卫，空出栏位给他人。</PartySelectionDismissTooltip>
+  
+  
+  <PartySelectionSelectExistingButton>选择现有成员</PartySelectionSelectExistingButton>
+  
+  
+  <PartySelectionSelectExistingTitle>选择现有侍卫</PartySelectionSelectExistingTitle>
+  
+  
+  <PartySelectionSelectExistingSubtitle>谁该加入你的远征？</PartySelectionSelectExistingSubtitle>
+  
+  
+  <PartySelectionLocked>已锁定</PartySelectionLocked>
+  
+
+  
+  <PartySelectionCancelPromptTitle>退出队伍选择？</PartySelectionCancelPromptTitle>
+  
+  
+  <PartySelectionCancelPromptDescription>你对队伍所做的任何更改都将被撤销，但你创建的所有雇佣兵将被保存。</PartySelectionCancelPromptDescription>
+  
+  
+  <PartySelectionCancelPromptDescriptionToCharCreation>你对队伍所做的任何更改都将被撤销。</PartySelectionCancelPromptDescriptionToCharCreation>
+  
+
+  
+  <PartySelectionConfirmTitle>接受当前队伍？</PartySelectionConfirmTitle>
+  
+  
+  <PartySelectionConfirmDescriptionDenmark>你可以稍后返回这里招募更多的人，如果需要的话。</PartySelectionConfirmDescriptionDenmark>
+  
+  
+  <PartySelectionConfirmDescriptionBritain>此后你将无法管理你的队伍，请务必在继续之前对选择满意。</PartySelectionConfirmDescriptionBritain>
+  
+
+  
+  
+  <FollowerDeathName>[color=&quot;brown&quot;][name]已阵亡[/color]</FollowerDeathName>
+  
+  
+  <FollowerDeathCause>[name]因\n[color=&quot;brown&quot;][severity] [injury type][/color]而倒下</FollowerDeathCause>
+  
+
+  
+  
+  <CharacterNameGrammarInventory>[x][y][z]</CharacterNameGrammarInventory>
+  
+  
+  <CharacterNameGrammarNameplate>[x][z]</CharacterNameGrammarNameplate>
+  
+  
+  <CharacterNameGrammarDialogue>[x]</CharacterNameGrammarDialogue>
+  
+
+  
+  
+  <CharacterPatronymGrammarNorse>[x][y]</CharacterPatronymGrammarNorse>
+  
+  
+  <CharacterPatronymGrammarAngloSaxon>[x][y]</CharacterPatronymGrammarAngloSaxon>
+  
+  
+  <CharacterPatronymGrammarGaelic>[y] [x]</CharacterPatronymGrammarGaelic>
+  
+
+  
+  <SonOfNorse>之子</SonOfNorse>
+  
+  
+  <DaughterOfNorse>之女</DaughterOfNorse>
+  
+  
+  
+  <SonOfAngloSaxon>之子</SonOfAngloSaxon>
+  
+  
+  <DaughterOfAngloSaxon>之女</DaughterOfAngloSaxon>
+  
+  
+  
+  <SonOfGaelic>之子</SonOfGaelic>
+  
+  
+  <DaughterOfGaelic>之女</DaughterOfGaelic>
+  
+
+  
+  
+  <TraitAggressive>好斗</TraitAggressive>
+  
+  
+  <TraitPeaceful>平和</TraitPeaceful>
+  
+  
+  <TraitShifty>狡猾</TraitShifty>
+  
+  
+  <TraitHonourable>荣耀</TraitHonourable>
+  
+  
+  <TraitConceited>自负</TraitConceited>
+  
+  
+  <TraitOpenMinded>豁达</TraitOpenMinded>
+  
+  
+  <TraitSuperstitious>迷信</TraitSuperstitious>
+  
+  
+  <TraitSceptical>多疑</TraitSceptical>
+  
+  
+  <TraitGreedy>贪婪</TraitGreedy>
+  
+  
+  <TraitAltruistic>利他</TraitAltruistic>
+  
+  
+  <TraitIndependent>独立</TraitIndependent>
+  
+  
+  <TraitCooperative>合作</TraitCooperative>
+  
+  
+  <TraitPessimistic>悲观</TraitPessimistic>
+  
+  
+  <TraitOptimistic>乐观</TraitOptimistic>
+  
+
+  
+  
+  <ResourceHerbs>药草</ResourceHerbs>
+  
+  
+  <ResourceHerbsSingular>药草</ResourceHerbsSingular>
+  
+  
+  <ResourceHides>兽皮</ResourceHides>
+  
+  
+  <ResourceHidesSingular>兽皮</ResourceHidesSingular>
+  
+  
+  <ResourceMeat>肉</ResourceMeat>
+  
+  
+  <ResourceMeatSingular>肉</ResourceMeatSingular>
+  
+  
+  <ResourceMedicine>药品</ResourceMedicine>
+  
+  
+  <ResourceMedicineSingular>药品</ResourceMedicineSingular>
+  
+  
+  <ResourceRations>口粮</ResourceRations>
+  
+  
+  <ResourceRationsSingular>口粮</ResourceRationsSingular>
+  
+  
+  <ResourceSalvage>回收物</ResourceSalvage>
+  
+  
+  <ResourceSalvageSingular>回收物</ResourceSalvageSingular>
+  
+  
+  <ResourceValuables>贵重品</ResourceValuables>
+  
+  
+  <ResourceValuablesSingular>贵重品</ResourceValuablesSingular>
+  
+  
+  <ResourceWood>木材</ResourceWood>
+  
+  
+  <ResourceWoodSingular>木材</ResourceWoodSingular>
+  
+  
+  <ResourceSlaves>奴仆</ResourceSlaves>
+  
+  
+  <ResourceSlavesSingular>奴仆</ResourceSlavesSingular>
+  
+
+  
+  <ResourceHerbsDescription>在探索中发现。可以使用巫术技能转化为药品。</ResourceHerbsDescription>
+  
+  
+  <ResourceHidesDescription>一种有价值的贸易资源。可用于锻造。</ResourceHidesDescription>
+  
+  
+  <ResourceMeatDescription>扎营时通过狩猎获得。易腐资源，可用来喂食你的部众，或是腌制成口粮长久保存。</ResourceMeatDescription>
+  
+  
+  <ResourceMedicineDescription>扎营时，可用以施展治疗技能来料理伤势。</ResourceMedicineDescription>
+  
+  
+  <ResourceRationsDescription>可用来喂饱你的部众。跟鲜肉不同，口粮不会腐坏。</ResourceRationsDescription>
+  
+  
+  <ResourceSalvageDescription>用于锻造武器与护甲。可通过拆解物品栏里用不上的装备来回收获得。</ResourceSalvageDescription>
+  
+  
+  <ResourceValuablesDescription>你手头主要的贸易资源。能通过探索、完成任务或是跑商获得。</ResourceValuablesDescription>
+  
+  
+  <ResourceWoodDescription>用来打造设施，升级你的村落。</ResourceWoodDescription>
+  
+  
+  <ResourceSlavesDescription>一种贵重的硬通货，砸下去能让你家宅里的升级活儿瞬间完成。</ResourceSlavesDescription>
+  
+
+  
+  <ResourceHours>小时</ResourceHours>
+  
+  
+  <ResourceHoursSingular>小时</ResourceHoursSingular>
+  
+
+  
+  
+  <CraftingResourceBladder>膀胱</CraftingResourceBladder>
+  
+  
+  <CraftingResourceCloth>布料</CraftingResourceCloth>
+  
+  
+  <CraftingResourceCork>软木塞</CraftingResourceCork>
+  
+  
+  <CraftingResourceExtracts>提取物</CraftingResourceExtracts>
+  
+  
+  <CraftingResourceGrease>油脂</CraftingResourceGrease>
+  
+  
+  <CraftingResourceHoney>蜂蜜</CraftingResourceHoney>
+  
+  
+  <CraftingResourceIron>铁</CraftingResourceIron>
+  
+  
+  <CraftingResourcePoison>毒药</CraftingResourcePoison>
+  
+  
+  <CraftingResourcePole>木杆</CraftingResourcePole>
+  
+  
+  <CraftingResourcePot>陶罐</CraftingResourcePot>
+  
+  
+  <CraftingResourcePowder>粉末</CraftingResourcePowder>
+  
+  
+  <CraftingResourceRope>绳索</CraftingResourceRope>
+  
+  
+  <CraftingResourceString>细绳</CraftingResourceString>
+  
+  
+  <CraftingResourceTar>焦油</CraftingResourceTar>
+  
+  
+  <CraftingResourceVial>小瓶</CraftingResourceVial>
+  
+
+  
+  <CraftingResourceBladderDescription>动物的膀胱，天生就是存水的皮袋子。</CraftingResourceBladderDescription>
+  
+  
+  <CraftingResourceClothDescription>碎布头用途五花八门，既能拼成花哨的装饰，也能沾上油脂当引火棒。</CraftingResourceClothDescription>
+  
+  
+  <CraftingResourceCorkDescription>从橡树上剥下来的软木塞，专门用来堵住容器口，免得里头液体漏光。</CraftingResourceCorkDescription>
+  
+  
+  <CraftingResourceExtractsDescription>稀罕的提取物，专门用来捣鼓那些既古怪又危险的玩意儿。</CraftingResourceExtractsDescription>
+  
+  
+  <CraftingResourceGreaseDescription>要是啥东西卡住不动弹，别废话，厚厚抹上一把油脂准没错。</CraftingResourceGreaseDescription>
+  
+  
+  <CraftingResourceHoneyDescription>蜜蜂把花蜜酿成蜂蜜，人类把蜂蜜酿成蜜酒。瞧见没？这就是咱们能称霸地面的原因。</CraftingResourceHoneyDescription>
+  
+  
+  <CraftingResourceIronDescription>铁的用途多得是，但对你这种人嘛，最讨喜的当然是它那锋利、能扎穿皮肉的狠劲儿。</CraftingResourceIronDescription>
+  
+  
+  <CraftingResourcePoisonDescription>采自地上最招人嫌的毒花毒草，这玩意儿唯一的用处，就是让旁人的肠子悔青、日子难过。</CraftingResourcePoisonDescription>
+  
+  
+  <CraftingResourcePoleDescription>木杆看着不起眼，但用起来真叫一个顺手，尤其是拿来做陷阱的骨架。</CraftingResourcePoleDescription>
+  
+  
+  <CraftingResourcePotDescription>陶罐用来存汤水还凑合，但脆得很，往地上一摔，立马碎成一地渣。</CraftingResourcePotDescription>
+  
+  
+  <CraftingResourcePowderDescription>粉末是调配那些战斗前磕的猛药的基本底料，磕完上了场能让你多几分活头。</CraftingResourcePowderDescription>
+  
+  
+  <CraftingResourceRopeDescription>绳索能干的事儿海了去了。头一桩，就是给你的仇家布下天罗地网的绊脚索。</CraftingResourceRopeDescription>
+  
+  
+  <CraftingResourceStringDescription>细绳大多拿来缝衣裳，但在摆弄那些嘎嘣作响的精细机关时，也是缺它不可。</CraftingResourceStringDescription>
+  
+  
+  <CraftingResourceTarDescription>饱浸松脂的焦油，既是防腐护木的绝好涂料，也是海上行船堵缝的封胶。当然，拿来烧也是旺得不行。</CraftingResourceTarDescription>
+  
+  
+  <CraftingResourceVialDescription>小瓶可比陶罐结实得多，拿来装那一点点金贵的液体，再放心不过。</CraftingResourceVialDescription>
+  
+
+  
+  
+  <TooltipResourceHerbs>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipResourceHerbs>
+  
+  
+  <TooltipResourceHides>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipResourceHides>
+  
+  
+  <TooltipResourceMeat>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipResourceMeat>
+  
+  
+  <TooltipResourceMedicine>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipResourceMedicine>
+  
+  
+  <TooltipResourceRations>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipResourceRations>
+  
+  
+  <TooltipResourceSalvage>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipResourceSalvage>
+  
+  
+  <TooltipResourceValuables>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipResourceValuables>
+  
+  
+  <TooltipResourceWood>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipResourceWood>
+  
+  
+  <TooltipResourceSlaves>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipResourceSlaves>
+  
+
+  
+  <TooltipCraftingResourceBladder>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipCraftingResourceBladder>
+  
+  
+  <TooltipCraftingResourceCloth>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipCraftingResourceCloth>
+  
+  
+  <TooltipCraftingResourceCork>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipCraftingResourceCork>
+  
+  
+  <TooltipCraftingResourceExtracts>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipCraftingResourceExtracts>
+  
+  
+  <TooltipCraftingResourceGrease>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipCraftingResourceGrease>
+  
+  
+  <TooltipCraftingResourceHoney>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipCraftingResourceHoney>
+  
+  
+  <TooltipCraftingResourceIron>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipCraftingResourceIron>
+  
+  
+  <TooltipCraftingResourcePoison>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipCraftingResourcePoison>
+  
+  
+  <TooltipCraftingResourcePole>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipCraftingResourcePole>
+  
+  
+  <TooltipCraftingResourcePot>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipCraftingResourcePot>
+  
+  
+  <TooltipCraftingResourceRope>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipCraftingResourceRope>
+  
+  
+  <TooltipCraftingResourceString>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipCraftingResourceString>
+  
+  
+  <TooltipCraftingResourceTar>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipCraftingResourceTar>
+  
+  
+  <TooltipCraftingResourceVial>[size=&quot;16&quot;][ResourceName][/size]\n[ResourceDescription]</TooltipCraftingResourceVial>
+  
+
+  
+  
+  <ResourcePickupHerb>你收割了[y]，拢共到手[x]份药草。</ResourcePickupHerb>
+  
+  
+  <ResourcePickupHide>你扒下了一张[y]，赚到手[x]张兽皮。</ResourcePickupHide>
+  
+  
+  <ResourcePickupValuables>你摸到了[y]，这玩意儿能顶[x]份贵重品。</ResourcePickupValuables>
+  
+
+  
+  <HerbTypeBishopWort>芬努尔</HerbTypeBishopWort>
+  
+  
+  <HerbTypePurpleFoxglove>毛地黄</HerbTypePurpleFoxglove>
+  
+  
+  <HerbTypePoppy>罂粟</HerbTypePoppy>
+  
+  
+  <HerbTypeMayweed>洋甘菊</HerbTypeMayweed>
+  
+  
+  <HideTypeBearHide>熊皮</HideTypeBearHide>
+  
+  
+  <HideTypeWolfHide>狼皮</HideTypeWolfHide>
+  
+  
+  <ValuablesTypeTiny>一枚不起眼的小饰品</ValuablesTypeTiny>
+  
+  
+  <ValuablesTypeSmall>零碎几件小饰品</ValuablesTypeSmall>
+  
+  
+  <ValuablesTypeMedium>几颗散碎小饰品，外带叮当几枚钱币</ValuablesTypeMedium>
+  
+  
+  <ValuablesTypeLarge>实打实一小把钱币，再饶上几件小饰品</ValuablesTypeLarge>
+  
+  
+  <ValuablesTypeHuge>钱币哗啦啦淌了一地，小饰品数都数不过来</ValuablesTypeHuge>
+  
+
+  
+  
+  <HomesteadName>家宅</HomesteadName>
+  
+  
+  <HomesteadStatPower>武力</HomesteadStatPower>
+  
+  
+  <HomesteadStatProsperity>繁荣度</HomesteadStatProsperity>
+  
+
+  
+  <TooltipHomesteadStatPower>代表你氏族征召军队、向海外投射意志的能力。</TooltipHomesteadStatPower>
+  
+  
+  <TooltipHomesteadStatProsperity>代表你氏族的财富与幸福，这折射出你身为首领的才干。</TooltipHomesteadStatProsperity>
+  
+
+  
+  
+  <TimeDaysSingular>天</TimeDaysSingular>
+  
+  
+  <TimeDays>天</TimeDays>
+  
+  
+  <TimeWeeksSingular>周</TimeWeeksSingular>
+  
+  
+  <TimeWeeks>周</TimeWeeks>
+  
+  
+  <TimeHoursSingular>小时</TimeHoursSingular>
+  
+  
+  <TimeHours>小时</TimeHours>
+  
+  
+  <TimeGrammar1>[x] [y]</TimeGrammar1>
+  
+  
+  <TimeGrammar2>[x] [y], [x1] [y1]</TimeGrammar2>
+  
+  
+  <TimeGrammar3>[x] [y], [x1] [y1], [x2] [y2]</TimeGrammar3>
+  
+
+  
+  <TimeDay1>玛尼日</TimeDay1>
+  
+  
+  <TimeDay2>提尔日</TimeDay2>
+  
+  
+  <TimeDay3>奥丁日</TimeDay3>
+  
+  
+  <TimeDay4>索尔日</TimeDay4>
+  
+  
+  <TimeDay5>弗蕾雅日</TimeDay5>
+  
+  
+  <TimeDay6>沐浴日</TimeDay6>
+  
+  
+  <TimeDay7>太阳日</TimeDay7>
+  
+
+  
+  <TimeMonth1>一月</TimeMonth1>
+  
+  
+  <TimeMonth2>二月</TimeMonth2>
+  
+  
+  <TimeMonth3>三月</TimeMonth3>
+  
+  
+  <TimeMonth4>四月</TimeMonth4>
+  
+  
+  <TimeMonth5>五月</TimeMonth5>
+  
+  
+  <TimeMonth6>六月</TimeMonth6>
+  
+  
+  <TimeMonth7>七月</TimeMonth7>
+  
+  
+  <TimeMonth8>八月</TimeMonth8>
+  
+  
+  <TimeMonth9>九月</TimeMonth9>
+  
+  
+  <TimeMonth10>十月</TimeMonth10>
+  
+  
+  <TimeMonth11>十一月</TimeMonth11>
+  
+  
+  <TimeMonth12>十二月</TimeMonth12>
+  
+
+  
+  <TimeDayEnd1>日</TimeDayEnd1>
+  
+  
+  <TimeDayEnd2>日</TimeDayEnd2>
+  
+  
+  <TimeDayEnd3>日</TimeDayEnd3>
+  
+  
+  <TimeDayEnd4>日</TimeDayEnd4>
+  
+
+  
+  <TimeNewDay>[year]年[month]月[daynumber][dayend]日，[day]</TimeNewDay>
+  
+
+  
+  
+  <CampingMenuType>类型</CampingMenuType>
+  
+  
+  <CampingMenuAutoAssign>全部清除</CampingMenuAutoAssign>
+  
+  
+  <CampingMenuClearAll>自动分配</CampingMenuClearAll>
+  
+  
+  <CampingMenuManualFood>手动食物分配</CampingMenuManualFood>
+  
+  
+  <CampingMenuAutoMeat>自动分配新肉</CampingMenuAutoMeat>
+  
+  
+  <CampingMenuWhoEats>谁先吃？</CampingMenuWhoEats>
+  
+  
+  <CampingMenuGuarding>守卫</CampingMenuGuarding>
+  
+  
+  <CampingMenuHunting>狩猎</CampingMenuHunting>
+  
+  
+  <CampingMenuScouting>侦察</CampingMenuScouting>
+  
+  
+  <CampingMenuPreserving>腌制</CampingMenuPreserving>
+  
+  
+  <CampingMenuWitchcraft>巫术</CampingMenuWitchcraft>
+  
+  
+  <CampingMenuCleaning>清洁</CampingMenuCleaning>
+  
+  
+  <CampingMenuMakeCamp>扎营</CampingMenuMakeCamp>
+  
+  
+  <CampingMenuCancelCamp>离开营地</CampingMenuCancelCamp>
+  
+  
+  <CampingMenuAssignToAll>分配给所有人</CampingMenuAssignToAll>
+  
+  
+  <CampingMenuOpenMenu>[X]选单</CampingMenuOpenMenu>
+  
+  
+  <CampingMenuStrongest>身子骨最硬朗的</CampingMenuStrongest>
+  
+  
+  <CampingMenuWeakest>最虚弱不堪的</CampingMenuWeakest>
+  
+  
+  <CampingMenuBest>最能打的尖刀</CampingMenuBest>
+  
+  
+  <CampingMenuWorst>战五渣的累赘</CampingMenuWorst>
+  
+  
+  <CampingMenuLoyal>忠心耿耿的</CampingMenuLoyal>
+  
+  
+  <CampingMenuDisgruntled>脑后长反骨的</CampingMenuDisgruntled>
+  
+  
+  <CampingMenuTaskRank>[color=&quot;grey&quot;]等级 [x][/color]</CampingMenuTaskRank>
+  
+  
+  <CampingMenuTaskNoRank>[color=&quot;#555555&quot;]没有等级[/color]</CampingMenuTaskNoRank>
+  
+  
+  <CampingMenuTaskRankRequired>[color=&quot;#553333&quot;]需要达到等级 1[/color]</CampingMenuTaskRankRequired>
+  
+
+  
+  <CampingResultsOverview>露营成果</CampingResultsOverview>
+  
+  
+  <CampingMenuFoodShiftDown>在此营地狩猎时，食物储备预计减少的概率范围。</CampingMenuFoodShiftDown>
+  
+  
+  <CampingMenuFoodShiftUp>你下次在此扎营前，该营地食物随时间自然增长的量。</CampingMenuFoodShiftUp>
+  
+  
+  
+  <CampingPermanentEffectRemoved>[c] 失去了 [x] 状态效果。</CampingPermanentEffectRemoved>
+  
+
+  
+  
+  <CampingResultsInjury>[name] ([injury])\n[oldseverity] → [newseverity]</CampingResultsInjury>
+  
+  
+  
+  <CampingResultsResource>[x] [resource]</CampingResultsResource>
+  
+
+  
+  
+  <CampResultsTooltipEating>你的扈从队消耗了 [color=&quot;red&quot;][x] [resource][/color]。</CampResultsTooltipEating>
+  
+  
+  <CampResultsTooltipCooking>在 [color=&quot;yellow&quot;][shift] 班次[/color] 中，[name] 利用剩肉烹饪，产出了 [color=&quot;lime&quot;][x] [resource][/color]。</CampResultsTooltipCooking>
+  
+  
+  <CampResultsTooltipHunting>在 [color=&quot;yellow&quot;][shift] 班次[/color] 中，[name] 外出打猎，带回了 [color=&quot;lime&quot;][x] 块肉[/color]。</CampResultsTooltipHunting>
+  
+  
+  <CampResultsTooltipPreserving>在 [color=&quot;yellow&quot;][shift] 班次[/color] 中，[name] 将你的肉类腌制保存，制成了 [color=&quot;lime&quot;][x] [resource][/color]。</CampResultsTooltipPreserving>
+  
+  
+  <CampResultsTooltipWitchcraft>在 [color=&quot;yellow&quot;][shift] 班次[/color] 中，[name] 用药草调配了 [color=&quot;lime&quot;][x] 份药物[/color]。</CampResultsTooltipWitchcraft>
+  
+  
+  <CampResultsTooltipHealing>在 [color=&quot;yellow&quot;][shift] 班次[/color] 中，[name] 使用了 [color=&quot;red&quot;][x] 份药物[/color] 治疗一处伤口。</CampResultsTooltipHealing>
+  
+  
+  <CampResultsTooltipGuarding>在 [color=&quot;yellow&quot;][shift] 班次[/color] 中，营地疏于戒备，[color=&quot;red&quot;][x] [resource][/color] 不翼而飞。</CampResultsTooltipGuarding>
+  
+  
+  <CampResultsTooltipRepairing>在 [color=&quot;yellow&quot;][shift] 班次[/color] 中，[name] 消耗了 [color=&quot;red&quot;][x] [resource][/color] 修理装备。</CampResultsTooltipRepairing>
+  
+  
+  <CampResultsTooltipCrafting>在 [color=&quot;yellow&quot;][shift] 班次[/color] 中，[name] 消耗了 [color=&quot;red&quot;][x] [resource][/color] 打造装备。</CampResultsTooltipCrafting>
+  
+  
+  <CampResultsTooltipTinkering>在 [color=&quot;yellow&quot;][shift] 班次[/color] 中，[name] 消耗了 [color=&quot;red&quot;][x] [resource][/color] 制作战斗物品。</CampResultsTooltipTinkering>
+  
+  
+  <CampResultsTooltipSpoiled>你的扈从队没能及时吃掉或把 [color=&quot;red&quot;][x] 块肉[/color] 腌成口粮，它们腐坏了。</CampResultsTooltipSpoiled>
+  
+
+  
+
+  
+  <CampResultsMiscellaneous>[hungry] [statuseffects] [scouting]</CampResultsMiscellaneous>
+  
+  
+  <CampResultsHungry>你的侍卫中有 [notfed] 人尚未进食。</CampResultsHungry>
+  
+  
+  <CampResultsHungryNone>你所有的侍卫都已用过餐。</CampResultsHungryNone>
+  
+  
+  <CampResultsStatusEffect>你的侍卫中有 [affected] 人陷入了 [statuseffect] 状态。</CampResultsStatusEffect>
+  
+  
+  <CampResultsScouting>你的斥候在附近发现了有趣的东西。</CampResultsScouting>
+  
+
+  
+  <StatusEffectHungryPlayerMessage>[x] 饿了。</StatusEffectHungryPlayerMessage>
+  
+  
+  <StatusEffectStarvingPlayerMessage>[x] 已经饿得发慌。</StatusEffectStarvingPlayerMessage>
+  
+  
+  <IsFedHungryPlayerMessage>[x] 吃了东西，不再饥饿。</IsFedHungryPlayerMessage>
+  
+  
+  <IsFedStarvingPlayerMessage>[x] 填饱了肚子，总算不再挨饿。</IsFedStarvingPlayerMessage>
+  
+
+  
+  <CampResultsShift>[size=&quot;24&quot;][color=&quot;yellow&quot;]第 [x] 班次[/color][/size]</CampResultsShift>
+  
+
+  
+  
+  <CampResultsHuntingSuccessSingle>[X] 打猎归来，带回了 [Z] 块 [A]！</CampResultsHuntingSuccessSingle>
+  
+  
+  <CampResultsHuntingSuccessMultiple>[X] 打猎归来，带回了 [Z] 块 [A]！</CampResultsHuntingSuccessMultiple>
+  
+  
+  <CampResultsHuntingFailure>[X] 打猎空手而归，没带回一块 [A]。</CampResultsHuntingFailure>
+  
+  
+  <CampResultsGuardSuccess>[X] 结束守卫，营地安然无恙。</CampResultsGuardSuccess>
+  
+  
+  <CampResultsGuardSuccessPlural>[X] 结束守卫，营地安然无恙。</CampResultsGuardSuccessPlural>
+  
+  
+  <CampResultsGuardFailure>[X] 没能守住营地，你发现 [Z] [Y] 被盗。</CampResultsGuardFailure>
+  
+  
+  <CampResultsGuardFailurePlural>[X] 没能守住营地，你发现 [Z] [Y] 被盗。</CampResultsGuardFailurePlural>
+  
+  
+  <CampResultsGuardFailureNoGuards>营地无人看守，[Z] [Y] 被盗走。</CampResultsGuardFailureNoGuards>
+  
+  
+  <CampResultsGuardFailureTooPoor>营地防守失利，好在入侵者没捞着任何油水。</CampResultsGuardFailureTooPoor>
+  
+  
+  <CampResultsScoutSuccess>[X] 有所发现，带回了好东西。</CampResultsScoutSuccess>
+  
+  
+  <CampResultsScoutSuccessPlural>[X] 有所发现，带回了好东西。</CampResultsScoutSuccessPlural>
+  
+  
+  <CampResultsScoutFailure>[X] 一无所获。</CampResultsScoutFailure>
+  
+  
+  <CampResultsScoutFailurePlural>[X] 一无所获。</CampResultsScoutFailurePlural>
+  
+  
+  <CampResultsWitchcraftSingle>[X] 将 [Z] [A] 碾碎，加工成了 [Y] [B]。</CampResultsWitchcraftSingle>
+  
+  
+  <CampResultsWitchcraftMultiple>[X] 将 [Z] [A] 碾碎，加工成了 [Y] [B]。</CampResultsWitchcraftMultiple>
+  
+  
+  <CampResultsTinkerFailure/>
+  
+  
+  <CampResultsCraftSuccess>[X] 打造了一件崭新的 [Y]。</CampResultsCraftSuccess>
+  
+  
+  <CampResultsCraftFailure/>
+  
+  
+  <CampResultsRepairSuccess>[X] 修复了 [Y] [item]。</CampResultsRepairSuccess>
+  
+  
+  <CampResultsRepairFailure/>
+  
+  
+  <CampResultsTinkerSuccess>[X] 鼓捣出一件新的 [Y]。</CampResultsTinkerSuccess>
+  
+  
+  <CampResultsHealSuccess>[X] 花费 [Z] 份药物，改善了 [Y] 的伤势。</CampResultsHealSuccess>
+  
+  
+  <CampResultsCookSuccess>[X] 把所有人的食物凑在一起，做了一锅大锅饭。</CampResultsCookSuccess>
+  
+  
+  <CampResultsCookSuccessBonus>[X] 烹饪了一顿美味大餐，填饱了所有人的肚子。众人受到感召：[W]。</CampResultsCookSuccessBonus>
+  
+  
+  <CampResultsCookSuccessRation>[X] 做了顿扎实的饱饭，剩下的刚好做成口粮。你获得了 [Y] [Z]。</CampResultsCookSuccessRation>
+  
+  
+  <CampResultsCookSuccessBonusRation>[X] 烹饪了完美的一餐。所有人都感到 [W]，剩下的食物还做成了 [Y] [Z]。</CampResultsCookSuccessBonusRation>
+  
+  
+  <CampResultsCookFailure>[X] 做的饭难以下咽，所有人都 [W]。</CampResultsCookFailure>
+  
+  
+  <CampResultsFoodDefault>你的远征队消耗了 [Y] [Z]。</CampResultsFoodDefault>
+  
+  
+  <CampResultsCleanSuccess>整个班次，[X] 都在给大伙收拾残局、打扫卫生。</CampResultsCleanSuccess>
+  
+  
+  <CampResultsCleanFailure>花了三小时给所有人收拾烂摊子，[X] 心情糟透了，士气 -1。</CampResultsCleanFailure>
+  
+  
+  <CampResultsPreserveSuccessMultiple>[X] 用盐腌好并包裹住 [Z] 块 [A]，将它们制成了 [Y] [B]。</CampResultsPreserveSuccessMultiple>
+  
+  
+  <CampResultsPreserveSuccessSingle>[X] 用盐腌好并包裹住 [Z] 块 [A]，将它制成了 [Y] [B]。</CampResultsPreserveSuccessSingle>
+  
+  
+  <CampResultsRestingSuccess>[X] 酣睡了整整 8 个小时，起身时精力充沛。</CampResultsRestingSuccess>
+  
+  
+  <CampResultsRestingFailure>[X] 只睡了 4 个钟头就被打断，醒来时一脸倦容。</CampResultsRestingFailure>
+  
+  
+  <CampResultsRestingNoSleep>[X] 一夜没睡踏实，陷入了疲乏。</CampResultsRestingNoSleep>
+  
+
+  
+  
+  <CampResultsShift1>1st</CampResultsShift1>
+  
+  
+  <CampResultsShift2>2nd</CampResultsShift2>
+  
+  
+  <CampResultsShift3>3rd</CampResultsShift3>
+  
+  
+  <CampResultsShift4>4th</CampResultsShift4>
+  
+
+  
+  <CampCharacterSortAlphabet>姓名</CampCharacterSortAlphabet>
+  
+  
+  <CampCharacterSortMorale>士气</CampCharacterSortMorale>
+  
+  
+  <CampCharacterSortInjury>生命</CampCharacterSortInjury>
+  
+  
+  <CampCharacterSortGuardingSkill>守卫</CampCharacterSortGuardingSkill>
+  
+  
+  <CampCharacterSortFoodAssigned>分配食物</CampCharacterSortFoodAssigned>
+  
+
+  
+  <CampCharacterSortAscending>（升序）</CampCharacterSortAscending>
+  
+  
+  <CampCharacterSortDescending>（降序）</CampCharacterSortDescending>
+  
+
+  
+  <CampSecurity>安全\n衡量营地的安全程度，让营地更难遭到攻击与偷窃。在最后一个班次安排人手进行清扫，可以防止安全度恶化。</CampSecurity>
+  
+  
+  <CampSecurityVeryLow>非常低</CampSecurityVeryLow>
+  
+  
+  <CampSecurityLow>低</CampSecurityLow>
+  
+  
+  <CampSecurityMedium>中</CampSecurityMedium>
+  
+  
+  <CampSecurityHigh>高</CampSecurityHigh>
+  
+  
+  <CampSecurityVeryHigh>非常高</CampSecurityVeryHigh>
+  
+  
+  <CampShelter>庇护所\n衡量营地受自然元素侵袭的程度，以及获取扎营必需资源的难易度。数值越高，越容易获得“精力充沛”状态。</CampShelter>
+  
+  
+  <CampShelterVeryBad>非常差</CampShelterVeryBad>
+  
+  
+  <CampShelterBad>差</CampShelterBad>
+  
+  
+  <CampShelterNormal>普通</CampShelterNormal>
+  
+  
+  <CampShelterGood>良好</CampShelterGood>
+  
+  
+  <CampShelterVeryGood>非常好</CampShelterVeryGood>
+  
+  
+  <CampFood>食物\n衡量区域内猎物的多寡。猎物越多，你的猎人能带回营地的肉就越多。</CampFood>
+  
+  
+  <CampFoodVeryHigh>非常多</CampFoodVeryHigh>
+  
+  
+  <CampFoodHigh>多</CampFoodHigh>
+  
+  
+  <CampFoodMedium>中</CampFoodMedium>
+  
+  
+  <CampFoodLow>少</CampFoodLow>
+  
+  
+  <CampFoodVeryLow>非常少</CampFoodVeryLow>
+  
+  
+  <CampName>营地</CampName>
+  
+  
+  <CampTerrainType>地形类型\n决定守卫和狩猎的难度以及庇护所的质量，同时也会影响猎人能带回的肉量。</CampTerrainType>
+  
+
+  
+  <CampTaskRest>休息</CampTaskRest>
+  
+  
+  <CampTaskGuard>守卫</CampTaskGuard>
+  
+  
+  <CampTaskHunting>狩猎</CampTaskHunting>
+  
+  
+  <CampTaskScout>侦察</CampTaskScout>
+  
+  
+  <CampTaskCook>烹饪</CampTaskCook>
+  
+  
+  <CampTaskPreserve>腌制</CampTaskPreserve>
+  
+  
+  <CampTaskCraft>制造</CampTaskCraft>
+  
+  
+  <CampTaskRepair>修理</CampTaskRepair>
+  
+  
+  <CampTaskTinker>修补</CampTaskTinker>
+  
+  
+  <CampTaskHeal>治疗</CampTaskHeal>
+  
+  
+  <CampTaskWitchcraft>巫术</CampTaskWitchcraft>
+  
+  
+  <CampTaskClean>打扫</CampTaskClean>
+  
+
+  
+  <GuardPercentage>守卫 %</GuardPercentage>
+  
+
+  
+  <CampTaskSelectionErrorNotImplemented>当前选定的营地任务尚未实装。</CampTaskSelectionErrorNotImplemented>
+  
+  
+  <CampTaskSelectionErrorNotEnoughShifts>剩余的班次不足。</CampTaskSelectionErrorNotEnoughShifts>
+  
+  
+  <CampTaskSelectionErrorNotAllowedInShift>该任务不允许在本班次执行。</CampTaskSelectionErrorNotAllowedInShift>
+  
+  
+  <CampTaskSelectionErrorMaximumAssigned>该任务已被指派。</CampTaskSelectionErrorMaximumAssigned>
+  
+  
+  <CampTaskSelectionErrorCantBeInjured>受伤的角色无法执行此任务。</CampTaskSelectionErrorCantBeInjured>
+  
+  
+  <CampTaskSelectionErrorIsBeingHealed>该角色在本班次正接受治疗，需要休息。</CampTaskSelectionErrorIsBeingHealed>
+  
+  
+  <CampTaskSelectionErrorNotEnoughHerbs>你没有足够的药草来制成药品。</CampTaskSelectionErrorNotEnoughHerbs>
+  
+  
+  <CampTaskSelectionErrorDoesntHaveRequiredSkill>该角色不具备所需技能。</CampTaskSelectionErrorDoesntHaveRequiredSkill>
+  
+  
+  <CampTaskSelectionErrorNoOneEating>这项任务要求本营地至少有一人在此班次进食。</CampTaskSelectionErrorNoOneEating>
+  
+  
+  <CampTaskSelectionErrorNoBrokenItems>你队伍中没有损坏的物品。</CampTaskSelectionErrorNoBrokenItems>
+  
+  
+  <CampTaskSelectionErrorNotEnoughMeat>你没有足够的肉来加工成口粮。</CampTaskSelectionErrorNotEnoughMeat>
+  
+  
+  <CampTaskSelectionErrorNoHurtCharacters>这项任务需要一名受伤的扈从。</CampTaskSelectionErrorNoHurtCharacters>
+  
+  
+  <CampTaskSelectionErrorThegnCantClean>领主不应该去打扫营地。</CampTaskSelectionErrorThegnCantClean>
+  
+
+  
+  <TitleCampTask>[taskID]</TitleCampTask>
+  
+  
+  <TitleCampTaskDisabled>[color=&quot;#[c]&quot;][taskID][/color]</TitleCampTaskDisabled>
+  
+  
+  <TooltipCampTaskOverview>[shift] [taskID] ([amount] [shift])</TooltipCampTaskOverview>
+  
+  
+  <TooltipCampTaskError>\n\n[color=&quot;#[c]&quot;][error][/color]</TooltipCampTaskError>
+  
+  
+  
+  
+  
+  <CampStatsTerrainType>[x]</CampStatsTerrainType>
+  
+  
+  <CampStatsFood>[x]</CampStatsFood>
+  
+  
+  <CampStatsShelter>[x]</CampStatsShelter>
+  
+  
+  <CampStatsSecurity>[x] [y]</CampStatsSecurity>
+  
+
+  
+  
+  <TodoHeadline>提醒</TodoHeadline>
+  
+  
+  <TodoUnassignedFood>[color=&quot;orange&quot;][name][/color] 没有分配食物</TodoUnassignedFood>
+  
+  
+  <TodoUnassignedFoodPlural>[color=&quot;yellow&quot;][x] 名扈从[/color] 没有分配食物</TodoUnassignedFoodPlural>
+  
+  
+  <TodoUnassignedMeatSpoiled>本次扎营将有 [color=&quot;orange&quot;][x][/color] 份肉腐坏</TodoUnassignedMeatSpoiled>
+  
+  
+  <TodoUnassignedShifts>[color=&quot;orange&quot;][name][/color] 仍有可用班次</TodoUnassignedShifts>
+  
+  
+  <TodoUnassignedShiftsPlural>[color=&quot;yellow&quot;][x] 名扈从[/color] 仍有可用班次</TodoUnassignedShiftsPlural>
+  
+  
+  <TodoUnnecessaryAssignment>[color=&quot;orange&quot;][name][/color] 被分配的任务毫无成效</TodoUnnecessaryAssignment>
+  
+  
+  <TodoUnnecessaryAssignmentPlural>[color=&quot;yellow&quot;][x] 名扈从[/color] 被分配的任务毫无成效</TodoUnnecessaryAssignmentPlural>
+  
+  
+  <TodoUnassignedCleaning>无人被分配打扫营地</TodoUnassignedCleaning>
+  
+  
+  <TodoUnassignedInjury>[color=&quot;orange&quot;][name][/color] 有伤势未处理</TodoUnassignedInjury>
+  
+  
+  <TodoNotResting>[color=&quot;orange&quot;][name][/color] 无法获得充分休息</TodoNotResting>
+  
+  
+  <TodoNotRestingPlural>[color=&quot;yellow&quot;][x] 名扈从[/color] 无法获得充分休息</TodoNotRestingPlural>
+  
+  
+  <TodoEmptyList>[color=&quot;grey&quot;]没有需要留意的状况[/color]</TodoEmptyList>
+  
+
+
+  
+  <TodoItemDurability>[x]/[y]</TodoItemDurability>
+  
+  
+  <TodoItemDurabilityHighWear>[color=&quot;red&quot;][x]/[y][/color]</TodoItemDurabilityHighWear>
+  
+
+  
+  
+  <LoadingHint1>你父亲最后一次远征，航向不列颠群岛。归来的船员不足半数。</LoadingHint1>
+  
+  
+  <LoadingHint2>战斗中要留心借机攻击。离开敌人相邻的格子，会让他对你发动一次免费攻击。</LoadingHint2>
+  
+  
+  <LoadingHint3>战斗中，你可以按键盘上的数字键来启用或关闭技能。</LoadingHint3>
+  
+  
+  <LoadingHint4>对话时务必谨慎选择，许多选项都会影响你的声望。</LoadingHint4>
+  
+  
+  <LoadingHint5>扈从的士气会影响他们的物理和精神抗性，所以尽量让每个人都心情愉快。</LoadingHint5>
+  
+  
+  <LoadingHint6>扈从在战斗中失去行动能力后，倒地越久，越容易落下伤势。</LoadingHint6>
+  
+  
+  <LoadingHint7>伤势虽不会让扈从无法行动，却会让他们在战斗内外都遭受惩罚。</LoadingHint7>
+  
+  
+  <LoadingHint8>游戏时若找不到你的角色，按下 F 键即可将镜头居中到他身上。</LoadingHint8>
+  
+  
+  <LoadingHint9>扈从是一路跟随你、并肩作战的所有人。侍卫则是那些与你尤为亲近、值得信赖的精锐战士。</LoadingHint9>
+  
+  
+  <LoadingHint10>装备在战斗中有可能损坏，扎营时需要修理。</LoadingHint10>
+  
+  
+  <LoadingHint11>侧翼伤害加成完全无视目标的伤害减免，因此侧翼攻击对装甲敌人特别有效。</LoadingHint11>
+  
+  
+  <LoadingHint12>每个角色能携带两套物品，并在攻击前自由切换。这对弓箭手来说尤为重要。</LoadingHint12>
+  
+  
+  <LoadingHint13>旅行耗费时间，而时间是一种终究会耗尽的资源。请仔细规划你的行程。</LoadingHint13>
+  
+  
+  <LoadingHint14>营地会在两次到访间保留下来。好好维护你的营地——日后或许还要仰仗它。</LoadingHint14>
+  
+  
+  <LoadingHint15>商人的库存每周会随新货抵达而刷新。</LoadingHint15>
+  
+  
+  <LoadingHint16>留心寻找石冢。每发现一处，你都会获得 1 点技能点。</LoadingHint16>
+  
+  
+  <LoadingHint17>基督教扩张的威胁，正从南方的法兰克王国一步步逼近丹麦。</LoadingHint17>
+  
+  
+  <LoadingHint18>无论想少点挑战还是多点磨难，你随时都可以更改难度。</LoadingHint18>
+  
+  
+  <LoadingHint19>斯堪的纳维亚的异教部落与不列颠群岛的基督教王国之间，此前少有往来……直到如今。</LoadingHint19>
+  
+  
+  <LoadingHint20>“莱当征募制”（征召）军队每 4 年可动员一次。每个“船区”（征兵分区）都必须为征召提供一艘船及相应船员。</LoadingHint20>
+  
+  
+  <LoadingHint21>摸清你扈从的长处和短板。一个感知能力很差的角色注定是个蹩脚的弓箭手。治疗师如果感知低下，便形同虚设。</LoadingHint21>
+  
+  
+  <LoadingHint22>北欧日耳曼异教信仰中的男性宗教领袖称为“祭司”。对应的女性头衔是“女祭司”。</LoadingHint22>
+  
+  
+  <LoadingHint23>左手物品栏位留空时，你将获得 3% 的暴击率加成。</LoadingHint23>
+  
+  
+  <LoadingHint24>维京长船以吃水浅著称，这让它们速度极快，既能沿河航行，也能直接冲上海滩登陆。</LoadingHint24>
+  
+  
+  <LoadingHint25>基督教由罗马人带入不列颠，却毁于撒克逊人的入侵。直到公元600年左右，格里高利传教团才让基督教重归此地。</LoadingHint25>
+  
+  
+  <LoadingHint26>敌人会阻挡远程攻击的视线，而你的队员之间则不会互相遮挡。</LoadingHint26>
+  
+  
+  <LoadingHint27>100份珍贵物品，相当于10厄尔图格银币或5枚盎格鲁-撒克逊便士。</LoadingHint27>
+  
+  
+  <LoadingHint28>双手武器拥有攻击距离优势，能让你在接敌时不被对方的借机攻击缠住。</LoadingHint28>
+  
+  
+  <LoadingHint29>在古诺斯语中，“viking”一词既指远征本身，也指参与远征的人。所以某种意义上，这个游戏可以叫《远征：远征》。</LoadingHint29>
+  
+  
+  <LoadingHint30>雅尔的权势仅次于国王，可代行王权。塞恩则是地方酋长，通常还掌管着一艘战船。</LoadingHint30>
+  
+  
+  <LoadingHint31>盾女是那些选择像战士一样去战斗的女性。尽管有此名号，她们未必真的手持盾牌。</LoadingHint31>
+  
+  
+  <LoadingHint32>普通远程攻击会施加“被骚扰”效果，令目标的伤害减免降低一个回合。技能则不会对敌人造成骚扰。</LoadingHint32>
+  
+  
+  <LoadingHint33>当回合结束时，仍留有攻击行动（红环）的角色将进入“稳固”状态，能保护他们免于被弓箭手骚扰。</LoadingHint33>
+  
+  
+  <LoadingHint34>战斗中，你可以按F1至F12键来选择你的追随者。</LoadingHint34>
+  
+  
+  <LoadingHint35>日德兰的塞恩们将在秋分——9月19日——于阿尔庭与西古尔德·赫林王会面。你务必在此前达成目标。</LoadingHint35>
+  
+
+  
+  
+  <TooltipAreaMap>区域地图</TooltipAreaMap>
+  
+  
+  <TooltipInventory>物品栏</TooltipInventory>
+  
+  
+  <TooltipOptions>选项菜单</TooltipOptions>
+  
+  
+  <TooltipHomestead>家园</TooltipHomestead>
+  
+  
+  <TooltipQuests>任务日志</TooltipQuests>
+  
+  
+  <TooltipCodex>典籍</TooltipCodex>
+  
+  
+  <TooltipSkills>角色与技能菜单</TooltipSkills>
+  
+
+  
+  <TooltipCampTaskRest>休息能驱散疲劳。</TooltipCampTaskRest>
+  
+  
+  <TooltipCampTaskGuard>守卫有助于保护营地免遭袭击或偷窃。</TooltipCampTaskGuard>
+  
+  
+  <TooltipCampTaskHunting>狩猎能为你的远征增添鲜肉。</TooltipCampTaskHunting>
+  
+  
+  <TooltipCampTaskScout>侦察有机率在营地附近的战役地图上发现资源。</TooltipCampTaskScout>
+  
+  
+  <TooltipCampTaskCook>烹饪有几率为你战士们施加增益。</TooltipCampTaskCook>
+  
+  
+  <TooltipCampTaskPreserve>腌制决定了将多少鲜肉制成口粮的比例。</TooltipCampTaskPreserve>
+  
+  
+  <TooltipCampTaskCraft>锻造能让追随者打造战斗用的武器和护甲。</TooltipCampTaskCraft>
+  
+  
+  <TooltipCampTaskRepair>修理损坏的物品。</TooltipCampTaskRepair>
+  
+  
+  <TooltipCampTaskHeal>治疗用来照料受伤的追随者。</TooltipCampTaskHeal>
+  
+  
+  <TooltipCampTaskWitchcraft>巫术决定了将多少药草制成药品的比例。</TooltipCampTaskWitchcraft>
+  
+  
+  <TooltipCampTaskTinker>修补能让追随者制作战斗用的小物件。</TooltipCampTaskTinker>
+  
+  
+  <TooltipCampTaskClean>清洁能维持营地的隐秘安全，防止其安全度在使用中降低。</TooltipCampTaskClean>
+  
+
+  
+  <TooltipCampStatGuarding>营地免遭攻击或偷窃的概率。</TooltipCampStatGuarding>
+  
+  
+  <TooltipCampStatHunting>猎人带回来的肉量，大致相当于狩猎技能等级的2倍。</TooltipCampStatHunting>
+  
+  
+  <TooltipCampStatPatrolling>在营地附近战役地图上发现资源的几率。</TooltipCampStatPatrolling>
+  
+  
+  <TooltipCampStatPreserving>从可用的肉类总量中，设定要制成口粮的数量。</TooltipCampStatPreserving>
+  
+  
+  <TooltipCampStatWitchcraft>从可用的药草总量中，设定要制成药品的数量。</TooltipCampStatWitchcraft>
+  
+
+  
+  <TooltipCampFilterNext>选择下一个筛选器来显示追随者。</TooltipCampFilterNext>
+  
+  
+  <TooltipCampFilterPrevious>选择上一个筛选器来显示追随者。</TooltipCampFilterPrevious>
+  
+  
+  <TooltipCampClearAll>清除所有追随者的当前任务，全部重置为休息。</TooltipCampClearAll>
+  
+  
+  <TooltipCampAutoAssign>根据你的需求和他们的技能，自动为所有追随者分配任务。但不会自动分配锻造、修补、修理或治疗任务。</TooltipCampAutoAssign>
+  
+  
+  <TooltipCampFoodNone>不为任何追随者分配食物。</TooltipCampFoodNone>
+  
+  
+  <TooltipCampFoodMeat>将所有鲜肉分配给追随者，之后改用口粮。</TooltipCampFoodMeat>
+  
+  
+  <TooltipCampFoodRation>为所有追随者分配一份口粮，直至耗尽。</TooltipCampFoodRation>
+  
+  
+  <TooltipCampFoodAutoAssign>自动将上次扎营时获得的鲜肉分配给追随者，以减少口粮消耗。</TooltipCampFoodAutoAssign>
+  
+  
+  <TooltipCampFoodWhoEatsFirst>决定进食的优先顺序。新的鲜肉会优先分给排在前面的人，然后是口粮，依次分配，直至供应耗尽。</TooltipCampFoodWhoEatsFirst>
+  
+  
+  <TooltipCampFoodAssignToAll>将选定的食物分配给所有追随者。</TooltipCampFoodAssignToAll>
+  
+
+  
+  <TooltipCampingMenuStrongest>最健康的追随者先吃，确保精兵强将们能获得饱食状态。</TooltipCampingMenuStrongest>
+  
+  
+  <TooltipCampingMenuWeakest>最虚弱的追随者先吃，向亟需之人施以仁慈。</TooltipCampingMenuWeakest>
+  
+  
+  <TooltipCampingMenuBest>最强的战士先吃，依据是他们在战斗技能上投入的技能点多寡。</TooltipCampingMenuBest>
+  
+  
+  <TooltipCampingMenuWorst>最弱的战士先吃，依据是他们在战斗技能上投入的技能点多寡。</TooltipCampingMenuWorst>
+  
+  
+  <TooltipCampingMenuLoyal>最忠诚的人先吃，你能将后背托付给他们，他们也就能把性命托付给你。</TooltipCampingMenuLoyal>
+  
+  
+  <TooltipCampingMenuDisgruntled>最不忠诚的人先吃，因为你要拉拢那些可能背叛你的人。</TooltipCampingMenuDisgruntled>
+  
+  
+  <TooltipCampingLeaveCamp>要离开营地吗？</TooltipCampingLeaveCamp>
+  
+  
+  <TooltipCampingLeaveCampTitle>离开营地</TooltipCampingLeaveCampTitle>
+  
+  
+  <TooltipCampFollowerFood>显示该角色被分配的食物。</TooltipCampFollowerFood>
+  
+
+  
+  
+  <ItemIdentifierDamage>伤害</ItemIdentifierDamage>
+  
+  
+  <ItemIdentifierAP>护甲穿透伤害</ItemIdentifierAP>
+  
+  
+  <ItemIdentifierCrit>暴击伤害倍率</ItemIdentifierCrit>
+  
+  
+  <ItemIdentifierRange>武器攻击范围</ItemIdentifierRange>
+  
+  
+  <ItemIdentifierDR>伤害减免</ItemIdentifierDR>
+  
+  
+  <ItemIdentifierDRMelee>近战伤害减免</ItemIdentifierDRMelee>
+  
+  
+  <ItemIdentifierDRRanged>远程伤害减免</ItemIdentifierDRRanged>
+  
+  
+  <ItemIdentifierAbsorbtion>吸收量</ItemIdentifierAbsorbtion>
+  
+  
+  <ItemIdentifierBlock>格挡几率</ItemIdentifierBlock>
+  
+  
+  <ItemIdentifierDiscipline>纪律</ItemIdentifierDiscipline>
+  
+  
+  
+  <ItemIdentifierPhysicalResistance>物理抗性</ItemIdentifierPhysicalResistance>
+  
+  
+  <ItemIdentifierMentalResistance>精神抗性</ItemIdentifierMentalResistance>
+  
+  
+  <ItemIdentifierAccuracy>精准度</ItemIdentifierAccuracy>
+  
+  
+  <ItemIdentifierMovement>移动力</ItemIdentifierMovement>
+  
+  
+  <ItemIdentifierResistanceFire>火焰抗性</ItemIdentifierResistanceFire>
+  
+  
+  <ItemIdentifierResistancePoison>毒素抗性</ItemIdentifierResistancePoison>
+  
+  
+  <ItemIdentifierResistanceWeather>天气抗性</ItemIdentifierResistanceWeather>
+  
+  
+  <ItemItems>物品</ItemItems>
+  
+
+  
+
+  
+  <InventorySlotHead>头部</InventorySlotHead>
+  
+  
+  <InventorySlotNeck>颈部</InventorySlotNeck>
+  
+  
+  <InventorySlotTorso>躯干</InventorySlotTorso>
+  
+  
+  <InventorySlotRightHand>右手主武器</InventorySlotRightHand>
+  
+  
+  <InventorySlotRightHandAlt>右手副武器</InventorySlotRightHandAlt>
+  
+  
+  <InventorySlotLeftHand>左手主武器</InventorySlotLeftHand>
+  
+  
+  <InventorySlotLeftHandAlt>左手副武器</InventorySlotLeftHandAlt>
+  
+  
+  <InventorySlotItem1>物品1</InventorySlotItem1>
+  
+  
+  <InventorySlotItem2>物品2</InventorySlotItem2>
+  
+  
+  <InventorySlotItem3>物品3</InventorySlotItem3>
+  
+  
+  <InventoryTooltipHeadSlot>头盔能提升你的伤害减免与物理抗性，但根据其品级，也会对最大精准度造成相应惩罚。</InventoryTooltipHeadSlot>
+  
+  
+  <InventoryTooltipNeckSlot>护身符及其他迷信饰品，提供的加成千奇百怪。</InventoryTooltipNeckSlot>
+  
+  
+  <InventoryTooltipTorsoSlot>护甲是决定角色伤害减免高低的主要因素。</InventoryTooltipTorsoSlot>
+  
+  
+  <InventoryTooltipHandSlot>左右手武器栏位可以组合搭配：单手武器加盾牌，单手武器配斧头或小刀，或只装备一把双手武器。如果你左手为空，角色的暴击率将获得小幅提升。</InventoryTooltipHandSlot>
+  
+  
+  <InventoryTooltipAltHandSlot>发起攻击前，你可以在战斗中随意切换主、副武器组。一旦攻击，本回合剩余时间内将无法再切换武器。</InventoryTooltipAltHandSlot>
+  
+  
+  <InventoryTooltipItemSlots>所有可制造的战斗物品，例如陷阱、消耗品或投掷物。</InventoryTooltipItemSlots>
+  
+
+  
+  <InventoryTooltipFilter>按类型筛选。</InventoryTooltipFilter>
+  
+  
+  <InventoryTooltipFilterAll>显示所有物品。</InventoryTooltipFilterAll>
+  
+  
+  <InventoryTooltipFilterWeapons>仅显示武器。</InventoryTooltipFilterWeapons>
+  
+  
+  <InventoryTooltipFilterArmours>仅显示护甲。</InventoryTooltipFilterArmours>
+  
+  
+  <InventoryTooltipFilterQuests>仅显示任务物品。</InventoryTooltipFilterQuests>
+  
+  
+  <InventoryTooltipFilterTalismans>仅显示护符。</InventoryTooltipFilterTalismans>
+  
+  
+  <InventoryTooltipFilterCraftables>仅显示可制造的战斗物品。</InventoryTooltipFilterCraftables>
+  
+
+  
+  <InventoryTooltipFilterSecondary>使用次级筛选条件为所选标签排序。</InventoryTooltipFilterSecondary>
+  
+  
+  <InventoryTooltipSortBy>排序方式</InventoryTooltipSortBy>
+  
+
+  
+  <InventoryCharacterNext>下一个角色</InventoryCharacterNext>
+  
+  
+  <InventoryCharacterPrevious>上一个角色</InventoryCharacterPrevious>
+  
+
+  
+  
+  <InventoryTooltipSwitchWeapons>在两组武器之间切换。物品对比将只跟当前活跃的武器组（顶部）进行。</InventoryTooltipSwitchWeapons>
+  
+
+  
+  
+  <InventoryDiscard>拆解</InventoryDiscard>
+  
+  
+  <InventoryFirstTimeDiscard>拆解会永久摧毁该物品，以换取资源。确定要拆解这件物品吗？</InventoryFirstTimeDiscard>
+  
+
+  
+  <InventoryTooltipDiscard>拆解此物品，返还的资源数量取决于制造它时消耗的资源，以及你的修理技能。</InventoryTooltipDiscard>
+  
+
+  
+  
+  <InventoryTooltipItemDescription>\n[x]</InventoryTooltipItemDescription>
+  
+  
+  <InventoryTooltipItemSpDescription>[x]</InventoryTooltipItemSpDescription>
+  
+  
+  <InventoryTooltipItemSbDescription>[x]</InventoryTooltipItemSbDescription>
+  
+  
+  <InventoryTooltipItemCompareDamageComp>\n伤害：[color=&quot;orange&quot;][x][/color][compfx] - [color=&quot;orange&quot;][y][/color][compfy]</InventoryTooltipItemCompareDamageComp>
+  
+  
+  <InventoryTooltipItemCompareAP>\n护甲穿透：[color=&quot;orange&quot;][x][/color][compf]</InventoryTooltipItemCompareAP>
+  
+  
+  <InventoryTooltipItemCompareCrit>\n暴击：[color=&quot;orange&quot;][x]x[/color][compx]</InventoryTooltipItemCompareCrit>
+  
+  
+  <InventoryTooltipItemCompareRange>\n射程：[color=&quot;orange&quot;][x][/color][compf]</InventoryTooltipItemCompareRange>
+  
+  
+  <InventoryTooltipItemCompareDRMelee>\n近战伤害减免：[color=&quot;orange&quot;][x]%[/color][compp]</InventoryTooltipItemCompareDRMelee>
+  
+  
+  <InventoryTooltipItemCompareDRRanged>\n远程伤害减免：[color=&quot;orange&quot;][x]%[/color][compp]</InventoryTooltipItemCompareDRRanged>
+  
+  
+  <InventoryTooltipItemCompareMovement>\n移动调整：[color=&quot;orange&quot;][x][/color][compf]</InventoryTooltipItemCompareMovement>
+  
+  
+  <InventoryTooltipItemComparePhysicalResistance>\n物理抗性：[color=&quot;orange&quot;][x]%[/color][compp]</InventoryTooltipItemComparePhysicalResistance>
+  
+  
+  <InventoryTooltipItemCompareMentalResistance>\n精神抗性：[color=&quot;orange&quot;][x]%[/color][compp]</InventoryTooltipItemCompareMentalResistance>
+  
+  
+  <InventoryTooltipItemCompareAccuracy>\n精准惩罚：[color=&quot;orange&quot;][x]%[/color][compp]</InventoryTooltipItemCompareAccuracy>
+  
+  
+  <InventoryTooltipItemCompareBlockChance>\n格挡几率：[color=&quot;orange&quot;][x]%[/color][compp]</InventoryTooltipItemCompareBlockChance>
+  
+  
+  <InventoryTooltipItemCompareAbsorption>\n吸收量：[color=&quot;orange&quot;][x][/color][compf]</InventoryTooltipItemCompareAbsorption>
+  
+  
+  <InventoryTooltipItemCompareFireRes>\n火焰抗性：[color=&quot;orange&quot;][x]%[/color][compp]</InventoryTooltipItemCompareFireRes>
+  
+  
+  <InventoryTooltipItemComparePoisonRes>\n毒素抗性：[color=&quot;orange&quot;][x]%[/color][compp]</InventoryTooltipItemComparePoisonRes>
+  
+  
+  <InventoryTooltipItemCompareWeatherRes>\n天气抗性：[color=&quot;orange&quot;][x]%[/color][compp]</InventoryTooltipItemCompareWeatherRes>
+  
+  
+  <InventoryTooltipItemDurability>\n[color=&quot;grey&quot;][x]/[y] 耐久度[/color]</InventoryTooltipItemDurability>
+  
+  
+  <InventoryTooltipItemDurabilityHighWear>\n[color=&quot;red&quot;][x]/[y] 耐久度[/color]</InventoryTooltipItemDurabilityHighWear>
+  
+  
+  <InventoryTooltipItemSpecialProperty>\n\n[x]</InventoryTooltipItemSpecialProperty>
+  
+  
+  <InventoryTooltipItemSchematic>\n\n[x]</InventoryTooltipItemSchematic>
+  
+
+  
+  
+  <InventoryTooltipItemCompareX>[color=&quot;grey&quot;]([z]x)[/color]</InventoryTooltipItemCompareX>
+  
+  
+  
+  <InventoryTooltipItemCompareFlat>[color=&quot;grey&quot;]([z])[/color]</InventoryTooltipItemCompareFlat>
+  
+  
+  
+  <InventoryTooltipItemComparePercentage>[color=&quot;grey&quot;]([z]%)[/color]</InventoryTooltipItemComparePercentage>
+  
+
+  
+  
+  <InventoryTooltipItemDifferencePositive>[color=&quot;lime&quot;]+[x][/color]</InventoryTooltipItemDifferencePositive>
+  
+  
+  <InventoryTooltipItemDifferenceNegative>[color=&quot;red&quot;][x][/color]</InventoryTooltipItemDifferenceNegative>
+  
+  
+  <InventoryTooltipItemDifferenceNeutral>[color=&quot;grey&quot;]0[/color]</InventoryTooltipItemDifferenceNeutral>
+  
+
+  
+  <InventoryTooltipCompareItems>[size=&quot;16&quot;][name][/size]\n[color=&quot;grey&quot;][class][/color]\n[durability][description][specialpropdesc][schematicdesc]\n[damage][ap][crit][drmelee][drranged][absorption][block][physicalresistance][mentalresistance][movement][accuracypenalty][fireres][poisonres][weatherres][specialpropeffect][schematiceffect]</InventoryTooltipCompareItems>
+  
+
+  
+  <SecondaryFilterSalvagePercentageDescending>耐久度</SecondaryFilterSalvagePercentageDescending>
+  
+  
+  <SecondaryFilterSalvageValueDescending>总回收物</SecondaryFilterSalvageValueDescending>
+  
+  
+  <SecondaryFilterNameAscending>名称</SecondaryFilterNameAscending>
+  
+  
+  <SecondaryFilterChronologicalDescending>最新</SecondaryFilterChronologicalDescending>
+  
+  
+  <SecondaryFilterChronologicalAscending>最旧</SecondaryFilterChronologicalAscending>
+  
+
+  
+  <SecondaryFilterSalvagePercentageDescendingTooltip>按剩余耐久度排序，低耐久度优先</SecondaryFilterSalvagePercentageDescendingTooltip>
+  
+  
+  <SecondaryFilterSalvageValueDescendingTooltip>按总回收物价值排序</SecondaryFilterSalvageValueDescendingTooltip>
+  
+  
+  <SecondaryFilterNameAscendingTooltip>按名称排序，A-Z</SecondaryFilterNameAscendingTooltip>
+  
+  
+  <SecondaryFilterChronologicalDescendingTooltip>按物品获得时间排序，最新优先</SecondaryFilterChronologicalDescendingTooltip>
+  
+  
+  <SecondaryFilterChronologicalAscendingTooltip>按物品获得时间排序，最旧优先</SecondaryFilterChronologicalAscendingTooltip>
+  
+
+  
+  <InventoryPanelCharName>[v]</InventoryPanelCharName>
+  
+  
+  <InventoryPanelCharDamage>[color=&quot;orange&quot;][v1] - [v2][/color]</InventoryPanelCharDamage>
+  
+  
+  <InventoryPanelCharPhysicalResistance>[color=&quot;orange&quot;][v]%[/color]</InventoryPanelCharPhysicalResistance>
+  
+  
+  <InventoryPanelCharMentalResistance>[color=&quot;orange&quot;][v]%[/color]</InventoryPanelCharMentalResistance>
+  
+  
+  <InventoryPanelCharAccuracy>[color=&quot;orange&quot;][v]%[/color]</InventoryPanelCharAccuracy>
+  
+  
+  <InventoryPanelCharBlock>[color=&quot;orange&quot;][v]%[/color]</InventoryPanelCharBlock>
+  
+  
+  <InventoryPanelCharCritChance>[color=&quot;orange&quot;][v]%[/color]</InventoryPanelCharCritChance>
+  
+  
+  <InventoryPanelCharHwR>[color=&quot;orange&quot;][v1]/[v2][/color]</InventoryPanelCharHwR>
+  
+  
+  <InventoryPanelCharHealth>[v]</InventoryPanelCharHealth>
+  
+  
+  <InventoryPanelCharMorale>[color=&quot;white&quot;][v1] ([v2])[/color]</InventoryPanelCharMorale>
+  
+  
+  <InventoryPanelCharHitpoints>[color=&quot;orange&quot;][v][/color]</InventoryPanelCharHitpoints>
+  
+  
+  <InventoryPanelCharMovement>[color=&quot;orange&quot;][v][/color]</InventoryPanelCharMovement>
+  
+  
+  <InventoryPanelCharMovementNegLight>[color=&quot;yellow&quot;][v][/color]</InventoryPanelCharMovementNegLight>
+  
+  
+  <InventoryPanelCharMovementNegSerious>[color=&quot;orange&quot;][v][/color]</InventoryPanelCharMovementNegSerious>
+  
+  
+  <InventoryPanelCharMovementNegSevere>[color=&quot;red&quot;][v][/color]</InventoryPanelCharMovementNegSevere>
+  
+  
+  <InventoryPanelCharMovementPos>[color=&quot;lime&quot;]+[v][/color]</InventoryPanelCharMovementPos>
+  
+  
+  <InventoryPanelCharDRRanged>[color=&quot;orange&quot;][v]%[/color]</InventoryPanelCharDRRanged>
+  
+  
+  <InventoryPanelCharDRMelee>[color=&quot;orange&quot;][v]%[/color]</InventoryPanelCharDRMelee>
+  
+  
+  <InventoryPanelCharStat>[v]</InventoryPanelCharStat>
+  
+  
+  <InventoryPanelCharStatNegLight>[color=&quot;yellow&quot;][v][/color]</InventoryPanelCharStatNegLight>
+  
+  
+  <InventoryPanelCharStatNegSerious>[color=&quot;orange&quot;][v][/color]</InventoryPanelCharStatNegSerious>
+  
+  
+  <InventoryPanelCharStatNegSevere>[color=&quot;red&quot;][v][/color]</InventoryPanelCharStatNegSevere>
+  
+  
+  <InventoryPanelCharStatPos>[color=&quot;lime&quot;][v][/color]</InventoryPanelCharStatPos>
+  
+
+
+  
+  <InventoryRowWeaponDamage>[v1] - [v2]</InventoryRowWeaponDamage>
+  
+  
+  <InventoryRowWeaponCritModifier>[v]x</InventoryRowWeaponCritModifier>
+  
+  
+  <InventoryRowWeaponOneTile>1</InventoryRowWeaponOneTile>
+  
+  
+  <InventoryRowWeaponTwoTiles>2</InventoryRowWeaponTwoTiles>
+  
+  
+  <InventoryRowWeaponRanged>远程</InventoryRowWeaponRanged>
+  
+
+  
+  <InventoryRowArmourMovementPos>[color=&quot;lime&quot;][v][/color]</InventoryRowArmourMovementPos>
+  
+  
+  <InventoryRowArmourMovementNeg>[color=&quot;red&quot;][v][/color]</InventoryRowArmourMovementNeg>
+  
+  
+  <InventoryRowArmourMovementZero>[v]</InventoryRowArmourMovementZero>
+  
+  
+  <InventoryRowArmourResistance>[v]%</InventoryRowArmourResistance>
+  
+
+  
+  <InventoryRowShieldBlock>[v]%</InventoryRowShieldBlock>
+  
+  
+  <InventoryRowShieldAbsorption>[v]</InventoryRowShieldAbsorption>
+  
+
+  
+  
+  <InventoryItemTypeConsumable>消耗品</InventoryItemTypeConsumable>
+  
+  
+  <InventoryItemTypeThrowable>投掷物</InventoryItemTypeThrowable>
+  
+  
+  <InventoryItemTypeTrap>陷阱</InventoryItemTypeTrap>
+  
+
+  
+  <InventoryCantFiddleTitle>不允许</InventoryCantFiddleTitle>
+  
+  
+  <InventoryCantFiddleBody>若追随者不属于你的侍卫队，你无权更改其物品栏。</InventoryCantFiddleBody>
+  
+
+  
+  <InventoryItemRowAdditionalEffectsOne>[x]</InventoryItemRowAdditionalEffectsOne>
+  
+  
+  <InventoryItemRowAdditionalEffectsTwo>[x1]\n[x2]</InventoryItemRowAdditionalEffectsTwo>
+  
+
+  
+  
+  <InventoryContainerTakeAll>全部拾取 [color=&quot;silver&quot;]&lt;[x]&gt;[/color]</InventoryContainerTakeAll>
+  
+  
+  <InventoryEmptyLootContainer>空</InventoryEmptyLootContainer>
+  
+  
+  <InventoryTheftDialogueBoxTitle>尝试偷窃</InventoryTheftDialogueBoxTitle>
+  
+  
+  <InventoryTheftDialogueBoxDescription>此物属于附近某人。\n行窃被抓会败坏你的名声。\n[size=&quot;18&quot;][color=&quot;orange&quot;]灵巧：[difficulty][/color][/size]</InventoryTheftDialogueBoxDescription>
+  
+  
+  <InventoryTheftDialogueBoxYes>偷窃</InventoryTheftDialogueBoxYes>
+  
+  
+  <InventoryTheftPopupFailure>偷窃被抓！</InventoryTheftPopupFailure>
+  
+
+  
+  
+  <LootContainerDenmarkEquipmentArmourStand>护甲架</LootContainerDenmarkEquipmentArmourStand>
+  
+  
+  <LootContainerDenmarkEquipmentWeaponRack>武器架</LootContainerDenmarkEquipmentWeaponRack>
+  
+  
+  <LootContainerDenmarkGenericChestLarge>大箱子</LootContainerDenmarkGenericChestLarge>
+  
+  
+  <LootContainerDenmarkGenericChestSmall>小箱子</LootContainerDenmarkGenericChestSmall>
+  
+  
+  <LootContainerDenmarkGenericCrate>板条箱</LootContainerDenmarkGenericCrate>
+  
+  
+  <LootContainerDenmarkGenericHumanCarcass>尸体</LootContainerDenmarkGenericHumanCarcass>
+  
+  
+  <LootContainerDenmarkGenericStashSmall>小型储物点</LootContainerDenmarkGenericStashSmall>
+  
+  
+  <LootContainerDenmarkGenericStashLarge>大型储物点</LootContainerDenmarkGenericStashLarge>
+  
+  
+  <LootContainerDenmarkGenericTrashPile>垃圾堆</LootContainerDenmarkGenericTrashPile>
+  
+  
+  <LootContainerDenmarkResourceBarrel>桶</LootContainerDenmarkResourceBarrel>
+  
+  
+  <LootContainerDenmarkResourceBasket>篮子</LootContainerDenmarkResourceBasket>
+  
+  
+  <LootContainerDenmarkResourceSacks>袋子</LootContainerDenmarkResourceSacks>
+  
+
+  
+  <LootContainerBritainEquipmentArmourStand>护甲架</LootContainerBritainEquipmentArmourStand>
+  
+  
+  <LootContainerBritainEquipmentWeaponRack>武器架</LootContainerBritainEquipmentWeaponRack>
+  
+  
+  <LootContainerBritainGenericBookshelf>书架</LootContainerBritainGenericBookshelf>
+  
+  
+  <LootContainerBritainGenericChestLarge>大箱子</LootContainerBritainGenericChestLarge>
+  
+  
+  <LootContainerBritainGenericChestSmall>小箱子</LootContainerBritainGenericChestSmall>
+  
+  
+  <LootContainerBritainGenericCrate>板条箱</LootContainerBritainGenericCrate>
+  
+  
+  <LootContainerBritainGenericStashSmall>小型储物点</LootContainerBritainGenericStashSmall>
+  
+  
+  <LootContainerBritainGenericStashLarge>大型储物点</LootContainerBritainGenericStashLarge>
+  
+  
+  <LootContainerBritainGenericTrashPile>垃圾堆</LootContainerBritainGenericTrashPile>
+  
+  
+  <LootContainerBritainResourceBarrel>桶</LootContainerBritainResourceBarrel>
+  
+  
+  <LootContainerBritainResourceBasket>篮子</LootContainerBritainResourceBasket>
+  
+  
+  <LootContainerBritainResourceLooseStone>松动的石块</LootContainerBritainResourceLooseStone>
+  
+  
+  <LootContainerBritainResourceSacks>袋子</LootContainerBritainResourceSacks>
+  
+
+  
+  
+  <InventoryUtilityItemCombatTooltipNone>空的通用道具栏位</InventoryUtilityItemCombatTooltipNone>
+  
+  
+  <InventoryUtilityItemCombatTooltip>[size=&quot;16&quot;][ItemName][/size][action]\n[size=&quot;12&quot;][color=&quot;grey&quot;][ItemType][/color][/size][requirement]\n[ItemDescription]</InventoryUtilityItemCombatTooltip>
+  
+  
+  
+  <TooltipCombatRequirementActionGrammar>\n[color=&quot;red&quot;][size=&quot;12&quot;][i][x][/i][/size][/color].</TooltipCombatRequirementActionGrammar>
+  
+
+  
+  <TooltipCombatRequirementActionNoPlaceToLand>着陆点被阻挡</TooltipCombatRequirementActionNoPlaceToLand>
+  
+  
+  <TooltipCombatRequirementActionNoLineOfSight>你与目标之间没有清晰的视线</TooltipCombatRequirementActionNoLineOfSight>
+  
+  
+  <TooltipCombatRequirementActionOutOfRange>目标超出了通用道具的射程</TooltipCombatRequirementActionOutOfRange>
+  
+  
+  <TooltipCombatRequirementActionOccupiedByTileObject>被其他物体占据</TooltipCombatRequirementActionOccupiedByTileObject>
+  
+  
+  <TooltipCombatRequirementActionOccupiedByCharacter>无法放置在已占据的格子上</TooltipCombatRequirementActionOccupiedByCharacter>
+  
+  
+  <TooltipCombatRequirementActionOccupiedBySelf>无法放置于自身</TooltipCombatRequirementActionOccupiedBySelf>
+  
+  
+  <TooltipCombatRequirementActionNoPathFound>目标不在战斗区域内</TooltipCombatRequirementActionNoPathFound>
+  
+  
+  <TooltipCombatRequirementActionNotFatigued>该角色未疲劳</TooltipCombatRequirementActionNotFatigued>
+  
+  
+  <TooltipCombatRequirementActionNonwalkable>无法放置在不可行走的格子上</TooltipCombatRequirementActionNonwalkable>
+  
+  
+
+  
+  
+  <TreatmentInjuries>伤势</TreatmentInjuries>
+  
+  
+  <TreatmentPatients>伤员</TreatmentPatients>
+  
+  
+  <TreatmentBonus>治疗加成</TreatmentBonus>
+  
+  
+  <HealingIconTooltip>展示该技能的等级，以及治疗伤势时费用的折扣。</HealingIconTooltip>
+  
+
+  
+  
+  <TreatmentBonusEffect>-[x]%</TreatmentBonusEffect>
+  
+
+  
+  <TreatmentCost>费用</TreatmentCost>
+  
+  
+  <TreatmentDeteriorationRisk>恶化风险</TreatmentDeteriorationRisk>
+  
+  
+  <TreatmentAutoAssign>自动分配伤员</TreatmentAutoAssign>
+  
+  
+  
+  <TreatmentMoreThanOneInjury>+[x] 伤势</TreatmentMoreThanOneInjury>
+  
+
+  
+  
+  <TreatmentMedicineCost>[amount]</TreatmentMedicineCost>
+  
+  
+  <TreatmentMedicineCostShort>[amount] [resource]</TreatmentMedicineCostShort>
+  
+
+  
+  <TreatmentInjuryAssignedTo>[color=&quot;grey&quot;]伤势已分配给[/color] [color=&quot;orange&quot;][doctorname][/color]</TreatmentInjuryAssignedTo>
+  
+
+  
+  <TreatmentErrorEveryoneHealedTitle>无人可治</TreatmentErrorEveryoneHealedTitle>
+  
+  
+  <TreatmentErrorEveryoneHealed>所有伤势均已分配。</TreatmentErrorEveryoneHealed>
+  
+  
+  <Endurance>耐力</Endurance>
+  
+  
+  <Sense>感知</Sense>
+  
+  
+  <Finesse>灵巧</Finesse>
+  
+  
+  <Strength>力量</Strength>
+  
+  
+  <Movement>移动</Movement>
+  
+  
+  <Morale>士气</Morale>
+  
+  
+  <Perception>察觉</Perception>
+  
+  
+  <Medicine>医术</Medicine>
+  
+  
+  <MedicineCost>费用</MedicineCost>
+  
+
+  
+  
+  <TreatmentDeteriorated>[c] 的伤势恶化为 [x]</TreatmentDeteriorated>
+  
+  
+  <TreatmentDeterioratedDead>[c] 的伤势恶化，致其死亡</TreatmentDeterioratedDead>
+  
+
+  
+  
+  <TreatmentInjurySeverityHealthy>健康</TreatmentInjurySeverityHealthy>
+  
+  
+  <TreatmentInjurySeverityLight>轻度</TreatmentInjurySeverityLight>
+  
+  
+  <TreatmentInjurySeverityModerate>中度</TreatmentInjurySeverityModerate>
+  
+  
+  <TreatmentInjurySeveritySevere>重度</TreatmentInjurySeveritySevere>
+  
+  
+  <TreatmentInjurySeverityCritical>严重</TreatmentInjurySeverityCritical>
+  
+  
+  <TreatmentInjurySeverityFatal>致命</TreatmentInjurySeverityFatal>
+  
+  
+  <TreatmentInjurySeverityCrippling>致残</TreatmentInjurySeverityCrippling>
+  
+  
+  <TreatmentInjurySeverityDead>[color=&quot;brown&quot;]死亡[/color]</TreatmentInjurySeverityDead>
+  
+
+  
+  
+  <TreatmentInjuryTypeBurn>烧伤</TreatmentInjuryTypeBurn>
+  
+  
+  <TreatmentInjuryTypeLaceration>撕裂伤</TreatmentInjuryTypeLaceration>
+  
+  
+  <TreatmentInjuryTypeInfection>感染</TreatmentInjuryTypeInfection>
+  
+  
+  <TreatmentInjuryTypePuncture>穿刺伤</TreatmentInjuryTypePuncture>
+  
+  
+  <TreatmentInjuryTypeFracture>骨折</TreatmentInjuryTypeFracture>
+  
+  
+  <TreatmentInjuryTypeTrauma>创伤</TreatmentInjuryTypeTrauma>
+  
+
+  
+  
+  <TreatmentInjuryLocationHead>头部</TreatmentInjuryLocationHead>
+  
+  
+  <TreatmentInjuryLocationEyes>眼部</TreatmentInjuryLocationEyes>
+  
+  
+  <TreatmentInjuryLocationChest>胸部</TreatmentInjuryLocationChest>
+  
+  
+  <TreatmentInjuryLocationArm>手臂</TreatmentInjuryLocationArm>
+  
+  
+  <TreatmentInjuryLocationGut>腹部</TreatmentInjuryLocationGut>
+  
+  
+  <TreatmentInjuryLocationGroin>腹股沟</TreatmentInjuryLocationGroin>
+  
+  
+  <TreatmentInjuryLocationLeg>腿部</TreatmentInjuryLocationLeg>
+  
+
+  
+  
+  <TreatmentInjuryExternal>表面</TreatmentInjuryExternal>
+  
+  
+  <TreatmentInjuryInternal>内部</TreatmentInjuryInternal>
+  
+
+  
+  <TreatmentInjuryGrammar>[injuryseverity] [injurytype]</TreatmentInjuryGrammar>
+  
+
+  
+  
+  <TooltipTreatmentInjuryLevel1>轻度伤势相对无害，惩罚更轻，治疗费用也大幅降低。</TooltipTreatmentInjuryLevel1>
+  
+  
+  <TooltipTreatmentInjuryLevel2>中度伤势无惩罚修正，治疗费用稍低，但恶化风险增加 [color=&quot;#ff0000&quot;]+5%[/color]。</TooltipTreatmentInjuryLevel2>
+  
+  
+  <TooltipTreatmentInjuryLevel3>重度伤势惩罚稍高，费用无减免，恶化风险增加 [color=&quot;#ff0000&quot;]+15%[/color]。</TooltipTreatmentInjuryLevel3>
+  
+  
+  <TooltipTreatmentInjuryLevel4>严重伤势惩罚显著提高，治疗费用及恶化风险均增加 [color=&quot;#ff0000&quot;]+30%[/color]。</TooltipTreatmentInjuryLevel4>
+  
+  
+  <TooltipTreatmentInjuryLevel5>致命/致残伤势距永久性后果仅一步之遥，惩罚与治疗费用陡增，恶化风险更是高达惊人的 [color=&quot;#ff0000&quot;]+50%[/color]。</TooltipTreatmentInjuryLevel5>
+  
+  
+  <TooltipTreatmentInjuryLevel6>若伤情至此仍未治疗，你就必须承担后果——多数情况下是死亡，或永久致残。</TooltipTreatmentInjuryLevel6>
+  
+
+  
+  <TooltipTreatmentAlreadyTreatedByYou>此伤势在本班次中已分配给 [X]。</TooltipTreatmentAlreadyTreatedByYou>
+  
+  
+  <TooltipTreatmentTreatedBy>此伤势在其他班次中已分配给 [X]。</TooltipTreatmentTreatedBy>
+  
+  
+  <TooltipTreatmentAlreadyTreatedBy>[color=&quot;red&quot;][i]此伤势在本班次中已分配给 [X]。[/i][/color]</TooltipTreatmentAlreadyTreatedBy>
+  
+  
+  <TooltipTreatmentNoMedicine>[color=&quot;red&quot;][i]药物不足，无法治疗此伤势。[/i][/color]</TooltipTreatmentNoMedicine>
+  
+  
+  <TooltipTreatmentFullyTreated>[color=&quot;red&quot;][i]此伤势已在本营地内安排完全治愈。[/i][/color]</TooltipTreatmentFullyTreated>
+  
+
+  
+  
+  <Skills>技能</Skills>
+  
+  
+  <SkillsFilterCombatWeapon>武器</SkillsFilterCombatWeapon>
+  
+  
+  <SkillsFilterCombatActive>战斗</SkillsFilterCombatActive>
+  
+  
+  <SkillsFilterCombatPassive>被动</SkillsFilterCombatPassive>
+  
+  
+  <SkillsFilterNonCombat>非战斗</SkillsFilterNonCombat>
+  
+  
+  <ExperiencePointsLeft>技能点</ExperiencePointsLeft>
+  
+  
+  <ExperiencePointsLeftNotAvailable>不适用</ExperiencePointsLeftNotAvailable>
+  
+  
+  <StatPointsLeft>属性点</StatPointsLeft>
+  
+  
+  <NextSkillRank>下一步</NextSkillRank>
+  
+  
+  <UpgradeSkill>升级</UpgradeSkill>
+  
+  
+  <UpgradeSkillNotInParty>不在队伍中</UpgradeSkillNotInParty>
+  
+  
+  <UpgradeSkillCost>[color=&quot;orange&quot;][x] 技能点[/color] 升级</UpgradeSkillCost>
+  
+  
+  <UpgradeSkillUnaffordable>[color=&quot;grey&quot;][x] 技能点[/color]</UpgradeSkillUnaffordable>
+  
+  
+  <UpgradeSkillMaxed>[color=&quot;grey&quot;]已达上限[/color]</UpgradeSkillMaxed>
+  
+  
+  <DowngradeSkill>降级</DowngradeSkill>
+  
+
+  
+  
+  <SkillRequiresSkill>[size=&quot;12&quot;][i][color=&quot;red&quot;]此技能需要 [x] 等级 [y]。[/color][/i][/size]\n</SkillRequiresSkill>
+  
+  
+  <SkillRequiresStat>[size=&quot;12&quot;][i][color=&quot;red&quot;]此技能需要 [x] [y]。[/color][/i][/size]\n</SkillRequiresStat>
+  
+  
+  <SkillRequiresNationality>[size=&quot;12&quot;][i][color=&quot;red&quot;]此技能需要其他民族。[/color][/i][/size]\n</SkillRequiresNationality>
+  
+  
+  <SkillCost>升级花费：[color=&quot;orange&quot;][x][/color]</SkillCost>
+  
+  
+  <ActionTypeAttack>([color=&quot;silver&quot;]攻击行动[/color])</ActionTypeAttack>
+  
+  
+  <ActionTypeFree>([color=&quot;silver&quot;]自由行动[/color])</ActionTypeFree>
+  
+  
+  <ActionTypeFull>([color=&quot;silver&quot;]全回合行动[/color])</ActionTypeFull>
+  
+  
+  <ActionTypeHalfMove>([color=&quot;silver&quot;]半移动行动[/color])</ActionTypeHalfMove>
+  
+  
+  <ActionTypeFullMove>([color=&quot;silver&quot;]全移动行动[/color])</ActionTypeFullMove>
+  
+  
+  <AbilityCooldownNone>无冷却时间</AbilityCooldownNone>
+  
+  
+  <AbilityCooldown>[x] 回合冷却</AbilityCooldown>
+  
+
+  
+  <TooltipSkillsWeapons>[size=&quot;16&quot;]武器技能[/size]\n武器技能决定了你使用特定武器的熟练程度，随着精进，将解锁数项能力。</TooltipSkillsWeapons>
+  
+  
+  <TooltipSkillsOffensive>[size=&quot;16&quot;]进攻技能[/size]\n进攻技能提供在战斗中使用的额外能力，不绑定任何特定武器。</TooltipSkillsOffensive>
+  
+  
+  <TooltipSkillsSupport>[size=&quot;16&quot;]辅助技能[/size]\n辅助技能可帮助盟友、阻碍敌人，或在不造成直接伤害的情况下提供战术优势。</TooltipSkillsSupport>
+  
+  
+  <TooltipSkillsUtility>[size=&quot;16&quot;]通用技能[/size]\n通用技能有助于维持队伍的装备、心情与饱食状态，并使全队整体受益。</TooltipSkillsUtility>
+  
+  
+  <TooltipSkillsPassive>[size=&quot;16&quot;]被动技能[/size]\n被动技能提供微小但永久的属性加成，或在特定条件下赋予额外优势。</TooltipSkillsPassive>
+  
+  
+  <TooltipSkillUpgradeButton>按指定价格购入此技能的下一个等级。</TooltipSkillUpgradeButton>
+  
+  
+  <TooltipSkillDowngradeButton>将此技能降级至上一等级，并取回你的技能点。</TooltipSkillDowngradeButton>
+  
+
+  
+  
+  <CharacterLook>角色创建</CharacterLook>
+  
+  
+  <CharacterPrimaryStats>主要属性</CharacterPrimaryStats>
+  
+  
+  <CharacterSecondaryStats>次要属性</CharacterSecondaryStats>
+  
+  
+  <CharacterDescription>描述</CharacterDescription>
+  
+  
+  <CharacterSkills>技能</CharacterSkills>
+  
+  
+  <CharacterCreation>角色创建</CharacterCreation>
+  
+  
+  <CharacterStatsSkills>属性与技能</CharacterStatsSkills>
+  
+  
+  <CharacterImport>导入</CharacterImport>
+  
+  
+  <CharacterImportCharacter>导入角色</CharacterImportCharacter>
+  
+  
+  <CharacterExport>导出</CharacterExport>
+  
+  
+  <CharacterExportCharacter>导出角色</CharacterExportCharacter>
+  
+  
+  <CharacterReset>重置</CharacterReset>
+  
+  
+  <CharacterDone>完成</CharacterDone>
+  
+  
+  <CharacterNext>下一步</CharacterNext>
+  
+  
+  <CharacterHead>头部</CharacterHead>
+  
+  
+  <CharacterFace>面部</CharacterFace>
+  
+  
+  <CharacterHair>头发</CharacterHair>
+  
+  
+  <CharacterFacialHair>胡须</CharacterFacialHair>
+  
+  
+  <CharacterTorso>躯干</CharacterTorso>
+  
+  
+  <CharacterArms>手臂</CharacterArms>
+  
+  
+  <CharacterLegs>腿部</CharacterLegs>
+  
+  
+  <CharacterPrimaryColor>颜色 #1</CharacterPrimaryColor>
+  
+  
+  <CharacterSecondaryColor>颜色 #2</CharacterSecondaryColor>
+  
+  
+  <CharacterTertiaryColor>颜色 #3</CharacterTertiaryColor>
+  
+  
+  <CharacterEyeColor>眼睛颜色</CharacterEyeColor>
+  
+  
+  <CharacterSkinColor>肤色</CharacterSkinColor>
+  
+  
+  <CharacterHairColor>头发颜色</CharacterHairColor>
+  
+  
+  <CharacterPortrait>头像</CharacterPortrait>
+  
+  
+  <CharacterGender>性别</CharacterGender>
+  
+  
+  <CharacterGenderMale>男性</CharacterGenderMale>
+  
+  
+  <CharacterGenderMaleSuffix>sonr</CharacterGenderMaleSuffix>
+  
+  
+  <CharacterGenderMaleAlt>男</CharacterGenderMaleAlt>
+  
+  
+  <CharacterGenderFemale>女性</CharacterGenderFemale>
+  
+  
+  <CharacterGenderFemaleSuffix>dottir</CharacterGenderFemaleSuffix>
+  
+  
+  <CharacterGenderFemaleAlt>女</CharacterGenderFemaleAlt>
+  
+  
+  <CharacterName>名字</CharacterName>
+  
+  
+  <CharacterFatherName>父亲的名字</CharacterFatherName>
+  
+  
+  <CharacterRandomize>随机</CharacterRandomize>
+  
+  
+  <CharacterImportErrorWrongFileVersion>无法导入角色：文件版本已过期</CharacterImportErrorWrongFileVersion>
+  
+  
+  <CharacterImportErrorFileNotFound>无法导入角色：文件或路径不存在。</CharacterImportErrorFileNotFound>
+  
+  
+  <CharacterExportErrorCantWriteFile>无法导出角色：无法写入所选路径。</CharacterExportErrorCantWriteFile>
+  
+  
+  <CharacterImportSelectFile>选择要导入的文件</CharacterImportSelectFile>
+  
+  
+  <CharacterExportSelectFile>输入文件名</CharacterExportSelectFile>
+  
+  
+  <CharacterBackToMainMenu>返回主菜单</CharacterBackToMainMenu>
+  
+  
+  <CharacterBackToMainMenuConfirmation>你确定要返回主菜单吗？</CharacterBackToMainMenuConfirmation>
+  
+  
+  <CharacterCreationDone>角色创建完成</CharacterCreationDone>
+  
+  
+  <CharacterCreationDoneConfirmation>你对你的角色满意吗？</CharacterCreationDoneConfirmation>
+  
+  
+  <CharacterPrimaryStatChange>主属性变更</CharacterPrimaryStatChange>
+  
+  
+  <CharacterPrimaryStatChangeConfirmation>主属性变更导致技能失效，要继续吗？</CharacterPrimaryStatChangeConfirmation>
+  
+  
+  <CharacterSkillRankChange>技能等级变更</CharacterSkillRankChange>
+  
+  
+  <CharacterSkillRankChangeConfirmation>技能等级变更导致其他技能失效，要继续吗？</CharacterSkillRankChangeConfirmation>
+  
+  
+  <CharacterExportOverwriteFile>你将覆盖现有的角色文件，要继续吗？</CharacterExportOverwriteFile>
+  
+  
+  <CharacterImportNoFiles>没有可导入的文件！</CharacterImportNoFiles>
+  
+  
+  <CharacterZoomButton>缩放</CharacterZoomButton>
+  
+  
+  <CharacterCreationMessageSkillPoints>你尚未用尽所有技能点。确定要继续吗？\n注意：剩余的技能点可稍后再做分配。</CharacterCreationMessageSkillPoints>
+  
+  
+  <CharacterCreationMessageStatPoints>你必须先分配完所有属性点，才能继续。</CharacterCreationMessageStatPoints>
+  
+  
+  <CharacterSkillPointsRemaining>[x] 技能点 ([totalspent] 已花费)</CharacterSkillPointsRemaining>
+  
+  
+  <CharacterSelectPreset>选择预设</CharacterSelectPreset>
+  
+  
+  <CharacterResetPoints>重置</CharacterResetPoints>
+  
+
+  
+  <CharacterNameCaseHeadline>本地化用例</CharacterNameCaseHeadline>
+  
+  
+  <CharacterNameCaseDescription>在此，你将为你的自定义名字提供额外的语法变体，使其在游戏中正确呈现。</CharacterNameCaseDescription>
+  
+
+  
+  
+  <CharacterDescriptionGrammar>生于公元769年（儒略历），父亲是[Player:Father:Genitive]，母亲是阿斯特丽德，生就[eyes]和一头[hair]的头发。[primaryfocus][archetype]</CharacterDescriptionGrammar>
+  
+
+  
+  
+  <CharacterDescriptionGrammarEyesBlue>明亮的蓝眼睛</CharacterDescriptionGrammarEyesBlue>
+  
+  
+  <CharacterDescriptionGrammarEyesGrey>钢灰色的双眸</CharacterDescriptionGrammarEyesGrey>
+  
+  
+  <CharacterDescriptionGrammarEyesBrown>神秘的棕色眼睛</CharacterDescriptionGrammarEyesBrown>
+  
+  
+  <CharacterDescriptionGrammarEyesGreen>迷人的绿眼睛</CharacterDescriptionGrammarEyesGreen>
+  
+
+  
+  
+  <CharacterDescriptionGrammarHairBlack>如夜色般漆黑</CharacterDescriptionGrammarHairBlack>
+  
+  
+  <CharacterDescriptionGrammarHairBlonde>如盛夏般繁茂</CharacterDescriptionGrammarHairBlonde>
+  
+  
+  <CharacterDescriptionGrammarHairWhite>如白雪般白皙</CharacterDescriptionGrammarHairWhite>
+  
+  
+  <CharacterDescriptionGrammarHairRed>血色</CharacterDescriptionGrammarHairRed>
+  
+  
+  <CharacterDescriptionGrammarHairGinger>火焰的颜色</CharacterDescriptionGrammarHairGinger>
+  
+  
+  <CharacterDescriptionGrammarHairBrown>棕如大地</CharacterDescriptionGrammarHairBrown>
+  
+  
+  <CharacterDescriptionGrammarHairGrey>灰如余烬</CharacterDescriptionGrammarHairGrey>
+  
+
+  
+  
+  <CharacterDescriptionGrammar0Bonus0Malus>你已成长为一个全面发展却平庸无奇的[man/woman]。</CharacterDescriptionGrammar0Bonus0Malus>
+  
+
+  
+  <CharacterDescriptionGrammar1Bonus0Malus>你已出落成一个[primary1]的[man/woman]。</CharacterDescriptionGrammar1Bonus0Malus>
+  
+  
+  <CharacterDescriptionGrammar2Bonus0Malus>你已出落成一个[primary1]且[primary2]的[man/woman]。</CharacterDescriptionGrammar2Bonus0Malus>
+  
+  
+  <CharacterDescriptionGrammar3Bonus0Malus>你已出落成一个[primary1]、[primary2]且[primary3]的[man/woman]。</CharacterDescriptionGrammar3Bonus0Malus>
+  
+
+  
+  <CharacterDescriptionGrammar1Bonus1Malus>你已出落成一个[primary1]的[man/woman]，但[negprimary1]。</CharacterDescriptionGrammar1Bonus1Malus>
+  
+  
+  <CharacterDescriptionGrammar2Bonus1Malus>你已出落成一个[primary1]且[primary2]的[man/woman]，但[negprimary1]。</CharacterDescriptionGrammar2Bonus1Malus>
+  
+  
+  <CharacterDescriptionGrammar3Bonus1Malus>你已出落成一个[primary1]、[primary2]且[primary3]的[man/woman]，但[negprimary1]。</CharacterDescriptionGrammar3Bonus1Malus>
+  
+
+  
+  <CharacterDescriptionGrammar1Bonus2Malus>你已出落成一个[primary1]的[man/woman]，但[negprimary1]且[negprimary2]。</CharacterDescriptionGrammar1Bonus2Malus>
+  
+  
+  <CharacterDescriptionGrammar2Bonus2Malus>你已出落成一个[primary1]且[primary2]的[man/woman]，但[negprimary1]且[negprimary2]。</CharacterDescriptionGrammar2Bonus2Malus>
+  
+  
+  <CharacterDescriptionGrammar3Bonus2Malus>你已出落成一个[primary1]、[primary2]且[primary3]的[man/woman]，但[negprimary1]且[negprimary2]。</CharacterDescriptionGrammar3Bonus2Malus>
+  
+
+  
+  <CharacterDescriptionGrammar2Bonus3Malus>你已出落成一个极为[primary1]且[primary2]的[man/woman]，但[negprimary1]、[negprimary2]且[negprimary3]。</CharacterDescriptionGrammar2Bonus3Malus>
+  
+
+  
+  
+  <CharacterDescriptionGrammarPrimaryGoodStrength>强壮</CharacterDescriptionGrammarPrimaryGoodStrength>
+  
+  
+  <CharacterDescriptionGrammarPrimaryGoodEndurance>坚韧</CharacterDescriptionGrammarPrimaryGoodEndurance>
+  
+  
+  <CharacterDescriptionGrammarPrimaryGoodPerception>敏锐</CharacterDescriptionGrammarPrimaryGoodPerception>
+  
+  
+  <CharacterDescriptionGrammarPrimaryGoodFinesse>优雅</CharacterDescriptionGrammarPrimaryGoodFinesse>
+  
+  
+  <CharacterDescriptionGrammarPrimaryGoodSense>睿智</CharacterDescriptionGrammarPrimaryGoodSense>
+  
+  
+  
+  <CharacterDescriptionGrammarPrimaryBadStrength>手臂无力</CharacterDescriptionGrammarPrimaryBadStrength>
+  
+  
+  <CharacterDescriptionGrammarPrimaryBadEndurance>体弱多病</CharacterDescriptionGrammarPrimaryBadEndurance>
+  
+  
+  <CharacterDescriptionGrammarPrimaryBadPerception>目盲如蝙蝠</CharacterDescriptionGrammarPrimaryBadPerception>
+  
+  
+  <CharacterDescriptionGrammarPrimaryBadFinesse>缺乏优雅</CharacterDescriptionGrammarPrimaryBadFinesse>
+  
+  
+  <CharacterDescriptionGrammarPrimaryBadSense>头脑迟钝</CharacterDescriptionGrammarPrimaryBadSense>
+  
+
+  
+  
+  <CharacterDescriptionGrammarArchetypeSingle>族人之中，你以[archetype1]而闻名。</CharacterDescriptionGrammarArchetypeSingle>
+  
+  
+  <CharacterDescriptionGrammarArchetypeDouble>族人眼中，你既以[archetype1]著称，也以[archetype2]闻名。</CharacterDescriptionGrammarArchetypeDouble>
+  
+  
+  
+  <CharacterDescriptionGrammarArchetypeBrawler>一位令人敬畏的[color=&quot;orange&quot;]斗士[/color]，仅凭赤手空拳便能击败任何敌手。</CharacterDescriptionGrammarArchetypeBrawler>
+  
+  
+  <CharacterDescriptionGrammarArchetypeBerserker>一头凶悍的[color=&quot;orange&quot;]狂战士[/color]，总是率先冲入厮杀。</CharacterDescriptionGrammarArchetypeBerserker>
+  
+  
+  <CharacterDescriptionGrammarArchetypeBannerman>一位训练有素的[color=&quot;orange&quot;]防御者[/color]，战斗中人人都渴望与之并肩的可靠战士。</CharacterDescriptionGrammarArchetypeBannerman>
+  
+  
+  <CharacterDescriptionGrammarArchetypeSkald>一位巧舌如簧的[color=&quot;orange&quot;]吟游诗人[/color]，既能激励战阵中人，又能以无人能及的口才免动干戈。</CharacterDescriptionGrammarArchetypeSkald>
+  
+  
+  <CharacterDescriptionGrammarArchetypeChieftain>一位高瞻远瞩的[color=&quot;orange&quot;]领袖[/color]，对战局掌控自如。</CharacterDescriptionGrammarArchetypeChieftain>
+  
+  
+  <CharacterDescriptionGrammarArchetypeNidding>一位神出鬼没的[color=&quot;orange&quot;]游荡者[/color]，深谙何时何地出击，且从不排斥施以妙计。</CharacterDescriptionGrammarArchetypeNidding>
+  
+  
+  <CharacterDescriptionGrammarArchetypeRanger>一位箭无虚发的[color=&quot;orange&quot;][Hunter/Huntress][/color]和自食其力的[outdoorsman/outdoorswoman]，百步之外便能取人性命。</CharacterDescriptionGrammarArchetypeRanger>
+  
+  
+  <CharacterDescriptionGrammarArchetypeHealer>一位慷慨灵巧的[color=&quot;orange&quot;]治疗师[/color]，能从女武神的怀抱中将任何人抢夺回来。</CharacterDescriptionGrammarArchetypeHealer>
+  
+  
+  <CharacterDescriptionGrammarArchetypeFighter>一位坚如磐石的[color=&quot;orange&quot;]战士[/color]，纵使面对无法克服的绝境，亦岿然不动。</CharacterDescriptionGrammarArchetypeFighter>
+  
+  
+  <CharacterDescriptionGrammarArchetypeScout>一位迅捷机敏的[color=&quot;orange&quot;]斥候[/color]，潜行于敌后如入无人之境，专击其防御最薄弱之处。</CharacterDescriptionGrammarArchetypeScout>
+  
+  
+  <CharacterDescriptionGrammarArchetypeDefender>一位沉稳的[color=&quot;orange&quot;]弓箭手[/color]，可令任何敌人无法近身。</CharacterDescriptionGrammarArchetypeDefender>
+  
+
+  
+  <CharacterDescriptionGrammarNoDescription>[i][color=&quot;red&quot;]你必须用完所有属性点后才能查看描述。[/color][/i]</CharacterDescriptionGrammarNoDescription>
+  
+
+  
+  
+  <CharacterDescriptionBerserk>在北方群山的深处，盘踞着一个自诩“狼战士”的武者教派。据传，他们是奥丁的特殊战士，上阵时除了一张狼皮几乎一丝不挂，却能刀枪不入、水火不侵。那个绰号十足讽刺、人称“和平者”的巨人贡纳尔，便自称是这些狂战士中的一员。\n\n贡纳尔曾率一队掠袭者从北方贸易重镇考庞一路向西，直抵奥克尼群岛，倒霉的是，他在那儿撞上了斯库勒·碎颅者。斯库勒巧舌如簧，说动贡纳尔对你的村庄发起突袭。也许他在你的侍卫中算不上最安分守己的那一个，但有一件事毋庸置疑：让贡纳尔做你的朋友，远比让他做你的敌人要强得多。</CharacterDescriptionBerserk>
+  
+  
+  <CharacterDescriptionShieldMaiden>你从孩提时代就认识奈芙娅和她妹妹艾芙拉。她们已故的父亲霍尔蒙曾是你父亲最亲信的家臣之一，每当他随领主远行，姐妹俩便常常全由母亲一人照料。\n\n这对孪生姐妹自幼便分道扬镳——艾芙拉永远是母亲膝下那个美丽娇弱的可人儿，而奈芙娅却更像父亲，成日里不是在林中探秘，在泽地嬉闹，就是跟男孩们厮打。从她勉强能握住木棍的那一刻起，便开始为成为一名战士而磨砺自己。\n\n年深日久，那股在奈芙娅胸腔中灼灼燃烧的烈焰，已将她淬炼成一名自律而沉稳的盾女。她或许欠缺蛮力，但那份灵巧与决绝，足以十倍弥补。</CharacterDescriptionShieldMaiden>
+  
+  
+  <CharacterDescriptionTribalHuntress>艾菲虽顶着凯特王国公主的头衔，行事作风却没半点公主的规矩，更无丝毫惯常的骄矜。凯特是个贫瘠而苦寒的国度，艾菲从小便被磨砺得比她父亲的任何一个子民都更坚韧，更果决。刚一到年纪，她就被送去拜在著名战士格蕾妮门下，正是这位严师将她调教成了一名手法老练的捕兽人。\n\n自幼便兼具过人的好奇与胆魄，艾菲几乎是凭一时兴起便投身了你的亲卫队。看得出来，她对你和你的文化怀有一种难掩的痴迷。万幸的是，到了战场上，她更是一笔不可多得的财富。</CharacterDescriptionTribalHuntress>
+  
+  
+  <CharacterDescriptionValkyrie>艾蒂丝和她丈夫阿尔瓦尔德在年轻新婚时来到你的村庄，接管了他叔叔在家园边沿的农庄，从此安家落户。在你儿时的记忆中，她是个热情洋溢的女人，总爱用上古宝藏的传说，或吟唱诸神的诗篇，来款待氏族里的孩子们。\n\n差不多十年前，一场恶疾夺走了阿尔瓦尔德，撇下她独自拉扯他留给她的两个儿子。如今，她心头唯一的牵挂便是孩子们平平安安，前程似锦。眼下两个儿子都已长大到能打理农庄了，她便恳请你准许她加入前往海外群岛的远征，好为家里挣一份丰厚的家业，给儿子们换来更好的将来。</CharacterDescriptionValkyrie>
+  
+  
+  <CharacterDescriptionVanquishedFoe>阿斯莱弗是你的远房表亲，族中另一房视若珍宝的儿子。氏族的首领之位在你家族与他家族之间世代轮替，然而，尽管你父亲是从阿斯莱弗的父亲手中夺得领主之位的，此后经年，格里姆瓦尔德依然忠心不贰地侍奉你的父亲。\n\n从格里姆瓦尔德身上，阿斯莱弗被灌输了近乎执拗的荣誉感与责任感。他自小被当作一名强悍而精悍的战士来培养，此生别无他求，唯愿守护并效力于自己的家族与氏族。正因如此，他几乎是出于不得已，才向你继承父亲王位的资格发起挑战，认定你羸弱无能，不堪大任。然而，在那场决斗中，他被彻底折服，如今已宣誓效忠，随你一道踏上远征海外群岛的征途。</CharacterDescriptionVanquishedFoe>
+  
+  
+  <CharacterDescriptionTravellingMonk>莫尔坎特是蒙克威尔茅斯修道院的修士，将青年时代尽付于勤勉的研习与冥思。他对饱学之士怀有极大的敬意，并在前辈比德的感召下，矢志寻求真知，将其编纂成册，以此为上帝之造化献上信仰与惊叹的证言。\n\n他曾耗费数年光阴，漫游在诺森布里亚的乡野间，济助万民，施以教化。正是在这些游历中，他对异教信仰日渐沉迷，并试图将其一一记录、保存。在他眼中，这些古老的仪式与传说，犹如未蒙恩典之人在黑暗中盲目地摸索，渴求上帝真理之光的照耀——而透过理解这一切，他希望能引领他们更平顺地迈入那真正的信仰。</CharacterDescriptionTravellingMonk>
+  
+  
+  <CharacterDescriptionWitch>罗斯克瓦尚在襁褓时，就被遗弃在你家宅地外泥塘中的一个篮子里——至今也无人知晓她的父母是谁，又为何决意将她丢给食腐的鸟雀。罗斯克瓦天大的幸运是，无儿无女的老女巫胡尔达发现了这个新生女婴，决定收养她，将她当作自己的学徒来抚养。\n\n罗斯克瓦仍旧年轻，却早已深谙草木的用途和精魂的喜怒无常。这位年轻的女巫是灵巧而心软的治疗者，但对致命的毒药与狠辣的诅咒也毫无恻隐。头二十年，她先是受一位老妪照料，后来则轮到老妪反过来仰仗她。如今，罗斯克瓦渴望离开村庄，前往远方求索新的知识。</CharacterDescriptionWitch>
+  
+  
+  <CharacterDescriptionWolf>你父亲从某次北上旅途中把小凯蒂尔带回了家。那时，这个黑发男孩看上去不过八个冬天大，浑身是羞怯而沉郁的劲儿。你父亲从未好好解释过自己是怎样摊上这个孩子的，但在酋长的请求下，氏族收留了凯蒂尔，把他当作孤儿抚养。\n\n凯蒂尔渐渐褪去自闭的外壳，因为年纪相仿，你们很快成了要好的朋友。长大后的凯蒂尔是个瘦削的年轻人，轻柔的脚步和敏锐的双眼使他成了一名娴熟的猎手。与你父亲带回家的那个沉默男孩截然不同，如今的凯蒂尔练就了迷人的微笑和令人卸下防备的机智。他是个好朋友，也是忠诚的侍卫——无论你要他去哪里，他都会跟随。</CharacterDescriptionWolf>
+  
+  
+  
+  
+
+  
+  
+  <CharacterStatStrength>力量</CharacterStatStrength>
+  
+  
+  <CharacterStatStrengthAbbreviated>STR</CharacterStatStrengthAbbreviated>
+  
+  
+  <CharacterStatEndurance>耐力</CharacterStatEndurance>
+  
+  
+  <CharacterStatEnduranceAbbreviated>END</CharacterStatEnduranceAbbreviated>
+  
+  
+  <CharacterStatFinesse>灵巧</CharacterStatFinesse>
+  
+  
+  <CharacterStatFinesseAbbreviated>FIN</CharacterStatFinesseAbbreviated>
+  
+  
+  <CharacterStatPerception>感知</CharacterStatPerception>
+  
+  
+  <CharacterStatPerceptionAbbreviated>PER</CharacterStatPerceptionAbbreviated>
+  
+  
+  <CharacterStatSense>感应</CharacterStatSense>
+  
+  
+  <CharacterStatSenseAbbreviated>SEN</CharacterStatSenseAbbreviated>
+  
+  
+  <CharacterStatBaseDamage>基础伤害</CharacterStatBaseDamage>
+  
+  
+  <CharacterStatMeleeDamage>伤害</CharacterStatMeleeDamage>
+  
+  
+  <CharacterStatMeleeDamageShort>Dmg</CharacterStatMeleeDamageShort>
+  
+  
+  <CharacterStatRangedDamage>远程伤害</CharacterStatRangedDamage>
+  
+  
+  <CharacterStatHitpoints>生命值</CharacterStatHitpoints>
+  
+  
+  <CharacterStatHitpointsAbbriviated>HP</CharacterStatHitpointsAbbriviated>
+  
+  
+  <CharacterStatBlockChance>格挡几率</CharacterStatBlockChance>
+  
+  
+  <CharacterStatCriticalChance>暴击</CharacterStatCriticalChance>
+  
+  
+  <CharacterStatHoursWithoutRest>体力</CharacterStatHoursWithoutRest>
+  
+  
+  <CharacterStatDiscipline>纪律</CharacterStatDiscipline>
+  
+  
+  
+  <CharacterStatPhysicalResistance>物理抗性</CharacterStatPhysicalResistance>
+  
+  
+  <CharacterStatPhysicalResistanceShort>物理</CharacterStatPhysicalResistanceShort>
+  
+  
+  <CharacterStatMentalResistance>精神抗性</CharacterStatMentalResistance>
+  
+  
+  <CharacterStatMentalResistanceShort>精神</CharacterStatMentalResistanceShort>
+  
+  
+  <CharacterStatMaxAccuracy>精准</CharacterStatMaxAccuracy>
+  
+  
+  <CharacterStatDamageReduction>伤害减免</CharacterStatDamageReduction>
+  
+  
+  <CharacterStatDamageReductionAbbriviated>DR</CharacterStatDamageReductionAbbriviated>
+  
+  
+  <CharacterStatDRMelee>近战伤害减免</CharacterStatDRMelee>
+  
+  
+  <CharacterStatDRRanged>远程伤害减免</CharacterStatDRRanged>
+  
+  
+  <CharacterStatMovement>移动</CharacterStatMovement>
+  
+  
+  <CharacterStatMovementAbbreviated>MOV</CharacterStatMovementAbbreviated>
+  
+  
+  <CharacterStatMorale>士气</CharacterStatMorale>
+  
+  
+  <CharacterStatResistStun>抵抗昏迷</CharacterStatResistStun>
+  
+
+  
+  <DamageReductionMelee>近战伤害减免</DamageReductionMelee>
+  
+  
+  <DamageReductionRanged>远程伤害减免</DamageReductionRanged>
+  
+
+  
+  <CharacterStatNotApplicable>[color=&quot;silver&quot;]N/A[/color]</CharacterStatNotApplicable>
+  
+
+  
+  <Chance>几率</Chance>
+  
+
+  
+  <TooltipCharacterStatBlockChance>[size=&quot;16&quot;]格挡几率[/size]\n决定了你用盾牌格挡攻击的可能性，让盾牌替你承受伤害。</TooltipCharacterStatBlockChance>
+  
+  
+  <TooltipCharacterStatMaxAccuracy>[size=&quot;16&quot;]精准[/size]\n决定了远程攻击的最大精准度。此数值每离目标远一个六角格便降低6点，而最终的命中率永远不会超过95%。</TooltipCharacterStatMaxAccuracy>
+  
+  
+  <TooltipCharacterStatCriticalChance>[size=&quot;16&quot;]暴击率[/size]\n决定了打出暴击的可能性，暴击会让伤害乘上你所装备武器的暴击修正值。</TooltipCharacterStatCriticalChance>
+  
+  
+  <TooltipCharacterStatDamage>[size=&quot;16&quot;]伤害[/size]\n你的伤害由[color=&quot;lightblue&quot;]基础伤害[/color]加上当前所装备武器的伤害构成。</TooltipCharacterStatDamage>
+  
+  
+  <TooltipCharacterStatMovement>[size=&quot;16&quot;]移动[/size]\n你在战斗中仍能做出一次攻击的情况下所能移动的六角格数量。护甲会对此值增加惩罚，使单位能移动的格子变少。</TooltipCharacterStatMovement>
+  
+  
+  <TooltipCharacterStatDamageReduction>[size=&quot;16&quot;]伤害减免(DR)[/size]\n伤害减免决定了从所受攻击中减去的伤害量。根据所装备的装备，此数值在近战和远程攻击之间可能有所不同。</TooltipCharacterStatDamageReduction>
+  
+  
+  <TooltipCharacterStatHoursWithoutRest>[size=&quot;16&quot;]体力[/size]\n决定了角色在变得疲劳之前能撑多少个小时。在营地睡足两个班次，便会重置此计时。</TooltipCharacterStatHoursWithoutRest>
+  
+  
+  <TooltipCharacterStatHitpoints>[size=&quot;16&quot;]生命值(HP)[/size]\n决定了角色在陷入[color=&quot;yellow&quot;]失去行动能力[/color]之前所能承受的伤害量。每场战斗后生命值都会恢复，可一旦角色失去行动能力的时间过长，就会落下一身伤势。</TooltipCharacterStatHitpoints>
+  
+  
+  <TooltipCharacterStatDiscipline>[size=&quot;16&quot;]纪律[/size]\n决定了抵抗负面精神效果和物理效果的几率。</TooltipCharacterStatDiscipline>
+  
+  
+  
+  <TooltipCharacterStatPhysicalResistance>[size=&quot;16&quot;]物理抗性[/size]\n决定了抵抗负面物理效果的几率。由力量和士气衍生而来。盾牌可以增强此数值。</TooltipCharacterStatPhysicalResistance>
+  
+  
+  <TooltipCharacterStatMentalResistance>[size=&quot;16&quot;]精神抗性[/size]\n决定了抵抗负面精神效果的几率。由感应和士气衍生而来。头盔可以增强此数值。</TooltipCharacterStatMentalResistance>
+  
+  
+  <TooltipCharacterStatMorale>[size=&quot;16&quot;]士气[/size]\n以-10到10的标度体现角色的信心。影响物理抗性和精神抗性。</TooltipCharacterStatMorale>
+  
+
+  
+  <TooltipInjury>伤势可以在露营时将其作为任务指派给精通医术的人来治疗。</TooltipInjury>
+  
+
+  
+  <TooltipStatStrength>[size=&quot;16&quot;]力量[/size]\n决定了使用斧和剑时的[color=&quot;lightblue&quot;]基础伤害[/color]，并影响[color=&quot;lightblue&quot;]物理抗性[/color]。力量对战士至关重要，偶尔也能在对话中帮你打出击倒之类的体能壮举。</TooltipStatStrength>
+  
+  
+  <TooltipStatEndurance>[size=&quot;16&quot;]耐力[/size]\n决定[color=&quot;lightblue&quot;]生命值[/color]、[color=&quot;lightblue&quot;]基础伤害减免[/color]、持盾[color=&quot;lightblue&quot;]格挡率[/color]，并影响[color=&quot;lightblue&quot;]体力[/color]。耐力是前线战士的立身之本。</TooltipStatEndurance>
+  
+  
+  <TooltipStatFinesse>[size=&quot;16&quot;]灵巧[/size]\n决定小刀与矛的[color=&quot;lightblue&quot;]基础伤害[/color]，以及所有武器的[color=&quot;lightblue&quot;]暴击率[/color]。灵巧对远程角色和快手游荡者至关重要，在对话中偶尔也能用于发动突袭。</TooltipStatFinesse>
+  
+  
+  <TooltipStatPerception>[size=&quot;16&quot;]感知[/size]\n决定远程武器的[color=&quot;lightblue&quot;]精准度[/color]。感知是弓箭手的命脉，且常在对话中揭示额外信息。</TooltipStatPerception>
+  
+  
+  <TooltipStatSense>[size=&quot;16&quot;]感官[/size]\n影响[color=&quot;lightblue&quot;]精神抗性[/color]与[color=&quot;lightblue&quot;]体力[/color]。感官是女巫、吟游诗人等辅助角色的根基，在对话中常能用于说服他人。</TooltipStatSense>
+  
+  
+  <TooltipStatMorale>[size=&quot;16&quot;]士气[/size]\n影响[color=&quot;lightblue&quot;]物理抗性[/color]与[color=&quot;lightblue&quot;]精神抗性[/color]。士气代表角色的信心，数值范围从-10到10。</TooltipStatMorale>
+  
+ 
+  
+  <TooltipStatModNegDetails>[color=&quot;red&quot;][Mod][/color] [Cause]</TooltipStatModNegDetails>
+  
+  
+  <TooltipStatModPosDetails>[color=&quot;lime&quot;]+[Mod][/color] [Cause]</TooltipStatModPosDetails>
+  
+
+
+  
+  <ThrowingDamage>伤害</ThrowingDamage>
+  
+  
+  <UnarmedDamage>伤害</UnarmedDamage>
+  
+  
+  <MeleeDamage>伤害</MeleeDamage>
+  
+  
+  <RangedDamage>伤害</RangedDamage>
+  
+  
+  <MeleeRangedDamage>伤害</MeleeRangedDamage>
+  
+  
+  <AreaOfEffect>范围效果</AreaOfEffect>
+  
+  
+  <BlockChance>格挡</BlockChance>
+  
+  
+  <CriticalChance>暴击率</CriticalChance>
+  
+  
+  <PoisonResistance>毒药抗性</PoisonResistance>
+  
+  
+  <KnockdownChance>击倒几率</KnockdownChance>
+  
+  
+  <Hitpoints>生命值</Hitpoints>
+  
+  
+  <DualWieldingDamagePenalty>双持伤害惩罚</DualWieldingDamagePenalty>
+  
+  
+  <PartialCoverPenalty>部分掩体惩罚</PartialCoverPenalty>
+  
+  
+  <FlankingBonusDamage>侧翼伤害加成</FlankingBonusDamage>
+  
+  
+  <DistancePenalty>距离惩罚</DistancePenalty>
+  
+  
+  <HalveEnemyMovementChance>敌人移动几率减半</HalveEnemyMovementChance>
+  
+  
+  <ArmourPiercing>护甲穿透</ArmourPiercing>
+  
+  
+  <TinkerSpeed>修补速度</TinkerSpeed>
+  
+  
+  <PartyMoraleCap>队伍士气上限</PartyMoraleCap>
+  
+  
+  <CraftingTier>等阶</CraftingTier>
+  
+  
+  <FogOfWar>战争迷雾</FogOfWar>
+  
+
+  
+  
+  <CraftingHeadline>锻造</CraftingHeadline>
+  
+  
+  <CraftingParameterSchematics>图纸</CraftingParameterSchematics>
+  
+  
+  <CraftingAmountSchematics>[y]/[x]</CraftingAmountSchematics>
+  
+  
+  <CraftingAmountSchematicsNegative>[color=&quot;red&quot;][y]/[x][/color]</CraftingAmountSchematicsNegative>
+  
+  
+  <CraftingCostResourcesRemaining>剩余[resource1][resource2]</CraftingCostResourcesRemaining>
+  
+  
+  <CraftingCostResourceRemaining>[size=&quot;24&quot;][amount][/size] [resource]</CraftingCostResourceRemaining>
+  
+  
+  <CraftingButton>打造物品</CraftingButton>
+  
+  
+  <CraftingBonus>特殊属性几率</CraftingBonus>
+  
+  
+  <CraftingBonusEffect>[x]%</CraftingBonusEffect>
+  
+  
+  <CraftingMaxRankWeapon>最高武器等阶</CraftingMaxRankWeapon>
+  
+  
+  <CraftingMaxRankWeaponEffect>[skillrank]/5</CraftingMaxRankWeaponEffect>
+  
+  
+  <CraftingMaxRankArmour>最高护甲等阶</CraftingMaxRankArmour>
+  
+  
+  <CraftingMaxRankArmourEffect>[skillrankplus1]/5</CraftingMaxRankArmourEffect>
+  
+  
+  <CraftingMaxSalvage>资源上限</CraftingMaxSalvage>
+  
+  
+  <CraftingMaxTier>最高等阶</CraftingMaxTier>
+  
+  
+  <CraftingIconTooltip>[size=&quot;18&quot;]锻造[/size]\n显示你可打造的最高武器等阶，以及所选物品类型的资源上限。</CraftingIconTooltip>
+  
+  
+  <CraftingArmourIconTooltip>[size=&quot;18&quot;]护甲锻造[/size]\n显示你可打造的最高护甲等阶，以及所选物品类型的资源上限。</CraftingArmourIconTooltip>
+  
+  
+  <CraftingArtisanTooltip>[size=&quot;18&quot;]工匠[/size]\n显示打造物品获得特殊属性的几率。</CraftingArtisanTooltip>
+  
+  
+  <CraftingItemSelection>选择待造物品</CraftingItemSelection>
+  
+  
+  <CraftingItemSelectionItemType>物品类型</CraftingItemSelectionItemType>
+  
+  
+  <CraftingItemSelectionItemTypeArmour>护甲</CraftingItemSelectionItemTypeArmour>
+  
+  
+  <CraftingItemSelectionItemTypeAxe>斧头</CraftingItemSelectionItemTypeAxe>
+  
+  
+  <CraftingItemSelectionItemTypeBow>弓</CraftingItemSelectionItemTypeBow>
+  
+  
+  <CraftingItemSelectionItemTypeDaneAxe>丹麦战斧</CraftingItemSelectionItemTypeDaneAxe>
+  
+  
+  <CraftingItemSelectionItemTypeHelmet>头盔</CraftingItemSelectionItemTypeHelmet>
+  
+  
+  <CraftingItemSelectionItemTypeKnife>小刀</CraftingItemSelectionItemTypeKnife>
+  
+  
+  <CraftingItemSelectionItemTypeShield>盾牌</CraftingItemSelectionItemTypeShield>
+  
+  
+  <CraftingItemSelectionItemTypeSling>投石索</CraftingItemSelectionItemTypeSling>
+  
+  
+  <CraftingItemSelectionItemTypeSpear>矛</CraftingItemSelectionItemTypeSpear>
+  
+  
+  <CraftingItemSelectionItemTypeSword>剑</CraftingItemSelectionItemTypeSword>
+  
+  
+  
+  <CraftingArtisanPreview>[color=&quot;lime&quot;]有[x]%几率打造出特殊属性！[/color]</CraftingArtisanPreview>
+  
+
+  
+  <CraftingTotallyUnaffordable>打造此物超出了工匠的技能水准！</CraftingTotallyUnaffordable>
+  
+  
+  <CraftingCurrentlyUnaffordableSkill>打造此物超出了工匠的技能水准！</CraftingCurrentlyUnaffordableSkill>
+  
+  
+  <CraftingCurrentlyUnaffordableResources>你没有足够的资源来打造此物！</CraftingCurrentlyUnaffordableResources>
+  
+  
+  <CraftingSelected>此数值已被选定用于打造。</CraftingSelected>
+  
+  
+  <CraftingDefault>点击打造此数值。</CraftingDefault>
+  
+
+  
+  <CraftRequirementTooltip>\n[color=&quot;red&quot;]需要[skill]等阶[x][/color]。</CraftRequirementTooltip>
+  
+  
+  <CraftShieldDropdownTooltip>选择以打造盾牌。[requirement]</CraftShieldDropdownTooltip>
+  
+  
+  <CraftArmourDropdownTooltip>选择以打造护甲。[requirement]</CraftArmourDropdownTooltip>
+  
+  
+  <CraftHelmetDropdownTooltip>选择以打造头盔。[requirement]</CraftHelmetDropdownTooltip>
+  
+  
+  <CraftAxeDropdownTooltip>选择以打造斧头。[requirement]</CraftAxeDropdownTooltip>
+  
+  
+  <CraftBowDropdownTooltip>选择以打造弓。[requirement]</CraftBowDropdownTooltip>
+  
+  
+  <CraftDaneAxeDropdownTooltip>选择以打造丹麦战斧。[requirement]</CraftDaneAxeDropdownTooltip>
+  
+  
+  <CraftKnifeDropdownTooltip>选择以打造小刀。[requirement]</CraftKnifeDropdownTooltip>
+  
+  
+  <CraftSpearDropdownTooltip>选择以打造矛。[requirement]</CraftSpearDropdownTooltip>
+  
+  
+  <CraftSwordDropdownTooltip>选择以打造剑。[requirement]</CraftSwordDropdownTooltip>
+  
+  
+  <CraftSlingDropdownTooltip>选择以打造投石索。[requirement]</CraftSlingDropdownTooltip>
+  
+
+  
+  <CraftingNA>-</CraftingNA>
+  
+  
+  
+  
+  <RepairingHeadline>修理</RepairingHeadline>
+  
+  
+  <RepairingRank>修理等阶</RepairingRank>
+  
+  
+  <RepairingRankEffect>[repairskillrank]/5</RepairingRankEffect>
+  
+  
+  <RepairingBonus>费用减免</RepairingBonus>
+  
+  
+  <RepairingBonusEffect>[color=&quot;lime&quot;][x]%[/color]</RepairingBonusEffect>
+  
+  
+  <RepairingBonusNoEffect>-</RepairingBonusNoEffect>
+  
+  
+  <RepairingCostResource1>[color=&quot;orange&quot;][x][/color] [resource]</RepairingCostResource1>
+  
+  
+  <RepairingCostResource2>[color=&quot;orange&quot;][x][/color] [resource]</RepairingCostResource2>
+  
+  
+  
+  <RepairingCostRepairSelected>[resourceamount1][resource1][resourceamount2][resource2]</RepairingCostRepairSelected>
+  
+  
+  <RepairingSelectedItem>已选物品：</RepairingSelectedItem>
+  
+  
+  <RepairingSelectedWorn>装备者：[color=&quot;orange&quot;][name][/color]</RepairingSelectedWorn>
+  
+  
+  <RepairingButtonRepairSelected>修理已选</RepairingButtonRepairSelected>
+  
+  
+  <RepairingSelectAll>全选</RepairingSelectAll>
+  
+  
+  <RepairingSelectNone>全部不选</RepairingSelectNone>
+  
+
+  
+  
+  <TinkeringHeadline>修补</TinkeringHeadline>
+  
+  
+  <TinkeringButtonCraft>修补物品</TinkeringButtonCraft>
+  
+  
+  <TinkeringTinkerResource>[resource]</TinkeringTinkerResource>
+  
+  
+  <TinkeringItemTooltipGrammar>[size=&quot;16&quot;][name][/size]\n[size=&quot;12&quot;][color=&quot;grey&quot;][type][/color][/size]\n[description]</TinkeringItemTooltipGrammar>
+  
+  
+  
+  <TinkeringTinkerResourceAmount>[current] / [needed]</TinkeringTinkerResourceAmount>
+  
+  
+  <TinkeringTinkerResourceAmountNotEnough>[color=&quot;red&quot;][current][/color] / [needed]</TinkeringTinkerResourceAmountNotEnough>
+  
+
+  
+  <StatusEffectMentalResistance>[color=&quot;lightblue&quot;]精神抗性[/color]</StatusEffectMentalResistance>
+  
+  
+  <StatusEffectPhysicalResistance>[color=&quot;lightblue&quot;]物理抗性[/color]</StatusEffectPhysicalResistance>
+  
+  
+  
+  <StatusEffectAnticipating>预判</StatusEffectAnticipating>
+  
+  
+  <StatusEffectAnticipatingDescription>下次攻击拥有100%暴击率</StatusEffectAnticipatingDescription>
+  
+  
+  <StatusEffectAnts>蚁群之扰！</StatusEffectAnts>
+  
+  
+  <StatusEffectAntsDescription>基础伤害减免减半</StatusEffectAntsDescription>
+  
+  
+  <StatusEffectBerserk>狂战士之怒</StatusEffectBerserk>
+  
+  
+  <StatusEffectBerserkDescription>基础近战伤害翻倍，基础伤害减免降至0%</StatusEffectBerserkDescription>
+  
+  
+  <StatusEffectBleeding>流血</StatusEffectBleeding>
+  
+  
+  <StatusEffectBleedingDescription>每回合损失8-16点生命值</StatusEffectBleedingDescription>
+  
+  
+  <StatusEffectBlinded>目盲</StatusEffectBlinded>
+  
+  
+  <StatusEffectBlindedDescription>感知-5</StatusEffectBlindedDescription>
+  
+  
+  <StatusEffectBloodThirsty>嗜血</StatusEffectBloodThirsty>
+  
+  
+  <StatusEffectBloodThirstyDescription>伤害+10%</StatusEffectBloodThirstyDescription>
+  
+  
+  <StatusEffectBurning>燃烧</StatusEffectBurning>
+  
+  
+  <StatusEffectBurningDescription>每回合损失20-30点生命值</StatusEffectBurningDescription>
+  
+  
+  <StatusEffectCentered>镇定</StatusEffectCentered>
+  
+  
+  <StatusEffectCenteredDescription>物理抗性变为100%</StatusEffectCenteredDescription>
+  
+  
+  <StatusEffectCold>寒冷</StatusEffectCold>
+  
+  
+  <StatusEffectColdDescription>灵巧-4</StatusEffectColdDescription>
+  
+  
+  <StatusEffectConcussed>脑震荡</StatusEffectConcussed>
+  
+  
+  <StatusEffectConcussedDescription>耐力-3</StatusEffectConcussedDescription>
+  
+  
+  <StatusEffectCondemned>定罪</StatusEffectCondemned>
+  
+  
+  <StatusEffectCondemnedDescription>若遭处决者击中，即刻毙命</StatusEffectCondemnedDescription>
+  
+  
+  <StatusEffectDefending>防御</StatusEffectDefending>
+  
+  
+  <StatusEffectDefendingDescription>盾牌坚不可摧</StatusEffectDefendingDescription>
+  
+  
+  <StatusEffectDemoralised>士气低落</StatusEffectDemoralised>
+  
+  
+  <StatusEffectDemoralisedDescription>最大精准度-50</StatusEffectDemoralisedDescription>
+  
+  
+  <StatusEffectDisarmed>缴械</StatusEffectDisarmed>
+  
+  
+  <StatusEffectDisarmedDescription>无法使用或切换武器</StatusEffectDisarmedDescription>
+  
+  
+  <StatusEffectDiseased>疾病</StatusEffectDiseased>
+  
+  
+  <StatusEffectDiseasedDescription>力量-3，灵巧-2</StatusEffectDiseasedDescription>
+  
+  
+  <StatusEffectDrugged>麻醉</StatusEffectDrugged>
+  
+  
+  <StatusEffectDruggedDescription>灵巧-2，感知-2</StatusEffectDruggedDescription>
+  
+  
+  <StatusEffectDruggedNonCombat>麻醉</StatusEffectDruggedNonCombat>
+  
+  
+  <StatusEffectDruggedNonCombatDescription>灵巧-2，感知-2</StatusEffectDruggedNonCombatDescription>
+  
+  
+  <StatusEffectEmboldened>鼓舞</StatusEffectEmboldened>
+  
+  
+  <StatusEffectEmboldenedDescription>感官+2</StatusEffectEmboldenedDescription>
+  
+  
+  <StatusEffectExecutioner>处决</StatusEffectExecutioner>
+  
+  
+  <StatusEffectExecutionerDescription>击中时即刻斩杀被定罪目标</StatusEffectExecutionerDescription>
+  
+  
+  <StatusEffectExposed>暴露</StatusEffectExposed>
+  
+  
+  <StatusEffectExposedDescription>无法格挡</StatusEffectExposedDescription>
+  
+  
+  <StatusEffectFatigued>疲惫</StatusEffectFatigued>
+  
+  
+  <StatusEffectFatiguedDescription>力量、灵巧、感知全部减半</StatusEffectFatiguedDescription>
+  
+  
+  <StatusEffectFearless>无畏</StatusEffectFearless>
+  
+  
+  <StatusEffectFearlessDescription>精神抗性变为100%</StatusEffectFearlessDescription>
+  
+  
+  <StatusEffectFlammable>易燃</StatusEffectFlammable>
+  
+  
+  <StatusEffectFlammableDescription>燃烧持续时间翻倍</StatusEffectFlammableDescription>
+  
+  
+  <StatusEffectFocused>专注</StatusEffectFocused>
+  
+  
+  <StatusEffectFocusedDescription>暴击率+10</StatusEffectFocusedDescription>
+  
+  
+  <StatusEffectFoodPoisoning>食物中毒</StatusEffectFoodPoisoning>
+  
+  
+  <StatusEffectFoodPoisoningDescription>耐力-1，感知-1</StatusEffectFoodPoisoningDescription>
+  
+  
+  <StatusEffectFrenzied>狂暴</StatusEffectFrenzied>
+  
+  
+  <StatusEffectFrenziedDescription>每回合攻击两次</StatusEffectFrenziedDescription>
+  
+  
+  <StatusEffectFrightened>惊恐</StatusEffectFrightened>
+  
+  
+  <StatusEffectFrightenedDescription>感知-1，感知-1</StatusEffectFrightenedDescription>
+  
+  
+  <StatusEffectGrappling>擒抱</StatusEffectGrappling>
+  
+  
+  <StatusEffectGrapplingDescription>下回合前无法移动</StatusEffectGrapplingDescription>
+  
+  
+  <StatusEffectHarried>被骚扰</StatusEffectHarried>
+  
+  
+  <StatusEffectHarriedDescription>基础伤害减免为0%</StatusEffectHarriedDescription>
+  
+  
+  <StatusEffectHastened>加速</StatusEffectHastened>
+  
+  
+  <StatusEffectHastenedDescription>移动力+1</StatusEffectHastenedDescription>
+  
+  
+  <StatusEffectHungOver>宿醉</StatusEffectHungOver>
+  
+  
+  <StatusEffectHungOverDescription>感知-3</StatusEffectHungOverDescription>
+  
+  
+  <StatusEffectHungry>饥饿</StatusEffectHungry>
+  
+  
+  <StatusEffectHungryDescription>耐力-3，感知-3</StatusEffectHungryDescription>
+  
+  
+  <StatusEffectHypnotized>催眠</StatusEffectHypnotized>
+  
+  
+  <StatusEffectHypnotizedDescription>切换阵营1回合</StatusEffectHypnotizedDescription>
+  
+  
+  <StatusEffectIlluminated>照明</StatusEffectIlluminated>
+  
+  
+  <StatusEffectIlluminatedDescription>夜间更容易被命中</StatusEffectIlluminatedDescription>
+  
+  
+  <StatusEffectIncapacitated>失去行动能力</StatusEffectIncapacitated>
+  
+  
+  <StatusEffectIncapacitatedDescription>被救起前无法行动</StatusEffectIncapacitatedDescription>
+  
+  
+  <StatusEffectInterrupting>打断</StatusEffectInterrupting>
+  
+  
+  <StatusEffectInterruptingDescription>对6格内首个移动的敌人，或对其命中率不低于75%的敌人发动攻击</StatusEffectInterruptingDescription>
+  
+  
+  <StatusEffectIntoxicated>醉酒</StatusEffectIntoxicated>
+  
+  
+  <StatusEffectIntoxicatedDescription>感知-2</StatusEffectIntoxicatedDescription>
+  
+  
+  <StatusEffectIntoxicatedNonCombat>醉酒</StatusEffectIntoxicatedNonCombat>
+  
+  
+  <StatusEffectIntoxicatedNonCombatDescription>感知-2</StatusEffectIntoxicatedNonCombatDescription>
+  
+  
+  <StatusEffectInvigorated>振奋</StatusEffectInvigorated>
+  
+  
+  <StatusEffectInvigoratedDescription>力量+1</StatusEffectInvigoratedDescription>
+  
+  
+  <StatusEffectKnockedDown>击倒</StatusEffectKnockedDown>
+  
+  
+  <StatusEffectKnockedDownDescription>无法行动，无法格挡，基础伤害减免为0%；恢复需消耗2移动力</StatusEffectKnockedDownDescription>
+  
+  
+  <StatusEffectSlipped>滑倒</StatusEffectSlipped>
+  
+  
+  <StatusEffectSlippedDescription>无法行动，无法格挡，基础伤害减免为0%；恢复需消耗2移动力</StatusEffectSlippedDescription>
+  
+  
+  <StatusEffectTripped>绊倒</StatusEffectTripped>
+  
+  
+  <StatusEffectTrippedDescription>无法行动，无法格挡，基础伤害减免为0%；恢复需消耗2移动力</StatusEffectTrippedDescription>
+  
+  
+  <StatusEffectManoeuvred>机动</StatusEffectManoeuvred>
+  
+  
+  <StatusEffectManoeuvredDescription>移动力+1</StatusEffectManoeuvredDescription>
+  
+  
+  <StatusEffectMorose>忧郁</StatusEffectMorose>
+  
+  
+  <StatusEffectMoroseDescription>感知-3</StatusEffectMoroseDescription>
+  
+  
+  <StatusEffectNoncandescent>耐火</StatusEffectNoncandescent>
+  
+  
+  <StatusEffectNoncandescentDescription>免疫火焰</StatusEffectNoncandescentDescription>
+  
+  
+  <StatusEffectNumb>麻木</StatusEffectNumb>
+  
+  
+  <StatusEffectNumbDescription>每回合恢复30-40生命值，移动力-2</StatusEffectNumbDescription>
+  
+  
+  <StatusEffectPanicked>恐慌</StatusEffectPanicked>
+  
+  
+  <StatusEffectPanickedDescription>角色将行为失常</StatusEffectPanickedDescription>
+  
+  
+  <StatusEffectParrying>招架</StatusEffectParrying>
+  
+  
+  <StatusEffectParryingDescription>基础伤害减免翻倍；角色获得一次免费反击</StatusEffectParryingDescription>
+  
+  
+  <StatusEffectPoisoned>中毒</StatusEffectPoisoned>
+  
+  
+  <StatusEffectPoisonedDescription>每回合损失16-24生命值</StatusEffectPoisonedDescription>
+  
+  
+  <StatusEffectProtected>受保护</StatusEffectProtected>
+  
+  
+  <StatusEffectProtectedDescription>若保护者的伤害减免更高，则沿用其数值</StatusEffectProtectedDescription>
+  
+  
+  <StatusEffectProtecting>保护</StatusEffectProtecting>
+  
+  
+  <StatusEffectProtectingDescription>回合结束后，所有相邻盟友获得“受保护”状态</StatusEffectProtectingDescription>
+  
+  
+  <StatusEffectRabid>狂犬病</StatusEffectRabid>
+  
+  
+  <StatusEffectRabidDescription>攻击命中时施加“感染”</StatusEffectRabidDescription>
+  
+  
+  <StatusEffectReady>备战</StatusEffectReady>
+  
+  
+  <StatusEffectReadyDescription>自动攻击首个进入相邻格的敌人</StatusEffectReadyDescription>
+  
+  
+  <StatusEffectRoskvasPoison>罗斯克瓦之毒</StatusEffectRoskvasPoison>
+  
+  
+  <StatusEffectRoskvasPoisonDescription>力量-3，耐力-3</StatusEffectRoskvasPoisonDescription>
+  
+  
+  <StatusEffectSacrament>圣礼</StatusEffectSacrament>
+  
+  
+  <StatusEffectSacramentDescription>基础物理抗性和精神抗性翻倍</StatusEffectSacramentDescription>
+  
+  
+  <StatusEffectShieldmaster>盾牌大师</StatusEffectShieldmaster>
+  
+  
+  <StatusEffectShieldmasterDescription>盾牌不受任何伤害</StatusEffectShieldmasterDescription>
+  
+  
+  <StatusEffectSnared>束缚</StatusEffectSnared>
+  
+  
+  <StatusEffectSnaredDescription>无法行动，无法格挡</StatusEffectSnaredDescription>
+  
+  
+  <StatusEffectSnaring>束缚中</StatusEffectSnaring>
+  
+  
+  <StatusEffectSnaringDescription>首个进入近战范围的敌人将被束缚</StatusEffectSnaringDescription>
+  
+  
+  <StatusEffectSpotted>被侦测</StatusEffectSpotted>
+  
+  
+  <StatusEffectSpottedDescription>无法利用低掩体；对该角色的远程攻击命中率+25%</StatusEffectSpottedDescription>
+  
+  
+  <StatusEffectSpotTraps>陷阱侦测</StatusEffectSpotTraps>
+  
+  
+  <StatusEffectSpotTrapsDescription>角色将揭示路径上的陷阱</StatusEffectSpotTrapsDescription>
+  
+  
+  <StatusEffectStarving>饥饿</StatusEffectStarving>
+  
+  
+  <StatusEffectStarvingDescription>耐力-6，感知-6</StatusEffectStarvingDescription>
+  
+  
+  <StatusEffectSteady>稳固</StatusEffectSteady>
+  
+  
+  <StatusEffectSteadyDescription>免疫“被骚扰”</StatusEffectSteadyDescription>
+  
+  
+  <StatusEffectStunned>眩晕</StatusEffectStunned>
+  
+  
+  <StatusEffectStunnedDescription>无法行动，无法格挡，基础伤害减免为0%</StatusEffectStunnedDescription>
+  
+  
+  <StatusEffectTacticalMove>战术</StatusEffectTacticalMove>
+  
+  
+  <StatusEffectTacticalMoveDescription>不会触发陷阱，也不会引起借机攻击</StatusEffectTacticalMoveDescription>
+  
+  
+  <StatusEffectTerrified>恐惧</StatusEffectTerrified>
+  
+  
+  <StatusEffectTerrifiedDescription>感知-3，感知-2</StatusEffectTerrifiedDescription>
+  
+  
+  <StatusEffectThorsFavour>受索尔眷顾</StatusEffectThorsFavour>
+  
+  
+  <StatusEffectThorsFavourDescription>基础近战伤害+20%</StatusEffectThorsFavourDescription>
+  
+  
+  <StatusEffectTyrsFavour>受提尔眷顾</StatusEffectTyrsFavour>
+  
+  
+  <StatusEffectTyrsFavourDescription>总伤害减免+25</StatusEffectTyrsFavourDescription>
+  
+  
+  <StatusEffectUnbalanced>失衡</StatusEffectUnbalanced>
+  
+  
+  <StatusEffectUnbalancedDescription>下回合开始时失去所有移动力</StatusEffectUnbalancedDescription>
+  
+  
+  <StatusEffectUnconscious>昏迷</StatusEffectUnconscious>
+  
+  
+  <StatusEffectUnconsciousDescription>无法行动；每回合有一定概率苏醒</StatusEffectUnconsciousDescription>
+  
+  
+  <StatusEffectUnnerved>动摇</StatusEffectUnnerved>
+  
+  
+  <StatusEffectUnnervedDescription>所有属性-1</StatusEffectUnnervedDescription>
+  
+  
+  <StatusEffectUnwavering>不屈</StatusEffectUnwavering>
+  
+  
+  <StatusEffectUnwaveringDescription>每回合恢复全部生命值</StatusEffectUnwaveringDescription>
+  
+  
+  <StatusEffectVenomous>淬毒</StatusEffectVenomous>
+  
+  
+  <StatusEffectVenomousDescription>攻击命中时施加“中毒”</StatusEffectVenomousDescription>
+  
+  
+  <StatusEffectViper>毒蛇</StatusEffectViper>
+  
+  
+  <StatusEffectViperDescription>攻击命中时施加“中毒”</StatusEffectViperDescription>
+  
+  
+  <StatusEffectWeakened>虚弱</StatusEffectWeakened>
+  
+  
+  <StatusEffectWeakenedDescription>耐力-3</StatusEffectWeakenedDescription>
+  
+  
+  <StatusEffectWellFed>饱食</StatusEffectWellFed>
+  
+  
+  <StatusEffectWellFedDescription>感知+1，耐力+1</StatusEffectWellFedDescription>
+  
+  
+  <StatusEffectWellRested>精力充沛</StatusEffectWellRested>
+  
+  
+  <StatusEffectWellRestedDescription>感知+1，耐力+1</StatusEffectWellRestedDescription>
+  
+  
+  
+  <StatusEffectCataracted>白内障</StatusEffectCataracted>
+  
+  
+  <StatusEffectCataractedDescription>感知-1</StatusEffectCataractedDescription>
+  
+  
+  <StatusEffectClumsy>笨拙</StatusEffectClumsy>
+  
+  
+  <StatusEffectClumsyDescription>灵巧-1</StatusEffectClumsyDescription>
+  
+  
+  <StatusEffectConditioned>强健</StatusEffectConditioned>
+  
+  
+  <StatusEffectConditionedDescription>力量+1</StatusEffectConditionedDescription>
+  
+  
+  <StatusEffectCrippled>跛足</StatusEffectCrippled>
+  
+  
+  <StatusEffectCrippledDescription>移动力-1</StatusEffectCrippledDescription>
+  
+  
+  <StatusEffectDeformed>畸形</StatusEffectDeformed>
+  
+  
+  <StatusEffectDeformedDescription>力量-1</StatusEffectDeformedDescription>
+  
+  
+  <StatusEffectDisciplined>自律</StatusEffectDisciplined>
+  
+  
+  <StatusEffectDisciplinedDescription>感知+1</StatusEffectDisciplinedDescription>
+  
+  
+  <StatusEffectHoned>磨炼</StatusEffectHoned>
+  
+  
+  <StatusEffectHonedDescription>灵巧+1</StatusEffectHonedDescription>
+  
+  
+  <StatusEffectPained>疼痛</StatusEffectPained>
+  
+  
+  <StatusEffectPainedDescription>耐力-1</StatusEffectPainedDescription>
+  
+  
+  <StatusEffectScarred>疤痕</StatusEffectScarred>
+  
+  
+  <StatusEffectScarredDescription>不影响游戏</StatusEffectScarredDescription>
+  
+  
+  <StatusEffectTraumatised>创伤</StatusEffectTraumatised>
+  
+  
+  <StatusEffectTraumatisedDescription>感知-1</StatusEffectTraumatisedDescription>
+  
+  
+  <StatusEffectVigilant>警觉</StatusEffectVigilant>
+  
+  
+  <StatusEffectVigilantDescription>感知+1</StatusEffectVigilantDescription>
+  
+  
+  <StatusEffectWeathered>饱经风霜</StatusEffectWeathered>
+  
+  
+  <StatusEffectWeatheredDescription>耐力+1</StatusEffectWeatheredDescription>
+  
+
+
+  
+
+  
+  <CharacterSizeSmall>稀疏</CharacterSizeSmall>
+  
+  
+  <CharacterSizeMedium>中等</CharacterSizeMedium>
+  
+  
+  <CharacterSizeLarge>浓密</CharacterSizeLarge>
+  
+
+  
+  
+  <female_vikingarml01pc>臂环</female_vikingarml01pc>
+  
+  
+  <female_vikingarml02pc>分层</female_vikingarml02pc>
+  
+  
+  <female_vikingarml03pc>袖套</female_vikingarml03pc>
+  
+  
+  <female_vikingarml04pc>裸露</female_vikingarml04pc>
+  
+
+  
+  <female_vikinghairl01pc>长发</female_vikinghairl01pc>
+  
+  
+  <female_vikinghairl02pc>辫子</female_vikinghairl02pc>
+  
+  
+  <female_vikinghairs03pc>短发</female_vikinghairs03pc>
+  
+  
+  <female_vikinghairl04pc>头巾（下）</female_vikinghairl04pc>
+  
+  
+  <female_vikinghairl05pc>单辫</female_vikinghairl05pc>
+  
+  
+  <female_vikinghairs06pc>后梳</female_vikinghairs06pc>
+  
+  
+  <female_vikinghairl07pc>头巾（上）</female_vikinghairl07pc>
+  
+  
+  <female_vikinghairs08pc>覆盖</female_vikinghairs08pc>
+  
+  
+  <female_vikinghairl09pc>双马尾</female_vikinghairl09pc>
+  
+  
+  <female_vikinghairl10pc>肩辫</female_vikinghairl10pc>
+  
+  
+  <female_vikinghairs11pc>短头巾</female_vikinghairs11pc>
+  
+  
+  <female_vikinghairl12pc>粗辫</female_vikinghairl12pc>
+  
+  
+  <female_vikinghairs13pc>侧辫</female_vikinghairs13pc>
+  
+
+  
+  <female_vikinglegl01pc>袜子</female_vikinglegl01pc>
+  
+  
+  <female_vikinglegl02pc>松裹</female_vikinglegl02pc>
+  
+  
+  <female_vikinglegl03pc>紧裹</female_vikinglegl03pc>
+  
+  
+  <female_vikinglegl04pc>靴子</female_vikinglegl04pc>
+  
+
+  
+  <female_vikingtorso01pc>华丽连衣裙</female_vikingtorso01pc>
+  
+  
+  <female_vikingtorso02pc>华丽束腰外衣</female_vikingtorso02pc>
+  
+  
+  <female_vikingtorso03pc>简朴连衣裙</female_vikingtorso03pc>
+  
+  
+  <female_vikingtorso04pc>简朴束腰外衣</female_vikingtorso04pc>
+  
+  
+  <female_vikingtorso05pc>皮制束腰外衣</female_vikingtorso05pc>
+  
+
+  
+  <mat_female_VikingHead01PC>雀斑</mat_female_VikingHead01PC>
+  
+  
+  <mat_female_VikingHead02PC>光滑</mat_female_VikingHead02PC>
+  
+  
+  <mat_female_VikingHead03Merc>阴狠</mat_female_VikingHead03Merc>
+  
+  
+  <mat_female_VikingHead04PC>疤痕</mat_female_VikingHead04PC>
+  
+
+  
+  <vo_female01>好斗</vo_female01>
+  
+  
+  <vo_female02>英勇</vo_female02>
+  
+  
+  <vo_female03>机智</vo_female03>
+  
+
+  
+  
+  <male_empty>无</male_empty>
+  
+
+  
+  <male_vikingarml01pc>厚袖</male_vikingarml01pc>
+  
+  
+  <male_vikingarml02pc>护腕</male_vikingarml02pc>
+  
+  
+  <male_vikingarml03pc>薄袖</male_vikingarml03pc>
+  
+  
+  <male_vikingarml04pc>裸露</male_vikingarml04pc>
+  
+
+  
+  <male_vikingbeard01pc>编辫</male_vikingbeard01pc>
+  
+  
+  <male_vikingbeard02pc>山羊胡</male_vikingbeard02pc>
+  
+  
+  <male_vikingbeard03pc>全络腮</male_vikingbeard03pc>
+  
+  
+  <male_vikingbeard04pc>浓密大胡子</male_vikingbeard04pc>
+  
+  
+  <male_vikingbeard05pc>长山羊胡</male_vikingbeard05pc>
+  
+  
+  <male_vikingbeard06pc>粗辫</male_vikingbeard06pc>
+  
+  
+  <male_vikingbeard07pc>全编辫</male_vikingbeard07pc>
+  
+  
+  <male_vikingbeard08pc>双辫</male_vikingbeard08pc>
+  
+
+  
+  <male_vikinghairs01pc>底层刻发</male_vikinghairs01pc>
+  
+  
+  <male_vikinghairl02pc>后梳</male_vikinghairl02pc>
+  
+  
+  <male_vikinghairs03pc>剃光底层刻发</male_vikinghairs03pc>
+  
+  
+  <male_vikinghairl04pc>松散</male_vikinghairl04pc>
+  
+  
+  <male_vikinghairs05pc>短发</male_vikinghairs05pc>
+  
+  
+  <male_vikinghairl06pc>马尾</male_vikinghairl06pc>
+  
+  
+  <male_vikinghairl07pc>头巾</male_vikinghairl07pc>
+  
+  
+  <male_vikinghairl08pc>右侧辫</male_vikinghairl08pc>
+  
+  
+  <male_vikinghairl09pc>左侧辫</male_vikinghairl09pc>
+  
+  
+  <male_vikinghairl10pc>波浪</male_vikinghairl10pc>
+  
+
+  
+  <male_vikinglegl01pc>布鞋</male_vikinglegl01pc>
+  
+  
+  <male_vikinglegl02pc>靴子</male_vikinglegl02pc>
+  
+  
+  <male_vikinglegl03pc>凉鞋</male_vikinglegl03pc>
+  
+  
+  <male_vikinglegl04pc>裹布</male_vikinglegl04pc>
+  
+
+  
+  <male_vikingtorso01pc>华丽</male_vikingtorso01pc>
+  
+  
+  <male_vikingtorso02pc>毛皮镶边</male_vikingtorso02pc>
+  
+  
+  <male_vikingtorso03pc>束腰外衣</male_vikingtorso03pc>
+  
+  
+  <male_vikingtorso04pc>简朴</male_vikingtorso04pc>
+  
+  
+  
+  <male_vikingtorso06pc>皮革</male_vikingtorso06pc>
+  
+
+  
+  <mat_male_VikingHead01PC>剃光</mat_male_VikingHead01PC>
+  
+  
+  <mat_male_VikingHead02PC>胡茬</mat_male_VikingHead02PC>
+  
+  
+  <mat_male_VikingHead03Merc>阴狠</mat_male_VikingHead03Merc>
+  
+  
+  <mat_male_VikingHead04PC>疤痕</mat_male_VikingHead04PC>
+  
+
+  
+  <vo_male01>好斗</vo_male01>
+  
+  
+  <vo_male02>英勇</vo_male02>
+  
+  
+  <vo_male03>机智</vo_male03>
+  -
+  
+  <vo_male04>疯狂</vo_male04>
+  
+
+
+  
+  
+  <TimelineGameOverInactive>\n\n[color=&quot;red&quot;]耗尽时间目前已禁用。[/color]</TimelineGameOverInactive>
+  
+  
+  
+  <TimelineNow>[size=&quot;18&quot;][t][/size][inactive]\n\n当前日期和时间。只有在你旅行或扎营时，时间才会流逝。如果你虚度光阴，[color=&quot;orange&quot;]游戏将提前结束[/color]。</TimelineNow>
+  
+   
+  
+  <TimelineDenmarkStart>[size=&quot;18&quot;][t][/size]\n\n你父亲的葬礼在这一天。</TimelineDenmarkStart>
+  
+  
+  <TimelineDenmarkEnd>[size=&quot;18&quot;][t][/size][inactive]\n\n你必须在此日期前完成准备工作。如果耗尽时间，你的家族将任凭敌人摆布，[color=&quot;orange&quot;]游戏将提前结束[/color]。</TimelineDenmarkEnd>
+  
+  
+  
+  <TimelineEnglandScotlandStart>[size=&quot;18&quot;][t][/size]\n\n你在这一天从斯凯恩起航。</TimelineEnglandScotlandStart>
+  
+  
+  <TimelineEnglandScotlandEnd>[size=&quot;18&quot;][t][/size][inactive]\n\n你必须在此日期前返回斯凯恩收获。否则你将无法参加阿尔庭，[color=&quot;orange&quot;]你的家族将任凭斯库勒·碎颅者摆布[/color]。</TimelineEnglandScotlandEnd>
+  
+  
+  
+  <TimelineWorldStart>[size=&quot;18&quot;][t][/size]\n\n你在这一天从斯基恩扬帆起航。</TimelineWorldStart>
+  
+  
+  <TimelineWorldEnd>[size=&quot;18&quot;][t][/size][inactive]\n\n你必须在此日期前返回斯基恩收割庄稼。否则，你将无缘阿尔庭大会，而[color=&quot;orange&quot;]你的氏族将完全落入斯库勒·碎颅者的股掌[/color]。</TimelineWorldEnd>
+  
+  
+  
+  
+  <IntelGPUReflectionProbesTitle>检测到 Intel 显卡</IntelGPUReflectionProbesTitle>
+  
+  
+  <IntelGPUReflectionProbesContent>出于兼容性考虑，您的设备已禁用反射探针，因为该选项会导致许多 Intel 显卡崩溃。反射探针可提升游戏光照的保真度。若您愿意承担风险，可在视频设置菜单中重新启用反射探针。</IntelGPUReflectionProbesContent>
+  
+
+
+
+</Root>

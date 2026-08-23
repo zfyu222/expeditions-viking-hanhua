@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  
+
+  
+  <Contextdefault>探索控制</Contextdefault>
+  
+  
+  <ContextCamping>露营控制</ContextCamping>
+  
+  
+  <ContextCombat>战斗控制</ContextCombat>
+  
+  
+  <ContextDialogue>对话控制</ContextDialogue>
+  
+  
+  <ContextOverlay>杂项控制</ContextOverlay>
+  
+  
+  <ContextLoot>拾取控制</ContextLoot>
+  
+
+  
+  <WaitingForInput>...</WaitingForInput>
+  
+  
+  
+  
+  <ActionActivate>激活</ActionActivate>
+  
+  
+  <ActionAreaMap>区域地图</ActionAreaMap>
+  
+  
+  <ActionInventory>物品栏</ActionInventory>
+  
+  
+  <ActionPartyStats>队伍状态</ActionPartyStats>
+  
+  
+  <ActionHomestead>家园</ActionHomestead>
+  
+  
+  <ActionObjectives>目标</ActionObjectives>
+  
+  
+  <ActionCodex>典籍</ActionCodex>
+  
+  
+  <ActionFollow>镜头跟随</ActionFollow>
+  
+  
+  <ActionUp>上</ActionUp>
+  
+  
+  <ActionDown>下</ActionDown>
+  
+  
+  <ActionLeft>左</ActionLeft>
+  
+  
+  <ActionRight>右</ActionRight>
+  
+  
+  <ActionRotateLeft>向左旋转</ActionRotateLeft>
+  
+  
+  <ActionRotateRight>向右旋转</ActionRotateRight>
+  
+  
+  <ActionShowInfo>高亮显示全部</ActionShowInfo>
+  
+  
+  <ActionQuickSave>快速保存</ActionQuickSave>
+  
+  
+  <ActionQuickLoad>快速加载</ActionQuickLoad>
+  
+  
+  <ActionTrackQuest>追踪任务</ActionTrackQuest>
+  
+  
+  <ActionDebugConsole>调试控制台</ActionDebugConsole>
+  
+  
+  <ActionScreenshot>截图</ActionScreenshot>
+  
+  
+  <ActionChoice1>选项 1</ActionChoice1>
+  
+  
+  <ActionChoice2>选项 2</ActionChoice2>
+  
+  
+  <ActionChoice3>选项 3</ActionChoice3>
+  
+  
+  <ActionChoice4>选项 4</ActionChoice4>
+  
+  
+  <ActionChoice5>选项 5</ActionChoice5>
+  
+  
+  <ActionChoice6>选项 6</ActionChoice6>
+  
+  
+  <ActionChoice7>选项 7</ActionChoice7>
+  
+  
+  <ActionChoice8>选项 8</ActionChoice8>
+  
+  
+  <ActionChoice9>选项 9</ActionChoice9>
+  
+  
+  <ActionChoice0>选项 0</ActionChoice0>
+  
+  
+  <ActionDrop>丢弃</ActionDrop>
+  
+  
+  <ActionDrag>拖拽</ActionDrag>
+  
+  
+  <ActionBeginDrag>开始拖拽</ActionBeginDrag>
+  
+  
+  <ActionEndDrag>结束拖拽</ActionEndDrag>
+  
+  
+  <ActionToggleNonLethal>切换非致命模式</ActionToggleNonLethal>
+  
+  
+  <ActionSwitchWeapons>切换武器</ActionSwitchWeapons>
+  
+  
+  <ActionCrouch>蹲伏</ActionCrouch>
+  
+  
+  <ActionInfoPanel>信息面板</ActionInfoPanel>
+  
+  
+  <ActionCycleCharacters>切换角色</ActionCycleCharacters>
+  
+
+  
+ 
+
+</Root>

@@ -1,0 +1,35 @@
+Expeditions: Viking 中文汉化包 v1.1
+================================
+
+安装方法：
+1. 解压本压缩包，得到 resources.assets 文件
+2. 找到游戏安装目录下的 Expeditions Viking_Data 文件夹
+   （例如：Steam\steamapps\common\Expeditions Viking\Expeditions Viking_Data\）
+3. 备份原文件 resources.assets（建议重命名为 resources.assets.bak）
+4. 将本压缩包中的 resources.assets 覆盖到该目录
+5. 启动游戏，确保游戏语言设置为 English，即为中文版
+
+汉化内容：
+- 对话文本（Dialogue）
+- 界面UI（GUI）
+- 技能描述（Skills）
+- 物品描述（Items）
+- 教程（Tutorial）
+- 家园升级（HomesteadUpgrades）
+- 角色名称（CharacterNames）
+- 场景数据（SceneData）
+- 输入提示（Input）
+
+v1.1 更新内容：
+- 使用 DeepSeek V4 Pro 重新汉化
+- 加入了润色处理
+- 修复了之前通配符（占位符）被破坏的问题
+
+汉化：子非鱼222
+
+注意：
+- 本汉化由大模型自动翻译，质量无法与人工精翻相比，介意勿装
+- 请务必备份原文件，以便需要时恢复英文版
+- 本汉化基于英文版制作，请确保游戏语言设置为 English
+- 游戏版本需与汉化对应的版本一致（Unity 5.6.4f1）
+- 本汉化仅供学习交流使用，请支持正版游戏

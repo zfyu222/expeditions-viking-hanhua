@@ -1,0 +1,2674 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  
+  
+  
+  <AbilityStyle>+[color=&quot;orange&quot;][NameAbility][/color]</AbilityStyle>
+  
+  
+  
+  <AbilityRequirementSP>[size=&quot;12&quot;][color=&quot;red&quot;][i]你必须花费 [amount] 点技能点，才能进一步升级此技能[/i][/color][/size]</AbilityRequirementSP>
+  
+  
+  
+  
+  <AbilityActivated>已激活</AbilityActivated>
+  
+  
+  <TooltipCombatTrapNotDisarmable>\n[color=&quot;red&quot;][i]此陷阱无法被解除。[/i][/color]</TooltipCombatTrapNotDisarmable>
+  
+  
+  <TooltipCombatRequirementFlanking>\n[color=&quot;red&quot;][i]你必须位于目标的侧翼。[/i][/color]</TooltipCombatRequirementFlanking>
+  
+  
+  <TooltipCombatRequirementStraightLine>\n[color=&quot;red&quot;][i]你与目标必须处于同一直线上。[/i][/color]</TooltipCombatRequirementStraightLine>
+  
+  
+  <TooltipCombatRequirementIsnotDisarmed>\n[color=&quot;red&quot;][i]被缴械后，无法使用武器技能。[/i][/color]</TooltipCombatRequirementIsnotDisarmed>
+  
+  
+  <TooltipCombatRequirementDistanceClose>\n[color=&quot;red&quot;][i]目标太近了。[/i][/color]</TooltipCombatRequirementDistanceClose>
+  
+  
+  <TooltipCombatRequirementDistanceFar>\n[color=&quot;red&quot;][i]目标不在射程之内。[/i][/color]</TooltipCombatRequirementDistanceFar>
+  
+  
+  <TooltipCombatRequirementWeaponCharacterMelee>\n[color=&quot;red&quot;][i]你手里没有近战武器。[/i][/color]</TooltipCombatRequirementWeaponCharacterMelee>
+  
+  
+  <TooltipCombatRequirementWeaponCharacterRanged>\n[color=&quot;red&quot;][i]你手里没有远程武器。[/i][/color]</TooltipCombatRequirementWeaponCharacterRanged>
+  
+  
+  <TooltipCombatRequirementShieldDamaged>\n[color=&quot;red&quot;][i]你的盾牌完好无损。[/i][/color]</TooltipCombatRequirementShieldDamaged>
+  
+  
+  <TooltipCombatRequirementShieldAbsorption>\n[color=&quot;red&quot;][i]你的盾牌已不堪重负，无法再吸收更多伤害。[/i][/color]</TooltipCombatRequirementShieldAbsorption>
+  
+  
+  <TooltipCombatRequirementWeaponCharacter>\n[color=&quot;red&quot;][i]你手里没有正确的装备。[/i][/color]</TooltipCombatRequirementWeaponCharacter>
+  
+  
+  <TooltipCombatRequirementWeaponTarget>\n[color=&quot;red&quot;][i]目标手里没有正确的装备。[/i][/color]</TooltipCombatRequirementWeaponTarget>
+  
+  
+  <TooltipCombatRequirementNoHelmetTarget>\n[color=&quot;red&quot;][i]目标正戴着头盔。[/i][/color]</TooltipCombatRequirementNoHelmetTarget>
+  
+  
+  <TooltipCombatRequirementFreeHex>\n[color=&quot;red&quot;][i]空间不足。[/i][/color]</TooltipCombatRequirementFreeHex>
+  
+  
+  <TooltipCombatRequirementCharges>\n[color=&quot;red&quot;][i]技能的使用次数已耗尽。[/i][/color]</TooltipCombatRequirementCharges>
+  
+  
+  <TooltipCombatRequirementBenefitCharacter>\n[color=&quot;red&quot;][i]你的角色无法受益于 [x]。[/i][/color]</TooltipCombatRequirementBenefitCharacter>
+  
+  
+  <TooltipCombatRequirementBenefitTarget>\n[color=&quot;red&quot;][i]目标无法受益于 [x]。[/i][/color]</TooltipCombatRequirementBenefitTarget>
+  
+  
+  <TooltipCombatRequirementNotKnockeddown>\n[color=&quot;red&quot;][i]无法对被击倒的敌人使用 [x]。[/i][/color]</TooltipCombatRequirementNotKnockeddown>
+  
+  
+  <TooltipCombatRequirementHuman>\n[color=&quot;red&quot;][i]无法对野兽使用 [x]。[/i][/color]</TooltipCombatRequirementHuman>
+  
+  
+  <TooltipCombatRequirementHostile>\n[color=&quot;red&quot;][i]无法对友方单位使用 [x]。[/i][/color]</TooltipCombatRequirementHostile>
+  
+  
+  <TooltipCombatRequirementFriendly>\n[color=&quot;red&quot;][i]无法对敌方单位使用 [x]。[/i][/color]</TooltipCombatRequirementFriendly>
+  
+  
+  <TooltipCombatRequirementOtherCharacter>\n[color=&quot;red&quot;][i]无法对自己使用 [x]。[/i][/color]</TooltipCombatRequirementOtherCharacter>
+  
+  
+  <TooltipCombatRequirementAction>\n[color=&quot;red&quot;][i]本回合行动力已耗尽。[/i][/color]</TooltipCombatRequirementAction>
+  
+  
+  <TooltipCombatRequirementActivated>\n[color=&quot;red&quot;][i]该技能已经激活。[/i][/color]</TooltipCombatRequirementActivated>
+  
+  
+  <TooltipCombatRequirementLOS>\n[color=&quot;red&quot;][i]无法看到目标。[/i][/color]</TooltipCombatRequirementLOS>
+  
+  
+  <TooltipCombatRequirementCharacterNotPoisoned>\n[color=&quot;red&quot;][i]角色没有中毒。[/i][/color]</TooltipCombatRequirementCharacterNotPoisoned>
+  
+  
+  <TooltipCombatRequirementCharacterNotImmobilized>\n[color=&quot;red&quot;][i]角色没有被定身。[/i][/color]</TooltipCombatRequirementCharacterNotImmobilized>
+  
+  
+  <TooltipCombatRequirementCharacterAlreadyImmobilized>\n[color=&quot;red&quot;][i]角色已处于定身状态。[/i][/color]</TooltipCombatRequirementCharacterAlreadyImmobilized>
+  
+  
+  <TooltipCombatRequirementItemUsed>\n[color=&quot;red&quot;][i]角色已使用过这件物品。[/i][/color]</TooltipCombatRequirementItemUsed>
+  
+  
+  
+  <TooltipCombatChargesSingular>\n[size=&quot;12&quot;]剩余 [x] 次使用机会。[/size]</TooltipCombatChargesSingular>
+  
+  
+  <TooltipCombatChargesPlural>\n[size=&quot;12&quot;]剩余 [x] 次使用机会。[/size]</TooltipCombatChargesPlural>
+  
+  
+  
+  <TooltipCombatAbility>[NameAbility][action][charges][requirement]\n\n[DescriptionAbility]</TooltipCombatAbility>
+  
+  
+  <TooltipSkillSelection>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillSelection>
+  
+
+  
+  
+  
+  <AbilityShieldHook>钩盾</AbilityShieldHook>
+  
+  
+  <AbilityShieldHookDescription>猛力拉走对手的盾牌，使其陷入[StatusEffect]。</AbilityShieldHookDescription>
+  
+  
+  
+  <AbilityCleave>劈斩</AbilityCleave>
+  
+  
+  <AbilityCleaveDescription>挥出一记重斩，此攻击必被格挡，但任何穿透盾牌的伤害都会直接扣除目标的生命值。</AbilityCleaveDescription>
+  
+  
+  
+  <AbilityWeaponHook>钩武器</AbilityWeaponHook>
+  
+  
+  <AbilityWeaponHookDescription>用斧头绞住对手的兵器并缴走，施加[StatusEffect]效果。</AbilityWeaponHookDescription>
+  
+  
+  
+  <TooltipCombatAxeShieldHook>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatAxeShieldHook>
+  
+  
+  <TooltipCombatAxeCleave>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatAxeCleave>
+  
+  
+  <TooltipCombatAxeWeaponHook>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatAxeWeaponHook>
+  
+  
+  
+  <SkillAxe>斧头</SkillAxe>
+  
+  
+  <SkillAxeDescription>由[color=&quot;lightblue&quot;]力量[/color]决定威力。单手近战兵器。中等伤害，中等暴击。</SkillAxeDescription>
+  
+  
+  <SkillAxeRank1>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillAxeRank1>
+  
+  
+  <SkillAxeRank2>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillAxeRank2>
+  
+  
+  <SkillAxeRank3>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillAxeRank3>
+  
+  
+  <SkillAxeRank4>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillAxeRank4>
+  
+  
+  <SkillAxeRank5>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillAxeRank5>
+  
+  
+  
+  <TooltipSkillAxeRank1>[size=&quot;16&quot;][NameSkill] 第1级[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color]提升[color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillAxeRank1>
+  
+  
+  <TooltipSkillAxeRank2>[size=&quot;16&quot;][NameSkill] 第2级[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color]提升[color=&quot;lime&quot;][x][/color]。</TooltipSkillAxeRank2>
+  
+  
+  <TooltipSkillAxeRank3>[size=&quot;16&quot;][NameSkill] 第3级[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color]提升[color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillAxeRank3>
+  
+  
+  <TooltipSkillAxeRank4>[size=&quot;16&quot;][NameSkill] 第4级[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color]提升[color=&quot;lime&quot;][x][/color]。</TooltipSkillAxeRank4>
+  
+  
+  <TooltipSkillAxeRank5>[size=&quot;16&quot;][NameSkill] 第5级[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color]提升[color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillAxeRank5>
+  
+
+  
+  
+  <AbilityQuickShot>速射</AbilityQuickShot>
+  
+  
+  <AbilityQuickShotDescription>快速射出两箭，每箭命中率降低30%。</AbilityQuickShotDescription>
+  
+  
+  
+  <AbilitySignalArrow>测距射击</AbilitySignalArrow>
+  
+  
+  <AbilitySignalArrowDescription>目标格相邻的所有敌人陷入[StatusEffect]状态。</AbilitySignalArrowDescription>
+  
+  
+  
+  <AbilityAimedShot>瞄准射击</AbilityAimedShot>
+  
+  
+  <AbilityAimedShotDescription>消除距离造成的命中率惩罚，但伤害降低40%。</AbilityAimedShotDescription>
+  
+  
+  
+  <AbilityFireArrow>火箭</AbilityFireArrow>
+  
+  
+  <AbilityFireArrowDescription>造成常规远程伤害，并点燃目标格，令格内所有角色陷入[StatusEffect]状态。还可瞄准干草堆等易燃物。</AbilityFireArrowDescription>
+  
+  
+  
+  <AbilityHailstorm>箭雨</AbilityHailstorm>
+  
+  
+  <AbilityHailstormDescription>对目标格及其周围3个随机格子发动范围攻击，每处造成75%伤害。</AbilityHailstormDescription>
+  
+  
+  
+  <TooltipCombatBowQuickShot>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatBowQuickShot>
+  
+  
+  <TooltipCombatBowSignalArrow>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatBowSignalArrow>
+  
+  
+  <TooltipCombatBowAimedShot>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatBowAimedShot>
+  
+  
+  <TooltipCombatBowFireArrow>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatBowFireArrow>
+  
+  
+  <TooltipCombatBowHailstorm>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatBowHailstorm>
+  
+  
+  
+  <SkillBow>弓</SkillBow>
+  
+  
+  <SkillBowDescription>主属性[color=&quot;lightblue&quot;]感知[/color]。双手远程武器。高伤害，中等暴击率。</SkillBowDescription>
+  
+  
+  <SkillBowRank1>[color=&quot;orange&quot;]+[x][/color] 命中率和伤害</SkillBowRank1>
+  
+  
+  <SkillBowRank2>[color=&quot;orange&quot;]+[x][/color] 命中率和伤害</SkillBowRank2>
+  
+  
+  <SkillBowRank3>[color=&quot;orange&quot;]+[x][/color] 命中率和伤害</SkillBowRank3>
+  
+  
+  <SkillBowRank4>[color=&quot;orange&quot;]+[x][/color] 命中率和伤害</SkillBowRank4>
+  
+  
+  <SkillBowRank5>[color=&quot;orange&quot;]+[x][/color] 命中率和伤害</SkillBowRank5>
+  
+  
+  
+  <TooltipSkillBowRank1>[size=&quot;16&quot;][NameSkill] 第1级[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]命中率[/color]和[color=&quot;lightblue&quot;]基础伤害[/color]各提升[color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillBowRank1>
+  
+  
+  <TooltipSkillBowRank2>[size=&quot;16&quot;][NameSkill] 第2级[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]命中率[/color]和[color=&quot;lightblue&quot;]基础伤害[/color]各提升[color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillBowRank2>
+  
+  
+  <TooltipSkillBowRank3>[size=&quot;16&quot;][NameSkill] 第3级[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]命中率[/color]和[color=&quot;lightblue&quot;]基础伤害[/color]各提升[color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillBowRank3>
+  
+  
+  <TooltipSkillBowRank4>[size=&quot;16&quot;][NameSkill] 第4级[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]命中率[/color]和[color=&quot;lightblue&quot;]基础伤害[/color]各提升[color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillBowRank4>
+  
+  
+  <TooltipSkillBowRank5>[size=&quot;16&quot;][NameSkill] 第5级[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]命中率[/color]和[color=&quot;lightblue&quot;]基础伤害[/color]各提升[color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillBowRank5>
+  
+  
+  
+  
+  <AbilityRecklessStrike>莽撞攻击</AbilityRecklessStrike>
+  
+  
+  <AbilityRecklessStrikeDescription>额外造成25%伤害，但你会陷入[StatusEffect]状态。</AbilityRecklessStrikeDescription>
+  
+  
+  
+  <AbilityPull>拖拽</AbilityPull>
+  
+  
+  <AbilityPullDescription>用斧头勾住目标的脖颈，猛力将其拖入近战范围。</AbilityPullDescription>
+  
+  
+  
+  <AbilitySwipe>横扫</AbilitySwipe>
+  
+  
+  <AbilitySwipeDescription>挥出一道宽阔的弧形斩击，不造成护甲穿透伤害，同时击中目标及其两侧所有角色，但无法伤害盾牌。</AbilitySwipeDescription>
+  
+  
+  
+  <TooltipCombatDaneAxePull>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatDaneAxePull>
+  
+  
+  <TooltipCombatDaneAxeFootHook>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatDaneAxeFootHook>
+  
+  
+  <TooltipCombatDaneAxeSwipe>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatDaneAxeSwipe>
+  
+  
+  
+  <SkillDaneAxe>丹麦斧</SkillDaneAxe>
+  
+  
+  <SkillDaneAxeDescription>主属性[color=&quot;lightblue&quot;]力量[/color]。双手近战武器。攻击距离两格，高伤害，中等暴击率。</SkillDaneAxeDescription>
+  
+  
+  <SkillDaneAxeRank1>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillDaneAxeRank1>
+  
+  
+  <SkillDaneAxeRank2>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillDaneAxeRank2>
+  
+  
+  <SkillDaneAxeRank3>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillDaneAxeRank3>
+  
+  
+  <SkillDaneAxeRank4>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillDaneAxeRank4>
+  
+  
+  <SkillDaneAxeRank5>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillDaneAxeRank5>
+  
+  
+  
+  <TooltipSkillDaneAxeRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提升 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillDaneAxeRank1>
+  
+  
+  <TooltipSkillDaneAxeRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提升 [color=&quot;lime&quot;][x][/color]。</TooltipSkillDaneAxeRank2>
+  
+  
+  <TooltipSkillDaneAxeRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提升 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillDaneAxeRank3>
+  
+  
+  <TooltipSkillDaneAxeRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提升 [color=&quot;lime&quot;][x][/color]。</TooltipSkillDaneAxeRank4>
+  
+  
+  <TooltipSkillDaneAxeRank5>[size=&quot;16&quot;][NameSkill] 等级 5[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提升 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillDaneAxeRank5>
+  
+
+  
+  
+  <AbilityDeathblow>致命一击</AbilityDeathblow>
+  
+  
+  <AbilityDeathblowDescription>造成双倍伤害，但目标必须处于定身状态。</AbilityDeathblowDescription>
+  
+  
+  
+  <AbilityFlurry>连刺</AbilityFlurry>
+  
+  
+  <AbilityFlurryDescription>造成一半伤害，发动2次攻击。可攻击同一个目标或2个不同目标，每次攻击都会尝试施加 [StatusEffect]。</AbilityFlurryDescription>
+  
+  
+  
+  <AbilitySlice>切割</AbilitySlice>
+  
+  
+  <AbilitySliceDescription>造成一半伤害，发动一次自由攻击。</AbilitySliceDescription>
+  
+  
+  
+  <TooltipCombatKnifeBackstab>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatKnifeBackstab>
+  
+  
+  <TooltipCombatKnifeFlurry>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatKnifeFlurry>
+  
+  
+  <TooltipCombatKnifeSlice>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatKnifeSlice>
+  
+  
+  
+  <SkillKnife>小刀</SkillKnife>
+  
+  
+  <SkillKnifeDescription>由 [color=&quot;lightblue&quot;]灵巧[/color] 决定。单手近战武器。低伤害，极高暴击率。</SkillKnifeDescription>
+  
+  
+  <SkillKnifeRank1>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillKnifeRank1>
+  
+  
+  <SkillKnifeRank2>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillKnifeRank2>
+  
+  
+  <SkillKnifeRank3>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillKnifeRank3>
+  
+  
+  <SkillKnifeRank4>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillKnifeRank4>
+  
+  
+  <SkillKnifeRank5>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillKnifeRank5>
+  
+  
+  
+  <TooltipSkillKnifeRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提升 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillKnifeRank1>
+  
+  
+  <TooltipSkillKnifeRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提升 [color=&quot;lime&quot;][x][/color]。</TooltipSkillKnifeRank2>
+  
+  
+  <TooltipSkillKnifeRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提升 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillKnifeRank3>
+  
+  
+  <TooltipSkillKnifeRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提升 [color=&quot;lime&quot;][x][/color]。</TooltipSkillKnifeRank4>
+  
+  
+  <TooltipSkillKnifeRank5>[size=&quot;16&quot;][NameSkill] 等级 5[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提升 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillKnifeRank5>
+  
+  
+  
+  
+  <AbilityBrace>修复</AbilityBrace>
+  
+  
+  <AbilityBraceDescription>将你的盾牌修复至完好如初。</AbilityBraceDescription>
+  
+  
+  
+  <AbilityDefend>防御</AbilityDefend>
+  
+  
+  <AbilityDefendDescription>你获得状态效果 [StatusEffect]。</AbilityDefendDescription>
+  
+  
+  
+  <AbilityShieldBash>盾击</AbilityShieldBash>
+  
+  
+  <AbilityShieldBashDescription>将目标击退1格距离，并施加状态效果 [StatusEffect]。</AbilityShieldBashDescription>
+  
+  
+  
+  <TooltipCombatShieldBrace>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatShieldBrace>
+  
+  
+  <TooltipCombatShieldProtect>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatShieldProtect>
+  
+  
+  <TooltipCombatShieldShieldBash>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatShieldShieldBash>
+  
+  
+  
+  <SkillShield>盾牌</SkillShield>
+  
+  
+  <SkillShieldDescription>由 [color=&quot;lightblue&quot;]耐力[/color] 决定。仅限副手装备。可格挡近战与远程攻击，降低所受伤害。</SkillShieldDescription>
+  
+  
+  <SkillShieldRank1>[color=&quot;orange&quot;]+[x][/color] 格挡几率</SkillShieldRank1>
+  
+  
+  <SkillShieldRank2>[color=&quot;orange&quot;]+[x][/color] 格挡几率</SkillShieldRank2>
+  
+  
+  <SkillShieldRank3>[color=&quot;orange&quot;]+[x][/color] 格挡几率</SkillShieldRank3>
+  
+  
+  <SkillShieldRank4>[color=&quot;orange&quot;]+[x][/color] 格挡几率</SkillShieldRank4>
+  
+  
+  <SkillShieldRank5>[color=&quot;orange&quot;]+[x][/color] 格挡几率</SkillShieldRank5>
+  
+  
+  
+  <TooltipSkillShieldRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]格挡几率[/color] 提升 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillShieldRank1>
+  
+  
+  <TooltipSkillShieldRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]格挡几率[/color] 提升 [color=&quot;lime&quot;][x][/color]。</TooltipSkillShieldRank2>
+  
+  
+  <TooltipSkillShieldRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]格挡几率[/color] 提升 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillShieldRank3>
+  
+  
+  <TooltipSkillShieldRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]格挡几率[/color] 提升 [color=&quot;lime&quot;][x][/color]。</TooltipSkillShieldRank4>
+  
+  
+  <TooltipSkillShieldRank5>[size=&quot;16&quot;][NameSkill] 等级 5[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]格挡几率[/color] 提升 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillShieldRank5>
+  
+
+  
+  
+  <AbilityPuffball>烟喷菇</AbilityPuffball>
+  
+  
+  <AbilityPuffballDescription>射出一只蘑菇，菌伞炸裂后喷出滚滚扬尘孢子，覆盖目标格及所有相邻格子，持续 1 回合。任何针对该区域的远程攻击，都会将目标视为处于完全掩体中。</AbilityPuffballDescription>
+  
+  
+  
+  <AbilityScattershot>散射</AbilityScattershot>
+  
+  
+  <AbilityScattershotDescription>对前方 6 格内、2 格扇形范围中的所有角色，75% 几率施加 [StatusEffect]，50% 几率施加 [StatusEffect1]，25% 几率施加 [StatusEffect2]。该攻击本身不造成伤害。</AbilityScattershotDescription>
+  
+  
+  
+  <AbilityGrenade>掷油弹</AbilityGrenade>
+  
+  
+  <AbilityGrenadeDescription>甩出一个膀胱，在目标格及所有相邻格子泼洒一地油脂。任何站在油污上的角色都将获得 [StatusEffect] 效果。</AbilityGrenadeDescription>
+  
+  
+  
+  <TooltipCombatSlingPuffball>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatSlingPuffball>
+  
+  
+  <TooltipCombatSlingScattershot>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatSlingScattershot>
+  
+  
+  <TooltipCombatSlingGrenade>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatSlingGrenade>
+  
+  
+  
+  <SkillSling>投石索</SkillSling>
+  
+  
+  <SkillSlingDescription>主属性为[color=&quot;lightblue&quot;]感知[/color]。双手远程武器，伤害中等，但暴击率极高。</SkillSlingDescription>
+  
+  
+  <SkillSlingRank1>[color=&quot;orange&quot;]+[x][/color] 精准与伤害</SkillSlingRank1>
+  
+  
+  <SkillSlingRank2>[color=&quot;orange&quot;]+[x][/color] 精准与伤害</SkillSlingRank2>
+  
+  
+  <SkillSlingRank3>[color=&quot;orange&quot;]+[x][/color] 精准与伤害</SkillSlingRank3>
+  
+  
+  <SkillSlingRank4>[color=&quot;orange&quot;]+[x][/color] 精准与伤害</SkillSlingRank4>
+  
+  
+  <SkillSlingRank5>[color=&quot;orange&quot;]+[x][/color] 精准与伤害</SkillSlingRank5>
+  
+  
+  
+  <TooltipSkillSlingRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]精准[/color] 提升 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillSlingRank1>
+  
+  
+  <TooltipSkillSlingRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]精准[/color] 提升 [color=&quot;lime&quot;][x][/color]。</TooltipSkillSlingRank2>
+  
+  
+  <TooltipSkillSlingRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]精准[/color] 提升 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillSlingRank3>
+  
+  
+  <TooltipSkillSlingRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]精准[/color] 提升 [color=&quot;lime&quot;][x][/color]。</TooltipSkillSlingRank4>
+  
+  
+  <TooltipSkillSlingRank5>[size=&quot;16&quot;][NameSkill] 等级 5[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]精准[/color] 提升 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillSlingRank5>
+  
+
+  
+  
+  <AbilityExtend>长刺</AbilityExtend>
+  
+  
+  <AbilityExtendDescription>攻击距离最远可达 3 格的目标，但仅造成 75% 的伤害。</AbilityExtendDescription>
+  
+
+  
+  <AbilitySmack>拍击</AbilitySmack>
+  
+  
+  <AbilitySmackDescription>狠狠拍击相邻目标，造成 50% 伤害并使其 [StatusEffect]，随后顺势后撤 1 步，不触发借机攻击。</AbilitySmackDescription>
+  
+  
+  
+  <AbilityDistract>扰乱</AbilityDistract>
+  
+  
+  <AbilityDistractDescription>废掉 2 格外一名敌人的借机攻击能力。</AbilityDistractDescription>
+  
+  
+  
+  <TooltipCombatSpearExtend>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatSpearExtend>
+  
+  
+  <TooltipCombatSpearSmack>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatSpearSmack>
+  
+  
+  <TooltipCombatSpearDistract>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatSpearDistract>
+  
+  
+  
+  <SkillSpear>矛</SkillSpear>
+  
+  
+  <SkillSpearDescription>主属性为[color=&quot;lightblue&quot;]灵巧[/color]。双手近战武器，攻击范围达两格之远，伤害中等，暴击高。</SkillSpearDescription>
+  
+  
+  <SkillSpearRank1>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillSpearRank1>
+  
+  
+  <SkillSpearRank2>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillSpearRank2>
+  
+  
+  <SkillSpearRank3>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillSpearRank3>
+  
+  
+  <SkillSpearRank4>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillSpearRank4>
+  
+  
+  <SkillSpearRank5>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillSpearRank5>
+  
+  
+  
+  <TooltipSkillSpearRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提升 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillSpearRank1>
+  
+  
+  <TooltipSkillSpearRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提升 [color=&quot;lime&quot;][x][/color]。</TooltipSkillSpearRank2>
+  
+  
+  <TooltipSkillSpearRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提升 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillSpearRank3>
+  
+  
+  <TooltipSkillSpearRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提升 [color=&quot;lime&quot;][x][/color]。</TooltipSkillSpearRank4>
+  
+  
+  <TooltipSkillSpearRank5>[size=&quot;16&quot;][NameSkill] 等级 5[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提升 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillSpearRank5>
+  
+
+  
+  
+  <AbilityReady>预备</AbilityReady>
+  
+  
+  <AbilityReadyDescription>自动攻击第一个踏入近战范围的敌人。</AbilityReadyDescription>
+  
+  
+  
+  <AbilityHeavySwing>重击</AbilityHeavySwing>
+  
+  
+  <AbilityHeavySwingDescription>完全无视目标的[color=&quot;lightblue&quot;]伤害减免[/color]。</AbilityHeavySwingDescription>
+  
+  
+  
+  <AbilityExecute>处决</AbilityExecute>
+  
+  
+  <AbilityExecuteDescription>为目标刻下标记，令其在下一回合承受致命一击。若此击造成伤害，无论轻重，都会当即将其肢解。</AbilityExecuteDescription>
+  
+  
+  
+  <TooltipCombatSwordReady>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatSwordReady>
+  
+  
+  <TooltipCombatSwordHeavySwing>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatSwordHeavySwing>
+  
+  
+  <TooltipCombatSwordExecute>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatSwordExecute>
+  
+  
+  
+  <SkillSword>剑</SkillSword>
+  
+  
+  <SkillSwordDescription>受[color=&quot;lightblue&quot;]力量[/color]影响。单手近战武器。中等伤害，低暴击率。</SkillSwordDescription>
+  
+  
+  <SkillSwordRank1>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillSwordRank1>
+  
+  
+  <SkillSwordRank2>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillSwordRank2>
+  
+  
+  <SkillSwordRank3>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillSwordRank3>
+  
+  
+  <SkillSwordRank4>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillSwordRank4>
+  
+  
+  <SkillSwordRank5>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillSwordRank5>
+  
+  
+  
+  <TooltipSkillSwordRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提高 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillSwordRank1>
+  
+  
+  <TooltipSkillSwordRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提高 [color=&quot;lime&quot;][x][/color]。</TooltipSkillSwordRank2>
+  
+  
+  <TooltipSkillSwordRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提高 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillSwordRank3>
+  
+  
+  <TooltipSkillSwordRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提高 [color=&quot;lime&quot;][x][/color]。</TooltipSkillSwordRank4>
+  
+  
+  <TooltipSkillSwordRank5>[size=&quot;16&quot;][NameSkill] 等级 5[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提高 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillSwordRank5>
+  
+  
+  
+  
+  
+  <AbilityAnticipateOpening>预判破绽</AbilityAnticipateOpening>
+  
+  
+  <AbilityAnticipateOpeningDescription>下一次攻击必为暴击。</AbilityAnticipateOpeningDescription>
+  
+  
+  
+  <TooltipCombatAnticipateOpeningAnticipateOpening>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatAnticipateOpeningAnticipateOpening>
+  
+  
+  <SkillAnticipateOpening>预判破绽</SkillAnticipateOpening>
+  
+  
+  <SkillAnticipateOpeningDescription>[DescriptionAbility]</SkillAnticipateOpeningDescription>
+  
+  
+  <SkillAnticipateOpeningRank1>[DescriptionAbility]</SkillAnticipateOpeningRank1>
+  
+  
+  <TooltipSkillAnticipateOpeningRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement]\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillAnticipateOpeningRank1>
+  
+  
+  
+  
+  <AbilityCharge>冲锋</AbilityCharge>
+  
+  
+  <AbilityChargeDescription>发动一次近战攻击，攻击前每移动一格，此击伤害便 +5。</AbilityChargeDescription>
+  
+  
+  
+  <TooltipCombatChargeCharge>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatChargeCharge>
+  
+  
+  <SkillCharge>冲锋</SkillCharge>
+  
+  
+  <SkillChargeDescription>[DescriptionAbility]</SkillChargeDescription>
+  
+  
+  <SkillChargeRank1>[DescriptionAbility]</SkillChargeRank1>
+  
+  
+  <TooltipSkillChargeRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement]\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillChargeRank1>
+  
+  
+  
+  
+  <AbilityCripple>致残</AbilityCripple>
+  
+  
+  <AbilityCrippleDescription>发动一次远程攻击，仅造成 25% 的伤害，但若命中，目标将在下一回合丧失所有移动力。</AbilityCrippleDescription>
+  
+  
+  
+  <TooltipCombatCrippleCripple>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatCrippleCripple>
+  
+  
+  <SkillCripple>致残</SkillCripple>
+  
+  
+  <SkillCrippleDescription>[DescriptionAbility]</SkillCrippleDescription>
+  
+  
+  <SkillCrippleRank1>[DescriptionAbility]</SkillCrippleRank1>
+  
+  
+  <TooltipSkillCrippleRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement]\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillCrippleRank1>
+  
+  
+  
+  
+  <AbilityHookSlash>钩爪挥砍</AbilityHookSlash>
+  
+  
+  <AbilityHookSlashDescription>以副手武器发动一记自上而下的斩击，此击必定被格挡，随即以主手武器发动一次无法被格挡的追击。</AbilityHookSlashDescription>
+  
+  
+  
+  <AbilityParry>招架</AbilityParry>
+  
+  
+  <AbilityParryDescription>激活[StatusEffect]，效果持续至下一回合。</AbilityParryDescription>
+  
+  
+  
+  <AbilityOneTwo>一二连击</AbilityOneTwo>
+  
+  
+  <AbilityOneTwoDescription>每把武器发动一次全额伤害的攻击，可攻击同一目标或两个不同目标。若你选择的第一个目标正在对你构成侧袭，则会改为发动一次无法被格挡的特殊攻击，同时打击这两个对你构成侧袭的敌人。</AbilityOneTwoDescription>
+  
+  
+  
+  <TooltipCombatDualWieldingHookSlash>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatDualWieldingHookSlash>
+  
+  
+  <TooltipCombatDualWieldingParry>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatDualWieldingParry>
+  
+  
+  <TooltipCombatDualWieldingOneTwo>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatDualWieldingOneTwo>
+  
+  
+  
+  <SkillDualWielding>双持</SkillDualWielding>
+  
+  
+  <SkillDualWieldingDescription>以更高比例计入副手武器的[color=&quot;lightblue&quot;]伤害[/color]，并获得能同时运用两把武器的能力。唯有匕首和斧头可作为副手武器。</SkillDualWieldingDescription>
+  
+  
+  <SkillDualWieldingRank1>[color=&quot;orange&quot;]60%[/color] 副手武器伤害</SkillDualWieldingRank1>
+  
+  
+  <SkillDualWieldingRank2>[color=&quot;orange&quot;]70%[/color] 副手武器伤害</SkillDualWieldingRank2>
+  
+  
+  <SkillDualWieldingRank3>[color=&quot;orange&quot;]80%[/color] 副手武器伤害</SkillDualWieldingRank3>
+  
+  
+  <SkillDualWieldingRank4>[color=&quot;orange&quot;]90%[/color] 副手武器伤害</SkillDualWieldingRank4>
+  
+  
+  <SkillDualWieldingRank5>[color=&quot;orange&quot;]100%[/color] 副手武器伤害</SkillDualWieldingRank5>
+  
+  
+  
+  <TooltipSkillDualWieldingRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement]副手[color=&quot;lightblue&quot;]武器伤害[/color] 提高至 [color=&quot;lime&quot;]60%[/color]\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillDualWieldingRank1>
+  
+  
+  <TooltipSkillDualWieldingRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement]副手[color=&quot;lightblue&quot;]武器伤害[/color] 提高至 [color=&quot;lime&quot;]70%[/color]</TooltipSkillDualWieldingRank2>
+  
+  
+  <TooltipSkillDualWieldingRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n[requirement]副手[color=&quot;lightblue&quot;]武器伤害[/color] 提高至 [color=&quot;lime&quot;]80%[/color]\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillDualWieldingRank3>
+  
+  
+  <TooltipSkillDualWieldingRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n[requirement]副手[color=&quot;lightblue&quot;]武器伤害[/color] 提高至 [color=&quot;lime&quot;]90%[/color]</TooltipSkillDualWieldingRank4>
+  
+  
+  <TooltipSkillDualWieldingRank5>[size=&quot;16&quot;][NameSkill] 等级 5[/size]\n[requirement]副手[color=&quot;lightblue&quot;]武器伤害[/color] 提高至 [color=&quot;lime&quot;]100%[/color]\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillDualWieldingRank5>
+  
+  
+  
+  
+  <AbilityFeint>佯攻</AbilityFeint>
+  
+  
+  <AbilityFeintDescription>绕到目标另一侧，迫使它消耗一次借机攻击。</AbilityFeintDescription>
+  
+  
+  
+  <TooltipCombatFeintFeint>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatFeintFeint>
+  
+  
+  <SkillFeint>佯攻</SkillFeint>
+  
+  
+  <SkillFeintDescription>[DescriptionAbility]</SkillFeintDescription>
+  
+  
+  <SkillFeintRank1>[DescriptionAbility]</SkillFeintRank1>
+  
+  
+  <TooltipSkillFeintRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement]\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillFeintRank1>
+  
+  
+  
+  
+  <AbilityInterrupt>中断</AbilityInterrupt>
+  
+  
+  <AbilityInterruptDescription>[color=&quot;lime&quot;]所有角色免费可用。[/color]\n延迟一次远程攻击，直到敌方回合内对敌人的命中率至少达到75%，或有敌人逼近到6格之内。</AbilityInterruptDescription>
+  
+  
+  
+  <TooltipCombatInterruptInterrupt>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatInterruptInterrupt>
+  
+  
+  <SkillInterrupt>中断</SkillInterrupt>
+  
+  
+  <SkillInterruptDescription>[DescriptionAbility]</SkillInterruptDescription>
+  
+  
+  <SkillInterruptRank1>[DescriptionAbility]</SkillInterruptRank1>
+  
+  
+  <TooltipSkillInterruptRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement]\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillInterruptRank1>
+  
+  
+  
+  
+  <AbilityRebuke>蹬开</AbilityRebuke>
+  
+  
+  <AbilityRebukeDescription>一记猛踹，将目标踢开1格。</AbilityRebukeDescription>
+  
+  
+  
+  <TooltipCombatRebukeRebuke>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatRebukeRebuke>
+  
+  
+  <SkillRebuke>蹬开</SkillRebuke>
+  
+  
+  <SkillRebukeDescription>[DescriptionAbility]</SkillRebukeDescription>
+  
+  
+  <SkillRebukeRank1>[DescriptionAbility]</SkillRebukeRank1>
+  
+  
+  <TooltipSkillRebukeRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement]\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillRebukeRank1>
+  
+  
+  
+  
+  <AbilityStun>击晕</AbilityStun>
+  
+  
+  <AbilityStunDescription>一次近战攻击，附加[StatusEffect]状态效果（即使攻击被格挡也会生效）。</AbilityStunDescription>
+  
+  
+  
+  <TooltipCombatStunStun>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatStunStun>
+  
+  
+  <SkillStun>击晕</SkillStun>
+  
+  
+  <SkillStunDescription>[DescriptionAbility]</SkillStunDescription>
+  
+  
+  <SkillStunRank1>[DescriptionAbility]</SkillStunRank1>
+  
+  
+  <TooltipSkillStunRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement]\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillStunRank1>
+  
+  
+  
+  
+  <AbilityThrowRock>投石</AbilityThrowRock>
+  
+  
+  <AbilityThrowRockDescription>投掷石块作为远程武器，命中时造成伤害，但没有[color=&quot;lightblue&quot;]暴击率[/color]。和其他远程攻击一样，未命中依然会施加[StatusEffect]状态效果。</AbilityThrowRockDescription>
+  
+  
+  
+  <AbilityToss>投掷</AbilityToss>
+  
+  
+  <AbilityTossDescription>选择一个友方或敌方角色，再选择与你相邻的一格，将其狠狠掷入其中。</AbilityTossDescription>
+  
+  
+  
+  <AbilityThrowAxe>掷斧</AbilityThrowAxe>
+  
+  
+  <AbilityThrowAxeDescription>凭感知瞄准、以膂力投出，向一名敌人掷出一把手斧。基础掷程5格，每有1级投掷技能便增加1格。和其他远程攻击一样，未命中依然会施加[StatusEffect]状态效果。</AbilityThrowAxeDescription>
+  
+  
+  
+  <TooltipCombatThrowingThrowRock>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatThrowingThrowRock>
+  
+  
+  <TooltipCombatThrowingToss>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatThrowingToss>
+  
+  
+  <TooltipCombatThrowingThrowAxe>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatThrowingThrowAxe>
+  
+  
+  
+  <SkillThrowing>投掷</SkillThrowing>
+  
+  
+  <SkillThrowingDescription>受[color=&quot;lightblue&quot;]感知[/color]支配。解锁一系列与投掷物品和活人相关的能力。</SkillThrowingDescription>
+  
+  
+  <SkillThrowingRank1>[color=&quot;orange&quot;]+1[/color] 投掷物射程</SkillThrowingRank1>
+  
+  
+  <SkillThrowingRank2>[color=&quot;orange&quot;]+2[/color] 投掷物射程</SkillThrowingRank2>
+  
+  
+  <SkillThrowingRank3>[color=&quot;orange&quot;]+3[/color] 投掷物射程</SkillThrowingRank3>
+  
+  
+  <SkillThrowingRank4>[color=&quot;orange&quot;]+4[/color] 投掷物射程</SkillThrowingRank4>
+  
+  
+  <SkillThrowingRank5>[color=&quot;orange&quot;]+5[/color] 投掷物射程</SkillThrowingRank5>
+  
+  
+  
+  <TooltipSkillThrowingRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]射程[/color]增加[color=&quot;lime&quot;]1[/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillThrowingRank1>
+  
+  
+  <TooltipSkillThrowingRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]射程[/color]增加[color=&quot;lime&quot;]2[/color]。</TooltipSkillThrowingRank2>
+  
+  
+  <TooltipSkillThrowingRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]射程[/color]增加[color=&quot;lime&quot;]3[/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillThrowingRank3>
+  
+  
+  <TooltipSkillThrowingRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]射程[/color]增加[color=&quot;lime&quot;]4[/color]。</TooltipSkillThrowingRank4>
+  
+  
+  <TooltipSkillThrowingRank5>[size=&quot;16&quot;][NameSkill] 等级 5[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]射程[/color]增加[color=&quot;lime&quot;]5[/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillThrowingRank5>
+  
+  
+  
+  
+  <AbilityGrapple>擒拿</AbilityGrapple>
+  
+  
+  <AbilityGrappleDescription>夹击一名敌人时，死死抓住它，将其定身直至你的下一回合。</AbilityGrappleDescription>
+  
+  
+  
+  <AbilityHeavyPunch>重拳</AbilityHeavyPunch>
+  
+  
+  <AbilityHeavyPunchDescription>一记沉重的猛拳，造成的伤害提升+50%。</AbilityHeavyPunchDescription>
+  
+  
+  
+  <AbilityHeadbutt>头槌</AbilityHeadbutt>
+  
+  
+  <AbilityHeadbuttDescription>造成全额伤害，若未被格挡，则附加[StatusEffect]状态效果。会招致借机攻击，且无法对戴头盔的角色使用。</AbilityHeadbuttDescription>
+  
+  
+  
+  <TooltipCombatUnarmedGrapple>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatUnarmedGrapple>
+  
+  
+  <TooltipCombatUnarmedHeavyPunch>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatUnarmedHeavyPunch>
+  
+  
+  <TooltipCombatUnarmedHeadbutt>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatUnarmedHeadbutt>
+  
+  
+  
+  <SkillUnarmed>徒手</SkillUnarmed>
+  
+  
+  <SkillUnarmedDescription>受[color=&quot;lightblue&quot;]力量[/color]支配。伤害低下且不致命，只能让目标失去行动能力。</SkillUnarmedDescription>
+  
+  
+  <SkillUnarmedRank1>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillUnarmedRank1>
+  
+  
+  <SkillUnarmedRank2>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillUnarmedRank2>
+  
+  
+  <SkillUnarmedRank3>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillUnarmedRank3>
+  
+  
+  <SkillUnarmedRank4>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillUnarmedRank4>
+  
+  
+  <SkillUnarmedRank5>[color=&quot;orange&quot;]+[x][/color] 伤害</SkillUnarmedRank5>
+  
+  
+  
+  <TooltipSkillUnarmedRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color]提升[color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillUnarmedRank1>
+  
+  
+  <TooltipSkillUnarmedRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color]提升[color=&quot;lime&quot;][x][/color]。</TooltipSkillUnarmedRank2>
+  
+  
+  <TooltipSkillUnarmedRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提高 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillUnarmedRank3>
+  
+  
+  <TooltipSkillUnarmedRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提高 [color=&quot;lime&quot;][x][/color]。</TooltipSkillUnarmedRank4>
+  
+  
+  <TooltipSkillUnarmedRank5>[size=&quot;16&quot;][NameSkill] 等级 5[/size]\n[requirement][NameSkill] [color=&quot;lightblue&quot;]基础伤害[/color] 提高 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillUnarmedRank5>
+  
+  
+  
+  
+  
+  
+  <AbilitySacrament>圣礼</AbilitySacrament>
+  
+  
+  <AbilitySacramentDescription>除使用者外，所有盟友均获得状态效果 [StatusEffect]。</AbilitySacramentDescription>
+  
+  
+  
+  <AbilityDamnation>诅咒</AbilityDamnation>
+  
+  
+  <AbilityDamnationDescription>对目标施加状态效果 [StatusEffect]。</AbilityDamnationDescription>
+  
+  
+  
+  <AbilitySupplication>祈求</AbilitySupplication>
+  
+  
+  <AbilitySupplicationDescription>为一名盟友施加状态效果 [StatusEffect]。</AbilitySupplicationDescription>
+  
+  
+  
+  <AbilityCondemnation>谴罚</AbilityCondemnation>
+  
+  
+  <AbilityCondemnationDescription>对所有敌人施加状态效果 [StatusEffect]。</AbilityCondemnationDescription>
+  
+  
+  
+  <AbilityLitany>连祷</AbilityLitany>
+  
+  
+  <AbilityLitanyDescription>除使用者外，所有盟友恢复25% [color=&quot;lightblue&quot;]生命值[/color]。</AbilityLitanyDescription>
+  
+
+  
+  <TooltipCombatBenedictionSacrament>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatBenedictionSacrament>
+  
+  
+  <TooltipCombatBenedictionDamnation>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatBenedictionDamnation>
+  
+  
+  <TooltipCombatBenedictionSupplication>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatBenedictionSupplication>
+  
+  
+  <TooltipCombatBenedictionCondemnation>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatBenedictionCondemnation>
+  
+  
+  <TooltipCombatBenedictionLitany>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatBenedictionLitany>
+  
+  
+  
+  <SkillBenediction>祝福</SkillBenediction>
+  
+  
+  <SkillBenedictionDescription>受 [color=&quot;lightblue&quot;]感知[/color] 支配。祝福让你能够通过祈祷为全队施加增益，并为特定目标施加减益。</SkillBenedictionDescription>
+  
+  
+  <SkillBenedictionRank1/>
+  
+  
+  <SkillBenedictionRank2/>
+  
+  
+  <SkillBenedictionRank3/>
+  
+  
+  <SkillBenedictionRank4/>
+  
+  
+  <SkillBenedictionRank5/>
+  
+  
+  
+  <TooltipSkillBenedictionRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement]\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillBenedictionRank1>
+  
+  
+  <TooltipSkillBenedictionRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement]\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillBenedictionRank2>
+  
+  
+  <TooltipSkillBenedictionRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n[requirement]\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillBenedictionRank3>
+  
+  
+  <TooltipSkillBenedictionRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n[requirement]\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillBenedictionRank4>
+  
+  
+  <TooltipSkillBenedictionRank5>[size=&quot;16&quot;][NameSkill] 等级 5[/size]\n[requirement]\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillBenedictionRank5>
+  
+  
+  
+  
+  <AbilityTyrsFavour>提尔的恩惠</AbilityTyrsFavour>
+  
+  
+  <AbilityTyrsFavourDescription>所有北欧盟友获得状态效果 [StatusEffect]。</AbilityTyrsFavourDescription>
+  
+  
+  
+  <AbilityBaldersFavour>巴德尔的恩惠</AbilityBaldersFavour>
+  
+  
+  <AbilityBaldersFavourDescription>所有北欧盟友获得状态效果 [StatusEffect]。</AbilityBaldersFavourDescription>
+  
+  
+  
+  <AbilityThorsFavour>索尔的恩惠</AbilityThorsFavour>
+  
+  
+  <AbilityThorsFavourDescription>所有北欧盟友获得状态效果 [StatusEffect]。</AbilityThorsFavourDescription>
+  
+  
+  
+  <AbilityOdinsFavour>奥丁的恩惠</AbilityOdinsFavour>
+  
+  
+  <AbilityOdinsFavourDescription>所有北欧盟友获得状态效果 [StatusEffect]。</AbilityOdinsFavourDescription>
+  
+  
+  
+  <AbilityLokisFavour>洛基的恩惠</AbilityLokisFavour>
+  
+  
+  <AbilityLokisFavourDescription>所有北欧盟友获得状态效果 [StatusEffect]。</AbilityLokisFavourDescription>
+  
+
+  
+  <TooltipCombatGalderTyrsFavour>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatGalderTyrsFavour>
+  
+  
+  <TooltipCombatGalderBaldersFavour>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatGalderBaldersFavour>
+  
+  
+  <TooltipCombatGalderThorsFavour>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatGalderThorsFavour>
+  
+  
+  <TooltipCombatGalderOdinsFavour>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatGalderOdinsFavour>
+  
+  
+  <TooltipCombatGalderLokisFavour>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatGalderLokisFavour>
+  
+  
+  
+  <SkillGalder>加尔德</SkillGalder>
+  
+  
+  <SkillGalderDescription>受 [color=&quot;lightblue&quot;]感知[/color] 支配。加尔德让你能够使用战吼为全队施加增益。</SkillGalderDescription>
+  
+  
+  <SkillGalderRank1/>
+  
+  
+  <SkillGalderRank2/>
+  
+  
+  <SkillGalderRank3/>
+  
+  
+  <SkillGalderRank4/>
+  
+  
+  <SkillGalderRank5/>
+  
+  
+  
+  <TooltipSkillGalderRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement]\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillGalderRank1>
+  
+  
+  <TooltipSkillGalderRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement]\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillGalderRank2>
+  
+  
+  <TooltipSkillGalderRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n[requirement]\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillGalderRank3>
+  
+  
+  <TooltipSkillGalderRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n[requirement]\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillGalderRank4>
+  
+  
+  <TooltipSkillGalderRank5>[size=&quot;16&quot;][NameSkill] 等级 5[/size]\n[requirement]\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillGalderRank5>
+  
+ 
+  
+  
+  <AbilityProtect>保护</AbilityProtect>
+  
+  
+  <AbilityProtectDescription>使任意相邻友方目标的[color=&quot;lightblue&quot;]伤害减免[/color]提升至与使用者相同的[color=&quot;lightblue&quot;]伤害减免[/color]。</AbilityProtectDescription>
+  
+  
+  
+  <TooltipCombatProtectProtect>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatProtectProtect>
+  
+  
+  <SkillProtect>保护</SkillProtect>
+  
+  
+  <SkillProtectDescription>[DescriptionAbility]</SkillProtectDescription>
+  
+  
+  <SkillProtectRank1/>
+  
+  
+  <TooltipSkillProtectRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement]\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillProtectRank1>
+  
+ 
+  
+  
+  <AbilityRestore>恢复</AbilityRestore>
+  
+  
+  <AbilityRestoreDescription>根据技能等级，为目标恢复一部分[color=&quot;lightblue&quot;]生命值[/color]。会触发借机攻击。</AbilityRestoreDescription>
+  
+  
+  
+  <AbilityCure>治愈</AbilityCure>
+  
+  
+  <AbilityCureDescription>移除目标身上大部分负面战斗状态效果。会触发借机攻击。</AbilityCureDescription>
+  
+  
+  
+  <AbilityRevive>复活</AbilityRevive>
+  
+  
+  <AbilityReviveDescription>令一名[color=&quot;yellow&quot;]失去行动能力[/color]的盟友重返战场，并为其恢复部分最大[color=&quot;lightblue&quot;]生命值[/color]，恢复量等于使用者治疗技能被动加成的一半。会触发借机攻击。</AbilityReviveDescription>
+  
+  
+  
+  <TooltipCombatHealingRestore>[NameAbility][action]\n为目标恢复[x]% [color=&quot;lightblue&quot;]生命值[/color]。</TooltipCombatHealingRestore>
+  
+  
+  <TooltipCombatHealingRevive>[NameAbility][action]\n令一名失去行动能力的目标重返战场，并恢复[y]% [color=&quot;lightblue&quot;]生命值[/color]。</TooltipCombatHealingRevive>
+  
+  
+  
+  <SkillHealing>治疗</SkillHealing>
+  
+  
+  <SkillHealingDescription>受[color=&quot;lightblue&quot;]感知[/color]支配。可在露营与战斗中治疗追随者，恢复的生命值取决于感知和技能等级。</SkillHealingDescription>
+  
+  
+  <SkillHealingRank1>恢复 [x] 点[color=&quot;lightblue&quot;]生命值[/color]</SkillHealingRank1>
+  
+  
+  <SkillHealingRank2>恢复 [x] 点[color=&quot;lightblue&quot;]生命值[/color]</SkillHealingRank2>
+  
+  
+  <SkillHealingRank3>恢复 [x] 点[color=&quot;lightblue&quot;]生命值[/color]</SkillHealingRank3>
+  
+  
+  <SkillHealingRank4>恢复 [x] 点[color=&quot;lightblue&quot;]生命值[/color]</SkillHealingRank4>
+  
+  
+  <SkillHealingRank5>恢复 [x] 点[color=&quot;lightblue&quot;]生命值[/color]</SkillHealingRank5>
+  
+  
+  
+  <TooltipSkillHealingRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n恢复 [color=&quot;lime&quot;][x][/color] 点[color=&quot;lightblue&quot;]生命值[/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillHealingRank1>
+  
+  
+  <TooltipSkillHealingRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n恢复 [color=&quot;lime&quot;][x][/color] 点[color=&quot;lightblue&quot;]生命值[/color]。</TooltipSkillHealingRank2>
+  
+  
+  <TooltipSkillHealingRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n恢复 [color=&quot;lime&quot;][x][/color] 点[color=&quot;lightblue&quot;]生命值[/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillHealingRank3>
+  
+  
+  <TooltipSkillHealingRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n恢复 [color=&quot;lime&quot;][x][/color] 点[color=&quot;lightblue&quot;]生命值[/color]。</TooltipSkillHealingRank4>
+  
+  
+  <TooltipSkillHealingRank5>[size=&quot;16&quot;][NameSkill] 等级 5[/size]\n恢复 [color=&quot;lime&quot;][x][/color] 点[color=&quot;lightblue&quot;]生命值[/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillHealingRank5>
+  
+  
+  
+  
+  <AbilityManoeuvring>机动</AbilityManoeuvring>
+  
+  
+  <AbilityManoeuvringDescription>所有盟友在本回合内额外获得 1 点移动力（即使行动力已耗尽）。</AbilityManoeuvringDescription>
+  
+  
+  
+  <AbilityInspire>激励</AbilityInspire>
+  
+  
+  <AbilityInspireDescription>若目标本回合的攻击行动已消耗，则为其恢复之。</AbilityInspireDescription>
+  
+  
+  
+  <AbilityRuse>诡计</AbilityRuse>
+  
+  
+  <AbilityRuseDescription>以目标格为中心、半径 2 格内的所有敌人会尝试离开该区域，除非他们已处于近战状态。</AbilityRuseDescription>
+  
+  
+  
+  <TooltipCombatLeadershipManoeuvring>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatLeadershipManoeuvring>
+  
+  
+  <TooltipCombatLeadershipInspire>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatLeadershipInspire>
+  
+  
+  <TooltipCombatLeadershipRuse>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatLeadershipRuse>
+  
+  
+  
+  <SkillLeadership>领导力</SkillLeadership>
+  
+  
+  <SkillLeadershipDescription>受[color=&quot;lightblue&quot;]感知[/color]属性支配。提升所有抗性，并解锁特殊对话选项。</SkillLeadershipDescription>
+  
+  
+  <SkillLeadershipRank1>[color=&quot;orange&quot;]+[x][/color] 抗性</SkillLeadershipRank1>
+  
+  
+  <SkillLeadershipRank2>[color=&quot;orange&quot;]+[x][/color] 抗性</SkillLeadershipRank2>
+  
+  
+  <SkillLeadershipRank3>[color=&quot;orange&quot;]+[x][/color] 抗性</SkillLeadershipRank3>
+  
+  
+  <SkillLeadershipRank4>[color=&quot;orange&quot;]+[x][/color] 抗性</SkillLeadershipRank4>
+  
+  
+  <SkillLeadershipRank5>[color=&quot;orange&quot;]+[x][/color] 抗性</SkillLeadershipRank5>
+  
+  
+  
+  <TooltipSkillLeadershipRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement][color=&quot;lightblue&quot;]抗性[/color] 提升 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillLeadershipRank1>
+  
+  
+  <TooltipSkillLeadershipRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement][color=&quot;lightblue&quot;]抗性[/color] 提升 [color=&quot;lime&quot;][x][/color]。</TooltipSkillLeadershipRank2>
+  
+  
+  <TooltipSkillLeadershipRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n[requirement][color=&quot;lightblue&quot;]抗性[/color] 提升 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillLeadershipRank3>
+  
+  
+  <TooltipSkillLeadershipRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n[requirement][color=&quot;lightblue&quot;]抗性[/color] 提升 [color=&quot;lime&quot;][x][/color]。</TooltipSkillLeadershipRank4>
+  
+  
+  <TooltipSkillLeadershipRank5>[size=&quot;16&quot;][NameSkill] 等级 5[/size]\n[requirement][color=&quot;lightblue&quot;]抗性[/color] 提升 [color=&quot;lime&quot;][x][/color]。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillLeadershipRank5>
+  
+  
+  
+  
+  <AbilitySpotTraps>侦测陷阱</AbilitySpotTraps>
+  
+  
+  <AbilitySpotTrapsDescription>施加状态效果 [StatusEffect]。揭示陷阱时，角色会自动停下。</AbilitySpotTrapsDescription>
+  
+
+  
+  <AbilityDisarm>解除装置</AbilityDisarm>
+  
+  
+  <AbilityDisarmDescription>在战斗中解除一个已被揭示的陷阱。</AbilityDisarmDescription>
+  
+  
+  
+  <TooltipCombatSpotTrapsSpotTrap>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatSpotTrapsSpotTrap>
+  
+  
+  <TooltipCombatSpotTrapsDisarm>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatSpotTrapsDisarm>
+  
+  
+  
+  <SkillSpotTraps>侦测陷阱</SkillSpotTraps>
+  
+  
+  <SkillSpotTrapsDescription>受[color=&quot;lightblue&quot;]感知[/color]支配。在战斗中侦测地面上的陷阱。</SkillSpotTrapsDescription>
+  
+  
+  <SkillSpotTrapsRank1/>
+  
+  
+  <SkillSpotTrapsRank2>[color=&quot;orange&quot;]+1[/color] 侦测半径</SkillSpotTrapsRank2>
+  
+  
+  <SkillSpotTrapsRank3/>
+  
+  
+  
+  <TooltipSkillSpotTrapsRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement]\n获得探测非战斗陷阱的概率。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillSpotTrapsRank1>
+  
+  
+  <TooltipSkillSpotTrapsRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement]\n探测非战斗陷阱的概率提高。\n\n侦测陷阱现在会揭示角色周围 1 格半径内的所有陷阱。</TooltipSkillSpotTrapsRank2>
+  
+  
+  <TooltipSkillSpotTrapsRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n[requirement]\n探测非战斗陷阱的概率提高。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillSpotTrapsRank3>
+  
+  
+  
+  
+  <AbilityTacticalMove>战术移动</AbilityTacticalMove>
+  
+  
+  <AbilityTacticalMoveDescription>[color=&quot;lime&quot;]所有角色均可免费使用。[/color]\n移动力减半，但移动时不会触发陷阱和借机攻击。</AbilityTacticalMoveDescription>
+  
+  
+  
+  <TooltipCombatTacticalMoveTacticalMove>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatTacticalMoveTacticalMove>
+  
+  
+  <SkillTacticalMove>战术移动</SkillTacticalMove>
+  
+  
+  <SkillTacticalMoveDescription>[DescriptionAbility]</SkillTacticalMoveDescription>
+  
+  
+  <SkillTacticalMoveRank1/>
+  
+  
+  
+  <TooltipSkillTacticalMoveRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement]\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillTacticalMoveRank1>
+  
+  
+  
+  
+  <AbilityTaunt>嘲讽</AbilityTaunt>
+  
+  
+  <AbilityTauntDescription>强迫目标全速冲向使用者（[color=&quot;lightblue&quot;]精神抗性[/color]）。</AbilityTauntDescription>
+  
+  
+  
+  <TooltipCombatTauntTaunt>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatTauntTaunt>
+  
+  
+  <SkillTaunt>嘲讽</SkillTaunt>
+  
+  
+  <SkillTauntDescription>[DescriptionAbility]</SkillTauntDescription>
+  
+  
+  <SkillTauntRank1/>
+  
+  
+  <TooltipSkillTauntRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement]\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillTauntRank1>
+  
+  
+  
+  
+  <AbilityDemoralise>挫志</AbilityDemoralise>
+  
+  
+  <AbilityDemoraliseDescription>令所有敌人陷入[StatusEffect]状态。</AbilityDemoraliseDescription>
+  
+  
+  
+  <AbilityPoison>毒药</AbilityPoison>
+  
+  
+  <AbilityPoisonDescription>使目标获得[StatusEffect]状态。</AbilityPoisonDescription>
+  
+  
+  
+  <AbilityDust>扬尘</AbilityDust>
+  
+  
+  <AbilityDustDescription>向前方三格内所有角色脸上扬尘，造成[StatusEffect]效果。</AbilityDustDescription>
+  
+  
+  
+  <AbilityTalon>利爪</AbilityTalon>
+  
+  
+  <AbilityTalonDescription>有50%几率造成[StatusEffect]，25%几率造成[StatusEffect1]，25%几率造成[StatusEffect2]。</AbilityTalonDescription>
+  
+  
+  
+  <AbilitySuggestion>暗示</AbilitySuggestion>
+  
+  
+  <AbilitySuggestionDescription>使目标获得[StatusEffect]状态。</AbilitySuggestionDescription>
+  
+  
+  
+  <TooltipCombatWitchcraftDemoralise>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatWitchcraftDemoralise>
+  
+  
+  <TooltipCombatWitchcraftPoison>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatWitchcraftPoison>
+  
+  
+  <TooltipCombatWitchcraftDust>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatWitchcraftDust>
+  
+  
+  <TooltipCombatWitchcraftTalon>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatWitchcraftTalon>
+  
+  
+  <TooltipCombatWitchcraftSuggestion>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatWitchcraftSuggestion>
+  
+  
+  
+  <SkillWitchcraft>巫术</SkillWitchcraft>
+  
+  
+  <SkillWitchcraftDescription>受[color=&quot;lightblue&quot;]感知[/color]支配。将药草转化为药品，并提供战斗减益技能。</SkillWitchcraftDescription>
+  
+  
+  <SkillWitchcraftRank1>将[color=&quot;orange&quot;][x][/color]份药草转化为药品</SkillWitchcraftRank1>
+  
+  
+  <SkillWitchcraftRank2>将[color=&quot;orange&quot;][x][/color]份药草转化为药品</SkillWitchcraftRank2>
+  
+  
+  <SkillWitchcraftRank3>将[color=&quot;orange&quot;][x][/color]份药草转化为药品</SkillWitchcraftRank3>
+  
+  
+  <SkillWitchcraftRank4>将[color=&quot;orange&quot;][x][/color]份药草转化为药品</SkillWitchcraftRank4>
+  
+  
+  <SkillWitchcraftRank5>将[color=&quot;orange&quot;][x][/color]份药草转化为药品</SkillWitchcraftRank5>
+  
+  
+  
+  <TooltipSkillWitchcraftRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n将[color=&quot;lime&quot;][x][/color]份药草转化为药品。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillWitchcraftRank1>
+  
+  
+  <TooltipSkillWitchcraftRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n将[color=&quot;lime&quot;][x][/color]份药草转化为药品。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillWitchcraftRank2>
+  
+  
+  <TooltipSkillWitchcraftRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n将[color=&quot;lime&quot;][x][/color]份药草转化为药品。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillWitchcraftRank3>
+  
+  
+  <TooltipSkillWitchcraftRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n将[color=&quot;lime&quot;][x][/color]份药草转化为药品。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillWitchcraftRank4>
+  
+  
+  <TooltipSkillWitchcraftRank5>[size=&quot;16&quot;][NameSkill] 等级 5[/size]\n将[color=&quot;lime&quot;][x][/color]份药草转化为药品。\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillWitchcraftRank5>
+  
+
+  
+  
+  
+  
+  <SkillArmoursmithing>护甲锻造</SkillArmoursmithing>
+  
+  
+  <SkillArmoursmithingDescription>赋予制作头盔与护甲的能力。</SkillArmoursmithingDescription>
+  
+  
+  <SkillArmoursmithingRank1>制作[color=&quot;orange&quot;]第二级[/color]护甲和头盔</SkillArmoursmithingRank1>
+  
+  
+  <SkillArmoursmithingRank2>制作[color=&quot;orange&quot;]第三级[/color]护甲和头盔</SkillArmoursmithingRank2>
+  
+  
+  <SkillArmoursmithingRank3>制作[color=&quot;orange&quot;]第四级[/color]护甲和头盔</SkillArmoursmithingRank3>
+  
+  
+  <SkillArmoursmithingRank4>制作[color=&quot;orange&quot;]第五级[/color]护甲和头盔</SkillArmoursmithingRank4>
+  
+  
+  
+  <TooltipSkillArmoursmithingRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement]获得制作第二级护甲以及第一级和第二级头盔的能力。</TooltipSkillArmoursmithingRank1>
+  
+  
+  <TooltipSkillArmoursmithingRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement]获得制作第三级护甲和头盔的能力。</TooltipSkillArmoursmithingRank2>
+  
+  
+  <TooltipSkillArmoursmithingRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n[requirement]获得制作第四级护甲和头盔的能力。</TooltipSkillArmoursmithingRank3>
+  
+  
+  <TooltipSkillArmoursmithingRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n[requirement]获得制作第五级护甲和头盔的能力。</TooltipSkillArmoursmithingRank4>
+  
+  
+  
+  
+  <SkillArtisan>工匠</SkillArtisan>
+  
+  
+  <SkillArtisanDescription>该角色打造的物品有一定几率具备一项特殊属性。</SkillArtisanDescription>
+  
+  
+  <SkillArtisanRank1>[color=&quot;orange&quot;][x]%[/color] 几率</SkillArtisanRank1>
+  
+  
+  <SkillArtisanRank2>[color=&quot;orange&quot;][x]%[/color] 几率</SkillArtisanRank2>
+  
+  
+  <SkillArtisanRank3>[color=&quot;orange&quot;][x]%[/color] 几率</SkillArtisanRank3>
+  
+  
+  <TooltipSkillArtisanRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement][color=&quot;lime&quot;][x]%[/color] 几率赋予特殊属性。</TooltipSkillArtisanRank1>
+  
+  
+  <TooltipSkillArtisanRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement][color=&quot;lime&quot;][x]%[/color] 几率赋予特殊属性。</TooltipSkillArtisanRank2>
+  
+  
+  <TooltipSkillArtisanRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n[requirement][color=&quot;lime&quot;][x]%[/color] 几率赋予特殊属性。</TooltipSkillArtisanRank3>
+  
+  
+  
+  
+  <SkillConstitution>体质</SkillConstitution>
+  
+  
+  <SkillConstitutionDescription>感染带来的恶化风险减半。</SkillConstitutionDescription>
+  
+  
+  <SkillConstitutionRank1/>
+  
+  
+  <TooltipSkillConstitutionRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillConstitutionRank1>
+  
+   
+  
+  
+  <SkillCooking>烹饪</SkillCooking>
+  
+  
+  <SkillCookingDescription>露营时，有一定几率为队伍提供增益。</SkillCookingDescription>
+  
+  
+  <SkillCookingRank1>[color=&quot;orange&quot;]+10%[/color] 几率获得[color=&quot;yellow&quot;]饱食[/color]效果，[color=&quot;orange&quot;]+[x]%[/color] 几率获得[color=&quot;orange&quot;][x1][/color]份口粮</SkillCookingRank1>
+  
+  
+  <SkillCookingRank2>[color=&quot;orange&quot;]+20%[/color] 几率获得[color=&quot;yellow&quot;]饱食[/color]效果，[color=&quot;orange&quot;]+[x]%[/color] 几率获得[color=&quot;orange&quot;][x1][/color]份口粮</SkillCookingRank2>
+  
+  
+  <SkillCookingRank3>[color=&quot;orange&quot;]+30%[/color] 几率触发 [color=&quot;yellow&quot;]饱食[/color] 效果，[color=&quot;orange&quot;]+[x]%[/color] 几率获得 [color=&quot;orange&quot;][x1][/color] 份口粮</SkillCookingRank3>
+  
+  
+  <SkillCookingRank4>[color=&quot;orange&quot;]+40%[/color] 几率触发 [color=&quot;yellow&quot;]饱食[/color] 效果，[color=&quot;orange&quot;]+[x]%[/color] 几率获得 [color=&quot;orange&quot;][x1][/color] 份口粮</SkillCookingRank4>
+  
+  
+  <SkillCookingRank5>[color=&quot;orange&quot;]+50%[/color] 几率触发 [color=&quot;yellow&quot;]饱食[/color] 效果，[color=&quot;orange&quot;]+[x]%[/color] 几率获得 [color=&quot;orange&quot;][x1][/color] 份口粮</SkillCookingRank5>
+  
+  
+  
+  <TooltipSkillCookingRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement][color=&quot;lime&quot;]+10%[/color] 几率触发 [color=&quot;yellow&quot;]饱食[/color] 效果，[color=&quot;lime&quot;]+[x]%[/color] 几率获得 [x1] 份口粮。</TooltipSkillCookingRank1>
+  
+  
+  <TooltipSkillCookingRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement][color=&quot;lime&quot;]+20%[/color] 几率触发 [color=&quot;yellow&quot;]饱食[/color] 效果，[color=&quot;lime&quot;]+[x]%[/color] 几率获得 [x1] 份口粮。</TooltipSkillCookingRank2>
+  
+  
+  <TooltipSkillCookingRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n[requirement][color=&quot;lime&quot;]+30%[/color] 几率触发 [color=&quot;yellow&quot;]饱食[/color] 效果，[color=&quot;lime&quot;]+[x]%[/color] 几率获得 [x1] 份口粮。</TooltipSkillCookingRank3>
+  
+  
+  <TooltipSkillCookingRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n[requirement][color=&quot;lime&quot;]+40%[/color] 几率触发 [color=&quot;yellow&quot;]饱食[/color] 效果，[color=&quot;lime&quot;]+[x]%[/color] 几率获得 [x1] 份口粮。</TooltipSkillCookingRank4>
+  
+  
+  <TooltipSkillCookingRank5>[size=&quot;16&quot;][NameSkill] 等级 5[/size]\n[requirement][color=&quot;lime&quot;]+50%[/color] 几率触发 [color=&quot;yellow&quot;]饱食[/color] 效果，[color=&quot;lime&quot;]+[x]%[/color] 几率获得 [x1] 份口粮。</TooltipSkillCookingRank5>
+  
+  
+  
+  
+  <SkillCrafting>锻造</SkillCrafting>
+  
+  
+  <SkillCraftingDescription>习得锻造武器的能力。</SkillCraftingDescription>
+  
+  
+  <SkillCraftingRank1>可锻造 [color=&quot;orange&quot;]第一级[/color] 武器</SkillCraftingRank1>
+  
+  
+  <SkillCraftingRank2>可锻造 [color=&quot;orange&quot;]第二级[/color] 武器</SkillCraftingRank2>
+  
+  
+  <SkillCraftingRank3>可锻造 [color=&quot;orange&quot;]第三级[/color] 武器</SkillCraftingRank3>
+  
+  
+  <SkillCraftingRank4>可锻造 [color=&quot;orange&quot;]第四级[/color] 武器</SkillCraftingRank4>
+  
+  
+  <SkillCraftingRank5>可锻造 [color=&quot;orange&quot;]第五级[/color] 武器</SkillCraftingRank5>
+  
+  
+  
+  <TooltipSkillCraftingRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement]习得锻造第一级武器的能力。</TooltipSkillCraftingRank1>
+  
+  
+  <TooltipSkillCraftingRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement]习得锻造第二级武器的能力。</TooltipSkillCraftingRank2>
+  
+  
+  <TooltipSkillCraftingRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n[requirement]习得锻造第三级武器的能力。</TooltipSkillCraftingRank3>
+  
+  
+  <TooltipSkillCraftingRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n[requirement]习得锻造第四级武器的能力。</TooltipSkillCraftingRank4>
+  
+  
+  <TooltipSkillCraftingRank5>[size=&quot;16&quot;][NameSkill] 等级 5[/size]\n[requirement]习得锻造第五级武器的能力。</TooltipSkillCraftingRank5>
+  
+  
+   
+  
+  <SkillDiplomacy>外交</SkillDiplomacy>
+  
+  
+  <SkillDiplomacyDescription>解锁特殊对话选项。</SkillDiplomacyDescription>
+  
+  
+  <SkillDiplomacyRank1>解锁 [color=&quot;orange&quot;]外交 1[/color] 选项</SkillDiplomacyRank1>
+  
+  
+  <SkillDiplomacyRank2>解锁 [color=&quot;orange&quot;]外交 2[/color] 选项</SkillDiplomacyRank2>
+  
+  
+  <SkillDiplomacyRank3>解锁 [color=&quot;orange&quot;]外交 3[/color] 选项</SkillDiplomacyRank3>
+  
+  
+  <SkillDiplomacyRank4>解锁 [color=&quot;orange&quot;]外交 4[/color] 选项</SkillDiplomacyRank4>
+  
+  
+  <SkillDiplomacyRank5>解锁 [color=&quot;orange&quot;]外交 5[/color] 选项</SkillDiplomacyRank5>
+  
+  
+  
+  <TooltipSkillDiplomacyRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement]解锁特殊对话选项。</TooltipSkillDiplomacyRank1>
+  
+  
+  <TooltipSkillDiplomacyRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement]解锁特殊对话选项。</TooltipSkillDiplomacyRank2>
+  
+  
+  <TooltipSkillDiplomacyRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n[requirement]解锁特殊对话选项。</TooltipSkillDiplomacyRank3>
+  
+  
+  <TooltipSkillDiplomacyRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n[requirement]解锁特殊对话选项。</TooltipSkillDiplomacyRank4>
+  
+  
+  <TooltipSkillDiplomacyRank5>[size=&quot;16&quot;][NameSkill] 等级 5[/size]\n[requirement]解锁特殊对话选项。</TooltipSkillDiplomacyRank5>
+  
+  
+  
+  
+  <SkillGuarding>守卫</SkillGuarding>
+  
+  
+  <SkillGuardingDescription>露营时，单次班次内提升营地安全度。</SkillGuardingDescription>
+  
+  
+  <SkillGuardingRank1>[color=&quot;orange&quot;]+[x]%[/color] 营地安全</SkillGuardingRank1>
+  
+  
+  <SkillGuardingRank2>[color=&quot;orange&quot;]+[x]%[/color] 营地安全</SkillGuardingRank2>
+  
+  
+  <SkillGuardingRank3>[color=&quot;orange&quot;]+[x]%[/color] 营地安全</SkillGuardingRank3>
+  
+  
+  <SkillGuardingRank4>[color=&quot;orange&quot;]+[x]%[/color] 营地安全</SkillGuardingRank4>
+  
+  
+  <SkillGuardingRank5>[color=&quot;orange&quot;]+[x]%[/color] 营地安全</SkillGuardingRank5>
+  
+  
+  
+  <TooltipSkillGuardingRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement][color=&quot;lime&quot;]+[x]%[/color] 露营期间安全度。</TooltipSkillGuardingRank1>
+  
+  
+  <TooltipSkillGuardingRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement][color=&quot;lime&quot;]+[x]%[/color] 露营期间安全度。</TooltipSkillGuardingRank2>
+  
+  
+  <TooltipSkillGuardingRank3>[size=&quot;16&quot;][NameSkill] Rank 3[/size]\n[requirement]露营时安全度[color=&quot;lime&quot;]+[x]%[/color]。</TooltipSkillGuardingRank3>
+  
+  
+  <TooltipSkillGuardingRank4>[size=&quot;16&quot;][NameSkill] Rank 4[/size]\n[requirement]露营时安全度[color=&quot;lime&quot;]+[x]%[/color]。</TooltipSkillGuardingRank4>
+  
+  
+  <TooltipSkillGuardingRank5>[size=&quot;16&quot;][NameSkill] Rank 5[/size]\n[requirement]露营时安全度[color=&quot;lime&quot;]+[x]%[/color]。</TooltipSkillGuardingRank5>
+  
+  
+  
+  
+  <SkillHeavySleeper>沉睡者</SkillHeavySleeper>
+  
+  
+  <SkillHeavySleeperDescription>露营时，你只需休息1个班次即可完全恢复精力。</SkillHeavySleeperDescription>
+  
+  
+  <SkillHeavySleeperRank1/>
+  
+  
+  <TooltipSkillHeavySleeperRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillHeavySleeperRank1>
+  
+  
+  
+  
+  <SkillHunting>狩猎</SkillHunting>
+  
+  
+  <SkillHuntingDescription>提高狩猎成功率与带回的肉量。</SkillHuntingDescription>
+  
+  
+  <SkillHuntingRank1>带回[color=&quot;orange&quot;][x] - [x1][/color] [y]</SkillHuntingRank1>
+  
+  
+  <SkillHuntingRank2>带回[color=&quot;orange&quot;][x] - [x1][/color] [y]</SkillHuntingRank2>
+  
+  
+  <SkillHuntingRank3>带回[color=&quot;orange&quot;][x] - [x1][/color] [y]</SkillHuntingRank3>
+  
+  
+  <SkillHuntingRank4>带回[color=&quot;orange&quot;][x] - [x1][/color] [y]</SkillHuntingRank4>
+  
+  
+  <SkillHuntingRank5>带回[color=&quot;orange&quot;][x] - [x1][/color] [y]</SkillHuntingRank5>
+  
+  
+  
+  <TooltipSkillHuntingRank1>[size=&quot;16&quot;][NameSkill] Rank 1[/size]\n露营时，带回[color=&quot;lime&quot;][x] - [x1][/color] [y]。</TooltipSkillHuntingRank1>
+  
+  
+  <TooltipSkillHuntingRank2>[size=&quot;16&quot;][NameSkill] Rank 2[/size]\n露营时，带回[color=&quot;lime&quot;][x] - [x1][/color] [y]。</TooltipSkillHuntingRank2>
+  
+  
+  <TooltipSkillHuntingRank3>[size=&quot;16&quot;][NameSkill] Rank 3[/size]\n露营时，带回[color=&quot;lime&quot;][x] - [x1][/color] [y]。</TooltipSkillHuntingRank3>
+  
+  
+  <TooltipSkillHuntingRank4>[size=&quot;16&quot;][NameSkill] Rank 4[/size]\n露营时，带回[color=&quot;lime&quot;][x] - [x1][/color] [y]。</TooltipSkillHuntingRank4>
+  
+  
+  <TooltipSkillHuntingRank5>[size=&quot;16&quot;][NameSkill] Rank 5[/size]\n露营时，带回[color=&quot;lime&quot;][x] - [x1][/color] [y]。</TooltipSkillHuntingRank5>
+  
+  
+  
+  
+  <SkillPreserving>腌制</SkillPreserving>
+  
+  
+  <SkillPreservingDescription>将肉转化为口粮。</SkillPreservingDescription>
+  
+  
+  <SkillPreservingRank1>将[color=&quot;orange&quot;][x][/color]份肉转化为口粮</SkillPreservingRank1>
+  
+  
+  <SkillPreservingRank2>将[color=&quot;orange&quot;][x][/color]份肉转化为口粮</SkillPreservingRank2>
+  
+  
+  <SkillPreservingRank3>将[color=&quot;orange&quot;][x][/color]份肉转化为口粮</SkillPreservingRank3>
+  
+  
+  <SkillPreservingRank4>将[color=&quot;orange&quot;][x][/color]份肉转化为口粮</SkillPreservingRank4>
+  
+  
+  <SkillPreservingRank5>将[color=&quot;orange&quot;][x][/color]份肉转化为口粮</SkillPreservingRank5>
+  
+  
+  
+  <TooltipSkillPreservingRank1>[size=&quot;16&quot;][NameSkill] Rank 1[/size]\n[requirement]将[color=&quot;lime&quot;][x][/color]份肉转化为口粮。</TooltipSkillPreservingRank1>
+  
+  
+  <TooltipSkillPreservingRank2>[size=&quot;16&quot;][NameSkill] Rank 2[/size]\n[requirement]将[color=&quot;lime&quot;][x][/color]份肉转化为口粮。</TooltipSkillPreservingRank2>
+  
+  
+  <TooltipSkillPreservingRank3>[size=&quot;16&quot;][NameSkill] Rank 3[/size]\n[requirement]将[color=&quot;lime&quot;][x][/color]份肉转化为口粮。</TooltipSkillPreservingRank3>
+  
+  
+  <TooltipSkillPreservingRank4>[size=&quot;16&quot;][NameSkill] Rank 4[/size]\n[requirement]将[color=&quot;lime&quot;][x][/color]份肉转化为口粮。</TooltipSkillPreservingRank4>
+  
+  
+  <TooltipSkillPreservingRank5>[size=&quot;16&quot;][NameSkill] Rank 5[/size]\n[requirement]将[color=&quot;lime&quot;][x][/color]份肉转化为口粮。</TooltipSkillPreservingRank5>
+  
+  
+    
+  
+  <SkillRepairing>修理</SkillRepairing>
+  
+  
+  <SkillRepairingDescription>修理损坏物品时消耗更少资源，拆解时回收更多资源。</SkillRepairingDescription>
+  
+  
+  <SkillRepairingRank1>能够修理损坏的物品，拆解时获得[color=&quot;orange&quot;]+[y]%[/color]资源</SkillRepairingRank1>
+  
+  
+  <SkillRepairingRank2>资源消耗[color=&quot;orange&quot;]-[x]%[/color]，拆解时获得[color=&quot;orange&quot;]+[y]%[/color]资源</SkillRepairingRank2>
+  
+  
+  <SkillRepairingRank3>资源消耗[color=&quot;orange&quot;]-[x]%[/color]，拆解时获得[color=&quot;orange&quot;]+[y]%[/color]资源</SkillRepairingRank3>
+  
+  
+  <SkillRepairingRank4>资源消耗[color=&quot;orange&quot;]-[x]%[/color]，拆解时获得[color=&quot;orange&quot;]+[y]%[/color]资源</SkillRepairingRank4>
+  
+  
+  <SkillRepairingRank5>资源消耗[color=&quot;orange&quot;]-[x]%[/color]，拆解时获得[color=&quot;orange&quot;]+[y]%[/color]资源</SkillRepairingRank5>
+  
+  
+  
+  <TooltipSkillRepairingRank1>[size=&quot;16&quot;][NameSkill] Rank 1[/size]\n[requirement]解锁修理损坏物品的能力。拆解物品时，多回收[y]%资源。</TooltipSkillRepairingRank1>
+  
+  
+  <TooltipSkillRepairingRank2>[size=&quot;16&quot;][NameSkill] Rank 2[/size]\n[requirement]修理时资源消耗减少[color=&quot;lime&quot;][x]%[/color]。拆解时，多回收[color=&quot;lime&quot;][y]%[/color]资源。</TooltipSkillRepairingRank2>
+  
+  
+  <TooltipSkillRepairingRank3>[size=&quot;16&quot;][NameSkill] Rank 3[/size]\n[requirement]修理时资源消耗减少[color=&quot;lime&quot;][x]%[/color]。拆解时，多回收[color=&quot;lime&quot;][y]%[/color]资源。</TooltipSkillRepairingRank3>
+  
+  
+  <TooltipSkillRepairingRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n[requirement]修理物品时，资源消耗降低[color=&quot;lime&quot;][x]%[/color]。拆解物品时，回收资源量提升[color=&quot;lime&quot;][y]%[/color]。</TooltipSkillRepairingRank4>
+  
+  
+  <TooltipSkillRepairingRank5>[size=&quot;16&quot;][NameSkill] 等级 5[/size]\n[requirement]修理物品时，资源消耗降低[color=&quot;lime&quot;][x]%[/color]。拆解物品时，回收资源量提升[color=&quot;lime&quot;][y]%[/color]。</TooltipSkillRepairingRank5>
+  
+  
+    
+  
+  <SkillScouting>侦察</SkillScouting>
+  
+  
+  <SkillScoutingDescription>在战役地图扎营时，有几率发现资源。</SkillScoutingDescription>
+  
+  
+  <SkillScoutingRank1>[color=&quot;orange&quot;][x]%[/color]几率发现资源</SkillScoutingRank1>
+  
+  
+  <SkillScoutingRank2>[color=&quot;orange&quot;][x]%[/color]几率发现资源</SkillScoutingRank2>
+  
+  
+  <SkillScoutingRank3>[color=&quot;orange&quot;][x]%[/color]几率发现资源</SkillScoutingRank3>
+  
+  
+  <SkillScoutingRank4>[color=&quot;orange&quot;][x]%[/color]几率发现资源</SkillScoutingRank4>
+  
+  
+  <SkillScoutingRank5>[color=&quot;orange&quot;][x]%[/color]几率发现资源</SkillScoutingRank5>
+  
+  
+  
+  <TooltipSkillScoutingRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement][color=&quot;lime&quot;]+[x]%[/color]几率发现资源</TooltipSkillScoutingRank1>
+  
+  
+  <TooltipSkillScoutingRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement][color=&quot;lime&quot;]+[x]%[/color]几率发现资源</TooltipSkillScoutingRank2>
+  
+  
+  <TooltipSkillScoutingRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n[requirement][color=&quot;lime&quot;]+[x]%[/color]几率发现资源</TooltipSkillScoutingRank3>
+  
+  
+  <TooltipSkillScoutingRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n[requirement][color=&quot;lime&quot;]+[x]%[/color]几率发现资源</TooltipSkillScoutingRank4>
+  
+  
+  <TooltipSkillScoutingRank5>[size=&quot;16&quot;][NameSkill] 等级 5[/size]\n[requirement][color=&quot;lime&quot;]+[x]%[/color]几率发现资源</TooltipSkillScoutingRank5>
+  
+  
+    
+  
+  <SkillTinker>修补匠</SkillTinker>
+  
+  
+  <SkillTinkerDescription>解锁制造新陷阱、投掷物与消耗品的能力。</SkillTinkerDescription>
+  
+  
+  <SkillTinkerRank1>制造[color=&quot;orange&quot;]第一级[/color]物品</SkillTinkerRank1>
+  
+  
+  <SkillTinkerRank2>制造[color=&quot;orange&quot;]第二级[/color]物品</SkillTinkerRank2>
+  
+  
+  <SkillTinkerRank3>制造[color=&quot;orange&quot;]第三级[/color]物品</SkillTinkerRank3>
+  
+  
+  <SkillTinkerRank4>制造[color=&quot;orange&quot;]第四级[/color]物品</SkillTinkerRank4>
+  
+  
+  <SkillTinkerRank5>制造[color=&quot;orange&quot;]第五级[/color]物品</SkillTinkerRank5>
+  
+  
+  
+  <TooltipSkillTinkerRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement]解锁可制造的第一级物品。</TooltipSkillTinkerRank1>
+  
+  
+  <TooltipSkillTinkerRank2>[size=&quot;16&quot;][NameSkill] 等级 2[/size]\n[requirement]解锁可制造的第二级物品。</TooltipSkillTinkerRank2>
+  
+  
+  <TooltipSkillTinkerRank3>[size=&quot;16&quot;][NameSkill] 等级 3[/size]\n[requirement]解锁可制造的第三级物品。</TooltipSkillTinkerRank3>
+  
+  
+  <TooltipSkillTinkerRank4>[size=&quot;16&quot;][NameSkill] 等级 4[/size]\n[requirement]解锁可制造的第四级物品。</TooltipSkillTinkerRank4>
+  
+  
+  <TooltipSkillTinkerRank5>[size=&quot;16&quot;][NameSkill] 等级 5[/size]\n[requirement]解锁可制造的第五级物品。</TooltipSkillTinkerRank5>
+  
+  
+  
+  
+  
+  
+  <SkillAdrenalineJunkie>肾上腺素瘾者</SkillAdrenalineJunkie>
+  
+  
+  <SkillAdrenalineJunkieDescription>[color=&quot;lightblue&quot;]生命值[/color]低于20%时，获得[color=&quot;lime&quot;]+30%[/color] [color=&quot;lightblue&quot;]近战伤害[/color]。</SkillAdrenalineJunkieDescription>
+  
+  
+  <SkillAdrenalineJunkieRank1>生命值低于20%时，[color=&quot;orange&quot;]+30%[/color]近战伤害</SkillAdrenalineJunkieRank1>
+  
+  
+  <TooltipSkillAdrenalineJunkieRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillAdrenalineJunkieRank1>
+  
+   
+  
+  
+  <SkillAvenger>复仇者</SkillAvenger>
+  
+  
+  <SkillAvengerDescription>对曾使任意队友倒地的敌人，获得[color=&quot;lime&quot;]+10%[/color] [color=&quot;lightblue&quot;]伤害[/color]。</SkillAvengerDescription>
+  
+  
+  <SkillAvengerRank1>对使队友倒地的敌人，[color=&quot;orange&quot;]+10%[/color]伤害</SkillAvengerRank1>
+  
+  
+  <TooltipSkillAvengerRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillAvengerRank1>
+  
+  
+  
+  
+  <SkillBackstabber>背刺者</SkillBackstabber>
+  
+  
+  <SkillBackstabberDescription>对[color=&quot;yellow&quot;]被骚扰[/color]的敌人，[color=&quot;lime&quot;]+20%[/color] [color=&quot;lightblue&quot;]伤害[/color]。</SkillBackstabberDescription>
+  
+  
+  <SkillBackstabberRank1>对被骚扰的敌人[color=&quot;lime&quot;]+20%[/color]伤害</SkillBackstabberRank1>
+  
+  
+  <TooltipSkillBackstabberRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillBackstabberRank1>
+  
+  
+  
+  
+  <SkillBloodThirsty>嗜血</SkillBloodThirsty>
+  
+  
+  <SkillBloodThirstyDescription>每次击杀后，获得[color=&quot;lime&quot;]+10%[/color]伤害，持续1回合。</SkillBloodThirstyDescription>
+  
+  
+  <SkillBloodThirstyRank1>击杀后，[color=&quot;orange&quot;]+10%[/color]伤害</SkillBloodThirstyRank1>
+  
+  
+  <TooltipSkillBloodThirstyRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillBloodThirstyRank1>
+  
+  
+  
+  
+  <SkillDodge>闪避</SkillDodge>
+  
+  
+  <SkillDodgeDescription>敌人[color=&quot;lightblue&quot;]暴击率[/color]减半。</SkillDodgeDescription>
+  
+  
+  <SkillDodgeRank1>[color=&quot;orange&quot;]-50%[/color]敌人暴击率</SkillDodgeRank1>
+  
+  
+  <TooltipSkillDodgeRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillDodgeRank1>
+  
+  
+  
+  
+  <SkillEvade>规避</SkillEvade>
+  
+  
+  <SkillEvadeDescription>获得[color=&quot;lime&quot;]+5[/color]个百分点[color=&quot;lightblue&quot;]远程伤害减免[/color]。</SkillEvadeDescription>
+  
+  
+  <SkillEvadeRank1>[color=&quot;orange&quot;]+5[/color]远程伤害减免</SkillEvadeRank1>
+  
+  
+  <TooltipSkillEvadeRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillEvadeRank1>
+  
+  
+  
+  
+  <SkillFencer>击剑手</SkillFencer>
+  
+  
+  <SkillFencerDescription>角色受到的[color=&quot;lightblue&quot;]侧翼伤害倍率[/color]降低[color=&quot;lime&quot;]15[/color]个百分点。</SkillFencerDescription>
+  
+  
+  <SkillFencerRank1>[color=&quot;orange&quot;]-15[/color] 敌人侧翼伤害倍率</SkillFencerRank1>
+  
+  
+  <TooltipSkillFencerRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillFencerRank1>
+  
+  
+  
+  
+  <SkillFortuneFavored>幸运眷顾</SkillFortuneFavored>
+  
+  
+  <SkillFortuneFavoredDescription>为所有攻击赋予 [color=&quot;lime&quot;]+3[/color] 个百分点的 [color=&quot;lightblue&quot;]暴击率[/color]。</SkillFortuneFavoredDescription>
+  
+  
+  <SkillFortuneFavoredRank1>[color=&quot;orange&quot;]+3[/color] 暴击率</SkillFortuneFavoredRank1>
+  
+  
+  <TooltipSkillFortuneFavoredRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement][DescriptionSkill]</TooltipSkillFortuneFavoredRank1>
+  
+  
+  
+  
+  <SkillGoodPatient>好患者</SkillGoodPatient>
+  
+  
+  <SkillGoodPatientDescription>受到治疗和复活时，额外恢复 [color=&quot;lime&quot;]+20%[/color] 的 [color=&quot;lightblue&quot;]生命值[/color]。</SkillGoodPatientDescription>
+  
+  
+  <SkillGoodPatientRank1>治疗和复活效果 [color=&quot;orange&quot;]+20%[/color]</SkillGoodPatientRank1>
+  
+  
+  <TooltipSkillGoodPatientRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillGoodPatientRank1>
+  
+  
+  
+  
+  <SkillHardened>钢筋铁骨</SkillHardened>
+  
+  
+  <SkillHardenedDescription>获得 [color=&quot;lime&quot;]+10[/color] 点 [color=&quot;lightblue&quot;]生命值[/color] 上限。</SkillHardenedDescription>
+  
+  
+  <SkillHardenedRank1>[color=&quot;orange&quot;]+10[/color] 生命值</SkillHardenedRank1>
+  
+  
+  <TooltipSkillHardenedRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillHardenedRank1>
+  
+   
+  
+  
+  <SkillKeenEye>锐眼</SkillKeenEye>
+  
+  
+  <SkillKeenEyeDescription>所有攻击获得 [color=&quot;lime&quot;]+50%[/color] 的 [color=&quot;lightblue&quot;]护甲穿透[/color]。</SkillKeenEyeDescription>
+  
+  
+  <SkillKeenEyeRank1>[color=&quot;orange&quot;]+50%[/color] 护甲穿透</SkillKeenEyeRank1>
+  
+  
+  <TooltipSkillKeenEyeRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillKeenEyeRank1>
+  
+  
+  
+  
+  <SkillLoneWolf>独狼</SkillLoneWolf>
+  
+  
+  <SkillLoneWolfDescription>与最近的友军相距至少8格时，造成的 [color=&quot;lightblue&quot;]伤害[/color] 提高 [color=&quot;lime&quot;]10%[/color]。</SkillLoneWolfDescription>
+  
+  
+  <SkillLoneWolfRank1>距盟友8格以上时，[color=&quot;orange&quot;]+10%[/color] 伤害</SkillLoneWolfRank1>
+  
+  
+  <TooltipSkillLoneWolfRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillLoneWolfRank1>
+  
+  
+  
+  
+  <SkillLowProfile>低调</SkillLowProfile>
+  
+  
+  <SkillLowProfileDescription>将敌人以其为攻击目标的几率减半。</SkillLowProfileDescription>
+  
+  
+  <SkillLowProfileRank1>被选为目标的几率 [color=&quot;orange&quot;]-50%[/color]</SkillLowProfileRank1>
+  
+  
+  <TooltipSkillLowProfileRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillLowProfileRank1>
+  
+  
+  
+  
+  <SkillNightOwl>夜猫子</SkillNightOwl>
+  
+  
+  <SkillNightOwlDescription>夜间获得 [color=&quot;lime&quot;]+25[/color] 个百分点的 [color=&quot;lightblue&quot;]精神抗性[/color]。</SkillNightOwlDescription>
+  
+  
+  <SkillNightOwlRank1>夜间 [color=&quot;orange&quot;]+25[/color] 精神抗性</SkillNightOwlRank1>
+  
+  
+  <TooltipSkillNightOwlRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillNightOwlRank1>
+  
+  
+  
+  
+  <SkillNightVision>夜视</SkillNightVision>
+  
+  
+  <SkillNightVisionDescription>消除夜间作战的精准度惩罚。</SkillNightVisionDescription>
+  
+  
+  <SkillNightVisionRank1>不受黑暗带来的远程命中惩罚</SkillNightVisionRank1>
+  
+  
+  <TooltipSkillNightVisionRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillNightVisionRank1>
+  
+  
+  
+  
+  <SkillNimble>敏捷</SkillNimble>
+  
+  
+  <SkillNimbleDescription>将护甲造成的 [color=&quot;lightblue&quot;]移动惩罚[/color] 降低 [color=&quot;lime&quot;]1[/color] 点，最低可降至0。</SkillNimbleDescription>
+  
+  
+  <SkillNimbleRank1>护甲移动惩罚 [color=&quot;orange&quot;]-1[/color]</SkillNimbleRank1>
+  
+  
+  <TooltipSkillNimbleRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillNimbleRank1>
+  
+  
+  
+  
+  <SkillOpportunist>机会主义者</SkillOpportunist>
+  
+  
+  <SkillOpportunistDescription>发动 [color=&quot;lightblue&quot;]借机攻击[/color] 时，会一并给目标施加 [color=&quot;yellow&quot;]眩晕[/color] 效果。</SkillOpportunistDescription>
+  
+  
+  <SkillOpportunistRank1>借机攻击可致目标眩晕</SkillOpportunistRank1>
+  
+  
+  <TooltipSkillOpportunistRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillOpportunistRank1>
+  
+  
+  
+  
+  <SkillPointBlank>零距离射击</SkillPointBlank>
+  
+  
+  <SkillPointBlankDescription>目标处于近战范围内时，对其发动的远程攻击 [color=&quot;lightblue&quot;]暴击率[/color] 为 [color=&quot;lime&quot;]100%[/color]。</SkillPointBlankDescription>
+  
+  
+  <SkillPointBlankRank1>近身射击时 [color=&quot;orange&quot;]100%[/color] 暴击</SkillPointBlankRank1>
+  
+  
+  <TooltipSkillPointBlankRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillPointBlankRank1>
+  
+  
+  
+  
+  <SkillPowerfulKick>强力踢击</SkillPowerfulKick>
+  
+  
+  <SkillPowerfulKickDescription>使用蹬开时，会一并给目标施加 [color=&quot;yellow&quot;]击倒[/color] 效果。</SkillPowerfulKickDescription>
+  
+  
+  <SkillPowerfulKickRank1>蹬开可击倒目标</SkillPowerfulKickRank1>
+  
+  
+  <TooltipSkillPowerfulKickRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillPowerfulKickRank1>
+  
+  
+  
+  
+  <SkillQuickFeet>快步</SkillQuickFeet>
+  
+  
+  <SkillQuickFeetDescription>不脱离战斗围绕敌人移动时，不会触发 [color=&quot;lightblue&quot;]借机攻击[/color]。</SkillQuickFeetDescription>
+  
+  
+  <SkillQuickFeetRank1>绕敌移动不触发借机攻击</SkillQuickFeetRank1>
+  
+  
+  <TooltipSkillQuickFeetRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillQuickFeetRank1>
+  
+  
+  
+  
+  <SkillRelentless>无情</SkillRelentless>
+  
+  
+  <SkillRelentlessDescription>普通攻击有 [color=&quot;lime&quot;]5%[/color] 的几率触发一次额外行动。</SkillRelentlessDescription>
+  
+  
+  <SkillRelentlessRank1>[color=&quot;orange&quot;]5%[/color] 几率获得额外攻击</SkillRelentlessRank1>
+  
+  
+  <TooltipSkillRelentlessRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillRelentlessRank1>
+  
+
+  
+  
+  <SkillSexist>性别歧视</SkillSexist>
+  
+  
+  <SkillSexistDescription>对异性目标造成的 [color=&quot;lightblue&quot;]伤害[/color] 提高 [color=&quot;lime&quot;]10%[/color]。</SkillSexistDescription>
+  
+  
+  <SkillSexistRank1>对异性伤害 [color=&quot;orange&quot;]+10%[/color]</SkillSexistRank1>
+  
+  
+  <TooltipSkillSexistRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillSexistRank1>
+  
+  
+  
+  
+  <SkillSharpshooter>神射手</SkillSharpshooter>
+  
+  
+  <SkillSharpshooterDescription>将瞄准射击所承受的 [color=&quot;lightblue&quot;]伤害[/color] 惩罚减半。</SkillSharpshooterDescription>
+  
+  
+  <SkillSharpshooterRank1>瞄准射击的伤害惩罚减半</SkillSharpshooterRank1>
+  
+  
+  <TooltipSkillSharpshooterRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillSharpshooterRank1>
+  
+  
+  
+  
+  <SkillSneakAttack>偷袭</SkillSneakAttack>
+  
+  
+  <SkillSneakAttackDescription>将 [color=&quot;lightblue&quot;]夹击伤害倍率[/color] 提升 [color=&quot;lime&quot;]10[/color] 个百分点。</SkillSneakAttackDescription>
+  
+  
+  <SkillSneakAttackRank1>[color=&quot;orange&quot;]+10[/color] 夹击伤害倍率</SkillSneakAttackRank1>
+  
+  
+  <TooltipSkillSneakAttackRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillSneakAttackRank1>
+  
+  
+  
+  
+  <SkillSteadyHands>稳定之手</SkillSteadyHands>
+  
+  
+  <SkillSteadyHandsDescription>打断攻击的 [color=&quot;lightblue&quot;]命中率[/color] 固定为 [color=&quot;lime&quot;]100%[/color]。</SkillSteadyHandsDescription>
+  
+  
+  <SkillSteadyHandsRank1>打断攻击时，[color=&quot;orange&quot;]100%[/color]命中率</SkillSteadyHandsRank1>
+  
+  
+  <TooltipSkillSteadyHandsRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillSteadyHandsRank1>
+  
+  
+  
+  
+  <SkillStoneFists>石拳</SkillStoneFists>
+  
+  
+  <SkillStoneFistsDescription>徒手攻击获得[color=&quot;lime&quot;]+10[/color]点[color=&quot;lightblue&quot;]护甲穿透[/color]，并可杀死目标。</SkillStoneFistsDescription>
+  
+  
+  <SkillStoneFistsRank1>徒手攻击 [color=&quot;orange&quot;]+10[/color] 护甲穿透</SkillStoneFistsRank1>
+  
+  
+  <TooltipSkillStoneFistsRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillStoneFistsRank1>
+  
+  
+  
+  
+  <SkillStrider>大步</SkillStrider>
+  
+  
+  <SkillStriderDescription>在战斗中，[color=&quot;lime&quot;]+1[/color] [color=&quot;lightblue&quot;]移动力[/color]。</SkillStriderDescription>
+  
+  
+  <SkillStriderRank1>[color=&quot;orange&quot;]+1[/color]移动力</SkillStriderRank1>
+  
+  
+  <TooltipSkillStriderRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillStriderRank1>
+  
+  
+  
+  
+  <SkillThickSkin>厚皮</SkillThickSkin>
+  
+  
+  <SkillThickSkinDescription>[color=&quot;lightblue&quot;]物理抗性[/color]提高 [color=&quot;lime&quot;]+10[/color] 个百分点。</SkillThickSkinDescription>
+  
+  
+  <SkillThickSkinRank1>[color=&quot;orange&quot;]+10[/color]物理抗性</SkillThickSkinRank1>
+  
+  
+  <TooltipSkillThickSkinRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillThickSkinRank1>
+  
+  
+  
+  
+  <SkillWalkYourShots>稳步射击</SkillWalkYourShots>
+  
+  
+  <SkillWalkYourShotsDescription>远程攻击的[color=&quot;lightblue&quot;]命中率[/color]距离惩罚从每格6个百分点降至每格5个百分点。</SkillWalkYourShotsDescription>
+  
+  
+  <SkillWalkYourShotsRank1>每格距离命中率惩罚 [color=&quot;orange&quot;]-1[/color]</SkillWalkYourShotsRank1>
+  
+  
+  <TooltipSkillWalkYourShotsRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillWalkYourShotsRank1>
+  
+  
+  
+  
+  
+  
+  <SkillDevoted>忠诚</SkillDevoted>
+  
+  
+  <SkillDevotedDescription>角色位于塞恩的3格范围内时，其精神抗性为[color=&quot;lime&quot;]100%[/color]。</SkillDevotedDescription>
+  
+  
+  <SkillDevotedRank1/>
+  
+  
+  <TooltipSkillDevotedRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillDevotedRank1>
+  
+  
+  
+  
+  <SkillWolf>狼</SkillWolf>
+  
+  
+  <SkillWolfDescription/>
+  
+  
+  <SkillWolfRank1/>
+  
+  
+  <TooltipSkillWolfRank1/>
+  
+  
+  
+  
+  <AbilityWolfPounce>猛扑</AbilityWolfPounce>
+  
+  
+  <AbilityWolfPounceDescription>施加状态效果[StatusEffect]。</AbilityWolfPounceDescription>
+  
+  
+  
+  <SkillWolfProwler>狼潜行者</SkillWolfProwler>
+  
+  
+  <SkillWolfProwlerDescription/>
+  
+  
+  <SkillWolfProwlerRank1/>
+  
+  
+  <TooltipSkillWolfProwlerRank1/>
+  
+  
+  
+  
+  <AbilityWolfHowl>嚎叫</AbilityWolfHowl>
+  
+  
+  <AbilityWolfHowlDescription>除使用者以外，所有盟友恢复最多50点[color=&quot;lightblue&quot;]生命值[/color]。</AbilityWolfHowlDescription>
+  
+  
+  
+  <AbilityWolfNuzzle>依偎</AbilityWolfNuzzle>
+  
+  
+  <AbilityWolfNuzzleDescription>令一名[color=&quot;yellow&quot;]失去行动能力[/color]的盟友以满生命值重返战斗，但会触发借机攻击。</AbilityWolfNuzzleDescription>
+  
+  
+  
+  <SkillWolfMother>狼母</SkillWolfMother>
+  
+  
+  <SkillWolfMotherDescription/>
+  
+  
+  <SkillWolfMotherRank1/>
+  
+  
+  <TooltipSkillWolfMotherRank1/>
+  
+  
+  
+  
+  <SkillWolfPackLeader>狼群首领</SkillWolfPackLeader>
+  
+  
+  <SkillWolfPackLeaderDescription/>
+  
+  
+  <SkillWolfPackLeaderRank1/>
+  
+  
+  <TooltipSkillWolfPackLeaderRank1/>
+  
+  
+  
+  
+  <SkillHound>猎犬</SkillHound>
+  
+  
+  <SkillHoundDescription/>
+  
+  
+  <SkillHoundRank1/>
+  
+  
+  <TooltipSkillHoundRank1/>
+  
+  
+  
+  
+  <SkillHoundWar>战犬</SkillHoundWar>
+  
+  
+  <SkillHoundWarDescription/>
+  
+  
+  <SkillHoundWarRank1/>
+  
+  
+  <TooltipSkillHoundWarRank1/>
+  
+  
+  
+  
+  <SkillBarghest>犬妖</SkillBarghest>
+  
+  
+  <SkillBarghestDescription/>
+  
+  
+  <SkillBarghestRank1/>
+  
+  
+  <TooltipSkillBarghestRank1/>
+  
+  
+  
+  
+  <SkillLegendaryToughness>传奇坚韧</SkillLegendaryToughness>
+  
+  
+  <SkillLegendaryToughnessDescription>[color=&quot;lightblue&quot;]伤害减免[/color]提高 [color=&quot;lime&quot;]+20[/color] 个百分点。</SkillLegendaryToughnessDescription>
+  
+  
+  <SkillLegendaryToughnessRank1>[color=&quot;orange&quot;]+20[/color]伤害减免</SkillLegendaryToughnessRank1>
+  
+  
+  <TooltipSkillLegendaryToughnessRank1>[size=&quot;16&quot;][NameSkill][/size]\n[requirement][DescriptionSkill]</TooltipSkillLegendaryToughnessRank1>
+  
+  
+  
+  
+  <AbilitySnare>陷阱</AbilitySnare>
+  
+  
+  <AbilitySnareDescription>激活[StatusEffect]，持续1回合。若角色移动，该效果便会消失。</AbilitySnareDescription>
+  
+  
+  
+  <TooltipCombatSnaringSnare>[NameAbility][action]\n[DescriptionAbility]</TooltipCombatSnaringSnare>
+  
+  
+  <SkillSnaring>束缚中</SkillSnaring>
+  
+  
+  <SkillSnaringDescription>[DescriptionAbility]</SkillSnaringDescription>
+  
+  
+  <SkillSnaringRank1>[DescriptionAbility]</SkillSnaringRank1>
+  
+  
+  
+  <TooltipSkillSnaringRank1>[size=&quot;16&quot;][NameSkill] 等级 1[/size]\n[requirement]\n\n[color=&quot;orange&quot;][NameAbility][/color][action]\n[DescriptionAbility]</TooltipSkillSnaringRank1>
+  
+  
+  
+  
+  <StatusEffectDuration>[x]回合</StatusEffectDuration>
+  
+  
+  <StatusEffectDurationSingular>[x]回合</StatusEffectDurationSingular>
+  
+  
+  <StatusEffectDurationCombat>直到战斗结束</StatusEffectDurationCombat>
+  
+  
+  <StatusEffectDurationCamp>直到下次露营</StatusEffectDurationCamp>
+  
+  
+  <StatusEffectDurationTreatment>直到接受治疗</StatusEffectDurationTreatment>
+  
+  
+  <StatusEffectDurationHours>[x]小时</StatusEffectDurationHours>
+  
+  
+  <StatusEffectDurationHoursSingular>[x]小时</StatusEffectDurationHoursSingular>
+  
+  
+  <StatusEffectDurationDays>[x]天</StatusEffectDurationDays>
+  
+  
+  <StatusEffectDurationDaysSingular>[x]天</StatusEffectDurationDaysSingular>
+  
+  
+  <StatusEffectDurationPermanent>永久</StatusEffectDurationPermanent>
+  
+  
+  
+  <StatusEffectResistanceGrammar>[color=&quot;lightblue&quot;][Resistance][/color];</StatusEffectResistanceGrammar>
+  
+  
+  <StatusEffectGrammar>[color=&quot;yellow&quot;][NameStatusEffect][/color] ([Resistance][color=&quot;silver&quot;][DescriptionStatusEffect][/color])</StatusEffectGrammar>
+  
+  
+  
+  <TooltipStatusEffect>[size=&quot;16&quot;][NameStatusEffect][/size]\n[size=&quot;12&quot;]([color=&quot;olive&quot;][duration][/color])[/size]\n[color=&quot;silver&quot;][DescriptionStatusEffect][/color].</TooltipStatusEffect>
+  
+
+</Root>

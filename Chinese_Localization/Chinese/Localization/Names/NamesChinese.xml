@@ -1,0 +1,9207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  
+  
+  
+  <PlayerNameGrammar>
+    
+  </PlayerNameGrammar>
+  
+  
+  
+  
+  <Story>
+    
+    
+    
+    <Female id="Aife">
+      
+      
+      <Base>艾菲</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Astridr">
+      
+      
+      <Base>阿斯特丽德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ava">
+      
+      
+      <Base>艾娃</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Bjørgdis">
+      
+      
+      <Base>比约格迪丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Dagheidr">
+      
+      
+      <Base>达格海德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eydis">
+      
+      
+      <Base>埃迪丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eyfura">
+      
+      
+      <Base>艾芙拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Finnguala">
+      
+      
+      <Base>芬格瓦拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Geirbjorg">
+      
+      
+      <Base>盖尔比约格</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Grainne">
+      
+      
+      <Base>格蕾妮</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hjørdis">
+      
+      
+      <Base>赫约迪丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hliføy">
+      
+      
+      <Base>赫莉芙伊</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hrodgærda">
+      
+      
+      <Base>赫罗德盖尔达</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hulda">
+      
+      
+      <Base>胡尔达</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ida">
+      
+      
+      <Base>伊达</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Iovita">
+      
+      
+      <Base>约维塔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Kyre">
+      
+      
+      <Base>凯尔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Nefja">
+      
+      
+      <Base>奈芙娅</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Osk">
+      
+      
+      <Base>奥斯克</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ragnhildr">
+      
+      
+      <Base>拉根希尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Røskva">
+      
+      
+      <Base>罗斯克娃</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Sigridr">
+      
+      
+      <Base>西格丽德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Suthen">
+      
+      
+      <Base>苏森</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Vifridr">
+      
+      
+      <Base>维弗里德</Base>
+      
+    
+    </Female>
+    
+    
+    
+    <Female id="Aurelia">
+      
+      
+      <Base>奥雷利亚</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Cassia">
+      
+      
+      <Base>卡西娅</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Caecilia">
+      
+      
+      <Base>凯西莉亚</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Fulvia">
+      
+      
+      <Base>富尔维娅</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Horatia">
+      
+      
+      <Base>霍拉提娅</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hortensia">
+      
+      
+      <Base>霍滕西娅</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Iunia">
+      
+      
+      <Base>尤尼亚</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Laelia">
+      
+      
+      <Base>莱莉亚</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Laurentina">
+      
+      
+      <Base>劳伦蒂娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Marcellina">
+      
+      
+      <Base>玛切莉娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Mariana">
+      
+      
+      <Base>玛丽安娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Nerva">
+      
+      
+      <Base>内尔瓦</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Petronia">
+      
+      
+      <Base>佩特罗尼娅</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Priscilla">
+      
+      
+      <Base>普莉西拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Quintina">
+      
+      
+      <Base>昆蒂娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Septima">
+      
+      
+      <Base>塞普蒂玛</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Severina">
+      
+      
+      <Base>塞维莉娜</Base>
+      
+    
+    </Female>
+    
+    
+    
+    <Male id="Adalbrunn">
+      
+      
+      <Base>阿达尔布伦</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Alvaldr">
+      
+      
+      <Base>阿尔瓦尔德</Base>
+      
+      
+      <Patronymic>阿尔瓦尔达尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Amarr">
+      
+      
+      <Base>阿玛尔</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Are">
+      
+      
+      <Base>阿雷</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Asketill">
+      
+      
+      <Base>阿斯凯蒂尔</Base>
+      
+      
+      <Patronymic>阿斯凯蒂尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Asleifr">
+      
+      
+      <Base>阿斯莱夫</Base>
+      
+      
+      <Patronymic>阿斯莱夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Asulfr">
+      
+      
+      <Base>阿苏尔夫</Base>
+      
+      
+      <Patronymic>阿苏尔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Baelog">
+      
+      
+      <Base>贝洛格</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Bildr">
+      
+      
+      <Base>比尔德</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Bergr">
+      
+      
+      <Base>贝格</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Caustantin">
+      
+      
+      <Base>考斯坦丁</Base>
+      
+      
+      <Patronymic>考斯坦丁</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Donncoirce">
+      
+      
+      <Base>唐科尔斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Duiri">
+      
+      
+      <Base>杜伊里</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Eanbald">
+      
+      
+      <Base>恩巴尔德</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Eikinskjaldi">
+      
+      
+      <Base>艾金斯基亚尔迪</Base>
+      
+      
+      <Patronymic>艾金斯基亚尔达</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Erikr">
+      
+      
+      <Base>埃里克</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Erlingr">
+      
+      
+      <Base>埃林格</Base>
+      
+      
+      <Patronymic>埃林格斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Fliri">
+      
+      
+      <Base>弗利里</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Frosti">
+      
+      
+      <Base>弗罗斯蒂</Base>
+      
+      
+      <Patronymic>弗罗斯塔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Gaius">
+      
+      
+      <Base>盖乌斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Gautulfr">
+      
+      
+      <Base>高图尔夫</Base>
+      
+      
+      <Patronymic>高图尔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Gerrig">
+      
+      
+      <Base>格里格</Base>
+      
+      
+      <Patronymic>格里格斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Gerbrand">
+      
+      
+      <Base>格布兰德</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Gestr">
+      
+      
+      <Base>盖斯特</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Gnypli">
+      
+      
+      <Base>格尼普利</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Grettir">
+      
+      
+      <Base>格雷提尔</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Grimkell">
+      
+      
+      <Base>格里姆凯尔</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Grimulfr">
+      
+      
+      <Base>格里穆尔夫</Base>
+      
+      
+      <Patronymic>格里穆尔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Grimvardr">
+      
+      
+      <Base>格里姆瓦尔德</Base>
+      
+      
+      <Patronymic>格里姆瓦尔达尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Gunnarr">
+      
+      
+      <Base>冈纳</Base>
+      
+      
+      <Patronymic>冈纳尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Halfdanr">
+      
+      
+      <Base>哈夫丹</Base>
+      
+      
+      <Patronymic>哈夫丹纳尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Hannar">
+      
+      
+      <Base>汉纳尔</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Hedinn">
+      
+      
+      <Base>赫丁</Base>
+      
+      
+      <Patronymic>赫丁斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Helmfridr">
+      
+      
+      <Base>赫尔姆弗里德</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Holmunn">
+      
+      
+      <Base>霍尔蒙</Base>
+      
+      
+      <Patronymic>霍尔蒙纳尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Hrodmundr">
+      
+      
+      <Base>赫罗德蒙德</Base>
+      
+      
+      <Patronymic>赫罗德蒙达尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Hrossbjorn">
+      
+      
+      <Base>赫罗斯比约恩</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Hungeirr">
+      
+      
+      <Base>洪盖尔</Base>
+      
+      
+      <Patronymic>洪盖尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Illhugi">
+      
+      
+      <Base>伊尔胡吉</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ingvarr">
+      
+      
+      <Base>英格瓦尔</Base>
+      
+      
+      <Patronymic>英格瓦尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Jardarr">
+      
+      
+      <Base>贾达尔</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Jarnskeggi">
+      
+      
+      <Base>亚恩斯凯吉</Base>
+      
+      
+      <Patronymic>亚恩斯凯加</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Josteinn">
+      
+      
+      <Base>约斯泰因</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Karungr">
+      
+      
+      <Base>卡隆格</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ketill">
+      
+      
+      <Base>凯蒂尔</Base>
+      
+      
+      <Patronymic>凯蒂尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Kolbjørn">
+      
+      
+      <Base>科尔比约恩</Base>
+      
+      
+      <Patronymic>科尔比亚纳尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Krakr">
+      
+      
+      <Base>克拉克尔</Base>
+      
+      
+      <Patronymic>克拉克斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Kveldulfr">
+      
+      
+      <Base>克维尔杜尔夫</Base>
+      
+      
+      <Patronymic>克维尔杜尔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Leofric">
+      
+      
+      <Base>利奥弗里克</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Liknbjorn">
+      
+      
+      <Base>利克恩比约恩</Base>
+      
+      
+      <Patronymic>利克恩比亚纳尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ljotr">
+      
+      
+      <Base>廖特尔</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Mardoll">
+      
+      
+      <Base>玛尔多尔</Base>
+      
+      
+      <Patronymic>玛尔多尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Maucolyn">
+      
+      
+      <Base>毛科林</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Morcant">
+      
+      
+      <Base>莫尔坎特</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Munulfr">
+      
+      
+      <Base>穆努尔夫</Base>
+      
+      
+      <Patronymic>穆努尔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Myrddin">
+      
+      
+      <Base>米尔丁</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Nottolfr">
+      
+      
+      <Base>诺托尔夫</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Nukki">
+      
+      
+      <Base>努基</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Oddkell">
+      
+      
+      <Base>奥德凯尔</Base>
+      
+      
+      <Patronymic>奥德凯尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Olbjørn">
+      
+      
+      <Base>奥尔比约恩</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Oleifr">
+      
+      
+      <Base>奥莱夫</Base>
+      
+      
+      <Patronymic>奥莱夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Osred">
+      
+      
+      <Base>奥斯雷德</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ottarr">
+      
+      
+      <Base>奥塔尔</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ragnvaldr">
+      
+      
+      <Base>拉格恩瓦尔德</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Palni">
+      
+      
+      <Base>帕尔尼</Base>
+      
+      
+      <Patronymic>帕尔纳</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Rikulfr">
+      
+      
+      <Base>里库尔夫</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Rurik">
+      
+      
+      <Base>留里克</Base>
+      
+      
+      <Patronymic>留里克斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Salmundr">
+      
+      
+      <Base>萨尔蒙德</Base>
+      
+      
+      <Patronymic>萨尔蒙达尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Samr">
+      
+      
+      <Base>萨姆尔</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Sandarr">
+      
+      
+      <Base>桑达尔</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Sigmundr">
+      
+      
+      <Base>西格蒙德</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Skakki">
+      
+      
+      <Base>斯卡基</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Skallagrimr">
+      
+      
+      <Base>斯卡拉格里姆</Base>
+      
+      
+      <Patronymic>斯卡拉格里姆斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Skavidr">
+      
+      
+      <Base>斯卡维德</Base>
+      
+      
+      <Patronymic>斯卡维达尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Skule">
+      
+      
+      <Base>斯库勒</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Starkadr">
+      
+      
+      <Base>斯塔卡德</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Stefn">
+      
+      
+      <Base>斯特芬</Base>
+      
+      
+      <Patronymic>斯特芬斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Styrlaug">
+      
+      
+      <Base>斯蒂尔劳格</Base>
+      
+      
+      <Patronymic>斯蒂尔劳格斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Tadc">
+      
+      
+      <Base>塔德克</Base>
+      
+      
+      <Patronymic>泰德格</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Thorgisl">
+      
+      
+      <Base>索吉尔斯</Base>
+      
+      
+      <Patronymic>索吉尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Thorvaldr">
+      
+      
+      <Base>托瓦尔德</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Torfinn">
+      
+      
+      <Base>托尔芬</Base>
+      
+      
+      <Patronymic>托尔芬斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Toste">
+      
+      
+      <Base>托斯特</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Usvifr">
+      
+      
+      <Base>乌斯维夫</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Valerius">
+      
+      
+      <Base>瓦莱里乌斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Vrangr">
+      
+      
+      <Base>弗朗格</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Wada">
+      
+      
+      <Base>瓦达</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Æthelred">
+      
+      
+      <Base>埃塞尔雷德</Base>
+      
+    
+    </Male>
+    
+    
+    
+    <Male id="Albinus">
+      
+      
+      <Base>阿尔比努斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Balbinus">
+      
+      
+      <Base>巴尔比努斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Cnaeus">
+      
+      
+      <Base>克奈乌斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Domitius">
+      
+      
+      <Base>多米提乌斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Fabian">
+      
+      
+      <Base>法比安</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Fabianus">
+      
+      
+      <Base>法比亚努斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Faustus">
+      
+      
+      <Base>福斯图斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Florus">
+      
+      
+      <Base>弗洛鲁斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Gratianus">
+      
+      
+      <Base>格拉提安努斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ignatius">
+      
+      
+      <Base>伊格纳提乌斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Januarius">
+      
+      
+      <Base>雅努阿里乌斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Livius">
+      
+      
+      <Base>李维乌斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Marcellus">
+      
+      
+      <Base>马塞卢斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Marcus">
+      
+      
+      <Base>马库斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Marius">
+      
+      
+      <Base>马里乌斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Octavius">
+      
+      
+      <Base>屋大维</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Pontius">
+      
+      
+      <Base>庞提乌斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Quintillus">
+      
+      
+      <Base>昆提卢斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Rufus">
+      
+      
+      <Base>鲁弗斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Sabinus">
+      
+      
+      <Base>萨比努斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Sextus">
+      
+      
+      <Base>塞克斯图斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Tatianus">
+      
+      
+      <Base>塔提安努斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Titus">
+      
+      
+      <Base>提图斯</Base>
+      
+    
+    </Male>
+    
+    
+    <Male id="Vibius">
+      
+      
+      <Base>维比乌斯</Base>
+      
+    
+    </Male>
+    
+  
+  </Story>
+  
+  
+  <Viking>
+    
+    
+    
+    <Female id="Adis">
+      
+      
+      <Base>阿迪丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Adisla">
+      
+      
+      <Base>阿迪斯拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Alfdis">
+      
+      
+      <Base>阿尔芙迪丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Alfheidr">
+      
+      
+      <Base>阿尔夫海德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Alvig">
+      
+      
+      <Base>阿尔维格</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Arnbjorg">
+      
+      
+      <Base>阿恩比约格</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Arnkatla">
+      
+      
+      <Base>阿恩卡特兰</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Arna">
+      
+      
+      <Base>阿尔娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Arnve">
+      
+      
+      <Base>阿恩维</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Asdis">
+      
+      
+      <Base>阿斯迪丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Asgerdr">
+      
+      
+      <Base>阿斯盖尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Auda">
+      
+      
+      <Base>奥达</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Bekkhildr">
+      
+      
+      <Base>贝克希尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Bera">
+      
+      
+      <Base>贝拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Bestla">
+      
+      
+      <Base>贝斯特拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Beyla">
+      
+      
+      <Base>贝拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Birsa">
+      
+      
+      <Base>比尔萨</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Bjorg">
+      
+      
+      <Base>比约格</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Brana">
+      
+      
+      <Base>布拉娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Dagny">
+      
+      
+      <Base>达格妮</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Dana">
+      
+      
+      <Base>达娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Disa">
+      
+      
+      <Base>迪萨</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Domhildr">
+      
+      
+      <Base>多姆希尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eir">
+      
+      
+      <Base>埃尔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eirny">
+      
+      
+      <Base>艾尔妮</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Elli">
+      
+      
+      <Base>埃莉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Embla">
+      
+      
+      <Base>恩布拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eyja">
+      
+      
+      <Base>艾雅</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Folkví">
+      
+      
+      <Base>福尔克维</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Freydis">
+      
+      
+      <Base>弗雷迪丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Frida">
+      
+      
+      <Base>弗里达</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Fridgerdr">
+      
+      
+      <Base>弗里德盖尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Geira">
+      
+      
+      <Base>盖拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Geirdis">
+      
+      
+      <Base>盖尔迪丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Geirny">
+      
+      
+      <Base>盖尔妮</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Gerdr">
+      
+      
+      <Base>格德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Gloa">
+      
+      
+      <Base>格洛亚</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Gridr">
+      
+      
+      <Base>格里德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Groa">
+      
+      
+      <Base>格罗亚</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Gudrun">
+      
+      
+      <Base>古德伦</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Gunnhildr">
+      
+      
+      <Base>冈希尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Gunnlaug">
+      
+      
+      <Base>贡劳格</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hallbera">
+      
+      
+      <Base>哈尔贝拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Halldis">
+      
+      
+      <Base>哈尔迪丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Halley">
+      
+      
+      <Base>哈莉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hallkatla">
+      
+      
+      <Base>哈尔卡特兰</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hallveig">
+      
+      
+      <Base>哈尔维格</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hedinvi">
+      
+      
+      <Base>赫丁维</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Helga">
+      
+      
+      <Base>海尔加</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hildiridr">
+      
+      
+      <Base>希尔迪里德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hlif">
+      
+      
+      <Base>赫利夫</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hlin">
+      
+      
+      <Base>赫林</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Holmdis">
+      
+      
+      <Base>霍尔姆迪丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hrefna">
+      
+      
+      <Base>赫雷夫娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hrodvi">
+      
+      
+      <Base>赫罗德维</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hvit">
+      
+      
+      <Base>赫维特</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ida">
+      
+      
+      <Base>伊达</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Idunnr">
+      
+      
+      <Base>伊顿</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ima">
+      
+      
+      <Base>伊玛</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ingiberg">
+      
+      
+      <Base>英吉伯格</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ingibjorg">
+      
+      
+      <Base>英吉比约格</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ingifridr">
+      
+      
+      <Base>英吉弗里德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ingirun">
+      
+      
+      <Base>英吉伦</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ioridr">
+      
+      
+      <Base>约里德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Iorunnr">
+      
+      
+      <Base>约伦</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Jodis">
+      
+      
+      <Base>约迪丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Jora">
+      
+      
+      <Base>约拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Jord">
+      
+      
+      <Base>约德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Jorunn">
+      
+      
+      <Base>约伦</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Kara">
+      
+      
+      <Base>卡拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Kata">
+      
+      
+      <Base>卡塔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Katla">
+      
+      
+      <Base>卡特兰</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ketilve">
+      
+      
+      <Base>凯蒂尔维</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Kolga">
+      
+      
+      <Base>科尔加</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Kolderna">
+      
+      
+      <Base>科尔德纳</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Leikny">
+      
+      
+      <Base>莱克妮</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Lifa">
+      
+      
+      <Base>利法</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Linhildr">
+      
+      
+      <Base>林希尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ljota">
+      
+      
+      <Base>廖塔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ljufvina">
+      
+      
+      <Base>柳夫维娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Lyngheidr">
+      
+      
+      <Base>林格海德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Magna">
+      
+      
+      <Base>玛格娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Mist">
+      
+      
+      <Base>米斯特</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Mjoll">
+      
+      
+      <Base>米约尔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Nal">
+      
+      
+      <Base>纳尔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Nidbjorg">
+      
+      
+      <Base>尼德比约格</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Oddfridr">
+      
+      
+      <Base>奥德弗里德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Oddkatla">
+      
+      
+      <Base>奥德卡特兰</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Oddny">
+      
+      
+      <Base>奥德妮</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Radgrida">
+      
+      
+      <Base>拉德格里达</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Radny">
+      
+      
+      <Base>拉德妮</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Rafnhildr">
+      
+      
+      <Base>拉文希尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ragna">
+      
+      
+      <Base>拉格娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ragnborg">
+      
+      
+      <Base>拉格恩堡</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Randvi">
+      
+      
+      <Base>兰德维</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Rannveig">
+      
+      
+      <Base>兰薇格</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Rikvi">
+      
+      
+      <Base>里克维</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Rjupa">
+      
+      
+      <Base>留帕</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Rota">
+      
+      
+      <Base>罗塔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Runa">
+      
+      
+      <Base>鲁娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Saga">
+      
+      
+      <Base>萨加</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Salbjorg">
+      
+      
+      <Base>萨尔比约格</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Saldis">
+      
+      
+      <Base>萨尔迪丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Sefa">
+      
+      
+      <Base>塞法</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Sif">
+      
+      
+      <Base>西芙</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Sigbjorg">
+      
+      
+      <Base>西格比约格</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Siglaug">
+      
+      
+      <Base>西格劳格</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Signe">
+      
+      
+      <Base>西格妮</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Sigrudr">
+      
+      
+      <Base>西格鲁德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Skaga">
+      
+      
+      <Base>斯卡加</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Skadi">
+      
+      
+      <Base>斯卡蒂</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Skjalddis">
+      
+      
+      <Base>斯卡尔迪丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Snotra">
+      
+      
+      <Base>斯诺特拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Solveig">
+      
+      
+      <Base>索尔维格</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Soma">
+      
+      
+      <Base>索玛</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Steinbjorg">
+      
+      
+      <Base>斯坦比约格</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Steinfridr">
+      
+      
+      <Base>斯坦弗里德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Steingerdr">
+      
+      
+      <Base>斯坦盖尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Steinhildr">
+      
+      
+      <Base>斯坦希尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Steinna">
+      
+      
+      <Base>斯坦娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Svala">
+      
+      
+      <Base>斯瓦拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Svana">
+      
+      
+      <Base>斯瓦娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Svanborg">
+      
+      
+      <Base>斯万堡</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Svanhvit">
+      
+      
+      <Base>斯万赫维特</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Sveina">
+      
+      
+      <Base>斯维娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Syn">
+      
+      
+      <Base>希恩</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Sæun">
+      
+      
+      <Base>塞温</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Thora">
+      
+      
+      <Base>托拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Thyrvi">
+      
+      
+      <Base>提尔维</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Tofa">
+      
+      
+      <Base>托法</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Toka">
+      
+      
+      <Base>托卡</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Thorun">
+      
+      
+      <Base>托伦</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Trana">
+      
+      
+      <Base>特拉娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ulfarna">
+      
+      
+      <Base>乌尔法娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ulfheidr">
+      
+      
+      <Base>乌尔夫海德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ulfrun">
+      
+      
+      <Base>乌尔弗伦</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ulla">
+      
+      
+      <Base>乌拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Una">
+      
+      
+      <Base>乌娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Valborg">
+      
+      
+      <Base>瓦尔堡</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Valdis">
+      
+      
+      <Base>瓦尔迪丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Vanadis">
+      
+      
+      <Base>瓦娜迪丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Vedis">
+      
+      
+      <Base>维迪丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Vefreyja">
+      
+      
+      <Base>维弗雷雅</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Vefridr">
+      
+      
+      <Base>维弗里德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Velaug">
+      
+      
+      <Base>维劳格</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Veny">
+      
+      
+      <Base>维妮</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Vif">
+      
+      
+      <Base>维夫</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Vigdis">
+      
+      
+      <Base>维格迪丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Virun">
+      
+      
+      <Base>维伦</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Visna">
+      
+      
+      <Base>维斯娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Vor">
+      
+      
+      <Base>沃尔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Yngvildr">
+      
+      
+      <Base>英格维尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Yrr">
+      
+      
+      <Base>伊尔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Yrsa">
+      
+      
+      <Base>伊尔萨</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Æilif">
+      
+      
+      <Base>埃利夫</Base>
+      
+    
+    </Female>
+    
+    
+    
+    <Male id="Afastr">
+      
+      
+      <Base>阿法斯特</Base>
+      
+      
+      <Patronymic>阿法斯特斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Agmundr">
+      
+      
+      <Base>阿格蒙德</Base>
+      
+      
+      <Patronymic>阿格蒙达尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Agnarr">
+      
+      
+      <Base>阿格纳尔</Base>
+      
+      
+      <Patronymic>阿格纳尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Agvaldr">
+      
+      
+      <Base>阿格瓦尔德</Base>
+      
+      
+      <Patronymic>阿格瓦尔德斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Alfbjørn">
+      
+      
+      <Base>阿尔夫比约恩</Base>
+      
+      
+      <Patronymic>阿尔夫比亚纳尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Alfrikr">
+      
+      
+      <Base>阿尔夫里克</Base>
+      
+      
+      <Patronymic>阿尔夫里克斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Almarr">
+      
+      
+      <Base>阿尔马尔</Base>
+      
+      
+      <Patronymic>阿尔马尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Almsteinn">
+      
+      
+      <Base>阿尔姆斯坦</Base>
+      
+      
+      <Patronymic>阿尔姆斯坦斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Angantyr">
+      
+      
+      <Base>安甘提尔</Base>
+      
+      
+      <Patronymic>安甘提尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Arinbjørn">
+      
+      
+      <Base>阿林比约恩</Base>
+      
+      
+      <Patronymic>阿林比亚纳尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Arnkell">
+      
+      
+      <Base>阿恩凯尔</Base>
+      
+      
+      <Patronymic>阿恩凯尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Arnsteinn">
+      
+      
+      <Base>阿恩斯坦</Base>
+      
+      
+      <Patronymic>阿恩斯坦斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Arnthorr">
+      
+      
+      <Base>阿恩托尔</Base>
+      
+      
+      <Patronymic>阿恩托尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Arnulfr">
+      
+      
+      <Base>阿努尔夫</Base>
+      
+      
+      <Patronymic>阿努尔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Asbjørn">
+      
+      
+      <Base>阿斯比约恩</Base>
+      
+      
+      <Patronymic>阿斯比亚纳尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Asgrimr">
+      
+      
+      <Base>阿斯格里姆</Base>
+      
+      
+      <Patronymic>阿斯格里姆斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Askr">
+      
+      
+      <Base>阿斯克尔</Base>
+      
+      
+      <Patronymic>阿斯克斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Adalherr">
+      
+      
+      <Base>阿达尔赫尔</Base>
+      
+      
+      <Patronymic>阿达尔赫尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Audrikr">
+      
+      
+      <Base>奥德里克</Base>
+      
+      
+      <Patronymic>奥德里克斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Balki">
+      
+      
+      <Base>巴尔基</Base>
+      
+      
+      <Patronymic>巴尔卡</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Balli">
+      
+      
+      <Base>巴利</Base>
+      
+      
+      <Patronymic>巴拉</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Barodr">
+      
+      
+      <Base>巴罗德</Base>
+      
+      
+      <Patronymic>巴罗达尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Baugr">
+      
+      
+      <Base>鲍格</Base>
+      
+      
+      <Patronymic>鲍格斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Beinir">
+      
+      
+      <Base>贝尼尔</Base>
+      
+      
+      <Patronymic>贝尼斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Bekkr">
+      
+      
+      <Base>贝克尔</Base>
+      
+      
+      <Patronymic>贝卡斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Bergfinnr">
+      
+      
+      <Base>贝格芬</Base>
+      
+      
+      <Patronymic>贝格芬斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Bifurr">
+      
+      
+      <Base>比弗尔</Base>
+      
+      
+      <Patronymic>比弗斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Bjalfi">
+      
+      
+      <Base>比亚尔菲</Base>
+      
+      
+      <Patronymic>比亚尔法</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Bjartr">
+      
+      
+      <Base>比亚尔特</Base>
+      
+      
+      <Patronymic>比亚尔茨</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Bjolfr">
+      
+      
+      <Base>比约尔夫</Base>
+      
+      
+      <Patronymic>比约尔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Bjørn">
+      
+      
+      <Base>比约恩</Base>
+      
+      
+      <Patronymic>比亚纳尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Bjørnulfr">
+      
+      
+      <Base>比约努尔夫</Base>
+      
+      
+      <Patronymic>比约努尔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Blainn">
+      
+      
+      <Base>布莱恩</Base>
+      
+      
+      <Patronymic>布莱恩斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Blakari">
+      
+      
+      <Base>布拉卡里</Base>
+      
+      
+      <Patronymic>布拉卡拉</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Borkr">
+      
+      
+      <Base>博克尔</Base>
+      
+      
+      <Patronymic>博克斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Brunn">
+      
+      
+      <Base>布伦</Base>
+      
+      
+      <Patronymic>布鲁纳尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Brynjolfr">
+      
+      
+      <Base>布林约尔夫</Base>
+      
+      
+      <Patronymic>布林约尔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Byggvir">
+      
+      
+      <Base>比格维尔</Base>
+      
+      
+      <Patronymic>比格维斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Dagfinnr">
+      
+      
+      <Base>达格芬</Base>
+      
+      
+      <Patronymic>达格芬斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Dalkr">
+      
+      
+      <Base>达尔克</Base>
+      
+      
+      <Patronymic>达尔克斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Danr">
+      
+      
+      <Base>丹尔</Base>
+      
+      
+      <Patronymic>达娜</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Durinn">
+      
+      
+      <Base>杜林</Base>
+      
+      
+      <Patronymic>杜林斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Dyrbjørn">
+      
+      
+      <Base>迪尔比约恩</Base>
+      
+      
+      <Patronymic>迪尔比亚纳尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ebbe">
+      
+      
+      <Base>埃贝</Base>
+      
+      
+      <Patronymic>埃贝斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Egill">
+      
+      
+      <Base>埃吉尔</Base>
+      
+      
+      
+      <Patronymic>埃吉尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Einarr">
+      
+      
+      <Base>埃纳尔</Base>
+      
+      
+      <Patronymic>埃纳尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Eirikr">
+      
+      
+      <Base>埃里克</Base>
+      
+      
+      <Patronymic>埃里克斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Eldi">
+      
+      
+      <Base>埃尔迪</Base>
+      
+      
+      <Patronymic>埃尔达</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Eldjarn">
+      
+      
+      <Base>埃尔德雅恩</Base>
+      
+      
+      <Patronymic>埃尔德雅恩斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Erlendr">
+      
+      
+      <Base>埃尔伦德</Base>
+      
+      
+      <Patronymic>埃尔伦达尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Eskill">
+      
+      
+      <Base>阿斯凯蒂尔</Base>
+      
+      
+      <Patronymic>阿斯凯蒂尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Eyvindr">
+      
+      
+      <Base>埃温德</Base>
+      
+      
+      <Patronymic>埃温达尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Falgeirr">
+      
+      
+      <Base>法尔盖尔</Base>
+      
+      
+      <Patronymic>法尔盖尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Falki">
+      
+      
+      <Base>法尔基</Base>
+      
+      
+      <Patronymic>法尔卡</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Farulfr">
+      
+      
+      <Base>法鲁尔夫</Base>
+      
+      
+      <Patronymic>法鲁尔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Fasti">
+      
+      
+      <Base>法斯蒂</Base>
+      
+      
+      <Patronymic>法斯塔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Finngeirr">
+      
+      
+      <Base>芬盖尔</Base>
+      
+      
+      <Patronymic>芬盖尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Fjolnir">
+      
+      
+      <Base>菲约尼尔</Base>
+      
+      
+      <Patronymic>菲约尼尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Floki">
+      
+      
+      <Base>弗洛基</Base>
+      
+      
+      <Patronymic>弗洛卡</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Fridikr">
+      
+      
+      <Base>弗里迪克</Base>
+      
+      
+      <Patronymic>弗里迪克斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Fridjofr">
+      
+      
+      <Base>弗里乔夫</Base>
+      
+      
+      <Patronymic>弗里乔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Fuldarr">
+      
+      
+      <Base>富尔达尔</Base>
+      
+      
+      <Patronymic>富尔达尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Galmi">
+      
+      
+      <Base>加尔米</Base>
+      
+      
+      <Patronymic>加尔马</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Gandalfr">
+      
+      
+      <Base>甘达尔夫</Base>
+      
+      
+      <Patronymic>甘达尔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Gangradr">
+      
+      
+      <Base>冈拉德尔</Base>
+      
+      
+      <Patronymic>冈拉达</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Gautr">
+      
+      
+      <Base>高特尔</Base>
+      
+      
+      <Patronymic>高塔尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Geirbjørn">
+      
+      
+      <Base>盖尔比约恩</Base>
+      
+      
+      <Patronymic>盖尔比亚纳尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Geirsteinn">
+      
+      
+      <Base>盖尔斯坦</Base>
+      
+      
+      <Patronymic>盖尔斯坦斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Gormr">
+      
+      
+      <Base>戈尔姆</Base>
+      
+      
+      <Patronymic>戈尔姆斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Grankell">
+      
+      
+      <Base>格兰凯尔</Base>
+      
+      
+      <Patronymic>格兰凯尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Grimarr">
+      
+      
+      <Base>格里马尔</Base>
+      
+      
+      <Patronymic>格里马尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Grimr">
+      
+      
+      <Base>格里姆</Base>
+      
+      
+      <Patronymic>格里姆斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Gunnleikr">
+      
+      
+      <Base>冈雷克</Base>
+      
+      
+      <Patronymic>冈雷克斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Gunnmarr">
+      
+      
+      <Base>冈马尔</Base>
+      
+      
+      <Patronymic>冈马尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Hafgrimr">
+      
+      
+      <Base>哈夫格里姆</Base>
+      
+      
+      <Patronymic>哈夫格里姆斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Hafsteinn">
+      
+      
+      <Base>哈夫斯坦</Base>
+      
+      
+      <Patronymic>哈夫斯坦斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Hakon">
+      
+      
+      <Base>哈康</Base>
+      
+      
+      <Patronymic>哈康斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Hallbjørn">
+      
+      
+      <Base>哈尔比约恩</Base>
+      
+      
+      <Patronymic>哈尔比亚纳尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Hallvardr">
+      
+      
+      <Base>哈尔瓦德</Base>
+      
+      
+      <Patronymic>哈尔瓦达尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Haraldr">
+      
+      
+      <Base>哈拉尔德</Base>
+      
+      
+      <Patronymic>哈拉尔茨</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Harekr">
+      
+      
+      <Base>哈雷克尔</Base>
+      
+      
+      <Patronymic>哈雷克斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Helgi">
+      
+      
+      <Base>赫尔吉</Base>
+      
+      
+      <Patronymic>海尔加</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Hjalli">
+      
+      
+      <Base>赫亚利</Base>
+      
+      
+      <Patronymic>赫亚拉</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Hjorleifr">
+      
+      
+      <Base>赫约雷夫</Base>
+      
+      
+      <Patronymic>赫约雷夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Holmbjørn">
+      
+      
+      <Base>霍尔姆比约恩</Base>
+      
+      
+      <Patronymic>霍尔姆比亚纳尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Hrafnkell">
+      
+      
+      <Base>赫拉芬凯尔</Base>
+      
+      
+      <Patronymic>赫拉芬凯尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Hroaldr">
+      
+      
+      <Base>赫罗尔德</Base>
+      
+      
+      <Patronymic>赫罗尔茨</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Hrolfr">
+      
+      
+      <Base>赫罗尔夫</Base>
+      
+      
+      <Patronymic>赫罗尔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Iarni">
+      
+      
+      <Base>伊亚尔尼</Base>
+      
+      
+      <Patronymic>伊亚尔纳</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Illfuss">
+      
+      
+      <Base>伊尔福斯</Base>
+      
+      
+      <Patronymic>伊尔福斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ingimarr">
+      
+      
+      <Base>英吉马尔</Base>
+      
+      
+      <Patronymic>英吉马尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ingimund">
+      
+      
+      <Base>英吉蒙德</Base>
+      
+      
+      <Patronymic>英吉蒙达尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ingulfr">
+      
+      
+      <Base>英古尔夫</Base>
+      
+      
+      <Patronymic>英古尔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ivarr">
+      
+      
+      <Base>伊瓦尔</Base>
+      
+      
+      <Patronymic>伊瓦尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Jafnharr">
+      
+      
+      <Base>雅芬哈尔</Base>
+      
+      
+      <Patronymic>雅芬哈尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Joarr">
+      
+      
+      <Base>约阿尔</Base>
+      
+      
+      <Patronymic>约阿尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Jofurr">
+      
+      
+      <Base>约弗尔</Base>
+      
+      
+      <Patronymic>约弗尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Jokell">
+      
+      
+      <Base>约克尔</Base>
+      
+      
+      <Patronymic>约克尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Jorekr">
+      
+      
+      <Base>约雷克</Base>
+      
+      
+      <Patronymic>约雷克斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Jorundr">
+      
+      
+      <Base>约伦德</Base>
+      
+      
+      <Patronymic>约伦达尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Jodgeirr">
+      
+      
+      <Base>约德盖尔</Base>
+      
+      
+      <Patronymic>约德盖尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Kabeinn">
+      
+      
+      <Base>卡贝恩</Base>
+      
+      
+      <Patronymic>卡贝恩斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Kalfr">
+      
+      
+      <Base>卡尔夫</Base>
+      
+      
+      <Patronymic>卡尔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Karr">
+      
+      
+      <Base>卡尔</Base>
+      
+      
+      <Patronymic>卡尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ketilbjørn">
+      
+      
+      <Base>凯蒂尔比约恩</Base>
+      
+      
+      <Patronymic>凯蒂尔比亚纳尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Klakkr">
+      
+      
+      <Base>克拉克尔</Base>
+      
+      
+      <Patronymic>克拉克尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Klintr">
+      
+      
+      <Base>克林特</Base>
+      
+      
+      <Patronymic>克林茨</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Kolbeinn">
+      
+      
+      <Base>科尔贝恩</Base>
+      
+      
+      <Patronymic>科尔贝恩斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Knutr">
+      
+      
+      <Base>克努特</Base>
+      
+      
+      <Patronymic>克努茨</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Leifr">
+      
+      
+      <Base>莱夫</Base>
+      
+      
+      
+      <Patronymic>莱夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Leidulfr">
+      
+      
+      <Base>莱杜尔夫</Base>
+      
+      
+      <Patronymic>莱杜尔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Lidsvaldr">
+      
+      
+      <Base>利兹瓦尔德</Base>
+      
+      
+      <Patronymic>利兹瓦尔兹</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Lyngvi">
+      
+      
+      <Base>林格维</Base>
+      
+      
+      <Patronymic>林格瓦</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Mani">
+      
+      
+      <Base>马尼</Base>
+      
+      
+      <Patronymic>马纳</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Mjodvitnir">
+      
+      
+      <Base>米约德维特尼尔</Base>
+      
+      
+      <Patronymic>米约德维特尼斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Mogils">
+      
+      
+      <Base>莫吉尔斯</Base>
+      
+      
+      <Patronymic>莫吉尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Modolfr">
+      
+      
+      <Base>莫多尔夫</Base>
+      
+      
+      <Patronymic>莫多尔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Mæginbjørn">
+      
+      
+      <Base>梅金比约恩</Base>
+      
+      
+      <Patronymic>梅金比亚纳尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Naddodr">
+      
+      
+      <Base>纳多德尔</Base>
+      
+      
+      <Patronymic>纳多德斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Nefsteinn">
+      
+      
+      <Base>内夫斯坦</Base>
+      
+      
+      <Patronymic>内夫斯坦斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Nereidr">
+      
+      
+      <Base>内雷德</Base>
+      
+      
+      <Patronymic>内雷德斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Njall">
+      
+      
+      <Base>尼亚尔</Base>
+      
+      
+      <Patronymic>尼亚尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Norr">
+      
+      
+      <Base>诺尔</Base>
+      
+      
+      <Patronymic>诺尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Næsbjørn">
+      
+      
+      <Base>奈斯比约恩</Base>
+      
+      
+      <Patronymic>奈斯比亚纳尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Olafr">
+      
+      
+      <Base>奥拉夫</Base>
+      
+      
+      <Patronymic>奥拉夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ofridr">
+      
+      
+      <Base>奥弗里德</Base>
+      
+      
+      <Patronymic>奥弗里德斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ormkell">
+      
+      
+      <Base>奥姆凯尔</Base>
+      
+      
+      <Patronymic>奥姆凯尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Palnatoki">
+      
+      
+      <Base>帕尔纳托基</Base>
+      
+      
+      <Patronymic>帕尔纳</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ragnarr">
+      
+      
+      <Base>拉格纳</Base>
+      
+      
+      <Patronymic>拉格纳尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ragnvidr">
+      
+      
+      <Base>拉格维德</Base>
+      
+      
+      <Patronymic>拉格维达尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Randr">
+      
+      
+      <Base>兰德</Base>
+      
+      
+      <Patronymic>兰德斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Refr">
+      
+      
+      <Base>雷弗</Base>
+      
+      
+      <Patronymic>雷夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Runulfr">
+      
+      
+      <Base>鲁努尔夫</Base>
+      
+      
+      <Patronymic>鲁努尔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Sigdan">
+      
+      
+      <Base>西格丹</Base>
+      
+      
+      <Patronymic>西格丹纳尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Sigmarr">
+      
+      
+      <Base>西格马尔</Base>
+      
+      
+      <Patronymic>西格马尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Sigtryggr">
+      
+      
+      <Base>西格特里格</Base>
+      
+      
+      <Patronymic>西格特里格斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Sigthorn">
+      
+      
+      <Base>西格托恩</Base>
+      
+      
+      <Patronymic>西格托恩</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Sigurdr">
+      
+      
+      <Base>西格德</Base>
+      
+      
+      <Patronymic>西格达尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Skarphedinn">
+      
+      
+      <Base>斯卡夫赫丁</Base>
+      
+      
+      <Patronymic>斯卡夫赫丁斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Skjaldbjørn">
+      
+      
+      <Base>斯卡尔德比约恩</Base>
+      
+      
+      <Patronymic>斯卡尔德比亚纳尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Steinn">
+      
+      
+      <Base>斯坦</Base>
+      
+      
+      <Patronymic>斯坦斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Sveinn">
+      
+      
+      <Base>斯韦恩</Base>
+      
+      
+      <Patronymic>斯韦恩斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Thorgeirr">
+      
+      
+      <Base>托尔盖尔</Base>
+      
+      
+      <Patronymic>托尔盖尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Thorkell">
+      
+      
+      <Base>索尔凯尔</Base>
+      
+      
+      <Patronymic>托尔凯尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Thorsteinn">
+      
+      
+      <Base>托尔斯坦</Base>
+      
+      
+      <Patronymic>托尔斯坦斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Thorulfr">
+      
+      
+      <Base>托鲁尔夫</Base>
+      
+      
+      <Patronymic>托鲁尔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Trostann">
+      
+      
+      <Base>特罗斯坦</Base>
+      
+      
+      <Patronymic>特罗斯坦斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Tryggr">
+      
+      
+      <Base>特里格</Base>
+      
+      
+      <Patronymic>特里格斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ubeinn">
+      
+      
+      <Base>乌贝恩</Base>
+      
+      
+      <Patronymic>乌贝恩斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ulfgeirr">
+      
+      
+      <Base>乌尔夫盖尔</Base>
+      
+      
+      <Patronymic>乌尔夫盖尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ulfr">
+      
+      
+      <Base>乌尔夫</Base>
+      
+      
+      <Patronymic>乌尔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ulfrikr">
+      
+      
+      <Base>乌尔夫里克</Base>
+      
+      
+      <Patronymic>乌尔夫里克斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Valdarr">
+      
+      
+      <Base>瓦尔达尔</Base>
+      
+      
+      <Patronymic>瓦尔达尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Vetr">
+      
+      
+      <Base>维特</Base>
+      
+      
+      <Patronymic>维茨</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Vikarr">
+      
+      
+      <Base>维卡</Base>
+      
+      
+      <Patronymic>维卡尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Vimundr">
+      
+      
+      <Base>维蒙德</Base>
+      
+      
+      <Patronymic>维蒙达尔</Patronymic>
+      
+    
+    </Male>
+    
+  
+  </Viking>
+  
+  
+  <Briton>
+    
+    
+    
+    <Female id="Acha">
+      
+      
+      <Base>阿卡</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Affa">
+      
+      
+      <Base>阿法</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Adelida">
+      
+      
+      <Base>阿德莉达</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Adola">
+      
+      
+      <Base>阿多拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Agatha">
+      
+      
+      <Base>阿加莎</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Albereda">
+      
+      
+      <Base>阿尔贝雷达</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Aldgyth">
+      
+      
+      <Base>阿尔德吉斯</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Alice">
+      
+      
+      <Base>爱丽丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Aloburg">
+      
+      
+      <Base>阿洛堡</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Alta">
+      
+      
+      <Base>阿尔塔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Alvina">
+      
+      
+      <Base>阿尔维娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Amber">
+      
+      
+      <Base>安柏</Base>
+      
+      
+    
+    </Female>
+    
+    
+    <Female id="Ansith">
+      
+      
+      <Base>安西丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Balthild">
+      
+      
+      <Base>巴尔希尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Bave">
+      
+      
+      <Base>巴维</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Beage">
+      
+      
+      <Base>贝吉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Beatrice">
+      
+      
+      <Base>碧翠丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Bebbe">
+      
+      
+      <Base>贝比</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Beonne">
+      
+      
+      <Base>贝奥妮</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Beorhtgifu">
+      
+      
+      <Base>贝奥赫特吉芙</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Beorhtwynn">
+      
+      
+      <Base>贝奥赫特薇恩</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Beorngyth">
+      
+      
+      <Base>贝奥恩吉斯</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Bertana">
+      
+      
+      <Base>伯塔娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Bertha">
+      
+      
+      <Base>伯莎</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Berthgyth">
+      
+      
+      <Base>伯丝吉斯</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Bote">
+      
+      
+      <Base>博特</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Bregosmith">
+      
+      
+      <Base>布雷戈史密斯</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Brihtgifu">
+      
+      
+      <Base>布里赫特吉芙</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Bucga">
+      
+      
+      <Base>布克加</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Burga">
+      
+      
+      <Base>伯格</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Burghild">
+      
+      
+      <Base>伯格希尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Burginda">
+      
+      
+      <Base>伯金达</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Bægia">
+      
+      
+      <Base>贝吉亚</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Bægswyth">
+      
+      
+      <Base>贝格斯薇</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Cena">
+      
+      
+      <Base>塞娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Censwith">
+      
+      
+      <Base>森斯薇</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Cenwynn">
+      
+      
+      <Base>肯薇恩</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ceolflæd">
+      
+      
+      <Base>凯奥尔弗莱德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ceolthryth">
+      
+      
+      <Base>凯奥尔丝丽斯</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Christina">
+      
+      
+      <Base>克里斯蒂娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Crawe">
+      
+      
+      <Base>克劳</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Culfre">
+      
+      
+      <Base>卡尔弗雷</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Cuniburg">
+      
+      
+      <Base>库尼堡</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Cwenburg">
+      
+      
+      <Base>奎恩堡</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Cwenthryth">
+      
+      
+      <Base>奎恩丝丽斯</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Cynegyth">
+      
+      
+      <Base>基内吉斯</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Cynehild">
+      
+      
+      <Base>基内希尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Cyneleofu">
+      
+      
+      <Base>基内利奥芙</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Cyneswith">
+      
+      
+      <Base>基内斯薇</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Cynewise">
+      
+      
+      <Base>基内薇丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Deorswith">
+      
+      
+      <Base>迪奥尔斯薇</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Duhchae">
+      
+      
+      <Base>杜赫蔡</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Dunne">
+      
+      
+      <Base>邓妮</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eadburg">
+      
+      
+      <Base>埃德堡</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eadgifu">
+      
+      
+      <Base>埃德吉芙</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eadhild">
+      
+      
+      <Base>埃德希尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eadwulfu">
+      
+      
+      <Base>埃德乌尔芙</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eafe">
+      
+      
+      <Base>埃菲</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ealdgyth">
+      
+      
+      <Base>埃尔德吉斯</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ealhflæd">
+      
+      
+      <Base>埃尔赫弗莱德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ealhswaru">
+      
+      
+      <Base>埃尔赫斯瓦鲁</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eanflæd">
+      
+      
+      <Base>埃恩弗莱德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eawen">
+      
+      
+      <Base>埃温</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ecgfritha">
+      
+      
+      <Base>埃克弗里莎</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Echitrad">
+      
+      
+      <Base>埃希特雷德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eda">
+      
+      
+      <Base>埃达</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Edlu">
+      
+      
+      <Base>埃德鲁</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Emma">
+      
+      
+      <Base>埃玛</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eiluned">
+      
+      
+      <Base>艾露内德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Elaine">
+      
+      
+      <Base>伊莱恩</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eoforhild">
+      
+      
+      <Base>埃奥弗希尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eoleoba">
+      
+      
+      <Base>埃奥莱奥巴</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eorcengota">
+      
+      
+      <Base>埃奥尔森戈塔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eormenhuld">
+      
+      
+      <Base>埃奥尔门胡尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eres">
+      
+      
+      <Base>埃雷斯</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Esyllt">
+      
+      
+      <Base>埃西尔特</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Etan">
+      
+      
+      <Base>埃坦</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eulalia">
+      
+      
+      <Base>尤拉莉亚</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Everilda">
+      
+      
+      <Base>埃维丽达</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Folcburg">
+      
+      
+      <Base>福尔克堡</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Frigyth">
+      
+      
+      <Base>芙丽吉斯</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Frithuswith">
+      
+      
+      <Base>芙里杜斯薇</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Gerburg">
+      
+      
+      <Base>格堡</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Godgifu">
+      
+      
+      <Base>戈德吉芙</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Godwif">
+      
+      
+      <Base>戈德薇芙</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Guntharu">
+      
+      
+      <Base>贡塔鲁</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Gwenhwyfar">
+      
+      
+      <Base>格温希法</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Gwenfrewi">
+      
+      
+      <Base>格温弗瑞薇</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Gwladys">
+      
+      
+      <Base>格拉迪丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Gytha">
+      
+      
+      <Base>吉莎</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Heiu">
+      
+      
+      <Base>海乌</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Herelufu">
+      
+      
+      <Base>赫雷鲁芙</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hereswith">
+      
+      
+      <Base>赫雷斯薇</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hild">
+      
+      
+      <Base>希尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hildelith">
+      
+      
+      <Base>希尔德莉丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hundruda">
+      
+      
+      <Base>亨德鲁达</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hungifu">
+      
+      
+      <Base>洪吉芙</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Hygeburg">
+      
+      
+      <Base>希格堡</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Irmigi">
+      
+      
+      <Base>伊尔米吉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Justina">
+      
+      
+      <Base>贾斯汀娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Leoba">
+      
+      
+      <Base>莱奥巴</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Leofcwen">
+      
+      
+      <Base>莱奥弗昆</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Leofflæd">
+      
+      
+      <Base>莱奥弗莱德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Leofrun">
+      
+      
+      <Base>莱奥弗伦</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Leubswith">
+      
+      
+      <Base>莱乌布斯薇</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Lewknor">
+      
+      
+      <Base>卢克诺</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Lufu">
+      
+      
+      <Base>露芙</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Luha">
+      
+      
+      <Base>卢哈</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Mawa">
+      
+      
+      <Base>玛娃</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Mildburg">
+      
+      
+      <Base>米尔德堡</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Mildrith">
+      
+      
+      <Base>米尔德丽丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Mærwynn">
+      
+      
+      <Base>梅尔薇恩</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Nana">
+      
+      
+      <Base>娜娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Nerienda">
+      
+      
+      <Base>内里恩达</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Noththry">
+      
+      
+      <Base>诺丝丽</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Osana">
+      
+      
+      <Base>奥萨娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Osgifu">
+      
+      
+      <Base>奥斯吉芙</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Oslafe">
+      
+      
+      <Base>奥斯拉菲</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Oswynn">
+      
+      
+      <Base>奥斯薇恩</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Pega">
+      
+      
+      <Base>佩加</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Quen">
+      
+      
+      <Base>奎恩</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Sewara">
+      
+      
+      <Base>塞瓦拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Sewenna">
+      
+      
+      <Base>塞文娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Sigeburg">
+      
+      
+      <Base>西格堡</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Sigen">
+      
+      
+      <Base>西根</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Suitha">
+      
+      
+      <Base>苏伊莎</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Sunngifu">
+      
+      
+      <Base>桑吉芙</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Swete">
+      
+      
+      <Base>斯薇特</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Tara">
+      
+      
+      <Base>塔拉</Base>
+      
+      
+    
+    </Female>
+    
+    
+    <Female id="Tathere">
+      
+      
+      <Base>塔瑟尔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Tecla">
+      
+      
+      <Base>特克拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Tette">
+      
+      
+      <Base>泰特</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Thecla">
+      
+      
+      <Base>塞克拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Tibba">
+      
+      
+      <Base>提芭</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Tola">
+      
+      
+      <Base>托拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Verca">
+      
+      
+      <Base>薇尔卡</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Wale">
+      
+      
+      <Base>维尔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Walenburg">
+      
+      
+      <Base>瓦伦堡</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Welwynn">
+      
+      
+      <Base>韦尔薇恩</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Wiala">
+      
+      
+      <Base>维娅拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Wigswith">
+      
+      
+      <Base>薇格斯薇</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Williswind">
+      
+      
+      <Base>薇莉斯温德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Willnoth">
+      
+      
+      <Base>薇尔诺丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Wiswith">
+      
+      
+      <Base>薇丝薇</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Wulfhild">
+      
+      
+      <Base>乌尔芙希尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Wulfrun">
+      
+      
+      <Base>乌尔芙伦</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Wulfthryth">
+      
+      
+      <Base>乌尔芙丝丽斯</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Wynnflæd">
+      
+      
+      <Base>薇恩弗莱德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Wynngifu">
+      
+      
+      <Base>薇恩吉芙</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ymme">
+      
+      
+      <Base>伊梅</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Æalde">
+      
+      
+      <Base>埃尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Æbbe">
+      
+      
+      <Base>埃比</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Æthelind">
+      
+      
+      <Base>埃瑟琳德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ælfflæd">
+      
+      
+      <Base>埃尔弗莱德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ælfgifu">
+      
+      
+      <Base>埃尔夫吉芙</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ælfgyth">
+      
+      
+      <Base>埃尔夫吉斯</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ælfhild">
+      
+      
+      <Base>埃尔夫希尔德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ælfleof">
+      
+      
+      <Base>埃尔夫利奥芙</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ælfrun">
+      
+      
+      <Base>埃尔夫伦</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ælfswith">
+      
+      
+      <Base>埃尔夫斯薇</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ælfthryth">
+      
+      
+      <Base>埃尔夫丝丽斯</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ælfwenna">
+      
+      
+      <Base>埃尔夫薇娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ælfwynn">
+      
+      
+      <Base>埃尔夫薇恩</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Æthelburg">
+      
+      
+      <Base>埃瑟尔堡</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Æthelgifu">
+      
+      
+      <Base>埃瑟尔吉芙</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Æthelthida">
+      
+      
+      <Base>埃瑟尔西达</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Æthelwynn">
+      
+      
+      <Base>埃瑟尔薇恩</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ætte">
+      
+      
+      <Base>埃特</Base>
+      
+    
+    </Female>
+    
+    
+    
+    <Male id="Acca">
+      
+      
+      <Base>阿卡</Base>
+      
+      
+      <Patronymic>阿卡</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Alcmund">
+      
+      
+      <Base>阿尔克蒙德</Base>
+      
+      
+      
+      <Patronymic>阿尔克蒙德</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Aldwine">
+      
+      
+      <Base>奥尔德温</Base>
+      
+      
+      
+      <Patronymic>奥尔德温</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Algar">
+      
+      
+      <Base>阿尔加</Base>
+      
+      
+      <Patronymic>阿尔加</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Anlaf">
+      
+      
+      <Base>安拉夫</Base>
+      
+      
+      <Patronymic>安拉夫</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Baldhelm">
+      
+      
+      <Base>巴尔德赫姆</Base>
+      
+      
+      <Patronymic>巴尔德赫姆</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Baldred">
+      
+      
+      <Base>巴尔德雷德</Base>
+      
+      
+      <Patronymic>巴尔德雷德</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Beonna">
+      
+      
+      <Base>贝昂纳</Base>
+      
+      
+      <Patronymic>贝昂纳</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Beorhtfrith">
+      
+      
+      <Base>贝奥赫特弗里斯</Base>
+      
+      
+      <Patronymic>贝奥赫特弗里斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Beorhtwald">
+      
+      
+      <Base>贝奥赫特瓦尔德</Base>
+      
+      
+      <Patronymic>贝奥赫特瓦尔德</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Bothelm">
+      
+      
+      <Base>博瑟姆</Base>
+      
+      
+      <Patronymic>博瑟姆</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Billfrith">
+      
+      
+      <Base>比尔弗里斯</Base>
+      
+      
+      <Patronymic>比尔弗里斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Caedmon">
+      
+      
+      <Base>凯德蒙</Base>
+      
+      
+      <Patronymic>凯德蒙</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Cater">
+      
+      
+      <Base>卡特</Base>
+      
+      
+      
+      <Patronymic>卡特</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Cenred">
+      
+      
+      <Base>肯雷德</Base>
+      
+      
+      <Patronymic>肯雷德</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ceolbeald">
+      
+      
+      <Base>凯奥尔贝尔德</Base>
+      
+      
+      <Patronymic>凯奥尔贝尔德</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ceolfrith">
+      
+      
+      <Base>凯奥尔弗里斯</Base>
+      
+      
+      <Patronymic>凯奥尔弗里斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Colman">
+      
+      
+      <Base>科尔曼</Base>
+      
+      
+      <Patronymic>科尔曼</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Cuthbert">
+      
+      
+      <Base>卡斯伯特</Base>
+      
+      
+      <Patronymic>卡斯伯特</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Cuthrad">
+      
+      
+      <Base>库斯拉德</Base>
+      
+      
+      
+      <Patronymic>库斯拉德</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Cyneberht">
+      
+      
+      <Base>基内伯茨</Base>
+      
+      
+      <Patronymic>基内伯茨</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Cynferd">
+      
+      
+      <Base>辛弗德</Base>
+      
+      
+      
+      <Patronymic>辛弗德</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Cynemund">
+      
+      
+      <Base>基内蒙德</Base>
+      
+      
+      <Patronymic>基内蒙德</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Dylan">
+      
+      
+      <Base>迪伦</Base>
+      
+      
+      <Patronymic>迪伦斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Dægbeorht">
+      
+      
+      <Base>戴格贝奥赫茨</Base>
+      
+      
+      <Patronymic>戴格贝奥赫茨</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Eadgar">
+      
+      
+      <Base>埃德加</Base>
+      
+      
+      
+      <Patronymic>埃德加斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Eadweard">
+      
+      
+      <Base>埃德华</Base>
+      
+      
+      <Patronymic>埃德华</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Eadwine">
+      
+      
+      <Base>埃德温</Base>
+      
+      
+      <Patronymic>埃德温斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Eadwulf">
+      
+      
+      <Base>埃德乌尔夫</Base>
+      
+      
+      <Patronymic>埃德乌尔夫</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ealhmund">
+      
+      
+      <Base>埃尔赫蒙德</Base>
+      
+      
+      
+      <Patronymic>埃尔赫蒙德</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Eanred">
+      
+      
+      <Base>埃恩雷德</Base>
+      
+      
+      <Patronymic>埃恩雷德</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Eata">
+      
+      
+      <Base>伊塔</Base>
+      
+      
+      <Patronymic>伊塔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ecgbert">
+      
+      
+      <Base>埃克伯特</Base>
+      
+      
+      <Patronymic>埃克伯特</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Edgar">
+      
+      
+      <Base>埃德加</Base>
+      
+      
+      <Patronymic>埃德加斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Eoforwulf">
+      
+      
+      <Base>埃奥弗乌尔夫</Base>
+      
+      
+      <Patronymic>埃奥弗乌尔夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Eorcenwald">
+      
+      
+      <Base>埃奥尔肯瓦尔德</Base>
+      
+      
+      <Patronymic>埃奥尔肯瓦尔德斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Felgild">
+      
+      
+      <Base>费尔吉尔德</Base>
+      
+      
+      <Patronymic>费尔吉尔德</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Finan">
+      
+      
+      <Base>芬安</Base>
+      
+      
+      
+      <Patronymic>芬安斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Forthred">
+      
+      
+      <Base>福斯雷德</Base>
+      
+      
+      <Patronymic>福斯雷德</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Gadutels">
+      
+      
+      <Base>加杜特尔斯</Base>
+      
+      
+      <Patronymic>加杜特尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Guthfrith">
+      
+      
+      <Base>古斯弗里斯</Base>
+      
+      
+      <Patronymic>古斯弗里斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Gwenhael">
+      
+      
+      <Base>格温海尔</Base>
+      
+      
+      <Patronymic>格温海尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Heardred">
+      
+      
+      <Base>赫德雷德</Base>
+      
+      
+      <Patronymic>赫德雷德</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Herebald">
+      
+      
+      <Base>赫雷博尔德</Base>
+      
+      
+      <Patronymic>赫雷博尔德</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Hexham">
+      
+      
+      <Base>赫克翰</Base>
+      
+      
+      <Patronymic>赫克翰斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Hildmer">
+      
+      
+      <Base>希尔德默</Base>
+      
+      
+      
+      <Patronymic>希尔德默</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Hunlaf">
+      
+      
+      <Base>洪拉夫</Base>
+      
+      
+      <Patronymic>洪拉夫斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Hwætnoth">
+      
+      
+      <Base>瓦特诺丝</Base>
+      
+      
+      <Patronymic>瓦特诺丝</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Hygebald">
+      
+      
+      <Base>希格博尔德</Base>
+      
+      
+      <Patronymic>希格博尔德</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Idris">
+      
+      
+      <Base>伊德里斯</Base>
+      
+      
+      <Patronymic>伊德里塞斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Leofæg">
+      
+      
+      <Base>利奥费格</Base>
+      
+      
+      <Patronymic>利奥费格斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Maban">
+      
+      
+      <Base>马班</Base>
+      
+      
+      <Patronymic>马班</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Monne">
+      
+      
+      <Base>蒙</Base>
+      
+      
+      <Patronymic>蒙斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Merwyn">
+      
+      
+      <Base>默温</Base>
+      
+      
+      <Patronymic>默温斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Osbald">
+      
+      
+      <Base>奥斯博德</Base>
+      
+      
+      <Patronymic>奥斯博德斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Osberht">
+      
+      
+      <Base>奥斯伯特</Base>
+      
+      
+      <Patronymic>奥斯伯特</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Osgyth">
+      
+      
+      <Base>奥斯吉斯</Base>
+      
+      
+      <Patronymic>奥斯吉斯斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Osgar">
+      
+      
+      <Base>奥斯加</Base>
+      
+      
+      
+      <Patronymic>奥斯加斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Penda">
+      
+      
+      <Base>彭达</Base>
+      
+      
+      <Patronymic>彭达斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ridda">
+      
+      
+      <Base>里达</Base>
+      
+      
+      <Patronymic>里达斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Sicga">
+      
+      
+      <Base>西克加</Base>
+      
+      
+      <Patronymic>西克加斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Theodore">
+      
+      
+      <Base>西奥多</Base>
+      
+      
+      <Patronymic>西奥多</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Tidfrith">
+      
+      
+      <Base>蒂德弗里斯</Base>
+      
+      
+      <Patronymic>蒂德弗里斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Tilred">
+      
+      
+      <Base>蒂尔雷德</Base>
+      
+      
+      <Patronymic>蒂尔雷德斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Tondwine">
+      
+      
+      <Base>通德温</Base>
+      
+      
+      
+      <Patronymic>通德温</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Trumberht">
+      
+      
+      <Base>特朗伯茨</Base>
+      
+      
+      <Patronymic>特朗伯茨</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Tydi">
+      
+      
+      <Base>泰迪</Base>
+      
+      
+      <Patronymic>泰迪</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ubba">
+      
+      
+      <Base>乌巴</Base>
+      
+      
+      <Patronymic>乌巴</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Uchtred">
+      
+      
+      <Base>乌赫特雷德</Base>
+      
+      
+      <Patronymic>乌赫特雷德斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Waltheof">
+      
+      
+      <Base>瓦尔特奥夫</Base>
+      
+      
+      
+      <Patronymic>瓦尔特奥夫</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Wealhstod">
+      
+      
+      <Base>维尔斯托德</Base>
+      
+      
+      <Patronymic>维尔斯托德斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Wendelberht">
+      
+      
+      <Base>温德尔伯茨</Base>
+      
+      
+      <Patronymic>温德尔伯茨</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Wigberht">
+      
+      
+      <Base>威格伯茨</Base>
+      
+      
+      <Patronymic>威格伯茨</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Wigmund">
+      
+      
+      <Base>威格蒙德</Base>
+      
+      
+      <Patronymic>威格蒙德斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Wihtred">
+      
+      
+      <Base>维特雷德</Base>
+      
+      
+      <Patronymic>维特雷德斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Wilfrid">
+      
+      
+      <Base>威尔弗里德</Base>
+      
+      
+      <Patronymic>威尔弗里兹</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Willibrord">
+      
+      
+      <Base>威利布罗德</Base>
+      
+      
+      
+      <Patronymic>威利布罗德兹</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Wulfhere">
+      
+      
+      <Base>乌尔夫赫尔</Base>
+      
+      
+      <Patronymic>乌尔夫赫尔斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Wulfed">
+      
+      
+      <Base>乌尔菲德</Base>
+      
+      
+      <Patronymic>乌尔菲德斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Wulfsige">
+      
+      
+      <Base>伍尔夫西格</Base>
+      
+      
+      <Patronymic>伍尔夫西格</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ælfræd">
+      
+      
+      <Base>埃尔弗雷德</Base>
+      
+      
+      <Patronymic>埃尔弗雷德斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ælfwald">
+      
+      
+      <Base>埃尔夫瓦尔德</Base>
+      
+      
+      <Patronymic>埃尔夫瓦尔德</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Æthelbert">
+      
+      
+      <Base>埃塞尔伯特</Base>
+      
+      
+      <Patronymic>埃塞尔伯特</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Æthelfled">
+      
+      
+      <Base>埃塞尔弗莱德</Base>
+      
+      
+      <Patronymic>埃塞尔弗莱德</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Æthelstan">
+      
+      
+      <Base>埃塞尔斯坦</Base>
+      
+      
+      <Patronymic>埃塞尔斯坦</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Æthelword">
+      
+      
+      <Base>埃塞尔沃德</Base>
+      
+      
+      <Patronymic>埃塞尔沃德</Patronymic>
+      
+    
+    </Male>
+    
+  
+  </Briton>
+  
+  
+  <Pict>
+    
+    
+    
+    <Female id="Aedammair">
+      
+      
+      <Base>艾达梅尔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Aiblinn">
+      
+      
+      <Base>艾布琳</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Aisling">
+      
+      
+      <Base>艾斯琳</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Alkelda">
+      
+      
+      <Base>阿尔凯尔达</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Almeda">
+      
+      
+      <Base>阿尔梅达</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Anlaith">
+      
+      
+      <Base>安莱丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Aodamair">
+      
+      
+      <Base>奥达梅尔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Aodnait">
+      
+      
+      <Base>奥德奈特</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Bega">
+      
+      
+      <Base>贝加</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Beolloc">
+      
+      
+      <Base>贝奥洛克</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Bethoc">
+      
+      
+      <Base>贝索克</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Brigid">
+      
+      
+      <Base>布里吉德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Caintigern">
+      
+      
+      <Base>凯恩蒂根</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Caitlin">
+      
+      
+      <Base>凯特琳</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Catan">
+      
+      
+      <Base>卡坦</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ciar">
+      
+      
+      <Base>基尔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Conchenn">
+      
+      
+      <Base>康亨</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Derbail">
+      
+      
+      <Base>德巴尔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Dianaim">
+      
+      
+      <Base>迪亚奈姆</Base>
+      
+      
+    
+    </Female>
+    
+    
+    <Female id="Donada">
+      
+      
+      <Base>多娜达</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Dub Lemna">
+      
+      
+      <Base>杜布·莱姆娜</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Dunlaith">
+      
+      
+      <Base>邓莱丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eirinn">
+      
+      
+      <Base>艾琳</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Eithne">
+      
+      
+      <Base>艾丝妮</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Enid">
+      
+      
+      <Base>伊妮德</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ellbrig">
+      
+      
+      <Base>埃尔布里格</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Euginia">
+      
+      
+      <Base>尤吉妮亚</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Fedelm">
+      
+      
+      <Base>费德尔姆</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Finbil">
+      
+      
+      <Base>芬比尔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Fine">
+      
+      
+      <Base>芬妮</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Flann">
+      
+      
+      <Base>弗兰</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Genovefa">
+      
+      
+      <Base>杰诺维法</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Gobnait">
+      
+      
+      <Base>戈布奈特</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Gormlaith">
+      
+      
+      <Base>戈姆莱斯</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Gruoch">
+      
+      
+      <Base>格鲁奥克</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Isla">
+      
+      
+      <Base>艾拉</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Lann">
+      
+      
+      <Base>兰恩</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Lathir">
+      
+      
+      <Base>拉希尔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Lerben">
+      
+      
+      <Base>勒本</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Ligach">
+      
+      
+      <Base>利加赫</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Martha">
+      
+      
+      <Base>玛莎</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Mael Curcaig">
+      
+      
+      <Base>梅尔·库凯格</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Mael Etich">
+      
+      
+      <Base>梅尔·埃蒂赫</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Mael Fabaill">
+      
+      
+      <Base>梅尔·法巴尔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Mael Muire">
+      
+      
+      <Base>梅尔·穆雷</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Medb">
+      
+      
+      <Base>梅布</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Mor">
+      
+      
+      <Base>莫尔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Muadnait">
+      
+      
+      <Base>穆阿德奈特</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Muirenn">
+      
+      
+      <Base>穆伦</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Muirgel">
+      
+      
+      <Base>穆尔格尔</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Muirne">
+      
+      
+      <Base>穆尔妮</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Niam">
+      
+      
+      <Base>尼雅姆</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Orlaith">
+      
+      
+      <Base>奥莱丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Orflaith">
+      
+      
+      <Base>奥弗莱丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Rafertach">
+      
+      
+      <Base>拉费塔赫</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Saerlaith">
+      
+      
+      <Base>塞尔莱丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Sebdann">
+      
+      
+      <Base>塞布丹</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Selblaith">
+      
+      
+      <Base>塞尔布莱丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Setach">
+      
+      
+      <Base>塞塔赫</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Sithmaith">
+      
+      
+      <Base>西丝迈丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Taileflaith">
+      
+      
+      <Base>泰尔弗莱丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Tuathflaith">
+      
+      
+      <Base>图阿弗莱丝</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Uallach">
+      
+      
+      <Base>瓦拉赫</Base>
+      
+    
+    </Female>
+    
+    
+    <Female id="Una">
+      
+      
+      <Base>乌娜</Base>
+      
+    
+    </Female>
+    
+    
+    
+    <Male id="Aedan">
+      
+      
+      <Base>艾丹</Base>
+      
+      
+      <Patronymic>艾丹</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Aeducan">
+      
+      
+      <Base>艾杜坎</Base>
+      
+      
+      <Patronymic>艾杜坎</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Alan">
+      
+      
+      <Base>艾伦</Base>
+      
+      
+      <Patronymic>阿兰</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Artt">
+      
+      
+      <Base>阿特</Base>
+      
+      
+      <Patronymic>阿特</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Amdarch">
+      
+      
+      <Base>阿姆达赫</Base>
+      
+      
+      <Patronymic>阿姆代</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Aodh">
+      
+      
+      <Base>艾</Base>
+      
+      
+      <Patronymic>艾</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Aodan">
+      
+      
+      <Base>奥丹</Base>
+      
+      
+      <Patronymic>奥丹</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Art">
+      
+      
+      <Base>阿特</Base>
+      
+      
+      <Patronymic>阿特</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Bairre">
+      
+      
+      <Base>贝尔</Base>
+      
+      
+      <Patronymic>贝尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Barrfionn">
+      
+      
+      <Base>巴菲昂</Base>
+      
+      
+      <Patronymic>巴菲昂</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Bearach">
+      
+      
+      <Base>贝拉赫</Base>
+      
+      
+      <Patronymic>贝雷</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Becan">
+      
+      
+      <Base>贝坎</Base>
+      
+      
+      <Patronymic>贝凯恩</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Beollan">
+      
+      
+      <Base>贝奥兰</Base>
+      
+      
+      <Patronymic>贝奥兰</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Breanan">
+      
+      
+      <Base>布雷南</Base>
+      
+      
+      <Patronymic>布雷南</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Bran">
+      
+      
+      <Base>布兰</Base>
+      
+      
+      <Patronymic>布兰</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Bressal">
+      
+      
+      <Base>布雷萨尔</Base>
+      
+      
+      <Patronymic>布雷塞尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Caelan">
+      
+      
+      <Base>凯兰</Base>
+      
+      
+      <Patronymic>凯兰</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Caemgen">
+      
+      
+      <Base>凯姆根</Base>
+      
+      
+      <Patronymic>凯姆根</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Cailtram">
+      
+      
+      <Base>凯尔特雷姆</Base>
+      
+      
+      
+      <Patronymic>凯尔特雷姆</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Cainnech">
+      
+      
+      <Base>凯内赫</Base>
+      
+      
+      <Patronymic>凯尼赫</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Cairthenn">
+      
+      
+      <Base>凯尔亨</Base>
+      
+      
+      <Patronymic>凯尔辛</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Caoimin">
+      
+      
+      <Base>奎明</Base>
+      
+      
+      <Patronymic>奎明</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Caolladh">
+      
+      
+      <Base>奎拉</Base>
+      
+      
+      <Patronymic>奎拉</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Cathal">
+      
+      
+      <Base>卡哈尔</Base>
+      
+      
+      <Patronymic>卡海尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ceallach">
+      
+      
+      <Base>凯拉赫</Base>
+      
+      
+      <Patronymic>凯莱</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Cerball">
+      
+      
+      <Base>克巴尔</Base>
+      
+      
+      <Patronymic>克贝尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Certan">
+      
+      
+      <Base>克尔坦</Base>
+      
+      
+      <Patronymic>克尔坦</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Cian">
+      
+      
+      <Base>基安</Base>
+      
+      
+      <Patronymic>基安</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Cillian">
+      
+      
+      <Base>基利安</Base>
+      
+      
+      
+      <Patronymic>基利安</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Cinaed">
+      
+      
+      <Base>基纳德</Base>
+      
+      
+      <Patronymic>基纳达</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Conall">
+      
+      
+      <Base>康纳尔</Base>
+      
+      
+      
+      <Patronymic>康奈尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Crinan">
+      
+      
+      <Base>克里南</Base>
+      
+      
+      <Patronymic>克里南</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Cuire">
+      
+      
+      <Base>库雷</Base>
+      
+      
+      <Patronymic>库雷</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Culann">
+      
+      
+      <Base>库兰</Base>
+      
+      
+      <Patronymic>库林</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Daimin">
+      
+      
+      <Base>戴明</Base>
+      
+      
+      <Patronymic>戴明</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Daire">
+      
+      
+      <Base>戴尔</Base>
+      
+      
+      <Patronymic>达拉</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Dargart">
+      
+      
+      <Base>达加特</Base>
+      
+      
+      <Patronymic>达盖特</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Devin">
+      
+      
+      <Base>德温</Base>
+      
+      
+      <Patronymic>德温</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Domangart">
+      
+      
+      <Base>多曼加特</Base>
+      
+      
+      <Patronymic>多曼盖特</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Domnall">
+      
+      
+      <Base>多姆纳尔</Base>
+      
+      
+      <Patronymic>多姆奈尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Drausus">
+      
+      
+      <Base>德劳苏斯</Base>
+      
+      
+      <Patronymic>德劳苏萨</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Drest">
+      
+      
+      <Base>德雷斯特</Base>
+      
+      
+      <Patronymic>德鲁斯特</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Druian">
+      
+      
+      <Base>德鲁安</Base>
+      
+      
+      <Patronymic>德鲁安</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Drystan">
+      
+      
+      <Base>德瑞斯坦</Base>
+      
+      
+      <Patronymic>德里斯泰恩</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Dub-Eannaigh">
+      
+      
+      <Base>杜布-安奈</Base>
+      
+      
+      <Patronymic>杜乌-安奈</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Dubgus">
+      
+      
+      <Base>杜布加斯</Base>
+      
+      
+      <Patronymic>杜布加萨</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Dubgall">
+      
+      
+      <Base>杜布加尔</Base>
+      
+      
+      <Patronymic>杜布盖尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Dubglas">
+      
+      
+      <Base>达布格拉斯</Base>
+      
+      
+      <Patronymic>杜布格莱斯</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Dubthach">
+      
+      
+      <Base>杜布塔赫</Base>
+      
+      
+      <Patronymic>杜布泰格</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Duibgenn">
+      
+      
+      <Base>杜布根</Base>
+      
+      
+      <Patronymic>杜乌金</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Duncan">
+      
+      
+      <Base>邓肯</Base>
+      
+      
+      <Patronymic>邓凯恩</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Eanna">
+      
+      
+      <Base>安纳</Base>
+      
+      
+      <Patronymic>安纳</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Eochu">
+      
+      
+      <Base>埃奥库</Base>
+      
+      
+      <Patronymic>埃哈赫</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Eogan">
+      
+      
+      <Base>欧甘</Base>
+      
+      
+      <Patronymic>欧根</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Fergus">
+      
+      
+      <Base>弗格斯</Base>
+      
+      
+      <Patronymic>弗格萨</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Fiacc">
+      
+      
+      <Base>菲亚克</Base>
+      
+      
+      <Patronymic>菲亚伊克</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Fiacra">
+      
+      
+      <Base>菲亚克拉</Base>
+      
+      
+      <Patronymic>菲亚克拉赫</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Fingal">
+      
+      
+      <Base>芬加尔</Base>
+      
+      
+      <Patronymic>芬盖尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Finnen">
+      
+      
+      <Base>芬南</Base>
+      
+      
+      <Patronymic>芬尼安</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Fionn">
+      
+      
+      <Base>芬恩</Base>
+      
+      
+      <Patronymic>芬恩</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Flann">
+      
+      
+      <Base>弗兰</Base>
+      
+      
+      <Patronymic>弗兰</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Gabran">
+      
+      
+      <Base>加布兰</Base>
+      
+      
+      <Patronymic>加布兰</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Galan">
+      
+      
+      <Base>加兰</Base>
+      
+      
+      <Patronymic>加兰</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Gartnait">
+      
+      
+      <Base>加特奈特</Base>
+      
+      
+      <Patronymic>加特奈特</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Giric">
+      
+      
+      <Base>吉里克</Base>
+      
+      
+      <Patronymic>吉里克</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Gordan">
+      
+      
+      <Base>戈丹</Base>
+      
+      
+      <Patronymic>戈丹</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Lachlan">
+      
+      
+      <Base>拉克兰</Base>
+      
+      
+      <Patronymic>拉克兰</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Laogaire">
+      
+      
+      <Base>莱格尔</Base>
+      
+      
+      <Patronymic>莱格尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Leannan">
+      
+      
+      <Base>莱南</Base>
+      
+      
+      <Patronymic>莱南</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Lugaidh">
+      
+      
+      <Base>卢盖德</Base>
+      
+      
+      <Patronymic>卢格达</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Lutrin">
+      
+      
+      <Base>卢特林</Base>
+      
+      
+      <Patronymic>卢特林</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Mael-Coluim">
+      
+      
+      <Base>梅尔-科卢姆</Base>
+      
+      
+      <Patronymic>梅尔-科卢姆</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Mael-Patraic">
+      
+      
+      <Base>梅尔-帕特里克</Base>
+      
+      
+      <Patronymic>梅尔-帕特里克</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Mael-Lomchon">
+      
+      
+      <Base>梅尔-洛姆洪</Base>
+      
+      
+      <Patronymic>梅尔-洛姆洪</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Magnus">
+      
+      
+      <Base>马格努斯</Base>
+      
+      
+      <Patronymic>马格努萨</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Muircheartach">
+      
+      
+      <Base>穆尔赫塔赫</Base>
+      
+      
+      <Patronymic>穆尔赫泰格</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Muircholach">
+      
+      
+      <Base>穆尔霍拉赫</Base>
+      
+      
+      <Patronymic>穆尔霍莱格</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Nechtan">
+      
+      
+      <Base>内赫坦</Base>
+      
+      
+      <Patronymic>内赫坦</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Niall">
+      
+      
+      <Base>尼尔</Base>
+      
+      
+      <Patronymic>尼尔</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Oisin">
+      
+      
+      <Base>奥辛</Base>
+      
+      
+      <Patronymic>奥西尼</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Rechtabra">
+      
+      
+      <Base>雷赫塔布拉</Base>
+      
+      
+      <Patronymic>雷赫塔布拉</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Rian">
+      
+      
+      <Base>里安</Base>
+      
+      
+      <Patronymic>里安</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ronan">
+      
+      
+      <Base>罗南</Base>
+      
+      
+      <Patronymic>罗南</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ruaidri">
+      
+      
+      <Base>鲁艾德里</Base>
+      
+      
+      <Patronymic>鲁艾德里格</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Ruaraidh">
+      
+      
+      <Base>鲁雷</Base>
+      
+      
+      <Patronymic>鲁雷</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Talorc">
+      
+      
+      <Base>塔洛克</Base>
+      
+      
+      <Patronymic>塔洛克</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Taran">
+      
+      
+      <Base>塔兰</Base>
+      
+      
+      <Patronymic>塔兰</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Uudrost">
+      
+      
+      <Base>乌德罗斯特</Base>
+      
+      
+      <Patronymic>乌德罗斯特</Patronymic>
+      
+    
+    </Male>
+    
+    
+    <Male id="Uurguist">
+      
+      
+      <Base>乌尔吉斯特</Base>
+      
+      
+      <Patronymic>乌尔吉斯特</Patronymic>
+      
+    
+    </Male>
+    
+  
+  </Pict>
+  
+  
+  <Beast>
+    
+    
+    <Wolf>Wolf</Wolf>
+    
+    
+    <WolfDefinite>the wolf</WolfDefinite>
+    
+  
+  </Beast>
+  
+  
+  <Epithet>
+    
+    
+    <Hound>Hound</Hound>
+    
+    
+    <HoundWar>War Hound</HoundWar>
+    
+    
+    <Barghest>The Barghest</Barghest>
+    
+    
+    <Wolf>Wolf</Wolf>
+    
+    
+    <WolfProwler>Wolf Prowler</WolfProwler>
+    
+    
+    <WolfMother>Wolf Mother</WolfMother>
+    
+    
+    <WolfLeader>Pack Leader</WolfLeader>
+    
+    
+    <Jotunn>Jøtunn</Jotunn>
+    
+    
+    <Aelius>Aelius</Aelius>
+    
+    
+    
+    <Bareleg>Bare-leg</Bareleg>
+    
+    
+    
+    <Black>the Black</Black>
+    
+    
+    
+    <Blind>the Blind</Blind>
+    
+    
+    
+    <Braggart>Braggart</Braggart>
+    
+    
+    
+    <BristleBeard>Bristle-beard</BristleBeard>
+    
+    
+    
+    <Broadsole>Broad-sole</Broadsole>
+    
+    
+    
+    <Clever>the Clever</Clever>
+    
+    
+    
+    <Clumsyfoot>Clumsy-foot</Clumsyfoot>
+    
+    
+    
+    <Cold>the Cold</Cold>
+    
+    
+    <Crowtalker>Crowtalker</Crowtalker>
+    
+    
+    
+    <CutCheek>Cut-Cheek</CutCheek>
+    
+    
+    
+    <Dreamreader>Dream-reader</Dreamreader>
+    
+    
+    <Flatnose>Flat-nose</Flatnose>
+    
+    
+    <Gashskull>Gash-skull</Gashskull>
+    
+    
+    
+    <Godi>the Godi</Godi>
+    
+    
+    
+    <Halftroll>Half-troll</Halftroll>
+    
+    
+    <Harmfart>Harm-fart</Harmfart>
+    
+    
+    
+    <Jumper>Jumper</Jumper>
+    
+    
+    <Old>the Old</Old>
+    
+    
+    <Peaceful>the Peaceful</Peaceful>
+    
+    
+    
+    <Ring>Hringr</Ring>
+    
+    
+    <Shrieking>the Loud</Shrieking>
+    
+    
+    
+    <Skullcleaver>Skullcleaver</Skullcleaver>
+    
+    
+    
+    <Squinting>Squinting</Squinting>
+    
+    
+    <Tall>the Tall</Tall>
+    
+    
+    
+    <UndergroundOne>Underground One</UndergroundOne>
+    
+    
+    <White>the White</White>
+    
+    
+    
+    <Geri>Geri</Geri>
+    
+    
+    
+    <Freki>Freki</Freki>
+    
+    
+    
+    <RheaSilvia>Rhea Silvia</RheaSilvia>
+    
+    
+    
+    <Emrys>Emrys</Emrys>
+    
+    
+    
+    <Quintus>Quintus</Quintus>
+    
+    
+    
+    
+    <Lachlansson>Lachlansson</Lachlansson>
+    
+    
+    <MacLachlain>mac Lachlain</MacLachlain>
+    
+    
+    <BowSwayer>Bow-swayer</BowSwayer>
+    
+    
+    <GoodCheer>Good-cheer</GoodCheer>
+    
+    
+    <Handsome>Handsome</Handsome>
+    
+    
+    <Keen>Keen</Keen>
+    
+    
+    <WestMan>West-man</WestMan>
+    
+    
+    <TheWolf>the Wolf</TheWolf>
+    
+  
+  </Epithet>
+  
+
+</Root>
