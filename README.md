@@ -172,6 +172,17 @@ python batch_replace_uabea.py
 | 2026-07-25 | 排查回填不生效 | 定位到游戏读取 `Documents\My Games\Expeditions Viking\Custom Localization\` 覆盖文件夹（旧汉化），删除后回填生效 |
 | 2026-09-19 | 修复动态分支英文 | 本地化 291 个 `[Player:…/…]` 可见分支并重新回填；资源导出校验通过，待游戏内验证 |
 | 2026-09-19 | 补全名称称号 | 本地化 51 条根级称号/名称并重新回填；资源导出校验通过，待游戏内验证 |
+| 2026-09-20 | 发布 v1.2 | 生成不含游戏原始资源的 HDiffPatch 差分补丁；在独立临时游戏目录一键安装并哈希校验通过 |
+
+## 对外发布
+
+- 补丁：`Dispatch/Expeditions Viking_子非鱼汉化1.2.zip`
+- 支持版本/平台：Steam Windows 版，Unity 5.6.4f1；仅支持原始 `resources.assets` 为 344,539,620 bytes 的安装。
+- 载荷：`resources.assets.hdiff` 差分文件、HDiffPatch 应用器与一键安装脚本；不包含游戏本体或原始资源文件。
+- 验证结果：已在实际游戏中确认汉化资源、对话、动态称谓和角色名称正常加载；独立临时目录按玩家安装流程还原后 SHA-256 与当前汉化资源一致。
+- 已知问题：AI 自动翻译，部分长文本、术语与语气仍可能需要润色；其他 Mod 或不同游戏版本会导致差分拒绝应用。
+- GitHub Release：`https://github.com/zfyu222/expeditions-viking-hanhua/releases/tag/v1.2`
+- 百度网盘：待镜像上传。
 
 ### ⚠ 关键：Custom Localization 覆盖文件夹（务必先处理）
 

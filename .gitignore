@@ -11,6 +11,8 @@
 
 # 发布包仅上传至 GitHub Releases。
 /Dispatch/
+ReleasePayload/*.hdiff
+ReleasePayload/*.exe
 /*.zip
 
 # 本地缓存、日志和编辑器文件。
