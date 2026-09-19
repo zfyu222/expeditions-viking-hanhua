@@ -52,6 +52,29 @@ CUSTOM_CATEGORY_DIRS = {
     "tutorial": "Tutorial",
 }
 
+# CharacterNamesEnglish 的根级称号、动物名不在 Male/Female 节点内，旧提取器未将
+# 它们写入翻译 CSV。它们会直接拼接在角色名后（例如“Ragnhildr the White”），
+# 因此在生成名称 XML 时明确覆盖；普通人名仍沿用 CSV 中的逐行译文。
+NAME_STATIC_TRANSLATIONS = {
+    "Wolf": "狼", "WolfDefinite": "那匹狼", "Hound": "猎犬",
+    "HoundWar": "战犬", "Barghest": "巴格斯特", "WolfProwler": "巡猎狼",
+    "WolfMother": "狼母", "WolfLeader": "狼群首领", "Jotunn": "巨人",
+    "Aelius": "艾利乌斯", "Bareleg": "裸腿者", "Black": "黑衣者",
+    "Blind": "盲者", "Braggart": "吹牛者", "BristleBeard": "硬胡子",
+    "Broadsole": "阔脚", "Clever": "聪明人", "Clumsyfoot": "笨脚",
+    "Cold": "冷酷者", "Crowtalker": "鸦语者", "CutCheek": "割颊者",
+    "Dreamreader": "解梦者", "Flatnose": "塌鼻者", "Gashskull": "裂颅者",
+    "Godi": "戈迪", "Halftroll": "半巨魔", "Harmfart": "臭屁",
+    "Jumper": "跳跃者", "Old": "老者", "Peaceful": "和平者",
+    "Ring": "赫林格", "Shrieking": "大嗓门", "Skullcleaver": "裂颅者",
+    "Squinting": "眯眼者", "Tall": "高个子", "UndergroundOne": "地下人",
+    "White": "白衣者", "Geri": "格里", "Freki": "弗雷基",
+    "RheaSilvia": "雷亚·西尔维娅", "Emrys": "埃姆里斯", "Quintus": "昆图斯",
+    "Lachlansson": "拉赫兰之子", "MacLachlain": "麦克·拉赫兰",
+    "BowSwayer": "弓手", "GoodCheer": "好心情", "Handsome": "英俊者",
+    "Keen": "敏锐者", "WestMan": "西方人", "TheWolf": "那匹狼",
+}
+
 
 def load_translations():
     """按行号顺序，将翻译结果与原始 key 配对"""
@@ -123,6 +146,19 @@ def generate_by_path(source_path, output_path, translations):
     return count
 
 
+def apply_static_name_translations(path):
+    """补齐旧 CSV 提取范围之外、但会在游戏内直接显示的名称字段。"""
+    tree = ET.parse(path)
+    count = 0
+    for elem in tree.getroot().iter():
+        translated = NAME_STATIC_TRANSLATIONS.get(elem.tag)
+        if translated is not None:
+            elem.text = translated
+            count += 1
+    write_xml(tree, path)
+    return count
+
+
 def build_key(root, elem, parent_map):
     """构建与 extract_for_translation.py 一致的 key"""
     # 收集从 elem 到 root 的路径
@@ -174,6 +210,9 @@ def main():
             count = generate_dialogue_xml(source_path, output_path, translations)
         else:
             count = generate_by_path(source_path, output_path, translations)
+            if cat_name == "names":
+                static_count = apply_static_name_translations(output_path)
+                print(f"[names] 额外写入了 {static_count} 条根级称号/名称")
         
         print(f"[{cat_name}] 写入了 {count} 条翻译")
         total_written += count
