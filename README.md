@@ -89,6 +89,14 @@ python build_localization.py
 python batch_replace_uabea.py
 ```
 
+### 2026-09-19：动态性别分支标签修复
+
+- 问题：翻译阶段把 `[Player:brother/sis]` 一类标签整体作为不可翻译变量保留；游戏会将斜杠两侧的词直接显示，因此会出现 `brother`、`man` 等英文。
+- 修复：新增 `localize_player_variants.py`，只本地化带 `/` 的 `[Player:…/…]` 可见分支，保留 `[Player:Name]`、`[Shipname]` 等运行时标识变量。
+- 覆盖：翻译源及生成的 `DialogueChinese.xml` 中共 291 处动态分支；已导出回填后的 `DialogueEnglish`（pathId 9146）校验，英文分支残留为 0。
+- 回填：已用 `batch_replace_uabea.py` 从原始备份重建并部署 9 个本地化 TextAsset 至 `resources.assets`。
+- 待验证：需关闭游戏后重新启动，并实际进入对话确认性别分支显示和文本排版正常；测试前确保 `Custom Localization` 覆盖目录未加载旧文件。
+
 ## 关键文件说明
 
 | 文件 | 用途 |
@@ -156,6 +164,7 @@ python batch_replace_uabea.py
 | 2026-07-19 | 首次回填 | `build_localization.py` + `batch_replace_uabea.py`，9 个 TextAsset 替换 |
 | 2026-07-25 | 重新回填 | 译文 CSV 更新后重新生成 XML 并回填；`batch_replace_uabea.py` 改为以原始备份为干净基底重建，新增已知 pathId 快速校验模式 |
 | 2026-07-25 | 排查回填不生效 | 定位到游戏读取 `Documents\My Games\Expeditions Viking\Custom Localization\` 覆盖文件夹（旧汉化），删除后回填生效 |
+| 2026-09-19 | 修复动态分支英文 | 本地化 291 个 `[Player:…/…]` 可见分支并重新回填；资源导出校验通过，待游戏内验证 |
 
 ### ⚠ 关键：Custom Localization 覆盖文件夹（务必先处理）
 

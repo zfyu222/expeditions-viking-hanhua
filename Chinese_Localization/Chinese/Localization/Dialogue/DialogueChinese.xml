@@ -188,7 +188,7 @@
   <Localize id="00b43f51-4d97-4cd8-ab83-70ea8dd22286" localized="635974409487144174">哦，正是如此！真高兴你听进去了！</Localize>
   
   
-  <Localize id="00b6bc38-42c8-401b-baed-ade2d3f5c833" localized="636138586623631343">我无意冒昧叨扰您这般有身份的[Player:man/woman]，但您着实令我着迷。您可愿考虑对我施以援手？</Localize>
+  <Localize id="00b6bc38-42c8-401b-baed-ade2d3f5c833" localized="636138586623631343">我无意冒昧叨扰您这般有身份的[Player:男子/女子]，但您着实令我着迷。您可愿考虑对我施以援手？</Localize>
   
   
   <Localize id="00b7c398-6dc4-422b-b93f-bb2cb1ea3278" localized="636171513047451338">那你自管去吧，寻你的乐子去。我去跟斯卡拉格里姆会合。</Localize>
@@ -461,7 +461,7 @@
   <Localize id="01ba9d6a-b61d-46b7-bcac-7d218345eaf4" localized="636161102471600183">从我眼前滚开，掠夺者。滚出奥克尼群岛，再不许回来！</Localize>
   
   
-  <Localize id="01bb3497-570e-47e8-853b-a4d4ce35abe5" localized="635965970108410982">我听说[Player:Name]放过了那个被[Player:he/she]击败的对手，甚至还让他加入了[Player:his/her]的亲兵队。</Localize>
+  <Localize id="01bb3497-570e-47e8-853b-a4d4ce35abe5" localized="635965970108410982">我听说[Player:Name]放过了那个被[Player:他/她]击败的对手，甚至还让他加入了[Player:他/她]的亲兵队。</Localize>
   
   
   <Localize id="01bc8e6b-17cf-4993-8426-2bb50cf77655" localized="636186978718189344">我们是来助你夺下邓弗里斯的。</Localize>
@@ -905,13 +905,13 @@
   <Localize id="03383f8b-76a0-4ab9-93b1-7a94473a31d0" localized="635924304582292188">咱们带上她吧，[Player:Name]。旁的姑且不论，埃迪丝的手艺总能把路上日子过得好受些。</Localize>
   
   
-  <Localize id="033c963a-8e28-4906-a6fe-e6f12a7678cc" localized="636035401591908455">可惜了，我的[Player:boy/girl]，你差一步就成了，却偏偏漏了倒数第二步！真正的基督徒绝不会犯这种错的。</Localize>
+  <Localize id="033c963a-8e28-4906-a6fe-e6f12a7678cc" localized="636035401591908455">可惜了，我的[Player:男孩/女孩]，你差一步就成了，却偏偏漏了倒数第二步！真正的基督徒绝不会犯这种错的。</Localize>
   
   
   <Localize id="0344722f-ac52-4d6d-86d5-fca3e0f42562" localized="636197454548157616"/>
   
   
-  <Localize id="03498ade-f3ce-483e-abac-f75c4d71a346" localized="635959944416376392">[Player:Velkominn/Velkomin]来到里伯，[Player:Name]。不知何事令您有此雅兴光临？</Localize>
+  <Localize id="03498ade-f3ce-483e-abac-f75c4d71a346" localized="635959944416376392">[Player:欢迎/欢迎]来到里伯，[Player:Name]。不知何事令您有此雅兴光临？</Localize>
   
   
   <Localize id="034a87cd-689b-4180-a5b0-142beef72696" localized="636221662006052982">你的近卫团陆续醒来，聚到篝火边吃着早饭。就在此时，你猛一下想到一件事。</Localize>
@@ -1493,7 +1493,7 @@
   <Localize id="04f5eb6c-d99f-4ce2-9638-fb3b97430c37" localized="635850017173953236"/>
   
   
-  <Localize id="04f653a0-2a94-4955-a08a-05a3495aadb4" localized="636113534979116764">多谢了，[Player:Norseman/Norsewoman]。现在请离开，容我们安安静静为灵魂祷告。</Localize>
+  <Localize id="04f653a0-2a94-4955-a08a-05a3495aadb4" localized="636113534979116764">多谢了，[Player:诺斯人/诺斯女子]。现在请离开，容我们安安静静为灵魂祷告。</Localize>
   
   
   <Localize id="04f7233d-5aa7-4b6a-990b-ed478d8c9cba" localized="636217195791429766">我们自然还得寻到那片林间空地——假若还有残存的话。立这块石碑的时候，这儿怕是一个基督徒都没有。</Localize>
@@ -1556,7 +1556,7 @@
   <Localize id="053705f1-0514-4a16-ade0-697297c93b6b" localized="636179306113627469"/>
   
   
-  <Localize id="05373c7c-51cc-43c1-9b84-fa20c84110b0" localized="636156018907276034">你是个好人，[Player:man/woman]。你已尽了全力。</Localize>
+  <Localize id="05373c7c-51cc-43c1-9b84-fa20c84110b0" localized="636156018907276034">你是个好人，[Player:男子/女子]。你已尽了全力。</Localize>
   
   
   <Localize id="053a262f-c31e-41ae-bbaa-9b3369caf4e2" localized="636194831551852021"/>
@@ -1589,7 +1589,7 @@
   <Localize id="054d25a9-f8d7-4cd1-b6eb-dec9cdd4722d" localized="636135454717953817">亚斯莱夫松开怀抱，把双臂交叠在胸前。</Localize>
   
   
-  <Localize id="054d2bef-a85b-406c-bf99-f94d1624d86a" localized="636164120874401244">好吧，至少[Player:he/she]还[i]知道抱歉[/i]，为丢下我们，任我们自生自灭。</Localize>
+  <Localize id="054d2bef-a85b-406c-bf99-f94d1624d86a" localized="636164120874401244">好吧，至少[Player:他/她]还[i]知道抱歉[/i]，为丢下我们，任我们自生自灭。</Localize>
   
   
   <Localize id="054e759a-a4b3-4ea2-9d08-7b858ed8716e" localized="636197502948979768">欢迎回来。在邓弗里斯出了那种事之后，我觉得是时候着手为入侵做准备了。</Localize>
@@ -1829,7 +1829,7 @@
   <Localize id="0631dc33-a44c-4d7d-813e-4b32cf7fe00d" localized="636087838910356752">你就是西奥多？</Localize>
   
   
-  <Localize id="06364c90-1b84-4fc4-8add-233de8961a55" localized="636040974068140853">多谢了，[Player:Norseman/Norsewoman]。看来你的灵魂也未必就没救了。</Localize>
+  <Localize id="06364c90-1b84-4fc4-8add-233de8961a55" localized="636040974068140853">多谢了，[Player:诺斯人/诺斯女子]。看来你的灵魂也未必就没救了。</Localize>
   
   
   <Localize id="063ff6f7-eb17-4cbb-bcc2-e40f15453399" localized="636172393561463420">我心里当真没什么打算。</Localize>
@@ -2729,7 +2729,7 @@
   <Localize id="0930b0a0-4c69-48c8-b200-595f6cf88f30" localized="635992677580685114">可日头一出来，它们就晒焦了；又因为没有根，便枯萎了。</Localize>
   
   
-  <Localize id="0930fd54-0690-4f19-b6dc-89c6077634b9" localized="635978905977921885">弟兄们，[i]这才[/i]是位真正懂勇气的家伙。那位屠龙勇士——[Player:himself/herself]！</Localize>
+  <Localize id="0930fd54-0690-4f19-b6dc-89c6077634b9" localized="635978905977921885">弟兄们，[i]这才[/i]是位真正懂勇气的家伙。那位屠龙勇士——[Player:他自己/她自己]！</Localize>
   
   
   <Localize id="093184f8-cffe-4e2c-8e31-f1bc9dd4adf8" localized="635960834447575393">我把那些贼从你的房子里全赶跑了。</Localize>
@@ -2798,7 +2798,7 @@
   <Localize id="0973d9db-a7c6-4d39-9e9e-2769ede653c9" localized="635939132434580257">我要了结了你！</Localize>
   
   
-  <Localize id="09741aa6-70d9-4b47-82eb-2f3e0ded4d49" localized="636225106089885450">你以为我做这一切是为了博取掌声吗？我的敌意逼你成了一位了不起的[Player:man/woman]，但那绝非我任何行动的动机。</Localize>
+  <Localize id="09741aa6-70d9-4b47-82eb-2f3e0ded4d49" localized="636225106089885450">你以为我做这一切是为了博取掌声吗？我的敌意逼你成了一位了不起的[Player:男子/女子]，但那绝非我任何行动的动机。</Localize>
   
   
   <Localize id="0976d39a-69c9-482a-a8f4-ee5525964ade" localized="635925617039983904"/>
@@ -3800,7 +3800,7 @@
   <Localize id="0c8fba8e-a6cc-4166-bb69-22f62757565c" localized="636172449908202748">也难怪他们会如此忠心——你有着极强的个人魅力，天生就让人敬畏。</Localize>
   
   
-  <Localize id="0c90b928-ee2c-43af-be4c-ce1e0e9c73b6" localized="636226847799469874">战争？！我亲爱的[Player:boy/girl]，你怎么会冒出这种问题？</Localize>
+  <Localize id="0c90b928-ee2c-43af-be4c-ce1e0e9c73b6" localized="636226847799469874">战争？！我亲爱的[Player:男孩/女孩]，你怎么会冒出这种问题？</Localize>
   
   
   <Localize id="0c98e0a3-28f6-447c-84b9-8805c4a3d398" localized="636224213071337811">多谢你的帮忙。没有你，那僵局真不知还要拖到什么时候。</Localize>
@@ -3920,7 +3920,7 @@
   <Localize id="0cefda1d-098d-468d-a370-03e8a62c0aa5" localized="636087722163806160"/>
   
   
-  <Localize id="0cf0244f-d2c8-4feb-96eb-e59d028687b5" localized="635959901142949149">斯凯恩领主正为[Player:his/her]战船招募精练船员！欲求雇佣的战士们，请到雅尔的营房来见领主[Player:Name]！</Localize>
+  <Localize id="0cf0244f-d2c8-4feb-96eb-e59d028687b5" localized="635959901142949149">斯凯恩领主正为[Player:他/她]战船招募精练船员！欲求雇佣的战士们，请到雅尔的营房来见领主[Player:Name]！</Localize>
   
   
   <Localize id="0cf67d4a-0ea9-43a1-ac71-b810589c06ce" localized="635895095037159515">我以前还真没离开过这村子。</Localize>
@@ -4031,7 +4031,7 @@
   <Localize id="0d5292f8-c743-497c-84c6-a9d7267fe60e" localized="636111050878281659">你肯定找到索尔高特了。我买下他的剑，是因为我那把又旧又钝，而他正缺银子。</Localize>
   
   
-  <Localize id="0d539ba0-0b96-463b-942d-f6f56fc86619" localized="635868682035234931">啊！噢，我亲爱的[Player:boy/girl]，你还活着真是太好了！来，快起来吧……</Localize>
+  <Localize id="0d539ba0-0b96-463b-942d-f6f56fc86619" localized="635868682035234931">啊！噢，我亲爱的[Player:男孩/女孩]，你还活着真是太好了！来，快起来吧……</Localize>
   
   
   <Localize id="0d53d3dd-74c6-4107-ae50-31c9ba6ed26b" localized="636168360741224280">{攻击。}</Localize>
@@ -4043,7 +4043,7 @@
   <Localize id="0d554a49-5207-48f5-86f3-443c5a1a0e56" localized="636161133150218599">火是你放的。那些人是你杀的。</Localize>
   
   
-  <Localize id="0d5805c4-c7bf-434a-83bd-8094be14bdd6" localized="636136190071759255">识相的就给我让开，省得伤着自己，[Player:woman/sister]。</Localize>
+  <Localize id="0d5805c4-c7bf-434a-83bd-8094be14bdd6" localized="636136190071759255">识相的就给我让开，省得伤着自己，[Player:女子/姐妹]。</Localize>
   
   
   <Localize id="0d6124ab-e8e2-40b3-8925-b0384af4d497" localized="636223316609919380">是啊，都该喘口气、寻点乐子了，灌他几大桶麦芽酒，冲冲这满身的兵戈血腥气。</Localize>
@@ -4367,7 +4367,7 @@
   <Localize id="0e8252a8-989b-4621-9a23-af67518f59e4" localized="636183517818093032"/>
   
   
-  <Localize id="0e83393c-ae5c-4498-af0e-7e0907afd291" localized="636087678671001475">愿你健壮幸运，[Player:Brother/Sister]。</Localize>
+  <Localize id="0e83393c-ae5c-4498-af0e-7e0907afd291" localized="636087678671001475">愿你健壮幸运，[Player:兄弟/姐妹]。</Localize>
   
   
   <Localize id="0e848cee-80cd-435b-ba8e-884b8ba345ad" localized="636162007927829008"/>
@@ -4544,7 +4544,7 @@
   <Localize id="0f349db5-2491-4047-8a21-8cfdcc0df6e6" localized="635961700600946155"/>
   
   
-  <Localize id="0f36e40c-ae7d-423f-9145-877e5d423e59" localized="636189798709690245">瞧瞧你！都长成这么健壮的一个[Player:man/woman]了。</Localize>
+  <Localize id="0f36e40c-ae7d-423f-9145-877e5d423e59" localized="636189798709690245">瞧瞧你！都长成这么健壮的一个[Player:男子/女子]了。</Localize>
   
   
   <Localize id="0f38f5b1-f797-4e5b-b18b-4183803e7d4c" localized="636095550226558897">那些是我的！岂容你说拿就拿！</Localize>
@@ -4802,7 +4802,7 @@
   <Localize id="1034bcd9-251c-466e-8368-12b782d4be0b" localized="636150120452135273"/>
   
   
-  <Localize id="1038a083-2546-4169-b080-b3aacf138058" localized="636112678945288456">这称呼意指 [Player:master/mistress]。</Localize>
+  <Localize id="1038a083-2546-4169-b080-b3aacf138058" localized="636112678945288456">这称呼意指 [Player:主人/女主人]。</Localize>
   
   
   <Localize id="103e54a2-6dec-4872-ad35-6a7a070ffe52" localized="635967752402545364"/>
@@ -4850,7 +4850,7 @@
   <Localize id="106fc03c-3c36-4a93-b075-fa5b178c7a09" localized="635975479606835019">你简直跟你父亲——还有年轻时的我，一模一样。外面的世界[i]确实[/i]天宽地阔——但也危机四伏。你要多多保重。</Localize>
   
   
-  <Localize id="1072df42-e920-4e57-9a7b-33df84331a92" localized="636179406945258092">[Player:Velkominn/Velkomin]，领主。您是想看兽皮，还是回收物？品质上乘，包您满意。</Localize>
+  <Localize id="1072df42-e920-4e57-9a7b-33df84331a92" localized="636179406945258092">[Player:欢迎/欢迎]，领主。您是想看兽皮，还是回收物？品质上乘，包您满意。</Localize>
   
   
   <Localize id="10733220-a8af-4838-a5fe-6c2144b81d0a" localized="635972811355600219"/>
@@ -4859,7 +4859,7 @@
   <Localize id="1077e75b-598d-48d2-a689-3fb75192f239" localized="636225151698635838">内菲娅右手一把将你推开，同时左手抽出撒克逊刀，一个行云流水的动作，便割开了鲁里克的喉咙。</Localize>
   
   
-  <Localize id="1079a9c6-0c75-4dcf-905f-84d3f193bd95" localized="636138582232874557">请宽恕我吧，[Player:Hlaford/Hlafdia]。日后您若回心转意，我定会等着您。</Localize>
+  <Localize id="1079a9c6-0c75-4dcf-905f-84d3f193bd95" localized="636138582232874557">请宽恕我吧，[Player:领主/女领主]。日后您若回心转意，我定会等着您。</Localize>
   
   
   <Localize id="107a9798-0360-476e-a602-54ddbfcde8cb" localized="636095535290797615">跟您做生意，真是痛快。</Localize>
@@ -5159,13 +5159,13 @@
   <Localize id="11692aa3-f5a3-484a-9c17-10272af7e126" localized="636153617309557521"/>
   
   
-  <Localize id="116cc1cc-d5d7-4ce1-8abd-2107da6c670f" localized="635993517757066050">是什么风把一位[Player:Norseman/Norsewoman]吹到我家来了？</Localize>
+  <Localize id="116cc1cc-d5d7-4ce1-8abd-2107da6c670f" localized="635993517757066050">是什么风把一位[Player:诺斯人/诺斯女子]吹到我家来了？</Localize>
   
   
   <Localize id="11700d01-277c-4a46-91bb-93ef79f1ae25" localized="636225080346206184"/>
   
   
-  <Localize id="11707723-2ac7-48e8-bfdd-f98eaf566b23" localized="636040104254532041">您真是太慷慨了，[Player:Hlaford/Hlafdia]！我们终于能离开这片污秽之地了。</Localize>
+  <Localize id="11707723-2ac7-48e8-bfdd-f98eaf566b23" localized="636040104254532041">您真是太慷慨了，[Player:领主/女领主]！我们终于能离开这片污秽之地了。</Localize>
   
   
   <Localize id="1174177f-4181-4413-8f4d-8bd52126c86e" localized="636223493009222143"/>
@@ -6224,7 +6224,7 @@
   <Localize id="153f2362-aa9d-4718-a335-d379e81ddcba" localized="635987425077318011">你这一掷可真够臭的。</Localize>
   
   
-  <Localize id="153f5d77-55bc-406b-a285-9b2d6ef08122" localized="636164070205882615">有你在她身边，她现在踏实多了，我的好[Player:boy/girl]。没人料到你们能找着彼此，我想最吃惊的就是她自己，可我看得出来，你们在一起会过得很幸福。</Localize>
+  <Localize id="153f5d77-55bc-406b-a285-9b2d6ef08122" localized="636164070205882615">有你在她身边，她现在踏实多了，我的好[Player:男孩/女孩]。没人料到你们能找着彼此，我想最吃惊的就是她自己，可我看得出来，你们在一起会过得很幸福。</Localize>
   
   
   <Localize id="1540fabb-e76e-43f8-bae3-fb64cac483c0" localized="636039474861059556">你以为[i]那玩意[/i]就能拦住我吗？！</Localize>
@@ -6638,7 +6638,7 @@
   <Localize id="16bcb3a0-4c39-4780-86a8-b2b5e83a4cb2" localized="635971905419572013"/>
   
   
-  <Localize id="16bd42eb-c9f0-47f6-9d0a-13f14584772a" localized="636107629388324724">你该在这地方四下转转，[Player:brother/sister]。这儿没什么能交易的，除非你的部族正为石头闹严重饥荒。</Localize>
+  <Localize id="16bd42eb-c9f0-47f6-9d0a-13f14584772a" localized="636107629388324724">你该在这地方四下转转，[Player:兄弟/姐妹]。这儿没什么能交易的，除非你的部族正为石头闹严重饥荒。</Localize>
   
   
   <Localize id="16c056b5-8c20-4f7b-bd09-379439efe1d1" localized="635939132434570256"/>
@@ -6878,7 +6878,7 @@
   <Localize id="177c7f67-0630-4a5b-89ee-e44c84a92ecb" localized="636187014182352894">听着挺险的，不过我们愿意试试。</Localize>
   
   
-  <Localize id="177ce6bd-9a62-4e94-a4d2-c31bd9a35ffa" localized="635971988233277404">那可太苦了，[Player:lad/lass]。等你揣着回来了再来——可别耗太久，我们可没打算一辈子守在这儿！</Localize>
+  <Localize id="177ce6bd-9a62-4e94-a4d2-c31bd9a35ffa" localized="635971988233277404">那可太苦了，[Player:小伙子/姑娘]。等你揣着回来了再来——可别耗太久，我们可没打算一辈子守在这儿！</Localize>
   
   
   <Localize id="1781cd5e-5fca-461c-a286-6997412dda29" localized="636088621874503858">你知不知道你干了什么？！现在我们还能怎么找回那只鹰？！</Localize>
@@ -7109,7 +7109,7 @@
   <Localize id="1851a427-534e-40db-8372-cabe7d1a0545" localized="636035388455256288">不完全对——词倒是对的，但最后几行的顺序乱了。</Localize>
   
   
-  <Localize id="185589ab-3995-4f30-bbac-effa688c4c99" localized="635961635121694897">这位领主可没夸大[Player:his/her]自己的本事。</Localize>
+  <Localize id="185589ab-3995-4f30-bbac-effa688c4c99" localized="635961635121694897">这位领主可没夸大[Player:他/她]自己的本事。</Localize>
   
   
   <Localize id="18588372-e8cc-48b0-a476-eb9ca924cffe" localized="636168362606449662">营地里所有人都吃了一惊，猛地跳将起来，慌忙去抓各自的兵器。那两个皮克特人最先转向你，脸上挂着好奇的神色。</Localize>
@@ -7571,7 +7571,7 @@
   <Localize id="1a12de74-702f-400a-9f0e-9dc482fb17a3" localized="636194802337574748">片刻之后，那块岩石似乎稳住了，洞穴口传来的海浪拍岸声渐渐淹没了下面所有其他的动静。</Localize>
   
   
-  <Localize id="1a13f243-5d12-49da-85cd-e88e606a1e05" localized="635965969672188723">我听说[Player:Name]正在招募骁勇之士，加入[Player:his/her]的侍卫队。</Localize>
+  <Localize id="1a13f243-5d12-49da-85cd-e88e606a1e05" localized="635965969672188723">我听说[Player:Name]正在招募骁勇之士，加入[Player:他/她]的侍卫队。</Localize>
   
   
   <Localize id="1a140c3c-e786-4d31-9a7d-7f10a49939d3" localized="636111006508873673"/>
@@ -7832,7 +7832,7 @@
   <Localize id="1ae77e8a-2e1a-4985-8acb-6c4a136816ef" localized="636194776183062612">那不重要！几块奥图格银币能顶什么用。倒是[i]你[/i]……你得为这事[i]送命[/i]！</Localize>
   
   
-  <Localize id="1aef8993-b65d-4985-ba49-22030f5d487d" localized="636223369096151355">敬[Player:Name]和[Player:his/her]的船员们一杯！愿你们日日畅饮，朝朝相见！</Localize>
+  <Localize id="1aef8993-b65d-4985-ba49-22030f5d487d" localized="636223369096151355">敬[Player:Name]和[Player:他/她]的船员们一杯！愿你们日日畅饮，朝朝相见！</Localize>
   
   
   <Localize id="1af19497-b989-40ac-8317-88007090da69" localized="636172421556340557">她绽开一抹叫人无法抗拒的笑容，将注意力转向[ObjectOfAffection:Name]。</Localize>
@@ -7907,7 +7907,7 @@
   <Localize id="1b3a74a6-2c2d-4c3a-990b-9fed17f800fe" localized="636181129511448238"/>
   
   
-  <Localize id="1b3c7140-157d-4d8a-b8d4-30225dd34551" localized="636223604452611020">那么，这就成了？我就是诺森布里亚和皮克塔维亚的[Player:king/queen]了。</Localize>
+  <Localize id="1b3c7140-157d-4d8a-b8d4-30225dd34551" localized="636223604452611020">那么，这就成了？我就是诺森布里亚和皮克塔维亚的[Player:国王/女王]了。</Localize>
   
   
   <Localize id="1b3edc42-0012-4132-9e14-6d5dec572acf" localized="635977853643154648"/>
@@ -8057,7 +8057,7 @@
   <Localize id="1bb723d8-a0b7-4561-bb11-99e961563cee" localized="636137000294000144">我虽说讨厌替人收烂摊子，可你是我的雅尔，我自然会尽力帮你——价钱也得公道。</Localize>
   
   
-  <Localize id="1bbd4be2-bd02-4351-a717-1925dc0d741b" localized="635957285096746530">哈。哈哈哈哈！你果真是[Player:Father]的[Player:son/daughter]。这话简直就像亲自从他嘴里蹦出来的一样！</Localize>
+  <Localize id="1bbd4be2-bd02-4351-a717-1925dc0d741b" localized="635957285096746530">哈。哈哈哈哈！你果真是[Player:Father]的[Player:儿子/女儿]。这话简直就像亲自从他嘴里蹦出来的一样！</Localize>
   
   
   <Localize id="1bc036b0-5f6f-439b-9b20-c3fb258b29a0" localized="636016135628943272"/>
@@ -8132,7 +8132,7 @@
   <Localize id="1c096fd0-a3cc-44e8-8efc-7da9a56e301e" localized="636177868858701293">说到你的老物件，我在奥克尼群岛跟一个人买回了你这把丹麦长斧。</Localize>
   
   
-  <Localize id="1c13e6c2-6e66-4d53-9a43-7fdf9a1283f4" localized="635962350979771950">亲爱的，去给这位[Player:man/woman]称几两银子。再领你弟弟到码头，查验一下我们那条新货船。</Localize>
+  <Localize id="1c13e6c2-6e66-4d53-9a43-7fdf9a1283f4" localized="635962350979771950">亲爱的，去给这位[Player:男子/女子]称几两银子。再领你弟弟到码头，查验一下我们那条新货船。</Localize>
   
   
   <Localize id="1c1802a9-c39c-45f2-b0be-3035afb7d189" localized="636160273312968869"/>
@@ -8159,7 +8159,7 @@
   <Localize id="1c242263-ff62-4f35-a46e-d237f8e105f3" localized="636111017222196906"/>
   
   
-  <Localize id="1c292d23-1345-40eb-9abd-ae36da23addb" localized="636186213991803640">眼下还没开仗呢，[Player:lad/lass]，但既然你也进来掺一脚，我估摸着仗很快就要打起来了。</Localize>
+  <Localize id="1c292d23-1345-40eb-9abd-ae36da23addb" localized="636186213991803640">眼下还没开仗呢，[Player:小伙子/姑娘]，但既然你也进来掺一脚，我估摸着仗很快就要打起来了。</Localize>
   
   
   <Localize id="1c2a013b-d4ac-48ee-8092-f21284b66cac" localized="636118749616294198">我来助你一臂之力！</Localize>
@@ -8633,7 +8633,7 @@
   <Localize id="1db77218-6c96-464e-981c-0697e3ae74ac" localized="636123971582619540"/>
   
   
-  <Localize id="1db92979-89b5-40e6-bc2c-3fe791ed0ac9" localized="636225094601924604">嚯，这是要初生牛犊叫板老江湖？[Player:boy/girl]，这趟浑水你可不该蹚。</Localize>
+  <Localize id="1db92979-89b5-40e6-bc2c-3fe791ed0ac9" localized="636225094601924604">嚯，这是要初生牛犊叫板老江湖？[Player:男孩/女孩]，这趟浑水你可不该蹚。</Localize>
   
   
   <Localize id="1db96413-2442-4e0d-829c-ffcdb97232ce" localized="636226682518113338"/>
@@ -9254,7 +9254,7 @@
   <Localize id="1fc8fa97-cf59-4c6e-8f57-818307a4a445" localized="636204434338488830">一个气势汹汹的女战士立于中心，被一群同样全副武装的女人簇拥着。看来你恰好撞上了她们在议事，但这群人迅速转向，直面你。</Localize>
   
   
-  <Localize id="1fc9123a-848a-4089-968d-6f0a2d633219" localized="636180263182958189">欢迎，欢迎！你来得可有点——[i]嗝——呃[/i]，哦，该死，哈哈哈！失礼了！——你来晚了一步，但千万别客气，留下来尽兴。你是我[Player:son/daughter-in-law]的朋友吗？</Localize>
+  <Localize id="1fc9123a-848a-4089-968d-6f0a2d633219" localized="636180263182958189">欢迎，欢迎！你来得可有点——[i]嗝——呃[/i]，哦，该死，哈哈哈！失礼了！——你来晚了一步，但千万别客气，留下来尽兴。你是我[Player:儿子/儿媳]的朋友吗？</Localize>
   
   
   <Localize id="1fc9a9e2-5c60-4e9a-a089-3afdc15495ae" localized="635998744658962829">耽搁您了，长者。</Localize>
@@ -9572,7 +9572,7 @@
   <Localize id="20eceef9-1043-442d-a1cf-e22d133c6ef2" localized="636041100252239570">塔拉停下她那焦躁的踱步，看着你再次走进营帐。</Localize>
   
   
-  <Localize id="20f7c0a7-47bb-4de1-8845-182b15e6fc99" localized="636172365600668401">哈哈哈，要的就是这股子劲儿，[Player:lad/lass]！那就让我开开眼吧！</Localize>
+  <Localize id="20f7c0a7-47bb-4de1-8845-182b15e6fc99" localized="636172365600668401">哈哈哈，要的就是这股子劲儿，[Player:小伙子/姑娘]！那就让我开开眼吧！</Localize>
   
   
   <Localize id="20f9633f-23ba-48fe-812a-ab5801ef344c" localized="636209670506248387">杀了这国王，又能顶什么用？</Localize>
@@ -9668,7 +9668,7 @@
   <Localize id="2135174b-0ddf-428b-98ca-a237ba18e3ed" localized="636160435257715529">阿斯莱夫嘴上[i]说[/i]，不怪我在你俩决斗前给你下毒，可心里头这道坎铁定没过去。我呢，干脆就躲着他走。</Localize>
   
   
-  <Localize id="21358a93-17f7-489f-8eb7-feba49597f9f" localized="635973674811155298">我看这[i][Player:bastardr/bikkja][/i]是把咱们当成一群哈喇子直流的白痴了。</Localize>
+  <Localize id="21358a93-17f7-489f-8eb7-feba49597f9f" localized="635973674811155298">我看这[i][Player:混蛋/贱人][/i]是把咱们当成一群哈喇子直流的白痴了。</Localize>
   
   
   <Localize id="213ac584-2011-416a-ad71-ada4d6909121" localized="636112783632344940">刚才我还在琢磨，你打算在暗处蹲到什么时候。</Localize>
@@ -9683,7 +9683,7 @@
   <Localize id="2141a117-f1d3-46e9-b32f-8483776eb8be" localized="636136050127750686">让我猜猜：搅黄这场和谈的差事，不知怎么的，就又落到咱们头上了。</Localize>
   
   
-  <Localize id="2141b737-8386-4e94-899c-c69bcf3cdc9b" localized="635853597873618421">晚上好，[Player:brother/sis]——{鲁里克咧嘴一笑} 我是说，[i]我尊贵的领主[/i]。感觉如何？</Localize>
+  <Localize id="2141b737-8386-4e94-899c-c69bcf3cdc9b" localized="635853597873618421">晚上好，[Player:兄弟/姐妹]——{鲁里克咧嘴一笑} 我是说，[i]我尊贵的领主[/i]。感觉如何？</Localize>
   
   
   <Localize id="21451477-a2b4-4e5b-817e-48850b8e7f77" localized="636150670698096527">此剑一面镶嵌编织纹样，另一面铭刻着VLFBERHT。以法兰克坩埚钢锻造而成，其强度与韧性，足见铸剑师堪称真正的大师。</Localize>
@@ -9842,7 +9842,7 @@
   <Localize id="21da003c-aa01-4dd8-afa8-663b6ca46f2d" localized="636179306113627469"/>
   
   
-  <Localize id="21dc2f89-353b-425a-9e5f-ae245f249096" localized="635856881701966112">[Player:He/She]说得没错，奥塔尔。这绝不是父亲想要的。</Localize>
+  <Localize id="21dc2f89-353b-425a-9e5f-ae245f249096" localized="635856881701966112">[Player:他/她]说得没错，奥塔尔。这绝不是父亲想要的。</Localize>
   
   
   <Localize id="21dfa020-87da-419a-a750-0ff897654889" localized="635867773739050711">你从他肠中抽出剑刃，他瘫倒在冰冻的地面上，发出一声漫长而痛苦的呻吟。转瞬之间，万籁俱寂。</Localize>
@@ -9863,7 +9863,7 @@
   <Localize id="21f55c1a-3a11-4d4d-baae-d1ab09275d89" localized="636132837287271015"/>
   
   
-  <Localize id="21f62019-8cda-4ae0-b3a9-71e70fe12071" localized="636111783715558664">欢迎光临我这简陋的摊位，诺尔斯[Player:Hlaford/Hlafdia]。关于贵方，我听到过许多令人安心的说法。若您要寻药草或药剂，敝处应有尽有。</Localize>
+  <Localize id="21f62019-8cda-4ae0-b3a9-71e70fe12071" localized="636111783715558664">欢迎光临我这简陋的摊位，诺尔斯[Player:领主/女领主]。关于贵方，我听到过许多令人安心的说法。若您要寻药草或药剂，敝处应有尽有。</Localize>
   
   
   <Localize id="21fbb6f4-5c29-4db1-a633-cda7d9eb4a9d" localized="636020300893920248">他垂头丧气地重又拿起斧头，把满腔怒火尽数发泄在柴火上。</Localize>
@@ -10127,7 +10127,7 @@
   <Localize id="22ee02f0-7c7a-4fcd-931d-3614caf6c418" localized="636136135182635638">瓦达说你知道一个叫唐德瓦恩的人的下落？</Localize>
   
   
-  <Localize id="22ee7595-10ec-43fd-a705-90d83c8c312d" localized="636016135628943272">我一直都看走了眼。多谢你，小[Player:brother/sister]。我会好好想过。</Localize>
+  <Localize id="22ee7595-10ec-43fd-a705-90d83c8c312d" localized="636016135628943272">我一直都看走了眼。多谢你，小[Player:兄弟/姐妹]。我会好好想过。</Localize>
   
   
   <Localize id="22efc363-711e-414c-883a-aaf4ac582d1e" localized="636172657087313085"/>
@@ -10214,7 +10214,7 @@
   <Localize id="2340c708-928f-4f7a-9d69-9965d3403a21" localized="635866864106044220">作为这场争端的挑战方，按规矩得由你来宣读决斗规则。</Localize>
   
   
-  <Localize id="2343429e-a40c-4673-b4a9-7a31148b5a5d" localized="636224225720225422">[Random01:Name]用[Player:his/her]脚尖捅了捅国王的尸身。</Localize>
+  <Localize id="2343429e-a40c-4673-b4a9-7a31148b5a5d" localized="636224225720225422">[Random01:Name]用[Player:他/她]脚尖捅了捅国王的尸身。</Localize>
   
   
   <Localize id="2346663c-59af-4292-aad3-d1ff6f9a74a8" localized="636192166997055203">我觉得你最好还是离开。就现在。</Localize>
@@ -10364,7 +10364,7 @@
   <Localize id="23c7b02a-846a-4ec6-a1c9-238fd4f6f787" localized="636202470569807835">很好——你的话就是命令。我会把消息传达到集结的部队中去。</Localize>
   
   
-  <Localize id="23c89d5d-8777-42f1-9332-078b36f2f806" localized="635959883784234746">谢谢你！谢谢你，慷慨的[Player:warrior/shieldmaiden]！</Localize>
+  <Localize id="23c89d5d-8777-42f1-9332-078b36f2f806" localized="635959883784234746">谢谢你！谢谢你，慷慨的[Player:战士/盾女]！</Localize>
   
   
   <Localize id="23c9752c-5954-4117-bfb9-1e4f26767071" localized="636159558292643044">最后一个德鲁伊——他在哪儿？</Localize>
@@ -10376,7 +10376,7 @@
   <Localize id="23cbdd1b-ec54-4e8e-9d88-90359f48a2b7" localized="636161098750777974">你是真心愿意加入我的亲卫队？</Localize>
   
   
-  <Localize id="23cc2188-6eb4-4110-bf53-6a0d19a39a9e" localized="636180231926798480">我明白，你那次出手动机很单纯——不过是想发笔财。所以，你是个对暴力毫无顾忌的[Player:man/woman]，而且你的忠诚是可以收买的。</Localize>
+  <Localize id="23cc2188-6eb4-4110-bf53-6a0d19a39a9e" localized="636180231926798480">我明白，你那次出手动机很单纯——不过是想发笔财。所以，你是个对暴力毫无顾忌的[Player:男子/女子]，而且你的忠诚是可以收买的。</Localize>
   
   
   <Localize id="23cc90e4-0678-4bf1-a7cb-411700b85408" localized="636192124939582934">马班也派你来这儿了？</Localize>
@@ -10511,7 +10511,7 @@
   <Localize id="243b2b7c-80e8-4469-8f82-f8827ebd6d27" localized="635967755517232179"/>
   
   
-  <Localize id="243bd11d-38d6-430a-962b-3f8d82917c45" localized="635853452004787120">如您所愿，亲爱的[Player:boy/girl]。我本不该多管闲事的！</Localize>
+  <Localize id="243bd11d-38d6-430a-962b-3f8d82917c45" localized="635853452004787120">如您所愿，亲爱的[Player:男孩/女孩]。我本不该多管闲事的！</Localize>
   
   
   <Localize id="243f9a4a-0734-45fb-b67a-c37d3e2b8c67" localized="636126541242734569"/>
@@ -10850,7 +10850,7 @@
   <Localize id="25821aaa-20df-4b13-a14c-5098ca7018fc" localized="636194921301753992">她看起来像要着起火来。</Localize>
   
   
-  <Localize id="2582dd69-092f-41bb-b652-8d9561c656de" localized="635896040854086353">让统治权就这么父传[Player:son/daughter]，并非我们的规矩。若要重振氏族雄风，便得推举最强的战士当领主。你并非我等之中最强者——不过是你父亲膝下不那么孱弱的崽子罢了。</Localize>
+  <Localize id="2582dd69-092f-41bb-b652-8d9561c656de" localized="635896040854086353">让统治权就这么父传[Player:儿子/女儿]，并非我们的规矩。若要重振氏族雄风，便得推举最强的战士当领主。你并非我等之中最强者——不过是你父亲膝下不那么孱弱的崽子罢了。</Localize>
   
   
   <Localize id="2584412f-356d-4503-bdc4-800605f9949e" localized="635925191259447185">{打量守卫。}</Localize>
@@ -11012,7 +11012,7 @@
   <Localize id="262a7adb-0dd0-4352-842b-bd8e3b83c943" localized="635863849775856974"/>
   
   
-  <Localize id="262af0f4-b8cf-413b-9802-ea86d9143d5c" localized="635864320939932662">这位是[Player:Name]，[Player:Father]与阿斯特丽德的[Player:son/daughter]。你还记得[Player:him/her]吗？</Localize>
+  <Localize id="262af0f4-b8cf-413b-9802-ea86d9143d5c" localized="635864320939932662">这位是[Player:Name]，[Player:Father]与阿斯特丽德的[Player:儿子/女儿]。你还记得[Player:他/她]吗？</Localize>
   
   
   <Localize id="262e5e4c-7c5b-4502-a9fb-17e22720c861" localized="636120399448228566"/>
@@ -11162,7 +11162,7 @@
   <Localize id="269de2f0-f328-44ec-a7b5-0c34c47deb16" localized="636112829226091374">{拒绝她的提议。} 门儿也没有。</Localize>
   
   
-  <Localize id="26a00258-5077-4561-aabf-dda8d80b8fa4" localized="635971993355915150">又见面了，[Player:lad/lass]。可算凑够银钱啦？</Localize>
+  <Localize id="26a00258-5077-4561-aabf-dda8d80b8fa4" localized="635971993355915150">又见面了，[Player:小伙子/姑娘]。可算凑够银钱啦？</Localize>
   
   
   <Localize id="26a1ef3d-c7a4-46d4-afab-8d4d87ec7d9d" localized="636209489024107979">可怜的乌尔夫。他闯过了那么多险境，到头来却倒在了自己家中。他本可以在你外出时，帮着训练那些年轻人的。</Localize>
@@ -11231,7 +11231,7 @@
   <Localize id="26d72312-9d21-4587-8a5e-1cf32de7e252" localized="636223314036236322">若你行事得法，兴许能当上埃奥福维克的新统治者。我本想为你的效劳提前兑现这份酬劳，可其中牵扯了太多政治上的顾虑。</Localize>
   
   
-  <Localize id="26e90cfb-f7c4-4299-a760-d4048fc2c006" localized="635966129594299022">够了！你虽是领主，可也是我的[Player:nephew/niece]！看在我这糟老头子自己那份悲痛上，就容我留些秘密吧。</Localize>
+  <Localize id="26e90cfb-f7c4-4299-a760-d4048fc2c006" localized="635966129594299022">够了！你虽是领主，可也是我的[Player:侄子/侄女]！看在我这糟老头子自己那份悲痛上，就容我留些秘密吧。</Localize>
   
   
   <Localize id="26ecb2e6-1228-4b69-8fca-14891a1537b1" localized="636107638673288189">也许吧，要是有机会的话。</Localize>
@@ -11261,7 +11261,7 @@
   <Localize id="26fd9d1e-2216-41d4-b83b-0bf008cb88bc" localized="636174057524915745">你把财宝藏哪儿了？嗯？！</Localize>
   
   
-  <Localize id="26fe4db1-38a3-4717-be26-67f43a0984ee" localized="635996137034972206">他们都错了。我是你的[Player:brother/sister]，我清楚你的力量。你那来自智慧和仁慈的力量。</Localize>
+  <Localize id="26fe4db1-38a3-4717-be26-67f43a0984ee" localized="635996137034972206">他们都错了。我是你的[Player:兄弟/姐妹]，我清楚你的力量。你那来自智慧和仁慈的力量。</Localize>
   
   
   <Localize id="26fe5d9f-ac28-430f-b2bc-6ab61c8823a4" localized="636087672501758619"/>
@@ -12029,7 +12029,7 @@
   <Localize id="29cfb965-1e87-4908-bac5-d84d6c59808c" localized="636120444333432438">好吧，我会替你找到那个德鲁伊。</Localize>
   
   
-  <Localize id="29d04e43-79cd-4f01-83f4-8a406b3973b0" localized="636221490838304441">我明白了。只可惜，[Player:he/she]来得太晚了。伦比约恩号早已扬帆远去。</Localize>
+  <Localize id="29d04e43-79cd-4f01-83f4-8a406b3973b0" localized="636221490838304441">我明白了。只可惜，[Player:他/她]来得太晚了。伦比约恩号早已扬帆远去。</Localize>
   
   
   <Localize id="29d1050a-912d-47c9-a700-7ef249a284de" localized="635932967560044789">没错。我们要进去。</Localize>
@@ -12446,7 +12446,7 @@
   <Localize id="2b2b76fd-2e4b-481a-9bac-002bfee36251" localized="636168381189380360">营地里北欧人和皮克特人的帐篷混在一处，可那一面面旗帜上全绣着斯库勒的纹章之色——一眼便知，这里是谁说了算。</Localize>
   
   
-  <Localize id="2b32c8a4-a9d7-4d38-a2c9-028caf34d43d" localized="635971823486539814">我是[Player:Name]的[Player:son/daughter]，[Player:Father]。</Localize>
+  <Localize id="2b32c8a4-a9d7-4d38-a2c9-028caf34d43d" localized="635971823486539814">我是[Player:Name]的[Player:儿子/女儿]，[Player:Father]。</Localize>
   
   
   <Localize id="2b343dfc-230f-4e4b-91b3-3d865ab28c14" localized="635925637512494865">他只是朝她草草点了个头。</Localize>
@@ -12515,7 +12515,7 @@
   <Localize id="2b588c07-23cb-403d-8d8d-578927525dfc" localized="636166496119904726">说到这个，计划是什么？如果我没理解错任务的话，我们是要去挫败一场外交联盟？</Localize>
   
   
-  <Localize id="2b592fd5-f332-4151-9f04-a0b1592fb596" localized="636002199430540883">希望你不是来找麻烦的，[Player:Norseman/Norsewoman]。我们这儿麻烦已经够多了。</Localize>
+  <Localize id="2b592fd5-f332-4151-9f04-a0b1592fb596" localized="636002199430540883">希望你不是来找麻烦的，[Player:诺斯人/诺斯女子]。我们这儿麻烦已经够多了。</Localize>
   
   
   <Localize id="2b5a5310-4a36-4972-8d34-da3a4c4f500f" localized="636136995839018957">你已经证明了你是位强大而睿智的雅尔——只需你承担我的开销，这就是我索要的全部报酬。</Localize>
@@ -12704,7 +12704,7 @@
   <Localize id="2beeda1d-9556-4728-944e-cdbff785c5f2" localized="636180275495670353"/>
   
   
-  <Localize id="2bf376a2-7d63-44f4-8640-4711f6b1daf6" localized="635972041195836001">你把那帮杂碎解决得可真利落。真是正中我[Player:Man/Woman]意。</Localize>
+  <Localize id="2bf376a2-7d63-44f4-8640-4711f6b1daf6" localized="635972041195836001">你把那帮杂碎解决得可真利落。真是正中我[Player:男子/女子]意。</Localize>
   
   
   <Localize id="2bf6d415-d573-4b12-87e7-b643546da8a3" localized="635966120523500208"/>
@@ -12812,7 +12812,7 @@
   <Localize id="2c57c08a-f41d-4231-9cf9-0fbd832ef58a" localized="636229401334845324"/>
   
   
-  <Localize id="2c57c271-67d2-4bc4-8165-17cc2cb5415f" localized="636111006827973097">统治者的唯一责任，便是对[Player:his/her]子民负责。</Localize>
+  <Localize id="2c57c271-67d2-4bc4-8165-17cc2cb5415f" localized="636111006827973097">统治者的唯一责任，便是对[Player:他/她]子民负责。</Localize>
   
   
   <Localize id="2c5880b8-ae19-4bbe-90ba-5aa81ba0fb72" localized="635841521503056309">{把剩下那些奴仆给我盯牢了。}</Localize>
@@ -12893,7 +12893,7 @@
   <Localize id="2c83c138-f8be-44a1-9781-59155d435edb" localized="636166430440525793">是啊……原该是我成全你，不对么？这便让你掏五十个厄尔图格带走它。可还中意？</Localize>
   
   
-  <Localize id="2c85b197-db95-446f-a260-6a565f9faf08" localized="636177855655250257">你就没有什么话，要对[Player:him/her]讲么？</Localize>
+  <Localize id="2c85b197-db95-446f-a260-6a565f9faf08" localized="636177855655250257">你就没有什么话，要对[Player:他/她]讲么？</Localize>
   
   
   <Localize id="2c89fc9d-4e46-4a93-a334-15b4cf9f574e" localized="636160319931354833">咱们船上会合。</Localize>
@@ -13493,7 +13493,7 @@
   <Localize id="2e9acda0-b857-42d9-a2c4-c70a3b676258" localized="636168877638217190">赫罗德盖尔达侧身靠过来，冲你肃然点了点头。</Localize>
   
   
-  <Localize id="2e9c4a23-523b-4ef7-ab55-572da947acd2" localized="636232052694092627">……对斯库勒再也构不成威胁……要是[Player:he/she]能从那身[Player:his/her]伤里挺过来……</Localize>
+  <Localize id="2e9c4a23-523b-4ef7-ab55-572da947acd2" localized="636232052694092627">……对斯库勒再也构不成威胁……要是[Player:他/她]能从那身[Player:他/她]伤里挺过来……</Localize>
   
   
   <Localize id="2e9cb193-1cd6-4ab3-b700-3acfa2fa2f7b" localized="635868712563151028">贡纳尔转过身离开，右手朝一个你看不见的人打了个手势。</Localize>
@@ -13610,7 +13610,7 @@
   <Localize id="2f02118f-9465-4d51-a631-d8efe37a2562" localized="635965795559009511">她举起双手。</Localize>
   
   
-  <Localize id="2f042cb8-7c67-4eee-98c9-788830c009f0" localized="636194904080048837">既然你这么说，[Player:lad/lass]。呵，我可觉得你真干得出来。</Localize>
+  <Localize id="2f042cb8-7c67-4eee-98c9-788830c009f0" localized="636194904080048837">既然你这么说，[Player:小伙子/姑娘]。呵，我可觉得你真干得出来。</Localize>
   
   
   <Localize id="2f0bf46f-5b0a-4804-8aa2-131daee7e967" localized="636187035312764922">你就是郡长伍尔夫西格吧。</Localize>
@@ -13961,7 +13961,7 @@
   <Localize id="30229e67-826c-4ff5-802e-1ae3f5167b59" localized="635973622636585587">用一圈火焰来驱走那些灯笼人……</Localize>
   
   
-  <Localize id="3023e8f5-2949-43b2-9599-334557a135c5" localized="636226106267337692">这么久以来，我拼命把这些念头从脑海里赶走，总想着你会拒绝我，自己吓自己，或者……哇，你真是[Player:handsome/beautiful]。</Localize>
+  <Localize id="3023e8f5-2949-43b2-9599-334557a135c5" localized="636226106267337692">这么久以来，我拼命把这些念头从脑海里赶走，总想着你会拒绝我，自己吓自己，或者……哇，你真是[Player:英俊/美丽]。</Localize>
   
   
   <Localize id="30249db2-38e8-43fd-a5f5-1734424db166" localized="635882950179005021">不。若你想要尊严，那就战至你咽下最后一口气吧。</Localize>
@@ -14039,7 +14039,7 @@
   <Localize id="306ebe9f-c646-4d98-9cd1-05894b49e677" localized="635919270983626410">把大蒜塞进那儿，保准治好。</Localize>
   
   
-  <Localize id="306f1ad2-201e-492f-9228-2714c0cabecc" localized="636132831767587798">我看这些就是[Player:Name]在埃塞尔雷德营地审完那个间谍后，[Player:he/she]提到过的那几个孩子。</Localize>
+  <Localize id="306f1ad2-201e-492f-9228-2714c0cabecc" localized="636132831767587798">我看这些就是[Player:Name]在埃塞尔雷德营地审完那个间谍后，[Player:他/她]提到过的那几个孩子。</Localize>
   
   
   <Localize id="3070c6d8-ae5e-455b-aabf-fbf3e759b295" localized="636174940018421929">牧师正指挥卫兵们把长椅拖到门口，用它们加固教堂。</Localize>
@@ -14192,7 +14192,7 @@
   <Localize id="30e0bf8c-dc38-4c6a-bf10-912978e03878" localized="636187008469681599">你们干吗不干脆攻过来？</Localize>
   
   
-  <Localize id="30e0ca07-dc04-43db-970a-48e8e4651cde" localized="635966100792293119">我是[Player:Name]，[Player:Father]的[Player:son/daughter]，斯凯恩领主。</Localize>
+  <Localize id="30e0ca07-dc04-43db-970a-48e8e4651cde" localized="635966100792293119">我是[Player:Name]，[Player:Father]的[Player:儿子/女儿]，斯凯恩领主。</Localize>
   
   
   <Localize id="30e13656-84c3-4455-9607-fee8e2f57c41" localized="636190414635419554">多谢！多谢！您可真是太仁慈了！</Localize>
@@ -14780,7 +14780,7 @@
   <Localize id="32c2e4a2-e195-4d49-a5fb-962e865a6c58" localized="636114454580825038">那头红发，那副天真无邪的模样，实在叫人招架不住。</Localize>
   
   
-  <Localize id="32c841e8-00c5-4870-b154-414b7db1fe0d" localized="636132834033009239">我想这大概是[Player:Name]在[Player:he/she]审问过埃塞尔雷德营地的那个间谍之后，说起过的那个丈夫。</Localize>
+  <Localize id="32c841e8-00c5-4870-b154-414b7db1fe0d" localized="636132834033009239">我想这大概是[Player:Name]在[Player:他/她]审问过埃塞尔雷德营地的那个间谍之后，说起过的那个丈夫。</Localize>
   
   
   <Localize id="32ced091-90c1-47ec-b4bb-70bf4e2b9785" localized="635895021765008588">我有个主意，就用在这儿！</Localize>
@@ -15146,7 +15146,7 @@
   <Localize id="340a93c4-4746-4dfa-9a42-a5d26cc1549b" localized="636120425360538386"/>
   
   
-  <Localize id="340d6dbd-ec91-41a8-aea5-501d52b34f28" localized="636138579699480748">算不上[Player:king/queen]。我是斯凯恩领主，[Player:Name]。</Localize>
+  <Localize id="340d6dbd-ec91-41a8-aea5-501d52b34f28" localized="636138579699480748">算不上[Player:国王/女王]。我是斯凯恩领主，[Player:Name]。</Localize>
   
   
   <Localize id="340ed463-b3f3-44cf-90fa-db251fa832ab" localized="635856872107274995">这事毫无半点荣誉可言。</Localize>
@@ -15341,7 +15341,7 @@
   <Localize id="34d26883-b25e-4c9f-abb2-e84f403577f3" localized="636106636682803576">你也不过如此！</Localize>
   
   
-  <Localize id="34df16a7-4c62-4a45-93c6-be94483d24ab" localized="635882959529946170">我会在来世找到你，你这猪狗不如的[Player:you son/daughter]！我定会在冥府寻着你，叫你抱憾！</Localize>
+  <Localize id="34df16a7-4c62-4a45-93c6-be94483d24ab" localized="635882959529946170">我会在来世找到你，你这猪狗不如的[Player:你这儿子/你这女儿]！我定会在冥府寻着你，叫你抱憾！</Localize>
   
   
   <Localize id="34e7496d-4bc0-427b-9680-29b84e1dc4ed" localized="636153578936297783">我们确非基督徒，这确属实。</Localize>
@@ -15803,7 +15803,7 @@
   <Localize id="36a74727-acf9-4458-984b-424ed6f5768d" localized="636190594694391370">不，没事，一切都好得很。</Localize>
   
   
-  <Localize id="36a7d7c9-5a6b-4833-9422-dbb48912ef74" localized="635967650732124028">愿你健壮又幸运，我[Player:honourable/beautiful]的酋长。您可是来向这萨克森以北最出色的铁匠，订购一把武器的？</Localize>
+  <Localize id="36a7d7c9-5a6b-4833-9422-dbb48912ef74" localized="635967650732124028">愿你健壮又幸运，我[Player:尊贵/美丽]的酋长。您可是来向这萨克森以北最出色的铁匠，订购一把武器的？</Localize>
   
   
   <Localize id="36a88e3e-dbf4-4721-92b3-cbd0bdeb1eca" localized="636111007762802868"/>
@@ -16577,7 +16577,7 @@
   <Localize id="3997a78d-a003-4f88-a63e-cb9615beeb39" localized="635972780519195721">在远离众人和温暖篝火的地方，四个戴着锁链的奴隶由一个面色凄苦的猎人看管着。</Localize>
   
   
-  <Localize id="399bcbd5-98ec-4acd-8001-de8ee883198d" localized="636137008500171343">你已经证明了自己是个好[Player:man/woman]，也是诺森布里亚人民的朋友。如果有什么我能为你做的，我保证会给你公道的价格。</Localize>
+  <Localize id="399bcbd5-98ec-4acd-8001-de8ee883198d" localized="636137008500171343">你已经证明了自己是个好[Player:男子/女子]，也是诺森布里亚人民的朋友。如果有什么我能为你做的，我保证会给你公道的价格。</Localize>
   
   
   <Localize id="399d3e4f-d9d7-4bff-a5b1-52b27eb348cb" localized="636185668279877402">埃塞尔雷德的军械大师从营地的另一头跑了过来。</Localize>
@@ -16853,7 +16853,7 @@
   <Localize id="3aa81053-4994-4c8d-a1f2-cd302aaa1ec6" localized="636143076350115925">你在里头扮演这角色，我可一点都不眼红。那位可爱的贵妇向来……情绪敏感。我担心，她可听不得什么坏消息。</Localize>
   
   
-  <Localize id="3aa87e86-b370-45dd-a254-16265804cf6f" localized="635857130350148053">领主的位子，绝不该像传剑传马那样，从父亲手里传给[Player:son/daughter]。咱们的族人要延续下去，就[i]必须[/i]保证是由最强大、最有智慧的人来统治我们。</Localize>
+  <Localize id="3aa87e86-b370-45dd-a254-16265804cf6f" localized="635857130350148053">领主的位子，绝不该像传剑传马那样，从父亲手里传给[Player:儿子/女儿]。咱们的族人要延续下去，就[i]必须[/i]保证是由最强大、最有智慧的人来统治我们。</Localize>
   
   
   <Localize id="3aa88056-c314-4f65-aebe-658eefc3debb" localized="636227745255332901">比约格迪丝的声音里满是疲倦。</Localize>
@@ -16988,7 +16988,7 @@
   <Localize id="3b12695f-15fd-4b49-ab1e-71975186bc4d" localized="636192273609604370">玛班双手向上猛击你的前臂，迫使你松开了他的领口。他紧接着向后跃去，拔出了刀。</Localize>
   
   
-  <Localize id="3b13c516-bd6a-4630-85fc-784c07036194" localized="636221701596135101">我痛快极了！我一直在盼着这一天，我终于能自称诺森布里亚的[Player:king/queen]了！</Localize>
+  <Localize id="3b13c516-bd6a-4630-85fc-784c07036194" localized="636221701596135101">我痛快极了！我一直在盼着这一天，我终于能自称诺森布里亚的[Player:国王/女王]了！</Localize>
   
   
   <Localize id="3b17b83c-ca2a-4c94-80e4-aae2e06b7ba2" localized="636165466378192254">啊！希望你不会觉得这太唐突——我自作主张，在这给你立了块符文石，聊表敬意。</Localize>
@@ -17012,7 +17012,7 @@
   <Localize id="3b252e13-8e8c-4bbe-9c4f-8036476e5962" localized="636164114446049107">行，抱歉。</Localize>
   
   
-  <Localize id="3b256786-4b03-4bf3-b3f7-afe95be0cc40" localized="636175031019200809">Dominus Vobiscum，[Player:Hlaford/Hlafdia]。本想盛情款待于您，可您也瞧见了，眼下我们这儿正乱成一团。</Localize>
+  <Localize id="3b256786-4b03-4bf3-b3f7-afe95be0cc40" localized="636175031019200809">Dominus Vobiscum，[Player:领主/女领主]。本想盛情款待于您，可您也瞧见了，眼下我们这儿正乱成一团。</Localize>
   
   
   <Localize id="3b27ffb4-1bdb-4ac3-9cc6-d7fee0aabfa6" localized="636191357047506240">你试着把这凯蒂尔的旧事说给老人听，要他明白帮凯蒂尔一家团聚才是正理，可你口拙舌笨，总也说他不服，他脸上明明白白写着不为所动。</Localize>
@@ -17186,7 +17186,7 @@
   <Localize id="3bd4cdd6-30fd-4da9-9090-ad6aacd9e8ae" localized="636194932533131102"/>
   
   
-  <Localize id="3bd849db-0ae4-4095-94b3-de724bf266fc" localized="636136146442797908">[Player:Norseman/Norsewoman]。你有何贵干？</Localize>
+  <Localize id="3bd849db-0ae4-4095-94b3-de724bf266fc" localized="636136146442797908">[Player:诺斯人/诺斯女子]。你有何贵干？</Localize>
   
   
   <Localize id="3bdcbb25-4355-4b5a-9720-c5434a50d96f" localized="635960838350482115">那商人扭绞着双手，做出一副忧心忡忡的模样。</Localize>
@@ -17714,7 +17714,7 @@
   <Localize id="3db0f5a2-fe0e-480c-bbba-2a406213336a" localized="636223336800569583">陛下——待您定夺的事务，已是堆积如山了。</Localize>
   
   
-  <Localize id="3db39162-3ebc-412d-8da1-2ed6fd64a629" localized="636112678798126636">[Player:Hlaford/Hlafdia]？这是我们语言中表示敬意的尊称。它的意思是……</Localize>
+  <Localize id="3db39162-3ebc-412d-8da1-2ed6fd64a629" localized="636112678798126636">[Player:领主/女领主]？这是我们语言中表示敬意的尊称。它的意思是……</Localize>
   
   
   <Localize id="3db4af39-675f-4774-aa37-30ff31641a82" localized="636126562643079725">罢了，反正也与我无关了。Far vel。</Localize>
@@ -17981,7 +17981,7 @@
   <Localize id="3e725d7f-3d8a-4f5f-988c-fb036e03f078" localized="635882113407956745"/>
   
   
-  <Localize id="3e74bccb-e95a-42d9-b455-47c714d961a2" localized="636088676705901900">等我确认一切恢复如初，我就会去禀报主教大人此间发生的事。感谢你的援手，[Player:Norseman/Norsewoman]。你今日为上帝效力，做得很好。</Localize>
+  <Localize id="3e74bccb-e95a-42d9-b455-47c714d961a2" localized="636088676705901900">等我确认一切恢复如初，我就会去禀报主教大人此间发生的事。感谢你的援手，[Player:诺斯人/诺斯女子]。你今日为上帝效力，做得很好。</Localize>
   
   
   <Localize id="3e7564a8-e3c5-4885-b91a-5167b67b75f0" localized="636210254981914994">你将成为战俘。一旦你重获自由，就回家与你的家人团聚吧。</Localize>
@@ -18287,7 +18287,7 @@
   <Localize id="3f645f85-7a69-4cbf-b7e9-cbae11d28c87" localized="636227812009874551">来吧。不着急。仔细着，一滴也别洒出来。</Localize>
   
   
-  <Localize id="3f658615-1aaf-4805-b235-3293029920c6" localized="636172656614139507">这个[Player:man/woman]是个冒牌货！这帮人全是异教的闯入者，不配替我们国王代言！</Localize>
+  <Localize id="3f658615-1aaf-4805-b235-3293029920c6" localized="636172656614139507">这个[Player:男子/女子]是个冒牌货！这帮人全是异教的闯入者，不配替我们国王代言！</Localize>
   
   
   <Localize id="3f71441d-6b9c-44dc-b6df-b52f8814619a" localized="636174074623575101"/>
@@ -18323,7 +18323,7 @@
   <Localize id="3f8ba5f0-5913-4d98-a3eb-1f92b795b7c4" localized="636174297660597775">正是在下。我在南边的低地过活、打猎，这里你看到的每一样东西，都是我亲手做的。</Localize>
   
   
-  <Localize id="3f911614-42a1-4705-9ef5-69a2b3341297" localized="635989991164244920">你赢了，[Player:son/daughter]的[Player:Father]。来吧，给我个痛快。</Localize>
+  <Localize id="3f911614-42a1-4705-9ef5-69a2b3341297" localized="635989991164244920">你赢了，[Player:儿子/女儿]的[Player:Father]。来吧，给我个痛快。</Localize>
   
   
   <Localize id="3f912df7-900f-4ed0-aa52-1b171b8ece11" localized="636186219111254762"/>
@@ -18788,7 +18788,7 @@
   <Localize id="41232a41-9a08-4938-b2b5-cd4083f794a7" localized="636020225725314138">他面露迟疑，仿佛答案实在太过浅白。</Localize>
   
   
-  <Localize id="41245f30-9457-42ee-a2a9-cf5e62eb2beb" localized="636223504859191312">无论是斯克耶恩、那条河还是峡湾，我的防线都固若金汤。我乃奥克尼群岛的雅尔，亦是诺森布里亚与皮克塔维亚的[Player:king/queen]。</Localize>
+  <Localize id="41245f30-9457-42ee-a2a9-cf5e62eb2beb" localized="636223504859191312">无论是斯克耶恩、那条河还是峡湾，我的防线都固若金汤。我乃奥克尼群岛的雅尔，亦是诺森布里亚与皮克塔维亚的[Player:国王/女王]。</Localize>
   
   
   <Localize id="412bc7d7-8b64-4942-85f9-02b0310d33b4" localized="636147398960214377">哼，[i]那根[/i]绳子看起来[i]半点儿[/i]也不可疑。</Localize>
@@ -18893,7 +18893,7 @@
   <Localize id="4171578b-6824-43f6-ab34-67e9b86e25b4" localized="636160273312968869"/>
   
   
-  <Localize id="4172a1d4-c3ca-46dd-a774-e8de2d83c7a0" localized="635975451673736004">好了……告别这事，越是拖延便越是难开口。愿诸神之风鼓满你的船帆，我的[Player:son/daughter]。</Localize>
+  <Localize id="4172a1d4-c3ca-46dd-a774-e8de2d83c7a0" localized="635975451673736004">好了……告别这事，越是拖延便越是难开口。愿诸神之风鼓满你的船帆，我的[Player:儿子/女儿]。</Localize>
   
   
   <Localize id="4175142a-50f4-4544-8668-2fa60be8ad8b" localized="636038357720612612"/>
@@ -18965,7 +18965,7 @@
   <Localize id="41c60432-89e1-4637-a26f-6dee3a874ca4" localized="636107632831176302">他的一名手下端来一碗鱼和根茎蔬菜熬的汤，外加几块还算新鲜的面包。你们两边的扈从都在别的屋里吃饭，所以你和斯泰因得以独享宽敞的空间。</Localize>
   
   
-  <Localize id="41c6472a-271b-4f9b-8cdd-505d37f5421e" localized="636221600912076596">斯凯恩正在造一艘新的长船。[Player:Name] [Player:Lastname]已经雇了一队船员。[Player:He/She]打算向西航行。</Localize>
+  <Localize id="41c6472a-271b-4f9b-8cdd-505d37f5421e" localized="636221600912076596">斯凯恩正在造一艘新的长船。[Player:Name] [Player:Lastname]已经雇了一队船员。[Player:他/她]打算向西航行。</Localize>
   
   
   <Localize id="41c7da59-0be4-4ac8-bbc8-62bc116983be" localized="636164107420503405"/>
@@ -19076,7 +19076,7 @@
   <Localize id="42256d65-1b51-4fea-9cf7-2d0d3936a541" localized="636107628039256157">你胆子不小，容貌也动人。我可不愿让你这样的女人过早踏入芙蕾雅的殿堂。</Localize>
   
   
-  <Localize id="422593fe-65d5-4be0-ad23-5d99f17f3df7" localized="636136010064487556">只要我们能摸到牢门旁边，[Player:Name]兴许就能加入战斗，只要[Player:he/she]伤得不太重。</Localize>
+  <Localize id="422593fe-65d5-4be0-ad23-5d99f17f3df7" localized="636136010064487556">只要我们能摸到牢门旁边，[Player:Name]兴许就能加入战斗，只要[Player:他/她]伤得不太重。</Localize>
   
   
   <Localize id="42327d66-f029-48a2-8314-e1ba795addff" localized="636111793850315014"/>
@@ -19487,7 +19487,7 @@
   <Localize id="43acee2b-42ff-4e76-b6be-546dab9ecd66" localized="636072227237161183">把你的脏手拿开！你这全族的[i]耻辱[/i]！</Localize>
   
   
-  <Localize id="43afca4c-ba2c-4212-8d75-0c0d005a47a7" localized="636202906051172765">[Player:King/Queen]？你？一个对诚实、善良、同情这些基督教美德一窍不通的人？你这德性，连统治皮克特人都不配！</Localize>
+  <Localize id="43afca4c-ba2c-4212-8d75-0c0d005a47a7" localized="636202906051172765">[Player:国王/女王]？你？一个对诚实、善良、同情这些基督教美德一窍不通的人？你这德性，连统治皮克特人都不配！</Localize>
   
   
   <Localize id="43b55f9e-1f33-442b-ba38-07d498f945d9" localized="636041102527439351">你只能信我了。现在，付钱。</Localize>
@@ -19508,7 +19508,7 @@
   <Localize id="43baea15-9867-45c8-a3af-a486ca46de35" localized="635990144273964130">此话当真？诸神在上……多谢！</Localize>
   
   
-  <Localize id="43bc2ac3-418a-4bba-bf95-e78836164b86" localized="636111783391421144">恕罪，[Player:Hlaford/Hlafdia]。我绝无不敬之意。是我祖母嘱咐过我，不得与……你们……的人打交道。</Localize>
+  <Localize id="43bc2ac3-418a-4bba-bf95-e78836164b86" localized="636111783391421144">恕罪，[Player:领主/女领主]。我绝无不敬之意。是我祖母嘱咐过我，不得与……你们……的人打交道。</Localize>
   
   
   <Localize id="43bf97a8-a03c-4b6a-b2c8-4329b42eb277" localized="636222583258877184">我们必须假定他无所不为。</Localize>
@@ -19889,7 +19889,7 @@
   <Localize id="44fae607-577f-481b-8b8f-aa937611edc1" localized="636120429837642167">嗯，德鲁伊几百年前就死绝了。</Localize>
   
   
-  <Localize id="44fe14a7-f0e2-4c2c-8113-ff9a1a315d36" localized="636223497661340401">领主[Player:Name]及其[Player:his/her]侍卫勉强击退了进攻，但这暴露了该地区防卫中的诸多严重缺陷。</Localize>
+  <Localize id="44fe14a7-f0e2-4c2c-8113-ff9a1a315d36" localized="636223497661340401">领主[Player:Name]及其[Player:他/她]侍卫勉强击退了进攻，但这暴露了该地区防卫中的诸多严重缺陷。</Localize>
   
   
   <Localize id="44fe77ea-9170-4fac-9a20-a09bb7081bdc" localized="636226682162218575"/>
@@ -19934,7 +19934,7 @@
   <Localize id="451a5579-11f6-4bc6-9969-39eaf1f007e5" localized="635962421657782722">守卫任务</Localize>
   
   
-  <Localize id="451b2f90-da5d-4d4d-b917-c2f28e5e1a0c" localized="636153660401519174">嘿，戴尔，你觉得我能从这儿一箭射穿[Player:his/her]脑袋吗？应该不比猎狐狸难吧，嗯？</Localize>
+  <Localize id="451b2f90-da5d-4d4d-b917-c2f28e5e1a0c" localized="636153660401519174">嘿，戴尔，你觉得我能从这儿一箭射穿[Player:他/她]脑袋吗？应该不比猎狐狸难吧，嗯？</Localize>
   
   
   <Localize id="451daa68-ad1e-4a39-8963-c68e47f687df" localized="636162313490769847"/>
@@ -20012,7 +20012,7 @@
   <Localize id="45643a89-361c-4dc2-871b-6b72123e52b4" localized="636038357720612612"/>
   
   
-  <Localize id="456d0b68-73d0-4e55-bfaa-19a2b3c66eef" localized="635974706281127442">太感谢您了，年轻的[Player:man/woman]。我们实在无以为报。请收下这张旧毛皮，聊表我们永恒的感激。</Localize>
+  <Localize id="456d0b68-73d0-4e55-bfaa-19a2b3c66eef" localized="635974706281127442">太感谢您了，年轻的[Player:男子/女子]。我们实在无以为报。请收下这张旧毛皮，聊表我们永恒的感激。</Localize>
   
   
   <Localize id="4572e405-6f60-4ee2-84dd-60464086f80c" localized="635978694672944718">凯蒂尔将一只手放在内菲娅的肩上。</Localize>
@@ -20438,7 +20438,7 @@
   <Localize id="46ed77ec-24b9-40b8-8bd5-90e57a5c701b" localized="635963374216106876">你仰起脖子，张开喉咙，任由麦酒径直灌进肚里，连吞咽都省了。一股灼人的燥热在胃底翻腾灼烧，等你大口喘过气来时，眼泪都呛了出来。</Localize>
   
   
-  <Localize id="46f17254-96b5-450f-a6c9-813c89da53db" localized="636217153130641900">吾乃[Player:Father]之子/女，[Player:Name] [Player:son/daughter]，诺森布里亚与皮克塔维亚的征服者。</Localize>
+  <Localize id="46f17254-96b5-450f-a6c9-813c89da53db" localized="636217153130641900">吾乃[Player:Father]之子/女，[Player:Name] [Player:儿子/女儿]，诺森布里亚与皮克塔维亚的征服者。</Localize>
   
   
   <Localize id="46f37408-7dd3-42b1-880a-4c6b6a69acef" localized="635939132434570256"/>
@@ -20585,7 +20585,7 @@
   <Localize id="4782cfcf-37b1-420f-ac25-f0a1104e0964" localized="636033613041190275">我给你的，正是这个问题的解决之道。</Localize>
   
   
-  <Localize id="47844d5d-5c12-46a7-9ce9-36a53e1a77a7" localized="636153356509826666">一个人的命途，多半从一开始就已注定。你现在脚下这条路，若非你生为领主的[Player:son/daughter]，永远也不可能为你敞开。</Localize>
+  <Localize id="47844d5d-5c12-46a7-9ce9-36a53e1a77a7" localized="636153356509826666">一个人的命途，多半从一开始就已注定。你现在脚下这条路，若非你生为领主的[Player:儿子/女儿]，永远也不可能为你敞开。</Localize>
   
   
   <Localize id="478849dd-7d90-4ffb-8f9c-d41df0d6cf4d" localized="635874210429776608">内夫娅蹲在营火残余的余烬旁，全神贯注地盯着地上的什么东西。</Localize>
@@ -20693,7 +20693,7 @@
   <Localize id="47c3bc8e-5c82-48b5-b96d-aa4c3f67d85d" localized="635987500296731950"/>
   
   
-  <Localize id="47c80dfa-3d66-4a4a-82b9-683dc1506508" localized="635883901445314834">别忙，[Player:lad/lass]。那趟远征送了他的命，也搭上了我们大部分船员的命。你没跟着他一块儿死在那，就偷着乐吧。</Localize>
+  <Localize id="47c80dfa-3d66-4a4a-82b9-683dc1506508" localized="635883901445314834">别忙，[Player:小伙子/姑娘]。那趟远征送了他的命，也搭上了我们大部分船员的命。你没跟着他一块儿死在那，就偷着乐吧。</Localize>
   
   
   <Localize id="47d08234-9aca-4dfa-a9c1-b964693ce291" localized="636087681747079720">他们躲不了多久。等其余人马一到，我们就能找出他们。</Localize>
@@ -21146,7 +21146,7 @@
   <Localize id="49488f04-6e25-463c-9dfc-1dff06dd64e6" localized="636164110627114830">我们那时入了维松德号的伙。约斯泰因是个吟游诗人——</Localize>
   
   
-  <Localize id="4948b5aa-33a8-4c89-ad64-d9b54dc92ee2" localized="636228638287676626">记好我的话，[Player:Norseman/Norsewoman]：那古旧的城墙内，还躺着另一个枉死鬼。</Localize>
+  <Localize id="4948b5aa-33a8-4c89-ad64-d9b54dc92ee2" localized="636228638287676626">记好我的话，[Player:诺斯人/诺斯女子]：那古旧的城墙内，还躺着另一个枉死鬼。</Localize>
   
   
   <Localize id="4949b8dc-a8b1-4066-8b2c-a7afe39ba294" localized="636136986724925906">我们有些装备坏了。你能给瞧瞧吗？</Localize>
@@ -21671,7 +21671,7 @@
   <Localize id="4b272271-3a4f-406e-a5a3-8bc13f0b6952" localized="636138766573807583">{接过它，用你的双手包住她的手。}谢谢你。我发誓，我会善用它的。</Localize>
   
   
-  <Localize id="4b2952b9-794a-4e35-bd77-6b27e2cb10fa" localized="636202903977960229">若连自己的土地都守不住，你便不配统治它。等我成了你的[Player:king/queen]，一切都会不一样。</Localize>
+  <Localize id="4b2952b9-794a-4e35-bd77-6b27e2cb10fa" localized="636202903977960229">若连自己的土地都守不住，你便不配统治它。等我成了你的[Player:国王/女王]，一切都会不一样。</Localize>
   
   
   <Localize id="4b2c7d66-b122-428d-9400-eafdca895adc" localized="635974416477494637">我希望来往我们城市的人们能一路平安。这件事若不尽早解决，里伯的名声就会受损。</Localize>
@@ -21749,7 +21749,7 @@
   <Localize id="4b5b5d8b-3f6d-4101-bcca-2fa2c5cd8024" localized="636153490132564814"/>
   
   
-  <Localize id="4b5bba34-3ded-40e8-b79c-b6dfa49be0a8" localized="635959861090131509">很抱歉这么叨扰你，但我见你出行的随从，便知你是位地位不凡的[Player:man/woman]。</Localize>
+  <Localize id="4b5bba34-3ded-40e8-b79c-b6dfa49be0a8" localized="635959861090131509">很抱歉这么叨扰你，但我见你出行的随从，便知你是位地位不凡的[Player:男子/女子]。</Localize>
   
   
   <Localize id="4b5ce7fc-7487-4579-a513-a9e37eeda1a6" localized="636036685938490014"/>
@@ -22055,7 +22055,7 @@
   <Localize id="4c5c4925-5ad1-4ece-965d-ef95d820fd56" localized="636216576205327901">看来，这王国各处曾立下七块石碑，每一块都揭示出通往国王长眠之处的一部分路径。这些，恐怕就是你先前撞见的那几块石头了。</Localize>
   
   
-  <Localize id="4c5f4348-3c74-484d-b9bb-d9475d7b4da3" localized="635853665598588640">说不定他那[Player:son/daughter]，能比他干得好些。</Localize>
+  <Localize id="4c5f4348-3c74-484d-b9bb-d9475d7b4da3" localized="635853665598588640">说不定他那[Player:儿子/女儿]，能比他干得好些。</Localize>
   
   
   <Localize id="4c60459b-6d9a-4911-a875-a6b3ae3eb911" localized="635965820345759982"/>
@@ -22409,7 +22409,7 @@
   <Localize id="4d8f9d41-ccb4-4798-a90e-d3c7a1c9c17a" localized="635938097805837480">我们必须离开这儿！</Localize>
   
   
-  <Localize id="4d923585-d7f9-4bfe-b1c1-1e9fe391956a" localized="636223605744684692">我会与本地长老合力照管它，直到你与斯库勒的仇怨了结。你这新生的王国稳如磐石，[Player:King/Queen][Player:Name]。</Localize>
+  <Localize id="4d923585-d7f9-4bfe-b1c1-1e9fe391956a" localized="636223605744684692">我会与本地长老合力照管它，直到你与斯库勒的仇怨了结。你这新生的王国稳如磐石，[Player:国王/女王][Player:Name]。</Localize>
   
   
   <Localize id="4d94cbfe-41ca-40b1-a421-102064821c5f" localized="636035377783144565">主教只是微妙地抬了抬手，示意你继续下去。</Localize>
@@ -22580,7 +22580,7 @@
   <Localize id="4e23b882-13e8-4ac3-92c1-baaee6f5a426" localized="635990185278882626">这 [i]卑劣至极！[/i] 众神对此等…… [i]匪盗行径[/i] 绝不会坐视不管。</Localize>
   
   
-  <Localize id="4e25b2d4-2f49-4d83-918d-23277ef69fb9" localized="636138579409943203">带着这样一队扈从，你定是哪一位 [Player:king/queen] 吧？</Localize>
+  <Localize id="4e25b2d4-2f49-4d83-918d-23277ef69fb9" localized="636138579409943203">带着这样一队扈从，你定是哪一位 [Player:国王/女王] 吧？</Localize>
   
   
   <Localize id="4e25cd00-0274-46e7-9d02-20811f23f439" localized="635919270858099748"/>
@@ -22868,7 +22868,7 @@
   <Localize id="4f2561e2-babd-4cb8-a3e4-710d572e5b9f" localized="635927162789801576">行，赶紧滚出我的林子。</Localize>
   
   
-  <Localize id="4f2ed5df-f7ba-403c-9839-b0320b874dc9" localized="636232026358802669">[Player:He/She]杀了斯泰因！你这[Player:bikkju-sonr/bikkja]！</Localize>
+  <Localize id="4f2ed5df-f7ba-403c-9839-b0320b874dc9" localized="636232026358802669">[Player:他/她]杀了斯泰因！你这[Player:狗娘养的/贱人]！</Localize>
   
   
   <Localize id="4f389498-6ac0-421c-bdea-08bc7ac96394" localized="636138684656487951"/>
@@ -23048,7 +23048,7 @@
   <Localize id="4fd1df35-6160-4c2f-a4ad-6b5ac74dd546" localized="635908772137736673"/>
   
   
-  <Localize id="4fd3fc29-d2f8-482a-8fbc-ebdc8a6d8af7" localized="636054053281765793">这墙内不搞任何异教礼数，我的好[Player:man/woman]。我们都是敬畏上帝的基督徒，你尽管放心。</Localize>
+  <Localize id="4fd3fc29-d2f8-482a-8fbc-ebdc8a6d8af7" localized="636054053281765793">这墙内不搞任何异教礼数，我的好[Player:男子/女子]。我们都是敬畏上帝的基督徒，你尽管放心。</Localize>
   
   
   <Localize id="4fd556e3-c626-4bc9-bdbf-f658ec69201c" localized="635863857829527617">年轻的女巫叹了口气。</Localize>
@@ -23123,7 +23123,7 @@
   <Localize id="50127b5b-84c8-45ed-bdc0-560f52cc2bd7" localized="636215614108139655">围住你的这群人看着是格蕾妮的残部——全是女子，不少人衣服上或装备上都佩着她的乌鸦标记。</Localize>
   
   
-  <Localize id="5015120e-faf6-4c55-af12-9a660538d1a6" localized="636088673219257805">多谢相助，[Player:Norseman/Norsewoman]。我会为你们的灵魂祈祷。</Localize>
+  <Localize id="5015120e-faf6-4c55-af12-9a660538d1a6" localized="636088673219257805">多谢相助，[Player:诺斯人/诺斯女子]。我会为你们的灵魂祈祷。</Localize>
   
   
   <Localize id="50154784-267a-494d-82a7-f3fe755ec47e" localized="636088617382250493">那假先知已被铲除！行吧，这话兴许是说大了些。</Localize>
@@ -23687,7 +23687,7 @@
   <Localize id="51e6291b-a184-4089-be94-e404d8d71198" localized="636082573431119989">他多年前便离开了我们的农场，那时他被征召进了我们叔叔的侍卫队。自那以后，便再无音讯。</Localize>
   
   
-  <Localize id="51eb83f9-c984-4408-aa31-cc8222833e82" localized="636016130804640437">我越早面对它，就能越早找到出路。谢谢你对我直言不讳。你是个好[Player:brother/sister]。</Localize>
+  <Localize id="51eb83f9-c984-4408-aa31-cc8222833e82" localized="636016130804640437">我越早面对它，就能越早找到出路。谢谢你对我直言不讳。你是个好[Player:兄弟/姐妹]。</Localize>
   
   
   <Localize id="51ecff89-dde4-4559-aacd-d731668b62e5" localized="636194911166471829">他凝视了你片刻，然后只是败下阵来，点了点头。</Localize>
@@ -23840,7 +23840,7 @@
   <Localize id="525afc07-18fd-4652-9e37-a074bcc98606" localized="636166576269330760">[Pointman:Name]满脸担忧。</Localize>
   
   
-  <Localize id="5260057c-8677-4645-92d3-0e5a4fbfa4a1" localized="636184863548980078">给老子个痛快。[i][Player:Bastardr/Bikkja][/i]。</Localize>
+  <Localize id="5260057c-8677-4645-92d3-0e5a4fbfa4a1" localized="636184863548980078">给老子个痛快。[i][Player:混蛋/贱人][/i]。</Localize>
   
   
   <Localize id="5261312b-65d5-4b2a-b9ea-6fbaefa629bf" localized="636155208349745913">阴郁的思绪攫住了老德鲁伊。他转过身去，试图藏起自己的情绪。</Localize>
@@ -24128,7 +24128,7 @@
   <Localize id="534f6bf1-164c-485f-8fb9-c731e14378d5" localized="636155896864826431">还没完。</Localize>
   
   
-  <Localize id="5350949c-2233-4197-9837-bfbcfde21586" localized="635967671380789587">其余诸位：屋里桌上还有蜜酒和吃食。我想，等[Player:he/she]准备好了，首领会回来的。</Localize>
+  <Localize id="5350949c-2233-4197-9837-bfbcfde21586" localized="635967671380789587">其余诸位：屋里桌上还有蜜酒和吃食。我想，等[Player:他/她]准备好了，首领会回来的。</Localize>
   
   
   <Localize id="535386ff-9f98-46eb-aec1-c714f662fbd5" localized="635864804531559839">关键看他是否料到了埋伏，还有陷阱藏得有多深。论隐藏陷阱，我骗得过任何人。</Localize>
@@ -24593,7 +24593,7 @@
   <Localize id="54e1c5d6-ea87-4c31-83b1-b989543a6082" localized="636221611871286353">我这就动手。</Localize>
   
   
-  <Localize id="54e261c9-e69b-4edf-b349-f10468eb1af8" localized="635853667027762394">我瞧[Player:he/she]怕是活不到那个时候。</Localize>
+  <Localize id="54e261c9-e69b-4edf-b349-f10468eb1af8" localized="635853667027762394">我瞧[Player:他/她]怕是活不到那个时候。</Localize>
   
   
   <Localize id="54e5f488-d041-45b1-a6d2-5ce052549ebd" localized="636160153705757783">一伙满脸憔悴的男女猛地从林中窜出，打断了你的行军。他们兵刃出鞘，眼里绝望与贪婪参半。</Localize>
@@ -24842,7 +24842,7 @@
   <Localize id="55c12160-b28b-4c54-affa-6609fa325cff" localized="636112646172773701"/>
   
   
-  <Localize id="55c3740a-8a1c-4cdc-bd7a-393c247a835b" localized="636194967640354306">愿你健壮幸运，[Player:brother/sis]。</Localize>
+  <Localize id="55c3740a-8a1c-4cdc-bd7a-393c247a835b" localized="636194967640354306">愿你健壮幸运，[Player:兄弟/姐妹]。</Localize>
   
   
   <Localize id="55c56e1f-b14f-4f29-bb39-18c9e3f88fef" localized="636164144407508555">好，多谢！咱们奥克尼群岛上见！</Localize>
@@ -25211,7 +25211,7 @@
   <Localize id="56cf705e-6c9a-4d00-b6b0-0632271f63ee" localized="635867761589475795">你确定要如此吗？我为那老人感到难过，可……他儿子们干的事……</Localize>
   
   
-  <Localize id="56cfbea4-8234-40fd-a543-5e576b9bb9c8" localized="635852746107151573">愿你健壮幸运。我是[Player:Name]，[Player:son/daughter]的[Player:Father]。</Localize>
+  <Localize id="56cfbea4-8234-40fd-a543-5e576b9bb9c8" localized="635852746107151573">愿你健壮幸运。我是[Player:Name]，[Player:儿子/女儿]的[Player:Father]。</Localize>
   
   
   <Localize id="56d04796-3cac-4e15-b1d7-41e340f626c0" localized="636135472678143099">别再折磨我了！求你了！我撑不住了……再也受不了了……</Localize>
@@ -25385,7 +25385,7 @@
   <Localize id="576d0a49-7439-4e48-af45-9a7fdb27bec7" localized="635967680182682385"/>
   
   
-  <Localize id="576f3e68-4fb7-4d9c-bd35-66b08268eeca" localized="635960647344179879">真逗。你这[Player:guy/lady]可真有意思。</Localize>
+  <Localize id="576f3e68-4fb7-4d9c-bd35-66b08268eeca" localized="635960647344179879">真逗。你这[Player:家伙/女士]可真有意思。</Localize>
   
   
   <Localize id="57730fd0-3419-4a26-bde2-4d3016541c7b" localized="636223355584864222">也许守着咱们这点家当是明智的。当然，你若改了主意，机会照样给你留着。</Localize>
@@ -25631,7 +25631,7 @@
   <Localize id="584c82cd-c658-4e6d-bf4a-93fd34655872" localized="636035172348764360">去埃弗威克的教堂寻访恩巴尔德主教，设法让他相信你已皈依。</Localize>
   
   
-  <Localize id="58501ac9-74a2-46cc-a4df-2b6317c4927f" localized="636164094304622601">要记住这件事的利害关系。在我们得到机会接触[Player:him/her]之前，[Player:Name]的命完全捏在他们手里。我们若失手，我们的领主便完了。</Localize>
+  <Localize id="58501ac9-74a2-46cc-a4df-2b6317c4927f" localized="636164094304622601">要记住这件事的利害关系。在我们得到机会接触[Player:他/她]之前，[Player:Name]的命完全捏在他们手里。我们若失手，我们的领主便完了。</Localize>
   
   
   <Localize id="58548e33-f532-43dc-a994-bb7d0f025d53" localized="635961706124063709">流言四起，说国王或将集结莱当征募制下的大军，挥师南下，以阻止法兰克人对日德兰半岛的任何入侵。</Localize>
@@ -25931,7 +25931,7 @@
   <Localize id="5951a554-5442-488d-a6b5-234e5c36e57a" localized="635973784228218609">入夜后不久……</Localize>
   
   
-  <Localize id="5952756c-717b-4008-a42a-8f0cb55bf8e4" localized="635967651263912846">[Player:Velkominn/Velkomin]回来了，[Player:Name]。今天是什么风把你吹来我这寒酸小店？</Localize>
+  <Localize id="5952756c-717b-4008-a42a-8f0cb55bf8e4" localized="635967651263912846">[Player:欢迎/欢迎]回来了，[Player:Name]。今天是什么风把你吹来我这寒酸小店？</Localize>
   
   
   <Localize id="59557c36-7089-486f-8518-b4a90acc42b8" localized="636186163998329105">政治支持可能很有力，但这还不够。</Localize>
@@ -26207,7 +26207,7 @@
   <Localize id="5a28cb23-c045-44fb-b693-556e0017707d" localized="635924351048889925">你这话是什么意思？</Localize>
   
   
-  <Localize id="5a29b6f5-34d1-4d2e-9b34-d444cb2c7a88" localized="636192277333096761">给。这该够你开销了。上帝[i]的五处伤口[/i]啊，你可真是个难缠的[Player:bastard/woman]。</Localize>
+  <Localize id="5a29b6f5-34d1-4d2e-9b34-d444cb2c7a88" localized="636192277333096761">给。这该够你开销了。上帝[i]的五处伤口[/i]啊，你可真是个难缠的[Player:混蛋/女人]。</Localize>
   
   
   <Localize id="5a2b1371-6261-494d-b746-fb0e16e2c045" localized="635924364923613514">今晚就是个错误。</Localize>
@@ -26489,7 +26489,7 @@
   <Localize id="5b0b4cad-1b73-4034-9b7c-add91f3cbd98" localized="636162313490769847">默丁就这么没了，我真不敢相信。我原以为他还能教我几十年呢。凭他那一肚子的学问，教上那么久自然不在话下。</Localize>
   
   
-  <Localize id="5b0bd229-1042-40a7-9233-2882003adf10" localized="636177855474131832">这位便是我们向你提过的那位[Player:man/woman]，在沼泽里明事理、肯分药救人的那位。</Localize>
+  <Localize id="5b0bd229-1042-40a7-9233-2882003adf10" localized="636177855474131832">这位便是我们向你提过的那位[Player:男子/女子]，在沼泽里明事理、肯分药救人的那位。</Localize>
   
   
   <Localize id="5b0c0cd1-014d-40ee-b40e-11ac6ef3ef40" localized="636138568845165768">她抬起手背，故作娇羞地掩住笑意，可那股子兴奋劲儿，怎么也藏不住。</Localize>
@@ -26543,7 +26543,7 @@
   <Localize id="5b38f0ef-c2cf-442f-bcfe-37300c0abfa4" localized="636224233576734284">那条河！天呐，咱们竟让它全无防备！我这都干了些什么？！我害了我的族人！</Localize>
   
   
-  <Localize id="5b39763c-96ff-4e0e-b7ed-7cb6b6caadea" localized="636181130294680120">在你，[Player:Norseman/Norsewoman]，看来或许不过是桩小事，可你今日着实做了一件大善举。</Localize>
+  <Localize id="5b39763c-96ff-4e0e-b7ed-7cb6b6caadea" localized="636181130294680120">在你，[Player:诺斯人/诺斯女子]，看来或许不过是桩小事，可你今日着实做了一件大善举。</Localize>
   
   
   <Localize id="5b3ac367-7a0e-4e8d-9f45-2ce4dd9ab8f2" localized="636081591011764409"/>
@@ -26684,7 +26684,7 @@
   <Localize id="5bbbb073-6d1c-4bde-bcf8-763699d0f3bc" localized="636155076118480373">事已至此，别无他法。必须得有人来承担代价。</Localize>
   
   
-  <Localize id="5bbf910e-d2da-4bd9-812f-a05780bdfb4e" localized="636034114299235261">啊，[Player:Hlaford/Hlafdia][Player:Name]。真高兴你决定接受我的提议。</Localize>
+  <Localize id="5bbf910e-d2da-4bd9-812f-a05780bdfb4e" localized="636034114299235261">啊，[Player:领主/女领主][Player:Name]。真高兴你决定接受我的提议。</Localize>
   
   
   <Localize id="5bc31135-cb95-41c1-bf51-334aef31ae06" localized="636161208814675786">好！很高兴你已经处理好了。你找我有什么事？</Localize>
@@ -27020,7 +27020,7 @@
   <Localize id="5d044468-cf02-45cc-97cf-72062908d824" localized="635978694549422918">她会挺过去的。她非得挺过去不可。</Localize>
   
   
-  <Localize id="5d06b9c6-2f72-4533-acc9-d496e1e106a6" localized="636223493654565463">啊，没错，是[Player:son/daughter]家的[Player:Father]。你在西边可干了不少大有来头的事，对吧？大有来头的事。</Localize>
+  <Localize id="5d06b9c6-2f72-4533-acc9-d496e1e106a6" localized="636223493654565463">啊，没错，是[Player:儿子/女儿]家的[Player:Father]。你在西边可干了不少大有来头的事，对吧？大有来头的事。</Localize>
   
   
   <Localize id="5d098c14-8c2f-418f-a0b5-edb8d7a4a0f4" localized="636162314603661449">那些药水和药，卖吗？</Localize>
@@ -27101,7 +27101,7 @@
   <Localize id="5d4588de-62b6-4fef-90ed-e0a93fbf3183" localized="635895010484913404">你升为塞恩后的头一件事，就是步你父亲的后尘，离开你的氏族？</Localize>
   
   
-  <Localize id="5d499705-f5ec-431b-9012-fb66a725ef61" localized="636194978722125222">要是母亲再问，就跟她说我没事。我就是犯了游瘾。有个像你这样的[Player:brother/sister]，谁能不受激励呢？</Localize>
+  <Localize id="5d499705-f5ec-431b-9012-fb66a725ef61" localized="636194978722125222">要是母亲再问，就跟她说我没事。我就是犯了游瘾。有个像你这样的[Player:兄弟/姐妹]，谁能不受激励呢？</Localize>
   
   
   <Localize id="5d49cc32-8cb3-40b6-b400-6946d2b8ce6e" localized="636135426222157073">恩巴尔德双手在身前轻轻一拍，露出和煦的笑容。</Localize>
@@ -27215,7 +27215,7 @@
   <Localize id="5d967750-ffda-4bb8-a3ab-4a02023d12f3" localized="635996221770331679"/>
   
   
-  <Localize id="5d9686c2-c890-4a2a-8fb0-32d45daeef7b" localized="635868683899871582">啊！哦，我亲爱的[Player:boy/girl]，你还活着，我真是太欢喜了！</Localize>
+  <Localize id="5d9686c2-c890-4a2a-8fb0-32d45daeef7b" localized="635868683899871582">啊！哦，我亲爱的[Player:男孩/女孩]，你还活着，我真是太欢喜了！</Localize>
   
   
   <Localize id="5d989a7b-e134-4838-86b4-c69df69e2d17" localized="635868186391258354">明天，我会祈求索尔助你一臂之力。</Localize>
@@ -27230,7 +27230,7 @@
   <Localize id="5d9b45e7-3b77-4568-aede-9cd035d8d437" localized="636180198474114883">站住，陌生人。我乃利奥弗里克，国王的冠军武士。你们要来的风声，早已传到了这里。</Localize>
   
   
-  <Localize id="5d9c8a85-434b-425d-ad1d-92d72aff5fbe" localized="635872999885339240">抱歉。你已是个成年的[Player:man/woman]，如今更是我的领主。但在我眼里，你永远是我的小[Player:brother/sister]。</Localize>
+  <Localize id="5d9c8a85-434b-425d-ad1d-92d72aff5fbe" localized="635872999885339240">抱歉。你已是个成年的[Player:男子/女子]，如今更是我的领主。但在我眼里，你永远是我的小[Player:兄弟/姐妹]。</Localize>
   
   
   <Localize id="5da1c665-03bc-4ad9-871f-437f0e6b4617" localized="636184822867368964">我们眼下根基稳固——皮克特诸部已团结一致，多亏有你，达尔里阿达也几乎成了我们王国的一部分。但一个更巨大的威胁，正在南方隐隐逼近。</Localize>
@@ -27446,7 +27446,7 @@
   <Localize id="5e4ef91d-4ba1-4573-839a-22e8a0069690" localized="635977870092510350">到现在为止，生意不错。有了自己的摊位，我很高兴，总算甩掉了那个没用的软蛋弗拉格尔。</Localize>
   
   
-  <Localize id="5e5119f3-c0fe-4f6e-841a-02d1a71e9ecf" localized="636041095031171991">你是个极为仁慈的[Player:man/woman]——远超过我所配得的。我不会回埃奥福维克的。奥斯雷德绝不会听到半点风声。</Localize>
+  <Localize id="5e5119f3-c0fe-4f6e-841a-02d1a71e9ecf" localized="636041095031171991">你是个极为仁慈的[Player:男子/女子]——远超过我所配得的。我不会回埃奥福维克的。奥斯雷德绝不会听到半点风声。</Localize>
   
   
   <Localize id="5e5253cb-fea1-4eee-9483-68610c2ae44f" localized="635968322466511910">至少让我给你点东西，作为给你添了麻烦的补偿。</Localize>
@@ -27785,7 +27785,7 @@
   <Localize id="5fd4d191-f401-402d-ba58-29d4887795a0" localized="636229392513613549">他们唯一的回应，是一支瞄着你飞来、却准头尽失的箭。那队民兵开始逼压上来。</Localize>
   
   
-  <Localize id="5fdda626-6b1b-4029-ac9b-332435076ef2" localized="636187063647731511">“当然啦，[Player:lad/lass]。当——然啦。”我叫艾布琳，这里的酋长。门，我是不会开的。</Localize>
+  <Localize id="5fdda626-6b1b-4029-ac9b-332435076ef2" localized="636187063647731511">“当然啦，[Player:小伙子/姑娘]。当——然啦。”我叫艾布琳，这里的酋长。门，我是不会开的。</Localize>
   
   
   <Localize id="5fde377f-a101-4dae-b5cd-e977bde46970" localized="636071125266737338">怪了，格里穆尔夫的小屋门怎么开着……</Localize>
@@ -27926,7 +27926,7 @@
   <Localize id="60412a31-3fca-4e0d-869e-d322a0e231b6" localized="635960563928047344">我有话要问你。</Localize>
   
   
-  <Localize id="604172f5-2da6-4172-8e3c-32f86e8615bc" localized="636123250675289919">你这该死的[Player:bastard/bitch]！想鬼鬼祟祟摸进来？！想打？那就打！</Localize>
+  <Localize id="604172f5-2da6-4172-8e3c-32f86e8615bc" localized="636123250675289919">你这该死的[Player:混蛋/贱人]！想鬼鬼祟祟摸进来？！想打？那就打！</Localize>
   
   
   <Localize id="604366c4-fb97-4022-be30-445647bd7ed3" localized="636214996990533579">你在这儿，可没什么名头，维京人。想光凭名字就让我们乖乖让路，那你可就大错特错了！</Localize>
@@ -28385,7 +28385,7 @@
   <Localize id="61b5757d-cc02-4ab3-b290-86ad7a48e01e" localized="635853434424309970"/>
   
   
-  <Localize id="61b6cbe7-48b3-4316-ae9a-bd930c811d46" localized="636224225720225422">[Random01:Name]用[Player:his/her]脚捅了捅国王的尸体。</Localize>
+  <Localize id="61b6cbe7-48b3-4316-ae9a-bd930c811d46" localized="636224225720225422">[Random01:Name]用[Player:他/她]脚捅了捅国王的尸体。</Localize>
   
   
   <Localize id="61b7ac53-7fe0-4cc2-84f3-534da7915d3f" localized="636054052846943763">闪开，否则我们就把你们砍倒。</Localize>
@@ -29555,7 +29555,7 @@
   <Localize id="657c4b44-6753-4a43-9c5f-e4ded829c317" localized="636226881977160280">他们来抓我了！救命！</Localize>
   
   
-  <Localize id="657edf83-4532-4193-8896-b6414497dbc5" localized="636041092189428011">我——什么？你小子可真是[Player:son of a bitch/little mare]。</Localize>
+  <Localize id="657edf83-4532-4193-8896-b6414497dbc5" localized="636041092189428011">我——什么？你小子可真是[Player:狗娘养的/小母马]。</Localize>
   
   
   <Localize id="657f1cc5-d968-4110-8332-9a54dc2154c3" localized="636216491187143282">维京人，我谢你的慈悲心肠，可你是斗不过那些皇家侍卫的——再说，就算你赢了，你的那个诺森布里亚，怕也不是我乐愿栖身的地方。</Localize>
@@ -29828,7 +29828,7 @@
   <Localize id="66574d21-bb1d-477b-a118-eff8422ad559" localized="636155065438125944">你的孩子们袭击了我们。我们被迫杀了他们中的几个。</Localize>
   
   
-  <Localize id="6657a28b-37e8-4453-b901-6ace4f987485" localized="636221702345696807">正是，诺森布里亚的第一任[Player:His/Her]，[Player:Name]陛下。</Localize>
+  <Localize id="6657a28b-37e8-4453-b901-6ace4f987485" localized="636221702345696807">正是，诺森布里亚的第一任[Player:他/她]，[Player:Name]陛下。</Localize>
   
   
   <Localize id="6657c00e-deed-4ca9-9988-726297f71e7e" localized="636016129531741073">显然，你弟弟看出了你话中的真意，但这似乎并没让他觉得好受一些。</Localize>
@@ -29894,7 +29894,7 @@
   <Localize id="6696d3e1-bb23-4ec8-a1a3-5dd9f7952467" localized="636035385348274247">我信圣灵，我信圣而公之教会，诸圣相通，肉身复活，罪过得赦，以及永生。</Localize>
   
   
-  <Localize id="669e7789-2b2d-45f2-9cd3-0654bf26ec55" localized="635967733290250770">她探身过来，在你的脸颊上印下一个[Player:tender/sisterly]吻。</Localize>
+  <Localize id="669e7789-2b2d-45f2-9cd3-0654bf26ec55" localized="635967733290250770">她探身过来，在你的脸颊上印下一个[Player:温柔/姐妹般]吻。</Localize>
   
   
   <Localize id="66a1473d-c695-400a-9a72-c56866318724" localized="636172565200463317">真没想到你俩能成。说实话，我一直以为会是凯蒂尔。不过，你挑了个好男人，只是他那层坚硬的外壳厚得很。</Localize>
@@ -30965,7 +30965,7 @@
   <Localize id="6aca39de-30c4-4053-b25a-196c1b484e0f" localized="635967755517232179"/>
   
   
-  <Localize id="6acebd09-d3f4-4b3d-a464-f2aa61cc33ea" localized="636111793292565742">尊贵的[Player:Hlaford/Hlafdia][Player:Name]！[Player:Velkominn/Velkomin]回到我这简陋的小摊前。近来我所耳闻的，可尽是些关于您的[i]溢美盛赞[/i]，您放心，我的开价绝不会辱没了您的名声。</Localize>
+  <Localize id="6acebd09-d3f4-4b3d-a464-f2aa61cc33ea" localized="636111793292565742">尊贵的[Player:领主/女领主][Player:Name]！[Player:欢迎/欢迎]回到我这简陋的小摊前。近来我所耳闻的，可尽是些关于您的[i]溢美盛赞[/i]，您放心，我的开价绝不会辱没了您的名声。</Localize>
   
   
   <Localize id="6acfce2d-294c-41c2-b025-22dfb85216ce" localized="635971798256861404">她咳得又深又重，听着骇人——还在发烧。她已缠绵病榻数周之久。您能帮帮她吗？</Localize>
@@ -30986,7 +30986,7 @@
   <Localize id="6ad4892f-991a-491e-b1bf-74080febbc90" localized="635857059017793998">蜜酒</Localize>
   
   
-  <Localize id="6ad4e571-9753-49d5-a96c-6159a204c846" localized="635996134659446403">怎么样了，[Player:brother/sis]？</Localize>
+  <Localize id="6ad4e571-9753-49d5-a96c-6159a204c846" localized="635996134659446403">怎么样了，[Player:兄弟/姐妹]？</Localize>
   
   
   <Localize id="6ad5ae88-694a-4b94-af46-b58dcc26b520" localized="636087683870682645"/>
@@ -31187,7 +31187,7 @@
   <Localize id="6b781c49-d188-42ac-b01d-a0db03d17f8b" localized="636002147205628997">他面朝下趴着，背部和双臂被撕得稀烂，脚踝和小腿周围也尽是伤口。</Localize>
   
   
-  <Localize id="6b7cdfd0-c04e-4aa5-b45f-3bf33554a4c0" localized="635853443755749864">[Player:Name]，我的好[Player:boy/girl]，你父亲的事我很难过。在这艰难时日，若是耶灵百姓有什么能帮到你的，一定开口。</Localize>
+  <Localize id="6b7cdfd0-c04e-4aa5-b45f-3bf33554a4c0" localized="635853443755749864">[Player:Name]，我的好[Player:男孩/女孩]，你父亲的事我很难过。在这艰难时日，若是耶灵百姓有什么能帮到你的，一定开口。</Localize>
   
   
   <Localize id="6b7d25f6-e471-478a-886a-555e5af28ccc" localized="635975371216085564">这等威严神力，令人敬畏。我们该献上何种祭品？</Localize>
@@ -31229,7 +31229,7 @@
   <Localize id="6baf7a2c-ca16-47ce-b9dd-877f4fef5efe" localized="635960660440811688"/>
   
   
-  <Localize id="6bb27e76-8b1e-4592-8da7-06f6111b9975" localized="636052346101633641">什么？领主[Player:himself/herself]大人要亲自去为我觅食吗？你父亲管事那会儿可不是这样的！</Localize>
+  <Localize id="6bb27e76-8b1e-4592-8da7-06f6111b9975" localized="636052346101633641">什么？领主[Player:他自己/她自己]大人要亲自去为我觅食吗？你父亲管事那会儿可不是这样的！</Localize>
   
   
   <Localize id="6bb52223-a4d4-452b-8633-54b1a82b356f" localized="635882898872542683"/>
@@ -31406,7 +31406,7 @@
   <Localize id="6c6aadd4-30ec-497a-8b71-1d3ad6f0d2ed" localized="636179251615379749">这儿不过是霍尔姆斯兰沙丘。</Localize>
   
   
-  <Localize id="6c78dd79-727c-445a-a630-4283565ea354" localized="636016128159599624">有你做我的[Player:brother/sister]，夫复何求。我总会闯过这道坎的。多谢你了。</Localize>
+  <Localize id="6c78dd79-727c-445a-a630-4283565ea354" localized="636016128159599624">有你做我的[Player:兄弟/姐妹]，夫复何求。我总会闯过这道坎的。多谢你了。</Localize>
   
   
   <Localize id="6c7abe97-63c9-47ae-909c-b643bd34d091" localized="635960677767581338">想个法子，把鼠辈帮从雅达尔的地盘上撵走。</Localize>
@@ -31691,7 +31691,7 @@
   <Localize id="6d7254a8-502b-43e9-a229-d6ad319f4e59" localized="636036793672590879">嗯。好个大胆的主意，莫尔坎特。行，我们就给你个机会。</Localize>
   
   
-  <Localize id="6d72acb1-f6e7-47c6-8f8c-c74a6d1d8565" localized="636222577533803861">入侵到此为止。从今往后，我便是诺森布里亚与皮克塔维亚的新[Player:king/queen]。</Localize>
+  <Localize id="6d72acb1-f6e7-47c6-8f8c-c74a6d1d8565" localized="636222577533803861">入侵到此为止。从今往后，我便是诺森布里亚与皮克塔维亚的新[Player:国王/女王]。</Localize>
   
   
   <Localize id="6d738c90-9774-4d8a-afa1-17d7146ab754" localized="636113539713744944">离我远点。给我滚远点，你这怪物。</Localize>
@@ -32204,7 +32204,7 @@
   <Localize id="6f365301-eca5-446b-8286-856c6f2b78f2" localized="636040019100251283">你都在跟谁打交道？</Localize>
   
   
-  <Localize id="6f39ad6f-bc70-4f44-8586-6452afbb9f90" localized="635894971850053616">你这残忍的[Player:man/woman]！你这残忍的，残忍的，[i]没心肝的[/i]东西——</Localize>
+  <Localize id="6f39ad6f-bc70-4f44-8586-6452afbb9f90" localized="635894971850053616">你这残忍的[Player:男子/女子]！你这残忍的，残忍的，[i]没心肝的[/i]东西——</Localize>
   
   
   <Localize id="6f3aa0f3-69a1-49d0-a3e9-bd948290e57c" localized="636111759766635147">也许晚点再说。</Localize>
@@ -32747,7 +32747,7 @@
   <Localize id="7112b415-357e-47cc-a619-ccc1eacce4f3" localized="635857102534175420">这人，我们如何处置？</Localize>
   
   
-  <Localize id="71159cc9-0fc9-4b91-9135-87d3dec02b3c" localized="636221716232597048">你若是能以皮克塔维亚和诺森布里亚[Player:king/queen]的身份重返故土，斯库勒就万万没法跟你作对。</Localize>
+  <Localize id="71159cc9-0fc9-4b91-9135-87d3dec02b3c" localized="636221716232597048">你若是能以皮克塔维亚和诺森布里亚[Player:国王/女王]的身份重返故土，斯库勒就万万没法跟你作对。</Localize>
   
   
   <Localize id="7116cf87-c77e-4093-b937-81cc5934e619" localized="635966129916794872">或许有朝一日，你真的会。而到了那一天：我对不住你。</Localize>
@@ -32870,7 +32870,7 @@
   <Localize id="717a2512-a912-40d2-aeee-71429b4f765c" localized="636112741928058571">就把这当成一个提议好了。我盼着能站到你这边，当你的盟友。</Localize>
   
   
-  <Localize id="717db306-c8d0-4012-8720-3601f3a44511" localized="636223532913135218">就凭我听说过的[Player:Name]的那些作为和事迹，我没理由觉得[Player:he/she]没本事守住[Player:his/her]自己的地盘。</Localize>
+  <Localize id="717db306-c8d0-4012-8720-3601f3a44511" localized="636223532913135218">就凭我听说过的[Player:Name]的那些作为和事迹，我没理由觉得[Player:他/她]没本事守住[Player:他/她]自己的地盘。</Localize>
   
   
   <Localize id="717f0e79-0486-4d6c-a64f-7226d7f3722d" localized="636185648221678099"/>
@@ -33077,7 +33077,7 @@
   <Localize id="72366aa2-f3ef-44a3-bb6e-7179e088406b" localized="636180231060341940">即便我袭击了女修道院，你也毫无芥蒂地向我寻求援助？</Localize>
   
   
-  <Localize id="72371fe8-4849-4f2b-a739-e6f70f485772" localized="636040943616374118">异教的[i][Player:bastard/bitch][/i]。你不是我们的人！这儿没你的事！别把你的鼻子伸到不该伸的地方。</Localize>
+  <Localize id="72371fe8-4849-4f2b-a739-e6f70f485772" localized="636040943616374118">异教的[i][Player:混蛋/贱人][/i]。你不是我们的人！这儿没你的事！别把你的鼻子伸到不该伸的地方。</Localize>
   
   
   <Localize id="72391110-a948-4e8d-9231-dfd7e66b730a" localized="635971917894328454"/>
@@ -33155,7 +33155,7 @@
   <Localize id="726daa88-a77c-4a84-882e-b70a106dd282" localized="635965791967282239"/>
   
   
-  <Localize id="726e2368-9981-4f1f-b492-158ccfb4e53b" localized="635959664562919972">你竟敢如此放肆地回绝我的款待！真不愧是你父亲的[Player:son/daughter]……</Localize>
+  <Localize id="726e2368-9981-4f1f-b492-158ccfb4e53b" localized="635959664562919972">你竟敢如此放肆地回绝我的款待！真不愧是你父亲的[Player:儿子/女儿]……</Localize>
   
   
   <Localize id="7270dba2-a3d2-4e16-9ffe-e18576ebaf84" localized="636113456073318150">你心下明白，这里说的“访客”，不过是给一串字眼儿打的幌子，什么蛮子、野人、杀人犯、强盗、劫掠者，不一而足。</Localize>
@@ -33374,7 +33374,7 @@
   <Localize id="73184ca0-20f0-4d2d-8ee7-eb960d2bce32" localized="635853547212183119">要多忙有多忙。你怎么一个人躲在这儿？</Localize>
   
   
-  <Localize id="7318f9de-04aa-454f-b245-939feddf41b5" localized="636153394467453708">欢迎来到世界尽头，[Player:Velkominn/Velkomin]。</Localize>
+  <Localize id="7318f9de-04aa-454f-b245-939feddf41b5" localized="636153394467453708">欢迎来到世界尽头，[Player:欢迎/欢迎]。</Localize>
   
   
   <Localize id="7320a444-55ee-47da-b63f-88f3206b1fb7" localized="636087731640654212">那女人将脸深深埋进掌心。</Localize>
@@ -33455,7 +33455,7 @@
   <Localize id="7365dcf7-450b-46cd-853f-ce90ea393085" localized="636229284989062316">你径自驾船远去，留那小船漂泊于命途，教它被大海吞噬前，只能无尽地漂流。</Localize>
   
   
-  <Localize id="736995b1-31cf-4e63-986b-e1e4276e4ac2" localized="636194904996434924">是我三生有幸，[Player:lad/lass]。你和你的族人打起仗来，活像有魔鬼附体。瞧着可真他娘的过瘾。</Localize>
+  <Localize id="736995b1-31cf-4e63-986b-e1e4276e4ac2" localized="636194904996434924">是我三生有幸，[Player:小伙子/姑娘]。你和你的族人打起仗来，活像有魔鬼附体。瞧着可真他娘的过瘾。</Localize>
   
   
   <Localize id="736bfbe9-954f-46a9-ad61-1bd6dfe16e0c" localized="636171843991423802">陛下，是令千金派我们来的。</Localize>
@@ -34223,7 +34223,7 @@
   <Localize id="75e2f0ba-7305-4494-82fc-fbc63739411c" localized="635966030666844080">让你大感意外的是，他看起来真信了。</Localize>
   
   
-  <Localize id="75e86ff9-bdcf-495b-a7a0-76a55d20ef1c" localized="636002927926964814">又见面了，[Player:lad/lass]。觉得用得上我的船了吗？</Localize>
+  <Localize id="75e86ff9-bdcf-495b-a7a0-76a55d20ef1c" localized="636002927926964814">又见面了，[Player:小伙子/姑娘]。觉得用得上我的船了吗？</Localize>
   
   
   <Localize id="75eebbfa-49ae-4273-b754-3fc304467e3b" localized="636017775169464676">帮助内芙娅守住南边的桥。</Localize>
@@ -34382,7 +34382,7 @@
   <Localize id="7694bfd6-3841-4f52-ac90-60a7df8a0a81" localized="636168309647754641">一名皮克特哨兵不满地嘟囔了一声，紧接着便是斯卡基的拳头砸在他脸上，发出清脆的一响。</Localize>
   
   
-  <Localize id="76965d7f-0c29-4888-9405-25c2f4f2f814" localized="636111816072385518">我是[Player:Name]，[Player:son/daughter]之[Player:Father]，这位是我的扈从。</Localize>
+  <Localize id="76965d7f-0c29-4888-9405-25c2f4f2f814" localized="636111816072385518">我是[Player:Name]，[Player:儿子/女儿]之[Player:Father]，这位是我的扈从。</Localize>
   
   
   <Localize id="7698ef35-95aa-4ff9-bc9c-d5a78eb77a2e" localized="636154341356622273">[Random02:Name]啐了一口咒骂。</Localize>
@@ -34865,7 +34865,7 @@
   <Localize id="780fc086-0d5c-4691-8d31-9b39e64e8a92" localized="635954754304143643">呃？</Localize>
   
   
-  <Localize id="78106b55-fd35-4328-acce-9843eea80c79" localized="636107543086332003">殿下，[Player:Hlaford/Hlafdia]雅尔[Player:Name]，您大驾光临，我们真是不胜荣幸。</Localize>
+  <Localize id="78106b55-fd35-4328-acce-9843eea80c79" localized="636107543086332003">殿下，[Player:领主/女领主]雅尔[Player:Name]，您大驾光临，我们真是不胜荣幸。</Localize>
   
   
   <Localize id="78123e4e-81bb-478a-a31f-b17a4fb5dd2b" localized="635882964224784699">求求你……太疼了……</Localize>
@@ -35600,7 +35600,7 @@
   <Localize id="7aa6ac95-1c57-4773-96be-82db6ad83812" localized="636107649795676063">请节哀。他是个好人。</Localize>
   
   
-  <Localize id="7aa6fac4-db35-4d97-b0fc-37e76f268e9c" localized="636113536187591052">你——你这[Player:son of a bitch/bitch]！我们能宰了那些村民，照样也能宰了你！</Localize>
+  <Localize id="7aa6fac4-db35-4d97-b0fc-37e76f268e9c" localized="636113536187591052">你——你这[Player:狗娘养的/贱人]！我们能宰了那些村民，照样也能宰了你！</Localize>
   
   
   <Localize id="7aa9f50b-5535-4593-b014-dbd703d4e7b2" localized="636150128368214362">就算他真的改信了基督，咱们的聚会照样欢迎你们一家——这当然也包括你儿子。</Localize>
@@ -36110,7 +36110,7 @@
   <Localize id="7c3e4ba4-ab47-4e12-8827-cb385979a5f8" localized="635987377853742333">山羊之主叫猿猴的后人把船往海里再送远些；可那巨人却说，照他自己的盘算，实在提不起劲儿再往前划了。</Localize>
   
   
-  <Localize id="7c3e4ef8-475f-4363-9043-8b82fe5e6802" localized="636113667915420494">行吧，好吧……那就祝你好运，[Player:lad/lass]。可别说我没提醒过你。</Localize>
+  <Localize id="7c3e4ef8-475f-4363-9043-8b82fe5e6802" localized="636113667915420494">行吧，好吧……那就祝你好运，[Player:小伙子/姑娘]。可别说我没提醒过你。</Localize>
   
   
   <Localize id="7c4510c8-ba6d-4c2a-87b1-f5de78f121af" localized="635986644968790826">（搜查小艇。）</Localize>
@@ -36359,7 +36359,7 @@
   <Localize id="7d32f91e-c4a2-4512-934f-81c1938dcf43" localized="635996006410131283">这倒是真的——你不在的时候，我们会帮你母亲一起守护好家族。</Localize>
   
   
-  <Localize id="7d3531c3-ddbd-4a66-8e3d-6deb5389110a" localized="635929744482646911">你是一位极有尊严的[Player:man/woman]——我相信，有你在我身旁，我定能为家族开创一个伟大的未来。</Localize>
+  <Localize id="7d3531c3-ddbd-4a66-8e3d-6deb5389110a" localized="635929744482646911">你是一位极有尊严的[Player:男子/女子]——我相信，有你在我身旁，我定能为家族开创一个伟大的未来。</Localize>
   
   
   <Localize id="7d39709a-9050-4c2e-bf54-b7ceebcc2e97" localized="636135416853375383">他们压根儿不是什么撒旦崇拜者，不过是个异教小团体罢了。</Localize>
@@ -36470,7 +36470,7 @@
   <Localize id="7d7c7ce5-d71f-4036-b3ef-8eea6cceb60d" localized="636136982494885538">你能把我损坏的装备修好吗？</Localize>
   
   
-  <Localize id="7d7da4cc-6c93-4514-9466-6da2b939c7ef" localized="635872978401320424">我真为你骄傲！你不愧是你父亲的[Player:son/daughter]。</Localize>
+  <Localize id="7d7da4cc-6c93-4514-9466-6da2b939c7ef" localized="635872978401320424">我真为你骄傲！你不愧是你父亲的[Player:儿子/女儿]。</Localize>
   
   
   <Localize id="7d7e5003-0ac0-4109-b3e1-89e9e2e339ff" localized="636164091053087191">她可真是个百里挑一的好女人。要是她能再年轻一点，或者我再年长几分……唉，我终究不是个能收心过日子的人，可万一哪天我真想定下来，怕是再也找不到比她更好的了。</Localize>
@@ -36716,7 +36716,7 @@
   <Localize id="7e6e3f4a-c7cc-4914-bfb1-a0b441159c05" localized="636160355254433012">关于阿斯莱夫，你有什么想法？</Localize>
   
   
-  <Localize id="7e72540b-e9ec-4084-b055-2e3ecec3be44" localized="635959860083409909">尊敬的[Player:warrior/shieldmaiden]！借一步说话，就一会儿。</Localize>
+  <Localize id="7e72540b-e9ec-4084-b055-2e3ecec3be44" localized="635959860083409909">尊敬的[Player:战士/盾女]！借一步说话，就一会儿。</Localize>
   
   
   <Localize id="7e77b9b7-464f-45e7-aaf2-83edc6a1ea48" localized="636002134592246442">（查看尸体。）</Localize>
@@ -36725,7 +36725,7 @@
   <Localize id="7e7d0ff5-c5af-41bb-8368-7b6c13b43441" localized="635990079502222530"/>
   
   
-  <Localize id="7e80ab1d-5f1c-4f0b-8eb2-3cd1430ab047" localized="636186213987965720">不，你这[Player:big lug/silly girl]。我自己还有一堆麻烦要收拾——托你的福，现在少了一桩，但这事儿还没完。</Localize>
+  <Localize id="7e80ab1d-5f1c-4f0b-8eb2-3cd1430ab047" localized="636186213987965720">不，你这[Player:傻大个/傻姑娘]。我自己还有一堆麻烦要收拾——托你的福，现在少了一桩，但这事儿还没完。</Localize>
   
   
   <Localize id="7e81b4eb-6d08-4cbf-846b-4e1e347aef3f" localized="635867390383052802"/>
@@ -36998,7 +36998,7 @@
   <Localize id="7f68efaa-c3e7-4b58-a49c-91e0f5225eea" localized="636190478589050633">这罐子是我在他身边找到的。</Localize>
   
   
-  <Localize id="7f6aa2a0-0129-4587-be55-fdd7e48f8cdc" localized="636113586358595614">请原谅我们此前的偏见，[Player:Hlaford/Hlafdia][Player:Name]。你已经证明了自己是这个镇子的朋友。</Localize>
+  <Localize id="7f6aa2a0-0129-4587-be55-fdd7e48f8cdc" localized="636113586358595614">请原谅我们此前的偏见，[Player:领主/女领主][Player:Name]。你已经证明了自己是这个镇子的朋友。</Localize>
   
   
   <Localize id="7f6ac3f8-84e6-411c-a2b4-c99a108cca13" localized="636190370794343660">毛科林挤出一副勉强的笑容，回应了你的问候。</Localize>
@@ -37091,7 +37091,7 @@
   <Localize id="7fd1c1a5-cf5e-4fc7-aad2-0c8b10f1bb39" localized="635979877129228553">你的船员们放声大笑，为你这句简短的话喝彩欢呼。待你落座，众人纷纷抓起船桨，不一会儿，线条优雅的[Shipname]便破开水面，平稳地驶出海湾，直指不列颠群岛。</Localize>
   
   
-  <Localize id="7fd40671-8615-467e-bf0e-add83f40fe96" localized="635932100410740573">尽管我更愿向一位能够堂堂正正击败我的[Player:man/woman]俯首，但此刻我任由你处置。</Localize>
+  <Localize id="7fd40671-8615-467e-bf0e-add83f40fe96" localized="635932100410740573">尽管我更愿向一位能够堂堂正正击败我的[Player:男子/女子]俯首，但此刻我任由你处置。</Localize>
   
   
   <Localize id="7fd8b202-c2a0-430b-b331-578e6b542bb9" localized="636095442001111925">她当然把你的名字念得面目全非，不过着实是尽力了。</Localize>
@@ -37430,7 +37430,7 @@
   <Localize id="80fd9f54-fd17-4117-9284-2a3089fb85ac" localized="635875169195047116">我想再找找看。</Localize>
   
   
-  <Localize id="810045ff-1eb0-4ed5-b985-ef96d00667da" localized="636111816876764795">请告诉我，[Player:Hlaford/Hlafdia] [Player:Name]，你是从何处而来？</Localize>
+  <Localize id="810045ff-1eb0-4ed5-b985-ef96d00667da" localized="636111816876764795">请告诉我，[Player:领主/女领主] [Player:Name]，你是从何处而来？</Localize>
   
   
   <Localize id="810491cc-24c5-4860-91f2-72b194619ff5" localized="636147355652189808">等等——地上有根绳子。</Localize>
@@ -37553,7 +37553,7 @@
   <Localize id="816f0a57-e3dd-4b83-aa3a-1258b062d857" localized="635972008613435218">当初接下这活儿的时候，她给了我们这顶王冠头饰当报酬。我也没多嘴去问。</Localize>
   
   
-  <Localize id="81706835-6f37-47ce-9394-bdba5e1886a4" localized="635878590323042702">[Player:He/She]是我的领主，我将忠心耿耿地侍奉[Player:him/her]，直至女武神将我接往弗尔克范格。</Localize>
+  <Localize id="81706835-6f37-47ce-9394-bdba5e1886a4" localized="635878590323042702">[Player:他/她]是我的领主，我将忠心耿耿地侍奉[Player:他/她]，直至女武神将我接往弗尔克范格。</Localize>
   
   
   <Localize id="8170fce6-7615-407f-a6fb-0628a4cd96db" localized="635971806851675072">{需要50口粮。} 眼下我可拿不出什么供品来。</Localize>
@@ -37760,7 +37760,7 @@
   <Localize id="820f7d1c-2db2-4892-8d42-733402ac28e9" localized="636111768306808920"/>
   
   
-  <Localize id="8212b67c-e125-4527-a7a0-ae6a856a5498" localized="635961600228686635">快来瞧瞧嘞，我这位好[Player:man/woman]。您要是求些吃食或是药材，那可算来对地方了。</Localize>
+  <Localize id="8212b67c-e125-4527-a7a0-ae6a856a5498" localized="635961600228686635">快来瞧瞧嘞，我这位好[Player:男子/女子]。您要是求些吃食或是药材，那可算来对地方了。</Localize>
   
   
   <Localize id="82160ef0-e993-46e8-ab0c-ec3e14199ad9" localized="636112883707713028"/>
@@ -37793,7 +37793,7 @@
   <Localize id="8230fb17-03a1-445d-baf2-a71a327c6252" localized="635966103411797356">哈夫丹眉头一皱，两臂往胸前一抱。</Localize>
   
   
-  <Localize id="823236b8-94dc-46e3-9726-d37bdcdc7828" localized="636041045056273540">你——[i]说什么？！[/i]我可不是奸细，你这满肚子诡计的[Player:snake/mare]！</Localize>
+  <Localize id="823236b8-94dc-46e3-9726-d37bdcdc7828" localized="636041045056273540">你——[i]说什么？！[/i]我可不是奸细，你这满肚子诡计的[Player:蛇/母马]！</Localize>
   
   
   <Localize id="82374fd5-8152-4004-87c8-000941dabb32" localized="636192202949919493">那修士翻拣着卷轴，寻到他要找的那一卷，接着伸手从旁边桌上拈起羽毛笔，蘸了蘸墨，在一份名册上新添了几笔。</Localize>
@@ -38321,7 +38321,7 @@
   <Localize id="84020da7-2676-4b72-be8c-31cd8ebf331b" localized="636110941580661373">有了这些新栅栏，大伙儿心里总算踏实多了。</Localize>
   
   
-  <Localize id="8409e6bf-5ace-4605-8b31-c428e04a18c4" localized="635927921091966656">把东西给[Player:him/her]便是，诺特。你用不上它，没有它你照样能打。</Localize>
+  <Localize id="8409e6bf-5ace-4605-8b31-c428e04a18c4" localized="635927921091966656">把东西给[Player:他/她]便是，诺特。你用不上它，没有它你照样能打。</Localize>
   
   
   <Localize id="840bb818-deb4-4541-bf61-42e0157f8a76" localized="636192163144300434">珀斯港的港务长，那副模样一看就是个一辈子往河船上搬运沉重木桶的人。</Localize>
@@ -38447,7 +38447,7 @@
   <Localize id="84691322-d46a-4b96-b859-3bd141396cc5" localized="636095534713944000">你们这群人名声可糟透了，所以别指望能打折。</Localize>
   
   
-  <Localize id="846958df-9322-401e-b6c2-00a6a35c1a96" localized="635897017959374674">我，格里姆瓦尔德之子阿斯莱弗，在此向[Player:Name]之[Player:son/daughter][Player:Father]提出决斗，以争夺我族的统辖之权！</Localize>
+  <Localize id="846958df-9322-401e-b6c2-00a6a35c1a96" localized="635897017959374674">我，格里姆瓦尔德之子阿斯莱弗，在此向[Player:Name]之[Player:儿子/女儿][Player:Father]提出决斗，以争夺我族的统辖之权！</Localize>
   
   
   <Localize id="846b473f-5b98-4ee4-be1f-7dcd42d11d0c" localized="636087627363146861">我可不记得何时问过你的高见。</Localize>
@@ -38819,7 +38819,7 @@
   <Localize id="85fff2f1-18e6-4dff-a4f6-43d01a99828b" localized="636141207192269240">这把大得离谱的丹麦长斧，常人几乎无法挥舞——这也难怪，毕竟你是从贝格手中夺来的，那家伙可是肆虐里伯沼泽的一对怪物兄弟之一。</Localize>
   
   
-  <Localize id="86012d9f-179a-43e6-8a46-a070f87f9797" localized="636132782506654421">要是[Player:Name]在这儿，[Player:he/she]怕是早就被这恶臭熏死了。我看是时候弄明白到底是谁在执掌这计划了。</Localize>
+  <Localize id="86012d9f-179a-43e6-8a46-a070f87f9797" localized="636132782506654421">要是[Player:Name]在这儿，[Player:他/她]怕是早就被这恶臭熏死了。我看是时候弄明白到底是谁在执掌这计划了。</Localize>
   
   
   <Localize id="86044c33-ba1b-4af6-ab1b-c8feb31b4f84" localized="635961648544723686"/>
@@ -38933,7 +38933,7 @@
   <Localize id="866777f4-d213-4883-b913-f027d8e7e96d" localized="636223422049476154">营地已安置妥当，晚饭也已开伙。你的几个亲兵围在篝火旁，满脸忧虑地议论着什么。</Localize>
   
   
-  <Localize id="8667bfc8-ca8f-41a5-bc6d-3bbb40372d14" localized="636225119870347112">我把事情弄得一团糟，[Player:brother/sis]。</Localize>
+  <Localize id="8667bfc8-ca8f-41a5-bc6d-3bbb40372d14" localized="636225119870347112">我把事情弄得一团糟，[Player:兄弟/姐妹]。</Localize>
   
   
   <Localize id="86691e42-2fe3-4374-b13c-58fbb48ab6ed" localized="635860569150773831">我不愿意跟那个女巫扯上关系。</Localize>
@@ -38978,7 +38978,7 @@
   <Localize id="8683806b-8d2e-47e2-96ef-5c5f59c0469e" localized="636132862547060642"/>
   
   
-  <Localize id="8684fc28-d83a-48d1-b0fc-496ecc275a07" localized="636189810197869151">你怎么说，[Player:boy/girl]？准备好砸烂几个约顿巨人的脑壳没有？</Localize>
+  <Localize id="8684fc28-d83a-48d1-b0fc-496ecc275a07" localized="636189810197869151">你怎么说，[Player:男孩/女孩]？准备好砸烂几个约顿巨人的脑壳没有？</Localize>
   
   
   <Localize id="868824be-532a-43f7-a9ca-0b8b8a4298ba" localized="636153595833965652"/>
@@ -39011,7 +39011,7 @@
   <Localize id="869fbe23-4049-4590-8b19-df346eb1e982" localized="636113504371053971">又是我，奎恩！我们碰上麻烦了，得求你帮忙！</Localize>
   
   
-  <Localize id="869fd5df-fd23-4c59-906b-49ccedf56ca5" localized="635966128289967032">见鬼，[Player:lad/lass]，你当时又不在场，那滋味你根本不明白。能说的我都跟你说了，这事儿就让它过去吧。</Localize>
+  <Localize id="869fd5df-fd23-4c59-906b-49ccedf56ca5" localized="635966128289967032">见鬼，[Player:小伙子/姑娘]，你当时又不在场，那滋味你根本不明白。能说的我都跟你说了，这事儿就让它过去吧。</Localize>
   
   
   <Localize id="86a06edb-cca6-40e0-b64c-b7a45a9d7f1a" localized="636166368635251703">它蜇着我的背了！这有什么好玩的！</Localize>
@@ -39053,7 +39053,7 @@
   <Localize id="86b94444-2b7e-4eda-807d-7acda851c2f7" localized="635992678418383028">但有落进好土里的，便结了实，有百倍的，有六十倍的，有三十倍的。有耳可听的，就应当听！</Localize>
   
   
-  <Localize id="86bc526e-c18c-4b3e-a76e-a7a95718eedb" localized="636225909899063104">是故，兹将斯克恩全境封赐予斯库勒·碎颅者。为存[Player:his/her]体面，特判[Player:Name]处以流放之刑。</Localize>
+  <Localize id="86bc526e-c18c-4b3e-a76e-a7a95718eedb" localized="636225909899063104">是故，兹将斯克恩全境封赐予斯库勒·碎颅者。为存[Player:他/她]体面，特判[Player:Name]处以流放之刑。</Localize>
   
   
   <Localize id="86bdc3bb-c122-4b9a-8a34-1d4ef520e51b" localized="635959819151570679">他们添了新记号，我敢打包票！那头猪我[i]认得[/i]，就是咱们的！</Localize>
@@ -39092,7 +39092,7 @@
   <Localize id="86ef26a5-5436-4337-b739-747fb04d399d" localized="635978882866917002">亲兵之中唯有你通晓弓术，因此你唯一能做的，便是抢在那奴隶贩子伤及奴仆之前，一箭将他射翻。</Localize>
   
   
-  <Localize id="86efa788-12c1-4125-aa63-2de1b7a14da9" localized="635989996244331582">你赢了，[Player:son/daughter]家的[Player:Father]。我会带着家人离开。</Localize>
+  <Localize id="86efa788-12c1-4125-aa63-2de1b7a14da9" localized="635989996244331582">你赢了，[Player:儿子/女儿]家的[Player:Father]。我会带着家人离开。</Localize>
   
   
   <Localize id="86f4a2b1-cee2-42a5-851a-95845e208c27" localized="636227817093691178">待你追上她，她正和比约格迪丝一道，扶着自家姐妹饮水。</Localize>
@@ -39233,7 +39233,7 @@
   <Localize id="87461f01-80e7-45eb-8dce-57a80ea9874e" localized="636066066072648733">只是路过而已，我什么也不需要。</Localize>
   
   
-  <Localize id="87477ae9-bf0a-4e4a-af03-e8bc3f47be21" localized="635858726211366633">[Player:Name]，[Player:Father]之[Player:son/daughter]，我向你发起决斗，争夺首领之位！</Localize>
+  <Localize id="87477ae9-bf0a-4e4a-af03-e8bc3f47be21" localized="635858726211366633">[Player:Name]，[Player:Father]之[Player:儿子/女儿]，我向你发起决斗，争夺首领之位！</Localize>
   
   
   <Localize id="874f81a1-0000-454f-97d1-4fc2becd3ef5" localized="636194791107734584">认得路，回程就快得多，你只用了一半时间便潜行了回去。</Localize>
@@ -39635,7 +39635,7 @@
   <Localize id="88afbbd3-5a33-41fc-b314-2ddd34cafb5f" localized="636150123435322632">会在宗教仪式中途把手伸进我裙底的那种男人？</Localize>
   
   
-  <Localize id="88b1b786-230e-4b6a-b042-0887b0db52bb" localized="636164100798630712">干脆把我余生的故事一股脑儿都告诉[Player:him/her]得了。</Localize>
+  <Localize id="88b1b786-230e-4b6a-b042-0887b0db52bb" localized="636164100798630712">干脆把我余生的故事一股脑儿都告诉[Player:他/她]得了。</Localize>
   
   
   <Localize id="88b9acef-64bc-4d70-b0d2-c6589df3cb09" localized="636107699461181643"/>
@@ -39995,7 +39995,7 @@
   <Localize id="89f0b11c-0a83-4033-bd33-0e4a9691136d" localized="636166565915946597"/>
   
   
-  <Localize id="89f1d032-993b-404d-ad01-87b60c777aef" localized="636075673312083329">我恳求您保持理智，尊敬的[Player:Hlaford/Hlafdia]。</Localize>
+  <Localize id="89f1d032-993b-404d-ad01-87b60c777aef" localized="636075673312083329">我恳求您保持理智，尊敬的[Player:领主/女领主]。</Localize>
   
   
   <Localize id="89f2a6ab-be65-4b65-9ee9-b8e8c2b1b8e0" localized="635864301469449014">今儿个你身子不舒坦，记性都……</Localize>
@@ -40193,7 +40193,7 @@
   <Localize id="8a9bc7c8-b972-4919-a0c3-22bbb0ed543c" localized="636148063971210093">真是个迷人的地方。这片土地，果然处处是奇观。</Localize>
   
   
-  <Localize id="8aa03551-171e-43eb-ae16-9a3ac0851736" localized="636224214149329581">那么，能被称为你的盟友，[Player:Hlaford/Hlafdia] [Player:Name]，我深感荣幸。</Localize>
+  <Localize id="8aa03551-171e-43eb-ae16-9a3ac0851736" localized="636224214149329581">那么，能被称为你的盟友，[Player:领主/女领主] [Player:Name]，我深感荣幸。</Localize>
   
   
   <Localize id="8aa3d57a-a7f9-42f6-8248-486024275caa" localized="636074832158674918">好俊的樵夫手艺。</Localize>
@@ -40337,7 +40337,7 @@
   <Localize id="8b3d502c-2d84-4dfc-8138-1d6718e260fb" localized="636223313278586824"/>
   
   
-  <Localize id="8b407deb-7111-4d08-8faf-05bf3d877771" localized="636137009395612002">既然你已证明自己是个品行端正的[Player:man/woman]，我会给你更优惠的价钱。告诉我你需要什么就行。</Localize>
+  <Localize id="8b407deb-7111-4d08-8faf-05bf3d877771" localized="636137009395612002">既然你已证明自己是个品行端正的[Player:男子/女子]，我会给你更优惠的价钱。告诉我你需要什么就行。</Localize>
   
   
   <Localize id="8b40d2e8-6aa4-4208-ba72-3d43adb772cb" localized="635965775353128795"/>
@@ -40370,7 +40370,7 @@
   <Localize id="8b4a878e-a813-44b7-a37d-67b8a55f00ae" localized="635874209200106275">她可真是个喂不饱的小东西，是吧？</Localize>
   
   
-  <Localize id="8b4c2077-4bcc-4fa9-86b3-479175248876" localized="636177871230010898">听着，很抱歉我的[Player:boy/girl]刚回来我就得走，可我非走不可了。有要紧的差事，得替西格丽德和你母亲去办。</Localize>
+  <Localize id="8b4c2077-4bcc-4fa9-86b3-479175248876" localized="636177871230010898">听着，很抱歉我的[Player:男孩/女孩]刚回来我就得走，可我非走不可了。有要紧的差事，得替西格丽德和你母亲去办。</Localize>
   
   
   <Localize id="8b4cd502-53f4-4841-8ed9-083ff123ccca" localized="636227814631959402">我也爱你。</Localize>
@@ -40391,7 +40391,7 @@
   <Localize id="8b5ce9ef-dd6a-4325-9e6e-5adc51bfdf75" localized="635853658986964016">走着瞧吧。</Localize>
   
   
-  <Localize id="8b676f3b-67a0-4af7-a133-241d33bd884d" localized="635874260631397977">哦嗬！我亲爱的[Player:man/woman]，自从你父亲的船载着他一起去了往生，我就一直盼着你为这事来找我啊。</Localize>
+  <Localize id="8b676f3b-67a0-4af7-a133-241d33bd884d" localized="635874260631397977">哦嗬！我亲爱的[Player:男子/女子]，自从你父亲的船载着他一起去了往生，我就一直盼着你为这事来找我啊。</Localize>
   
   
   <Localize id="8b67efad-edb0-40fd-a79b-c4917aa54a35" localized="636166570683670023">这真可惜，但我们得把心思都放在下场战斗上。</Localize>
@@ -40469,7 +40469,7 @@
   <Localize id="8b9b3fb4-c8a9-42f3-a739-41484836901a" localized="636143047215706764">事实上，是[i]她[/i]挑中[i]我[/i]。</Localize>
   
   
-  <Localize id="8b9cefe0-efd3-44fe-b8dd-37580b257455" localized="636223335729620597">[i]挣[/i]来的？！哼，到这份上，我早把你当成我沙场上的[Player:brother/sister]了！</Localize>
+  <Localize id="8b9cefe0-efd3-44fe-b8dd-37580b257455" localized="636223335729620597">[i]挣[/i]来的？！哼，到这份上，我早把你当成我沙场上的[Player:兄弟/姐妹]了！</Localize>
   
   
   <Localize id="8b9e251a-0396-4ba0-bb84-7021c49da02f" localized="636166565915946597"/>
@@ -40580,7 +40580,7 @@
   <Localize id="8bfacb3c-c0df-4a37-9f4d-3f74a878a5b9" localized="636120430878686530">你跟我一起来吗？</Localize>
   
   
-  <Localize id="8c00c2cd-4260-484e-8b5e-6cfd9a4294b9" localized="636178477770880092">我听说你们是异教徒，但除非我亲耳听到[Player:man/woman]本人这么说，否则我不会轻信关于[Player:his/her]的这等传闻。</Localize>
+  <Localize id="8c00c2cd-4260-484e-8b5e-6cfd9a4294b9" localized="636178477770880092">我听说你们是异教徒，但除非我亲耳听到[Player:男子/女子]本人这么说，否则我不会轻信关于[Player:他/她]的这等传闻。</Localize>
   
   
   <Localize id="8c0339ee-8a6a-453a-9efe-7d58b299988c" localized="636229401006052577">该由谁来操刀手术？</Localize>
@@ -41108,7 +41108,7 @@
   <Localize id="8e3a7574-c8f8-451e-af08-088151b5e1c0" localized="636223493009222143"/>
   
   
-  <Localize id="8e3ae73d-2708-4009-b779-5244fd58027c" localized="636111128677189868">正是在下，我是[Player:he/she]。敢问阁下尊姓大名？</Localize>
+  <Localize id="8e3ae73d-2708-4009-b779-5244fd58027c" localized="636111128677189868">正是在下，我是[Player:他/她]。敢问阁下尊姓大名？</Localize>
   
   
   <Localize id="8e3eb563-7a56-4810-9a4e-25e06d3dbb76" localized="635932979890508397">听你这口气，倒像是很想进去一探究竟似的。</Localize>
@@ -41564,7 +41564,7 @@
   <Localize id="8fda7cfb-0f78-4404-bb1d-4594db4d4235" localized="636172661297232937">她厉声吐出一个词，令行禁止，身后的随从们齐刷刷地拔出了兵刃。</Localize>
   
   
-  <Localize id="8fde913f-7b75-42cf-b305-669316f53873" localized="636141127134321494">年轻的[Player:man/woman]，我欠你的这份恩情，至死不忘。我这寒舍，随时都欢迎你来。</Localize>
+  <Localize id="8fde913f-7b75-42cf-b305-669316f53873" localized="636141127134321494">年轻的[Player:男子/女子]，我欠你的这份恩情，至死不忘。我这寒舍，随时都欢迎你来。</Localize>
   
   
   <Localize id="8fe1bd17-9c09-4211-8d0a-4cffb7b1e90f" localized="635882126706867399">你觐受着奥丁的庇佑，备感荣幸。</Localize>
@@ -42023,7 +42023,7 @@
   <Localize id="91694ef3-ceb8-4b0a-9ea9-9a1d4de3be8a" localized="636186212050424431"/>
   
   
-  <Localize id="916a4322-bc63-414e-be3c-9038ad29f70b" localized="636217153130641900">吾名[Player:Name]，乃[Player:Father]之[Player:son/daughter]，诺森布里亚与皮克塔维亚的征服者。</Localize>
+  <Localize id="916a4322-bc63-414e-be3c-9038ad29f70b" localized="636217153130641900">吾名[Player:Name]，乃[Player:Father]之[Player:儿子/女儿]，诺森布里亚与皮克塔维亚的征服者。</Localize>
   
   
   <Localize id="916ce5a5-eeee-42a2-b6be-9347845a8970" localized="635926926190128872">你在这做什么？</Localize>
@@ -42125,7 +42125,7 @@
   <Localize id="91a92deb-92e0-4394-9dd2-3f1b7c787578" localized="636155900660570584">[i]不。[/i]</Localize>
   
   
-  <Localize id="91ac3d97-f247-4e0f-8e81-c94c8dcf2579" localized="636036640811127087">恰恰相反，我亲爱的[Player:man/woman]。要拿下恩巴尔德，你恰恰是我们[i]最需要[/i]的人。</Localize>
+  <Localize id="91ac3d97-f247-4e0f-8e81-c94c8dcf2579" localized="636036640811127087">恰恰相反，我亲爱的[Player:男子/女子]。要拿下恩巴尔德，你恰恰是我们[i]最需要[/i]的人。</Localize>
   
   
   <Localize id="91afec16-2926-4945-9dd3-a0bb7c098587" localized="635939132434570256"/>
@@ -42170,7 +42170,7 @@
   <Localize id="91e56435-5f67-4bf7-90b9-9624d48c5dfe" localized="636120447594616348">好好待艾菲，听见没有？你要是轻慢了她，我就当你是瞧不起我们整个皮克特文化。</Localize>
   
   
-  <Localize id="91e58e10-04c8-4f32-8907-b05a67f3e104" localized="636221701836676269">真不敢相信这是真的——我居然成了诺森布里亚的[Player:king/queen]。</Localize>
+  <Localize id="91e58e10-04c8-4f32-8907-b05a67f3e104" localized="636221701836676269">真不敢相信这是真的——我居然成了诺森布里亚的[Player:国王/女王]。</Localize>
   
   
   <Localize id="91e97a14-129b-47fb-8fd3-d6812a96ad95" localized="636160273312968869"/>
@@ -42203,7 +42203,7 @@
   <Localize id="91f3cdeb-ba0c-4213-9783-af7fb26c52d4" localized="635998733691515527">那纠缠着你城市的怪物到底是什么——莫非是芬里尔的后裔？</Localize>
   
   
-  <Localize id="91f896a8-174a-4106-bf3a-ee977ae751a8" localized="636225136741849027">你过去告诉我，我不必改变自己，可我始终甩不掉那种感觉：你那么说，不过是因为你是我的[Player:brother/sister]罢了。</Localize>
+  <Localize id="91f896a8-174a-4106-bf3a-ee977ae751a8" localized="636225136741849027">你过去告诉我，我不必改变自己，可我始终甩不掉那种感觉：你那么说，不过是因为你是我的[Player:兄弟/姐妹]罢了。</Localize>
   
   
   <Localize id="91f90cd1-8fe7-453f-a6a9-44007636292f" localized="636113521511683225">怎么样了？我跟你说的那些事，你去向毛科林对质了吗？</Localize>
@@ -42290,7 +42290,7 @@
   <Localize id="923a592e-5729-48b9-8ccb-1a4a4a5fd618" localized="636174060916208411">你是说奥克尼群岛？你以前遭过袭击？</Localize>
   
   
-  <Localize id="923b4a8f-3aa6-4c34-9685-a2759f237fdb" localized="635918377871782393">埃尔林厄！领主驾到！[Player:He/She]把[Player:his/her]的亲兵都带来了！</Localize>
+  <Localize id="923b4a8f-3aa6-4c34-9685-a2759f237fdb" localized="635918377871782393">埃尔林厄！领主驾到！[Player:他/她]把[Player:他/她]的亲兵都带来了！</Localize>
   
   
   <Localize id="923db5e3-2e5a-434d-9e2c-50c053d2097a" localized="636226698327663358">去街那头院子里的郡长西克加谈谈。他会跟你说明白的。</Localize>
@@ -42311,7 +42311,7 @@
   <Localize id="92437855-15f7-4ed6-ac1a-7890c96f19ef" localized="636225085992577608">就是这帮狗崽子害死了格里穆尔夫叔叔！咱们报仇的机会来了！</Localize>
   
   
-  <Localize id="9245cc56-8a74-4e04-8b9d-fc2299fdc209" localized="636155086793787591">听听[Player:him/her]的话吧，想想这事会让我们落到什么田地。塔洛克！你清醒一点！</Localize>
+  <Localize id="9245cc56-8a74-4e04-8b9d-fc2299fdc209" localized="636155086793787591">听听[Player:他/她]的话吧，想想这事会让我们落到什么田地。塔洛克！你清醒一点！</Localize>
   
   
   <Localize id="92465273-1107-4254-a187-ad10d5a33534" localized="636171520715398504">我们是来捎个口信的。得留个活口回去，把我们在这儿干的事传出去，那才管用。</Localize>
@@ -42410,7 +42410,7 @@
   <Localize id="9295d66a-ab70-414e-8634-cb47737deb1b" localized="635932982169739224">你究竟是谁？</Localize>
   
   
-  <Localize id="92962c38-d7a1-47b0-b499-aa2308558baa" localized="636223283401344436">斯基恩的领主[Player:Name][Player:Lastname]与[Player:his/her]麾下骁勇的战士们，为这个王国立下了汗马功劳。鉴于此，[Player:Name]，我立誓支持你出征日德兰。</Localize>
+  <Localize id="92962c38-d7a1-47b0-b499-aa2308558baa" localized="636223283401344436">斯基恩的领主[Player:Name][Player:Lastname]与[Player:他/她]麾下骁勇的战士们，为这个王国立下了汗马功劳。鉴于此，[Player:Name]，我立誓支持你出征日德兰。</Localize>
   
   
   <Localize id="929710a9-a301-448a-ac19-18cfd4cd5683" localized="636228631422141240">瞧瞧你们这一个个的，凶神恶煞，一副外邦人的模样。是来洗劫我这穷老婆子的家吗？我警告你们，我的狗可比看上去要凶恶得多。</Localize>
@@ -42479,7 +42479,7 @@
   <Localize id="92bc2a58-23c0-4c1d-a54a-d0cbb70d1f5f" localized="636002901897533209"/>
   
   
-  <Localize id="92be8305-1ebb-4b09-a4b9-9f2e29bbfef4" localized="636136052102967330">我从不把狡诈算作自己武器库里的一件，但一名战士，即便[Player:he himself/she herself]不屑使用，也得对那些手段心里有数。</Localize>
+  <Localize id="92be8305-1ebb-4b09-a4b9-9f2e29bbfef4" localized="636136052102967330">我从不把狡诈算作自己武器库里的一件，但一名战士，即便[Player:他自己/她自己]不屑使用，也得对那些手段心里有数。</Localize>
   
   
   <Localize id="92bf90de-6f3d-4d4e-9385-4ccf76b1f842" localized="635959945633579229">去远征？我不会拦你，但我给你父亲的警告，对你也同样适用：要是惜命，就老老实实待在熟悉的地盘。</Localize>
@@ -42617,7 +42617,7 @@
   <Localize id="9316b1b6-0c20-4bc2-bb65-2ccc333ffb9c" localized="635975447149900084">我相信你。大伙都信你。</Localize>
   
   
-  <Localize id="931770e4-573f-415d-9c87-a16173851544" localized="636229431548960357">当然，[Player:Hlaford/Hlafdia]。不敢耽搁您。</Localize>
+  <Localize id="931770e4-573f-415d-9c87-a16173851544" localized="636229431548960357">当然，[Player:领主/女领主]。不敢耽搁您。</Localize>
   
   
   <Localize id="931a7ea2-b5a8-4c34-968b-20fd6ac8b933" localized="635973596022543374"/>
@@ -42875,7 +42875,7 @@
   <Localize id="94218324-39dd-42ac-badd-a49173fed679" localized="636054054655667245">遵照瓦莱里乌斯的法令，唯有罗穆卢斯的信徒方可入内。</Localize>
   
   
-  <Localize id="9422023c-703d-420c-8f6f-f3893417c4c7" localized="636111023762004254">[Player:Velkominn/Velkomin]，欢迎来到赫尔海姆。</Localize>
+  <Localize id="9422023c-703d-420c-8f6f-f3893417c4c7" localized="636111023762004254">[Player:欢迎/欢迎]，欢迎来到赫尔海姆。</Localize>
   
   
   <Localize id="9426fe59-b164-47e7-85da-ff806b592ba3" localized="635979573275283982">我们只是一群时运不济的旅人罢了。我们不图你什么，求你了，别来打扰我们。</Localize>
@@ -43433,7 +43433,7 @@
   <Localize id="95e79982-3f50-4788-8626-67f90d188f28" localized="635971918805695821">看来我们要——维劳格，不要！</Localize>
   
   
-  <Localize id="95e8aa20-79c1-4a6a-a884-18be61e082ad" localized="636166603223963514">这位是来自丹麦的[Player:Name]。无论烧毁你父亲家宅的是谁，[Player:he/she]都与此事毫无干系。</Localize>
+  <Localize id="95e8aa20-79c1-4a6a-a884-18be61e082ad" localized="636166603223963514">这位是来自丹麦的[Player:Name]。无论烧毁你父亲家宅的是谁，[Player:他/她]都与此事毫无干系。</Localize>
   
   
   <Localize id="95e8de17-6987-4e97-a105-70eb6964047f" localized="636153646339247810"/>
@@ -43544,7 +43544,7 @@
   <Localize id="9654211c-2866-4d03-98b3-58d68be3d7b1" localized="636120534446863452"/>
   
   
-  <Localize id="96576004-828f-416f-9593-2d684242481f" localized="635996240432039721">落败的[Player:He/She]可向胜者宣誓效忠，否则[Player:his/her]性命将被剥夺。若我二人中有人在决斗中倒下，他的尸身将安葬于此。</Localize>
+  <Localize id="96576004-828f-416f-9593-2d684242481f" localized="635996240432039721">落败的[Player:他/她]可向胜者宣誓效忠，否则[Player:他/她]性命将被剥夺。若我二人中有人在决斗中倒下，他的尸身将安葬于此。</Localize>
   
   
   <Localize id="9657b0c5-3081-4c61-9e5c-831454ca6a9a" localized="636172360116774483">{提供500贵重物品。} 我出25便士买它。对一个老旧的纪念物来说，这价不算赖。</Localize>
@@ -43967,7 +43967,7 @@
   <Localize id="97ad0de5-7abb-45ec-a629-fdbdd193fef4" localized="635872979123111708"/>
   
   
-  <Localize id="97b1a1b2-9bfc-4e83-a8d6-5a64abb1345b" localized="636202903977960229">连自己的土地都守不住，你就不配为王。等我来做你的[Player:king/queen]，一切都会不一样的。</Localize>
+  <Localize id="97b1a1b2-9bfc-4e83-a8d6-5a64abb1345b" localized="636202903977960229">连自己的土地都守不住，你就不配为王。等我来做你的[Player:国王/女王]，一切都会不一样的。</Localize>
   
   
   <Localize id="97bbcc02-5168-42f1-b72a-71f9e387a228" localized="636036737451714666">好是好，管个屁用，那群畜生压根不跑！我们冲它们又吼又叫，又扔石头，它们倒好，只是低吼着，开始围着我们打转。</Localize>
@@ -44321,13 +44321,13 @@
   <Localize id="990880aa-e3a0-4058-849d-5309aea9b940" localized="636153494157458896">方才多有怠慢，还请恕罪，弟兄们对外乡人总会生疑。你们要是继续赶路前需要些补给，我这儿有些吃食和草药可以拿来换。</Localize>
   
   
-  <Localize id="990b3ddb-9ade-4781-90e7-72835706fef5" localized="636034114243036614">啊，[Player:Hlaford/Hlafdia][Player:Name]。看到你也从那场伏击里全身而退，我很欣慰。</Localize>
+  <Localize id="990b3ddb-9ade-4781-90e7-72835706fef5" localized="636034114243036614">啊，[Player:领主/女领主][Player:Name]。看到你也从那场伏击里全身而退，我很欣慰。</Localize>
   
   
   <Localize id="990ca691-bdc8-4ab7-ac1f-c7ae995376af" localized="635961636020523597">男孩的双眼一下子瞪得老大。</Localize>
   
   
-  <Localize id="990ed50c-1551-44b6-a222-25e5ef8acc05" localized="636113476274833380">无意冒犯，诺斯的[Player:Hlaford/Hlafdia]，但您这趟差事，只好请去别处办了。我们帮不上忙。</Localize>
+  <Localize id="990ed50c-1551-44b6-a222-25e5ef8acc05" localized="636113476274833380">无意冒犯，诺斯的[Player:领主/女领主]，但您这趟差事，只好请去别处办了。我们帮不上忙。</Localize>
   
   
   <Localize id="990f7b17-da92-4e06-bf65-0fe3f09dfd3f" localized="635962354589028035">之前你说的那艘船的买卖，还算数吗？</Localize>
@@ -45350,7 +45350,7 @@
   <Localize id="9cf333ea-ca62-4580-a46d-f3efafe2dc42" localized="635974416848968057">你可把人吓得不轻，罗斯克瓦——全是你这一脸的阴郁在作祟。</Localize>
   
   
-  <Localize id="9cf3de6a-3dc6-45fa-a293-14908d63d095" localized="635961631937751857">我去过斯凯恩，知道你是位手艺精湛的 [Player:craftsman/craftswoman]。</Localize>
+  <Localize id="9cf3de6a-3dc6-45fa-a293-14908d63d095" localized="635961631937751857">我去过斯凯恩，知道你是位手艺精湛的 [Player:工匠/女工匠]。</Localize>
   
   
   <Localize id="9cf6025a-c805-4553-80ed-8f14b1e7c939" localized="635841538513031286">那女孩身子一缩，但随即深吸一口气，放声喊出了那失踪奴仆的名字。喊声回荡在近旁的每个角落，你的同伴们也都察觉到了异样。有人捏紧了刀把，以备不测；有人则警觉地四下扫视。</Localize>
@@ -45653,7 +45653,7 @@
   <Localize id="9e11f199-29f8-4945-b0f0-972f1f051f15" localized="636016132481798724">他挺直了脊背，仿佛你的话语揪住他的双肩将他提了起来。</Localize>
   
   
-  <Localize id="9e13a909-a893-4750-9f68-e926121786b6" localized="636225863273745110">鲁里克迟疑地握住你的手，仿佛要敲定这笔交易——在[Player:brothers/brother and sister]之间，这举动出奇地郑重，但又显得势在必行。</Localize>
+  <Localize id="9e13a909-a893-4750-9f68-e926121786b6" localized="636225863273745110">鲁里克迟疑地握住你的手，仿佛要敲定这笔交易——在[Player:兄弟们/兄妹]之间，这举动出奇地郑重，但又显得势在必行。</Localize>
   
   
   <Localize id="9e1485a5-4979-4f0e-a2c5-b0566173aa46" localized="636147445966108597"/>
@@ -45815,7 +45815,7 @@
   <Localize id="9eaec6ce-1209-48f9-8545-9b1e4c6c6b51" localized="636184421546171586">等咱们结了婚，这种冲突就彻底翻篇儿了。</Localize>
   
   
-  <Localize id="9eb48982-a252-4874-bd0f-39e3539b691d" localized="636126651254596208">我是个极有耐心的[Player:man/woman]。可这位埃迪丝，半点气都受不了。这会儿她老实，是因为知道我喜欢给人机会，可你要是不把一半的钱交出来，我很乐意放她出来整治你。</Localize>
+  <Localize id="9eb48982-a252-4874-bd0f-39e3539b691d" localized="636126651254596208">我是个极有耐心的[Player:男子/女子]。可这位埃迪丝，半点气都受不了。这会儿她老实，是因为知道我喜欢给人机会，可你要是不把一半的钱交出来，我很乐意放她出来整治你。</Localize>
   
   
   <Localize id="9eb91b5d-81f4-4bd8-b762-e9220fc546bf" localized="636160273312968869"/>
@@ -45908,7 +45908,7 @@
   <Localize id="9f07fd49-f5da-485b-bb28-e70bc0814f16" localized="636054096675623771">你们在这楼梯底下守着什么？</Localize>
   
   
-  <Localize id="9f0b516c-c5b0-436b-bacc-04a1549367a7" localized="635908712110206404">那一下可真够狠毒的，我可怜的[Player:boy/girl]，不过你也甭太往心里去——你处理得跟任何人能做得一样好了。可惜你爹的葬礼，被这种腌臜事给搅了。</Localize>
+  <Localize id="9f0b516c-c5b0-436b-bacc-04a1549367a7" localized="635908712110206404">那一下可真够狠毒的，我可怜的[Player:男孩/女孩]，不过你也甭太往心里去——你处理得跟任何人能做得一样好了。可惜你爹的葬礼，被这种腌臜事给搅了。</Localize>
   
   
   <Localize id="9f118828-ad79-482d-b81f-13477d21c986" localized="636106036284474166"/>
@@ -46379,7 +46379,7 @@
   <Localize id="a0b8a9dd-e459-49fd-a1a0-03c911de8f23" localized="635895039580197559">去找托尔芬，商量造一艘新的长船。</Localize>
   
   
-  <Localize id="a0ba654a-89d9-4800-86d2-634bad061021" localized="636184842544739349">好个[Player:man/woman]，够劲，我会好好享受的。</Localize>
+  <Localize id="a0ba654a-89d9-4800-86d2-634bad061021" localized="636184842544739349">好个[Player:男子/女子]，够劲，我会好好享受的。</Localize>
   
   
   <Localize id="a0c1d0e5-d668-413a-b281-2338e118f035" localized="636123972466584798">我们要不要放了他们？</Localize>
@@ -46550,7 +46550,7 @@
   <Localize id="a1553f4f-babd-4b58-baf5-20b610b060ec" localized="636112821586550957">呃……我想看你打一场。</Localize>
   
   
-  <Localize id="a15602bc-3f4b-40d2-a7e0-45b6f068a8ee" localized="635961617856484447">[Player:Velkominn/Velkomin]，欢迎您回来，仁慈的领主。您可是要补充些随行物资？</Localize>
+  <Localize id="a15602bc-3f4b-40d2-a7e0-45b6f068a8ee" localized="635961617856484447">[Player:欢迎/欢迎]，欢迎您回来，仁慈的领主。您可是要补充些随行物资？</Localize>
   
   
   <Localize id="a1563139-06f4-42a6-99db-99cf94e512e4" localized="635927914207966685">诺托尔夫的守卫不算差劲，可你还是逮着机会，杀了他个措手不及。你的刀锋精准地滑入皮革最薄之处，自他的肋骨间刺入，贯穿心脏，撕裂了一个口子。不过二十来秒，那具躯体便停止了抽搐。</Localize>
@@ -46748,7 +46748,7 @@
   <Localize id="a205fbfc-dd88-4266-9e39-bdcf9cb71307" localized="635863455690011245">要是胡尔达太难缠，再过来找我——我也许能帮上忙。</Localize>
   
   
-  <Localize id="a2068e42-c046-4012-a6d8-98e2ffae58e0" localized="636087822203983480">失、失礼了，我的[Player:Hlaford/Hlafdia]。</Localize>
+  <Localize id="a2068e42-c046-4012-a6d8-98e2ffae58e0" localized="636087822203983480">失、失礼了，我的[Player:领主/女领主]。</Localize>
   
   
   <Localize id="a2084111-bdbc-456b-8014-4674ddf5250a" localized="636153584291413336">他的目光精于算计而清明，审视着你，哪怕此情此景，仍让你觉着渺小，就在那一瞬，你几乎要相信这人恐怕已活了上千年了。</Localize>
@@ -47024,7 +47024,7 @@
   <Localize id="a2e37987-6408-4075-9221-945a69d777ff" localized="635968318702046134">我包你一定能混出名堂来！</Localize>
   
   
-  <Localize id="a2e4951d-e5d1-4d40-8efe-e7800d3a583e" localized="635960515418457398">斯克恩来的[Player:Father]家的[Player:son/daughter]？</Localize>
+  <Localize id="a2e4951d-e5d1-4d40-8efe-e7800d3a583e" localized="635960515418457398">斯克恩来的[Player:Father]家的[Player:儿子/女儿]？</Localize>
   
   
   <Localize id="a2e6654e-f9c2-461f-adae-ac4f69ecacdd" localized="636204382981578327"/>
@@ -47594,7 +47594,7 @@
   <Localize id="a5027769-ca6a-4c9a-ad80-0c7ed3605625" localized="636190429027997373">{杀了他们。}真可惜。</Localize>
   
   
-  <Localize id="a502ca4a-782c-4d53-aea7-0cd62f6a3ee7" localized="636053993771383056">父亲，您应当对丹麦人的首领[Player:Name]说话。[Player:He/She]才是这队人马的首领，我只是随行观摩学习的。</Localize>
+  <Localize id="a502ca4a-782c-4d53-aea7-0cd62f6a3ee7" localized="636053993771383056">父亲，您应当对丹麦人的首领[Player:Name]说话。[Player:他/她]才是这队人马的首领，我只是随行观摩学习的。</Localize>
   
   
   <Localize id="a5058feb-a871-4bf4-bfc0-f6a56ff4ccab" localized="636126547560653489">他的目光再次扫过你和你的同伴，一丝浅浅的笑意浮上他厚实的嘴唇。他收起匕首，猛地伸出手来。</Localize>
@@ -48149,7 +48149,7 @@
   <Localize id="a6fd22f9-15ed-4ada-bb05-02a221742659" localized="636232004724141205">{献上10000财物。}你要的银子，我带来了。就此说定！</Localize>
   
   
-  <Localize id="a70134e9-691e-4094-9b0e-4e613d7b0ad9" localized="636224225720225422">[Random01:Name]用[Player:his/her]的脚捅了捅国王的尸身。</Localize>
+  <Localize id="a70134e9-691e-4094-9b0e-4e613d7b0ad9" localized="636224225720225422">[Random01:Name]用[Player:他/她]的脚捅了捅国王的尸身。</Localize>
   
   
   <Localize id="a705f516-61b5-4c72-af90-e8f5537f4bff" localized="635965762021099062">拉格希尔德的那位旗手，就在长屋外他惯常待着的老地方。他又一次停下操练，向你致意。</Localize>
@@ -48227,7 +48227,7 @@
   <Localize id="a7460758-3c3d-490b-be0e-6ab7c63be5ea" localized="635965877331992441">他那是不得不拼上老命。</Localize>
   
   
-  <Localize id="a749eb91-3e07-4a0a-94e1-93867d58c40f" localized="636150936932758695">这事儿没完！你给我听好了！我定会寻着你，[Player:Father]！我定要让你，还有你那[Player:son/daughter]，为你们对我犯下的罪孽血债血偿！</Localize>
+  <Localize id="a749eb91-3e07-4a0a-94e1-93867d58c40f" localized="636150936932758695">这事儿没完！你给我听好了！我定会寻着你，[Player:Father]！我定要让你，还有你那[Player:儿子/女儿]，为你们对我犯下的罪孽血债血偿！</Localize>
   
   
   <Localize id="a7541985-a3cc-4180-af5c-109e3780d460" localized="636113455934923290">紧接着，莫尔坎特用土话长篇大论地絮叨起来。那老头子自始至终都在用狐疑的目光上下打量你。</Localize>
@@ -48692,7 +48692,7 @@
   <Localize id="a8c73690-3e74-4bf7-851c-3c27c43bf2dd" localized="635950417002893670">它们[i]到底[/i]是什么东西？</Localize>
   
   
-  <Localize id="a8cc94fe-ab1a-4dd1-a68c-5a2a39c80d5f" localized="636156018907276034">你是个好[Player:man/woman]。你已经尽力了。</Localize>
+  <Localize id="a8cc94fe-ab1a-4dd1-a68c-5a2a39c80d5f" localized="636156018907276034">你是个好[Player:男子/女子]。你已经尽力了。</Localize>
   
   
   <Localize id="a8cfe060-8ea6-4e31-aa3a-c3abb8e2e928" localized="636032795928394310">双王记</Localize>
@@ -49604,7 +49604,7 @@
   <Localize id="ac3ff6c4-080f-403c-8ef4-b7dc51bda11b" localized="636112782233044484">好歹还没人被拖去砍头，也没人锒铛入狱，所以我觉得，至少能算作成功了一半。</Localize>
   
   
-  <Localize id="ac4bf5b2-b3ae-455d-b7d7-68acde948c5f" localized="635959868085938809">这价钱，你得付我双倍。为保你这批货，你雇用到的可是斯凯恩领主的亲身效劳，声名显赫的战士[Player:son/daughter]的[Player:Father]，外加我最信得过的侍卫。</Localize>
+  <Localize id="ac4bf5b2-b3ae-455d-b7d7-68acde948c5f" localized="635959868085938809">这价钱，你得付我双倍。为保你这批货，你雇用到的可是斯凯恩领主的亲身效劳，声名显赫的战士[Player:儿子/女儿]的[Player:Father]，外加我最信得过的侍卫。</Localize>
   
   
   <Localize id="ac4f00b4-32fa-4eea-85fa-55fd6e7a5b44" localized="636184851748511457">那个蛮汉一声不吭。他只是用一种混杂着畏惧与鄙夷的眼神打量着你。</Localize>
@@ -49619,7 +49619,7 @@
   <Localize id="ac5532e8-f10a-4314-8d27-ec0d3f5a20d7" localized="636233876951270973">多谢你将它带回来。这算是一种……慰藉了结了。但我想你留着它。他也会希望如此的。</Localize>
   
   
-  <Localize id="ac55f2c3-cac2-4859-b621-6ca1ec3ee36c" localized="636150934459849650">我真是鬼迷心窍才去挑战[Player:him/her]。人贵有自知之明。落得这般田地，是我咎由自取。</Localize>
+  <Localize id="ac55f2c3-cac2-4859-b621-6ca1ec3ee36c" localized="636150934459849650">我真是鬼迷心窍才去挑战[Player:他/她]。人贵有自知之明。落得这般田地，是我咎由自取。</Localize>
   
   
   <Localize id="ac56532f-bf96-47ee-a40d-1c1af472975c" localized="635921063509955765">那谁来接手我的农场？[i]你[/i]吗，内菲娅？我宁可[i]死[/i]，也绝不眼睁睁看着这农场在外人手里衰败！</Localize>
@@ -50399,7 +50399,7 @@
   <Localize id="aefcdb2a-3f2a-453e-8f24-7bcdbc0a2fc1" localized="636118755523694246">我会帮忙的。</Localize>
   
   
-  <Localize id="af00718a-4199-414e-943c-6841457120ab" localized="636136063820650085">你当真是个令人生畏的[Player:man/woman]。我真替那些与你为敌的人感到可怜，也庆幸你是我们这边的。</Localize>
+  <Localize id="af00718a-4199-414e-943c-6841457120ab" localized="636136063820650085">你当真是个令人生畏的[Player:男子/女子]。我真替那些与你为敌的人感到可怜，也庆幸你是我们这边的。</Localize>
   
   
   <Localize id="af015df5-d5f6-4230-98fb-decf3ad48c47" localized="636172673227995040">若他接受了你的条件，我会亲赴奥克尼群岛告知于你。</Localize>
@@ -50801,7 +50801,7 @@
   <Localize id="b0862d41-3d4c-4b0b-94b9-934c84070dd6" localized="636160273312968869"/>
   
   
-  <Localize id="b08640d3-1df9-419e-b79c-60274b7ddaf4" localized="636041075030148060">如果这是塔拉撺掇你搞的什么蹩脚把戏，你告诉她，以后挑跑腿的[Player:boys/girls]眼睛得放亮些。</Localize>
+  <Localize id="b08640d3-1df9-419e-b79c-60274b7ddaf4" localized="636041075030148060">如果这是塔拉撺掇你搞的什么蹩脚把戏，你告诉她，以后挑跑腿的[Player:男孩们/女孩们]眼睛得放亮些。</Localize>
   
   
   <Localize id="b0895446-2f17-4300-9c25-3fc57358cccd" localized="636117940297653674">我们奉命将你押入地牢，在那里等候审判。</Localize>
@@ -50888,7 +50888,7 @@
   <Localize id="b0cf3697-56b2-457b-9e51-99eedb3fa510" localized="635925617039983904">你看起来跟上次见面时一样，没带什么累赘。你可以走了。</Localize>
   
   
-  <Localize id="b0cff8e8-7fd8-4970-8401-5d139ca5bc0d" localized="636111129254422074">你已经找到了你的[Player:man/woman]。有什么口信要带？</Localize>
+  <Localize id="b0cff8e8-7fd8-4970-8401-5d139ca5bc0d" localized="636111129254422074">你已经找到了你的[Player:男子/女子]。有什么口信要带？</Localize>
   
   
   <Localize id="b0d0ec15-d3d6-4f0b-8268-6de586d1fadc" localized="636186180517358299"/>
@@ -51131,7 +51131,7 @@
   <Localize id="b1aca36e-a601-42a8-ab56-279cfbc8bb89" localized="635974549536555135">不知道我老婆在家烧了什么菜……</Localize>
   
   
-  <Localize id="b1ae7c22-120f-4be8-ae63-b8e884b93bb9" localized="636177850282651214">你这自私又恶毒的[Player:man/woman]！我完全有权站在这里，面对杀我儿子的凶手！</Localize>
+  <Localize id="b1ae7c22-120f-4be8-ae63-b8e884b93bb9" localized="636177850282651214">你这自私又恶毒的[Player:男子/女子]！我完全有权站在这里，面对杀我儿子的凶手！</Localize>
   
   
   <Localize id="b1aecfac-1ef8-4daf-ac6f-cf4ea092ff18" localized="635960563928047344">我有话要问你。</Localize>
@@ -51728,7 +51728,7 @@
   <Localize id="b3f0195d-c28e-48f1-ac27-5eaef85d6692" localized="636190599836020293">我做不到。</Localize>
   
   
-  <Localize id="b3f08ec5-8dc0-4ec5-86bd-214194938583" localized="635961666352002826">啊，愿你健壮又幸运，我的好[Player:man/woman]。你通身的气派像个贵人。莫非你的庄园正缺几个奴仆？</Localize>
+  <Localize id="b3f08ec5-8dc0-4ec5-86bd-214194938583" localized="635961666352002826">啊，愿你健壮又幸运，我的好[Player:男子/女子]。你通身的气派像个贵人。莫非你的庄园正缺几个奴仆？</Localize>
   
   
   <Localize id="b3f162a7-f563-4b89-ae0d-bda4973d0c08" localized="635895117002185843">我爱你，娘亲。{她转向艾芙拉，轻轻拽了拽她的辫子。}还有你，你这叫人受不了的小混账。</Localize>
@@ -51818,7 +51818,7 @@
   <Localize id="b445a179-7320-4070-bbee-d7164d45fcdd" localized="636186137790652826"/>
   
   
-  <Localize id="b448ff60-de68-4905-98fc-b7f0b846cc6c" localized="636107715606627151">[Player:Name]已答应雇佣我们。我们每人能领到一百枚厄尔图格银币。在[Player:his/her]的统率下，我们将以奥克尼群岛为跳板，对不列颠群岛大举入侵。</Localize>
+  <Localize id="b448ff60-de68-4905-98fc-b7f0b846cc6c" localized="636107715606627151">[Player:Name]已答应雇佣我们。我们每人能领到一百枚厄尔图格银币。在[Player:他/她]的统率下，我们将以奥克尼群岛为跳板，对不列颠群岛大举入侵。</Localize>
   
   
   <Localize id="b44b3c1c-6570-493b-9ffe-b8ffb013217a" localized="636183531703748398">怪事，他们掳走了多恩科尔斯，却放过了芬古拉。你知道这是为何？</Localize>
@@ -52118,7 +52118,7 @@
   <Localize id="b5293baa-8b11-4fdb-8579-052d6faaa9f5" localized="635874247618803699">干得好，小子。就照这样继续干，把这边彻底弄完。我得去跟领主谈谈，马上回来。</Localize>
   
   
-  <Localize id="b52acdff-bf2e-4ad1-89b8-35529a81913f" localized="635961622250987422">备受敬重的[Player:warrior/thieldmaiden]，[Player:Velkominn/Velkomin]光临寒舍！我是格尼普利，今天能为您效劳些什么？</Localize>
+  <Localize id="b52acdff-bf2e-4ad1-89b8-35529a81913f" localized="635961622250987422">备受敬重的[Player:战士/盾女]，[Player:欢迎/欢迎]光临寒舍！我是格尼普利，今天能为您效劳些什么？</Localize>
   
   
   <Localize id="b52ced3a-798c-4a7e-9886-ac60aef61493" localized="635999472166890868">他面无表情地盯着你。</Localize>
@@ -52238,7 +52238,7 @@
   <Localize id="b598e8d3-8714-4494-8118-3e824d7027a5" localized="636185603973040184">好极了。再会了，朋友们。</Localize>
   
   
-  <Localize id="b59b3c93-4378-4889-bb78-9872477bbc29" localized="635971794523010822">[Player:Velkominn/Velkomin]。我叫斯瓦娜，是这座神殿的古迪娅。你是头一回来吗？</Localize>
+  <Localize id="b59b3c93-4378-4889-bb78-9872477bbc29" localized="635971794523010822">[Player:欢迎/欢迎]。我叫斯瓦娜，是这座神殿的古迪娅。你是头一回来吗？</Localize>
   
   
   <Localize id="b59c6662-0116-469d-9daa-e83a7610f327" localized="635933164904617734"/>
@@ -52322,7 +52322,7 @@
   <Localize id="b5ecdcb1-1996-4214-a9aa-fa3d415d6ee4" localized="636113656755179215">容我再把话说死。你给我毒药，我下给康纳尔和他那帮人。等他一咽气，我冲你给个暗号，你就在外边把这些人斩尽杀绝。是这么回事吧？</Localize>
   
   
-  <Localize id="b5ed97d7-4c00-4db7-b68e-f94a3cf41a47" localized="635965849001237382">可不，要不就是[Player:Name]想要个能跟在[Player:him/her]身边、会到处走的战利品。</Localize>
+  <Localize id="b5ed97d7-4c00-4db7-b68e-f94a3cf41a47" localized="635965849001237382">可不，要不就是[Player:Name]想要个能跟在[Player:他/她]身边、会到处走的战利品。</Localize>
   
   
   <Localize id="b5f44993-14bf-4a3b-b03c-9ef5796e029d" localized="636117125169686028">[Curious:Name]用力推了推大门，门吃不住劲，微微晃动了一下。</Localize>
@@ -52481,7 +52481,7 @@
   <Localize id="b67929f8-12db-4732-b2dd-6e96816d7e5a" localized="636136185910086671">只是想聊聊天，对吧？友好地聊聊什么的。</Localize>
   
   
-  <Localize id="b67b8f54-546b-4716-baf2-2f2df2b01aec" localized="636223368953407765">哈哈哈！你不是个做外交官的料，我亲爱的[Player:man/woman]，这是肯定的。不过没关系！</Localize>
+  <Localize id="b67b8f54-546b-4716-baf2-2f2df2b01aec" localized="636223368953407765">哈哈哈！你不是个做外交官的料，我亲爱的[Player:男子/女子]，这是肯定的。不过没关系！</Localize>
   
   
   <Localize id="b67bfa40-0c20-4354-9755-ef65630aaad3" localized="636135441981780266">你们安全了！</Localize>
@@ -52841,7 +52841,7 @@
   <Localize id="b7ba39c4-a6a8-4967-becc-2834c50d5232" localized="635990179247864399">那人明显僵住了。</Localize>
   
   
-  <Localize id="b7ba43fe-6745-4d9b-86bd-2bc349d8d30c" localized="636194967587118303">怎么，不给你的[Player:brother/sister]一个拥抱吗？</Localize>
+  <Localize id="b7ba43fe-6745-4d9b-86bd-2bc349d8d30c" localized="636194967587118303">怎么，不给你的[Player:兄弟/姐妹]一个拥抱吗？</Localize>
   
   
   <Localize id="b7bea43f-a78e-407f-a13b-df90fe39b85f" localized="636161135532809325">让你死在火葬柴堆上都嫌便宜了你，何况谁都看得出来，那正是你想要的。对于你，该受的是血鹰之刑。</Localize>
@@ -53372,7 +53372,7 @@
   <Localize id="b9a83a5e-2b04-4f76-80b4-96a5857c6cf6" localized="636156027463977039"/>
   
   
-  <Localize id="b9a916af-ffa3-4e33-8c99-f2a2f48f7477" localized="636034117318208630">近来如何，[Player:hlaford/hlafdia]？我是瓦达。你要是能抽个空，我想跟你聊几句。</Localize>
+  <Localize id="b9a916af-ffa3-4e33-8c99-f2a2f48f7477" localized="636034117318208630">近来如何，[Player:领主/女领主]？我是瓦达。你要是能抽个空，我想跟你聊几句。</Localize>
   
   
   <Localize id="b9b4041c-5051-47f7-93c9-5bb775d3c8c6" localized="636113573112044916"/>
@@ -53492,7 +53492,7 @@
   <Localize id="ba0b138b-1782-4e1e-828d-8cdf54f73052" localized="636111774379248662"/>
   
   
-  <Localize id="ba0fc66c-8a74-49b4-b703-6c44d086824d" localized="635960646928766621">嘿，迷路的老[Player:man/girl]？我们可不想有人作伴。</Localize>
+  <Localize id="ba0fc66c-8a74-49b4-b703-6c44d086824d" localized="635960646928766621">嘿，迷路的老[Player:男子/姑娘]？我们可不想有人作伴。</Localize>
   
   
   <Localize id="ba11957e-904e-4d8b-9f07-1fac943014b5" localized="635925308138132263">凯蒂尔瞪大双眼，直勾勾地盯着那堆战利品。</Localize>
@@ -53525,7 +53525,7 @@
   <Localize id="ba2c7edd-6aa4-4252-aa5b-5496b05fc59d" localized="636172548627223971">这就是我受众神之父眷顾的明证！哈哈哈！</Localize>
   
   
-  <Localize id="ba2e408a-ede8-445f-a218-0ec7b87d2320" localized="635883869839654821">得了，舅舅。我是个成年的[Player:man/woman]了，有权知道发生了什么。</Localize>
+  <Localize id="ba2e408a-ede8-445f-a218-0ec7b87d2320" localized="635883869839654821">得了，舅舅。我是个成年的[Player:男子/女子]了，有权知道发生了什么。</Localize>
   
   
   <Localize id="ba2f91e3-fbe7-4953-9fe0-6dba78948e45" localized="636172461670919924">让这枚护身符，让你永远记住今夜。</Localize>
@@ -53891,7 +53891,7 @@
   <Localize id="bb6be07f-1b54-4692-9d35-6f0719b8d0ff" localized="636120430083797355"/>
   
   
-  <Localize id="bb6c043f-f584-4150-a8b0-f8bcea3f8b6a" localized="636088661764539640">你是个明智又通情达理的[Player:man/woman]。我只盼你今日的决定，不会为你招来更多麻烦。</Localize>
+  <Localize id="bb6c043f-f584-4150-a8b0-f8bcea3f8b6a" localized="636088661764539640">你是个明智又通情达理的[Player:男子/女子]。我只盼你今日的决定，不会为你招来更多麻烦。</Localize>
   
   
   <Localize id="bb6d0a9a-0b47-4524-943c-2c17c6dea1bd" localized="636204436859115235">看来我们的关系到此为止了，是么？你终究还是更忠于格蕾妮。</Localize>
@@ -53990,7 +53990,7 @@
   <Localize id="bbb1035e-72aa-4651-8752-033547bbf511" localized="636224130220936893">{给予5000财物。} 我这人一看见明事理的主儿，就认得出。</Localize>
   
   
-  <Localize id="bbb1ba17-ab84-425a-ac75-638df8cf08ac" localized="635895024976882297">那就着手准备吧，我的[Player:son/girl]。我会去牵些线，设法多探听些斯库勒的动向与计划。</Localize>
+  <Localize id="bbb1ba17-ab84-425a-ac75-638df8cf08ac" localized="635895024976882297">那就着手准备吧，我的[Player:儿子/姑娘]。我会去牵些线，设法多探听些斯库勒的动向与计划。</Localize>
   
   
   <Localize id="bbb1c159-f5e9-4693-8279-08cd4a56a1ca" localized="636120425360538386">我追捕这畜生都追了好几个月了。你究竟是怎么找到他的？</Localize>
@@ -54137,7 +54137,7 @@
   <Localize id="bc282124-3bbe-47df-9ce2-81437d27a796" localized="636214995371157347">考斯坦丁·马克·弗格斯算不得皮克特的合法国王。皮克塔维亚本就不该只有一个国王！</Localize>
   
   
-  <Localize id="bc283a02-7edf-43e8-bcfa-d2df3deb9aad" localized="635996936383155834">告诉我，[Player:Name]，[Player:son/daughter]家的[Player:Father]：我凭什么还活着？</Localize>
+  <Localize id="bc283a02-7edf-43e8-bcfa-d2df3deb9aad" localized="635996936383155834">告诉我，[Player:Name]，[Player:儿子/女儿]家的[Player:Father]：我凭什么还活着？</Localize>
   
   
   <Localize id="bc2b8c96-94b8-4f43-960d-7f2ae9068201" localized="636138777105332915">拉斯克瓦与你目光相接，短短一瞬，她的神态起了变化。不知怎的，她整个人都显得松快了些。</Localize>
@@ -54260,7 +54260,7 @@
   <Localize id="bc98c611-c246-4c72-8eac-f8ace9681c7f" localized="636088679037959060">行，行，我这就回去，把这事摆平。</Localize>
   
   
-  <Localize id="bc9aaad3-6706-437d-874b-dd7e976e7cae" localized="636229430238954790">[Player:Hlaford/Hlafdia][Player:Name]，我一直都盼着与你会面。</Localize>
+  <Localize id="bc9aaad3-6706-437d-874b-dd7e976e7cae" localized="636229430238954790">[Player:领主/女领主][Player:Name]，我一直都盼着与你会面。</Localize>
   
   
   <Localize id="bca2480c-2995-4fec-a8c4-a3bc984f4b8a" localized="635925152430186278">那不过是老人们口口相传的故事罢了，我从没遇到过谁真见过那种东西。</Localize>
@@ -55037,7 +55037,7 @@
   <Localize id="bf2152a3-4b97-4413-8c75-4296282d6dbb" localized="635962494661800831">在你回来之前，我会继续享受你的款待——哈！</Localize>
   
   
-  <Localize id="bf23790f-8080-4333-ae7f-2f4676a3eb53" localized="636132837287271015">我想，这几个就是[Player:Name]提到的孤儿——是[Player:he/she]在埃塞尔雷德的营地审过那名间谍后说起来的。</Localize>
+  <Localize id="bf23790f-8080-4333-ae7f-2f4676a3eb53" localized="636132837287271015">我想，这几个就是[Player:Name]提到的孤儿——是[Player:他/她]在埃塞尔雷德的营地审过那名间谍后说起来的。</Localize>
   
   
   <Localize id="bf24b0d5-029e-4811-afa7-a49b1b0d3b8a" localized="636229266932283056">次日清晨，你险些一脚踩上半只被啃烂的死老鼠，就扔在你帐篷外头。</Localize>
@@ -55262,7 +55262,7 @@
   <Localize id="bfef1abc-b896-49dd-8cf2-4fafc9113352" localized="636132761173658893">在你面前，一个小男孩和一个小女孩蜷缩在牢房的角落里。他们看起来又冷又饿，营养不良，但即使满脸脏污，也一眼能看出他们有血缘关系。</Localize>
   
   
-  <Localize id="bff36617-94f3-452f-b442-06d32d00bf81" localized="635961723320466650">虽然这并不像[Player:he/she]说的那么不光彩——毕竟我们只有一艘船，对抗的可是整个村庄！</Localize>
+  <Localize id="bff36617-94f3-452f-b442-06d32d00bf81" localized="635961723320466650">虽然这并不像[Player:他/她]说的那么不光彩——毕竟我们只有一艘船，对抗的可是整个村庄！</Localize>
   
   
   <Localize id="bff7d0bf-7dcf-4559-a7dd-152125242ebc" localized="636194759757481504">你用绳子做了个套索，一次次朝岩架上的石笋扔去，却怎么也没能把绳头套住任何东西。</Localize>
@@ -55823,7 +55823,7 @@
   <Localize id="c1fa5947-8670-435a-b7f6-817f39aeb4e2" localized="636223320074762638">击败康斯坦丁。</Localize>
   
   
-  <Localize id="c1fb8084-0097-4122-b58b-7fabde01653d" localized="636192196346222029">我们姑且假设，假如我是一位来自南方的贵族[Player:man/woman]，你要价多少？</Localize>
+  <Localize id="c1fb8084-0097-4122-b58b-7fabde01653d" localized="636192196346222029">我们姑且假设，假如我是一位来自南方的贵族[Player:男子/女子]，你要价多少？</Localize>
   
   
   <Localize id="c1fb921e-ee49-40fc-84ef-5b44000472be" localized="636111075283299175">祝你好运，寻回宝藏。我宁愿它落到你手里，也强过落在我从前那帮船员手中。</Localize>
@@ -56108,7 +56108,7 @@
   <Localize id="c2e99b3c-35ec-4fd8-8fe7-4c3e5567d91f" localized="635868714936006747">去看看阿斯特丽德和鲁里克怎么样了。</Localize>
   
   
-  <Localize id="c2ea3e60-8d2b-4c27-bbcd-bcbf53f1e78e" localized="635959881704223138">我的好[Player:man/woman]，求您发发慈悲，帮帮我这走投无路的可怜人吧。</Localize>
+  <Localize id="c2ea3e60-8d2b-4c27-bbcd-bcbf53f1e78e" localized="635959881704223138">我的好[Player:男子/女子]，求您发发慈悲，帮帮我这走投无路的可怜人吧。</Localize>
   
   
   <Localize id="c2ea42ac-1425-42b6-aad6-d3a93c2a42ed" localized="635993589257055938">他一把将钱袋推到你面前，浑身上下每一寸都写满了催促——恨不得这买卖马上结了才好。</Localize>
@@ -56315,7 +56315,7 @@
   <Localize id="c3b60546-dcf9-4de4-ab23-7c0137ccb2ec" localized="635939132434570256"/>
   
   
-  <Localize id="c3b900ff-dbad-4649-b18e-68bd8d2f3c7a" localized="636016839189049221">我是[Player:Name]，[Player:son/daughter]的[Player:Father]。</Localize>
+  <Localize id="c3b900ff-dbad-4649-b18e-68bd8d2f3c7a" localized="636016839189049221">我是[Player:Name]，[Player:儿子/女儿]的[Player:Father]。</Localize>
   
   
   <Localize id="c3b94d7e-5006-4b94-aeda-ada8b927bd6b" localized="635882899275785747">他试着撑起身子，可箭头刮过肠子，疼得他一阵龇牙，闷哼出声。</Localize>
@@ -56330,7 +56330,7 @@
   <Localize id="c3c56479-3e43-4324-8db5-218a14abbc44" localized="635872991903292693">老女巫厉声斥责，话里行间滋滋冒着毒液般的恶意。</Localize>
   
   
-  <Localize id="c3c82726-bad2-4ab8-bf9d-e59a06be7b70" localized="635878604297241377">若[Player:he/she]能活下来，落败的[Player:he/she]可向胜者宣誓效忠，否则[Player:his/her]性命便就此抵偿。我二人谁在决斗中倒下，尸身便葬于此地。</Localize>
+  <Localize id="c3c82726-bad2-4ab8-bf9d-e59a06be7b70" localized="635878604297241377">若[Player:他/她]能活下来，落败的[Player:他/她]可向胜者宣誓效忠，否则[Player:他/她]性命便就此抵偿。我二人谁在决斗中倒下，尸身便葬于此地。</Localize>
   
   
   <Localize id="c3c92785-c116-47ef-a5c5-fc4e9b6e572e" localized="635857105068579091">把他处决。</Localize>
@@ -56378,7 +56378,7 @@
   <Localize id="c3f01feb-f53f-4942-92c6-67fc12cf8205" localized="635987500296731950"/>
   
   
-  <Localize id="c3f48918-56c9-49ba-bf05-fa07c4aabd31" localized="635890761396461578">别对你父亲太苛责了，年轻的[Player:man/woman]。他就算百无一用，至少还忠实于自己的本性——这一点，咱们谁都该尽力做到。</Localize>
+  <Localize id="c3f48918-56c9-49ba-bf05-fa07c4aabd31" localized="635890761396461578">别对你父亲太苛责了，年轻的[Player:男子/女子]。他就算百无一用，至少还忠实于自己的本性——这一点，咱们谁都该尽力做到。</Localize>
   
   
   <Localize id="c3f4894f-5de4-40b2-8333-19d3f55dead4" localized="636164144725748734">是啊，多谢了！但愿这事儿往后别反过来咬你自个儿的屁股！</Localize>
@@ -56474,7 +56474,7 @@
   <Localize id="c469818d-ed0f-4df4-9d61-7853b2d7d468" localized="636166570974694655">那便好。他们再也构不成威胁了。</Localize>
   
   
-  <Localize id="c46cbdd0-224e-4187-9bd4-6664a73d421e" localized="635974760002160762">总之，你为里伯帮了大忙。谢了，[Player:son/daughter]的[Player:Father]。</Localize>
+  <Localize id="c46cbdd0-224e-4187-9bd4-6664a73d421e" localized="635974760002160762">总之，你为里伯帮了大忙。谢了，[Player:儿子/女儿]的[Player:Father]。</Localize>
   
   
   <Localize id="c47361d7-e81f-431e-96d0-bca0e3288945" localized="636229432006543839">待你进兵诺森布里亚，国王陛下的军队自会驰援。</Localize>
@@ -56876,7 +56876,7 @@
   <Localize id="c5e3f8cb-1583-42fa-af22-879905997ad3" localized="636233634458231252">听着……事情闹到这一步全是因为我。我不想让你们大家为了这事搭上性命。</Localize>
   
   
-  <Localize id="c5e51114-4068-4b3b-b0e0-dd2825888f45" localized="635853454796095352">你[i]果真[/i]是[Player:Father]的[Player:son/daughter]。只是切记，切莫因急切护民，反而忘了体察他们的疾苦。</Localize>
+  <Localize id="c5e51114-4068-4b3b-b0e0-dd2825888f45" localized="635853454796095352">你[i]果真[/i]是[Player:Father]的[Player:儿子/女儿]。只是切记，切莫因急切护民，反而忘了体察他们的疾苦。</Localize>
   
   
   <Localize id="c5f4c839-ec78-4823-b6e1-022402925266" localized="635975450358413333"/>
@@ -57326,7 +57326,7 @@
   <Localize id="c78b2a44-b217-49d4-839d-ddb5d112f1ab" localized="636172363621077953"/>
   
   
-  <Localize id="c78e7bb7-b0b1-4df3-8290-110e56737c7d" localized="636177858075314754">我们非得走这一趟，好让儿子亲眼见一见救世主的面容。我们还有一个孩子快要降生了，是个[Player:son/daughter]。如果您允许，我们就给[Player:him/her]起名叫[Player:Name]。</Localize>
+  <Localize id="c78e7bb7-b0b1-4df3-8290-110e56737c7d" localized="636177858075314754">我们非得走这一趟，好让儿子亲眼见一见救世主的面容。我们还有一个孩子快要降生了，是个[Player:儿子/女儿]。如果您允许，我们就给[Player:他/她]起名叫[Player:Name]。</Localize>
   
   
   <Localize id="c7937eef-8e23-4e95-8611-50c57c22d354" localized="636229268952563117">[CatLover:Name]被你吓出的惊叫声逗得咯咯直笑。</Localize>
@@ -57386,7 +57386,7 @@
   <Localize id="c7c8ad64-5503-4b49-be19-f223d2e319dd" localized="635967760008028945">就在你再度滑入梦乡之际，隐约听到壁炉那边传来一阵鼾声。</Localize>
   
   
-  <Localize id="c7c8f0ce-addd-4903-9d5f-0242e4411aea" localized="636285509547744362">我守卫斯凯恩、那河流与峡湾的力量是无可撼动的。我是奥克尼群岛的雅尔，也是诺森布里亚与皮克塔维亚的[Player:king/queen]。</Localize>
+  <Localize id="c7c8f0ce-addd-4903-9d5f-0242e4411aea" localized="636285509547744362">我守卫斯凯恩、那河流与峡湾的力量是无可撼动的。我是奥克尼群岛的雅尔，也是诺森布里亚与皮克塔维亚的[Player:国王/女王]。</Localize>
   
   
   <Localize id="c7cb9f58-bfb6-4312-a930-3a9c46e2aa39" localized="636233847717173531"/>
@@ -57545,7 +57545,7 @@
   <Localize id="c859b67e-746a-4c8c-a19f-0b3cde13cf25" localized="636074730966636264">一群耶灵来的人在林子里扎过营。我们把他们赶走了，但他们肯定在临走前杀了他。</Localize>
   
   
-  <Localize id="c85fb709-0390-4468-87bb-153a74460297" localized="635996936288113866">我是[Player:Name]，[Player:son/daughter]的[Player:Father]，也正是此地的领主。</Localize>
+  <Localize id="c85fb709-0390-4468-87bb-153a74460297" localized="635996936288113866">我是[Player:Name]，[Player:儿子/女儿]的[Player:Father]，也正是此地的领主。</Localize>
   
   
   <Localize id="c85ff2c5-3390-48cd-a1a2-9af49677e93c" localized="635867391818334895">我真希望你没有处决阿斯莱夫。以族人之血开启你的统治？这对氏族的将来可不是什么好兆头。</Localize>
@@ -57797,7 +57797,7 @@
   <Localize id="c93aa5f3-9ed1-4a34-96b8-f67ccbebe732" localized="636216596768658190"/>
   
   
-  <Localize id="c93f8840-e1a0-4311-bfac-9fcdb3d120f8" localized="636113535726652787">你这谎撒得可不怎么样，[Player:Norseman/Norsewoman]。把剩下的都交出来。</Localize>
+  <Localize id="c93f8840-e1a0-4311-bfac-9fcdb3d120f8" localized="636113535726652787">你这谎撒得可不怎么样，[Player:诺斯人/诺斯女子]。把剩下的都交出来。</Localize>
   
   
   <Localize id="c9415c6e-55e6-4a3c-9e52-8e1f3930799b" localized="636156027005387987">哦，孩子，感谢达格达神，你还活着。</Localize>
@@ -58922,7 +58922,7 @@
   <Localize id="ccd5d06d-03f4-40d0-9d25-2c864653ed18" localized="636187062221739246">这是我辛苦挣来的。你是谁，你想干什么？</Localize>
   
   
-  <Localize id="ccd8022d-1439-4f09-b8cb-2a9647e68f1b" localized="636225136785132156">你跟我说，智慧和仁慈中自有力量，可那个念头我总也甩不掉——你那样讲，不过是因为你是我的[Player:brother/sister]罢了。</Localize>
+  <Localize id="ccd8022d-1439-4f09-b8cb-2a9647e68f1b" localized="636225136785132156">你跟我说，智慧和仁慈中自有力量，可那个念头我总也甩不掉——你那样讲，不过是因为你是我的[Player:兄弟/姐妹]罢了。</Localize>
   
   
   <Localize id="ccdb6b46-d2e7-4b81-94b9-30d656858216" localized="636166613142039495">她交叠双臂，想止住双手的颤抖。</Localize>
@@ -59312,7 +59312,7 @@
   <Localize id="ce1e23eb-4379-4526-9959-1b45bf300b50" localized="635972034045746367"/>
   
   
-  <Localize id="ce1fbd25-9fca-4489-ae92-6d32ba53caba" localized="636035392791725127">可惜了，我的[Player:boy/girl]。你开头倒是不错，可一个真正的基督徒，绝不会把使徒信经背得这样颠三倒四。</Localize>
+  <Localize id="ce1fbd25-9fca-4489-ae92-6d32ba53caba" localized="636035392791725127">可惜了，我的[Player:男孩/女孩]。你开头倒是不错，可一个真正的基督徒，绝不会把使徒信经背得这样颠三倒四。</Localize>
   
   
   <Localize id="ce216125-6054-4f17-b2f7-22bbd5cec1df" localized="636191267541146878"/>
@@ -59399,7 +59399,7 @@
   <Localize id="ce5cba26-4925-42ca-aeba-b8f8f5f05da1" localized="636036774232381915">恩巴尔德[i]愿意[/i]相信你已经皈依——这才是整件事的关键。这不仅证明了上帝的力量，更因为他想要支持埃塞尔雷德。</Localize>
   
   
-  <Localize id="ce5ce5c0-932e-4460-b8a1-fb31469e338f" localized="636075565748252176">愿你健壮幸运，我是[Player:Name]，[Player:Father]的[Player:son/daughter]。我们前来与你们的国王说话。</Localize>
+  <Localize id="ce5ce5c0-932e-4460-b8a1-fb31469e338f" localized="636075565748252176">愿你健壮幸运，我是[Player:Name]，[Player:Father]的[Player:儿子/女儿]。我们前来与你们的国王说话。</Localize>
   
   
   <Localize id="ce635b99-2689-4c6c-bc7c-8527166ec2cf" localized="636197474258448096">这点小事，不足挂齿。</Localize>
@@ -60509,7 +60509,7 @@
   <Localize id="d2140f98-d4bc-4dbd-8038-b1a16ed07add" localized="636178477770880092"/>
   
   
-  <Localize id="d21cdd12-5973-4b22-9019-ba6bc2abbf1f" localized="635966134280799533">能再见到我的[Player:nephew/niece]总是件好事。你来找我这头老狼有什么事？</Localize>
+  <Localize id="d21cdd12-5973-4b22-9019-ba6bc2abbf1f" localized="635966134280799533">能再见到我的[Player:侄子/侄女]总是件好事。你来找我这头老狼有什么事？</Localize>
   
   
   <Localize id="d21df2ee-990a-4117-bdfa-f87aaf2d0e7f" localized="636105991840377455">比约格迪丝的声音颤抖着，而奈芙佳深吸了一口气，强忍住泪水。</Localize>
@@ -60977,7 +60977,7 @@
   <Localize id="d409c8e9-0dcc-4107-a416-7d8a971e0719" localized="636162318188028524">{支付200财物。} 我这儿有副能镇痛的方子。</Localize>
   
   
-  <Localize id="d409cccc-5014-43b8-8ba6-465f8ee64a1c" localized="635864754646516578">我听说了。对不住，我的[Player:boy/girl]，这事我不想掺和。你们两个我是打小看到大的。阿斯莱弗从前还总来铁匠铺搭把手呢。</Localize>
+  <Localize id="d409cccc-5014-43b8-8ba6-465f8ee64a1c" localized="635864754646516578">我听说了。对不住，我的[Player:男孩/女孩]，这事我不想掺和。你们两个我是打小看到大的。阿斯莱弗从前还总来铁匠铺搭把手呢。</Localize>
   
   
   <Localize id="d40a52e0-076e-4052-98aa-9d57fea0d28d" localized="636173370966936060"/>
@@ -61016,7 +61016,7 @@
   <Localize id="d42b21a4-9b66-4be5-b5cb-e6f2ac06ce11" localized="636165469648618372">斯库利命我在防御工事下方挖了一条隐秘地道，以备遭围城时偷运消息或补给，或是他遭遇行刺时用作逃生之路。</Localize>
   
   
-  <Localize id="d42d59a0-b259-43b5-8c62-2d8998f54ee4" localized="636223357182292130">试想一下，倘若你以诺森布里亚与皮克塔维亚[Player:king/queen]的身份驾临阿尔庭，那该是怎样的风光！</Localize>
+  <Localize id="d42d59a0-b259-43b5-8c62-2d8998f54ee4" localized="636223357182292130">试想一下，倘若你以诺森布里亚与皮克塔维亚[Player:国王/女王]的身份驾临阿尔庭，那该是怎样的风光！</Localize>
   
   
   <Localize id="d42e9437-3514-4137-8334-81cbf63199d8" localized="635895012896331329">想想看，海对岸有什么样的荣耀在等我们去夺取。数不清的财宝！[i]打不完的仗！[/i]</Localize>
@@ -61082,7 +61082,7 @@
   <Localize id="d46a3113-e6d6-4492-9fc6-f634b1cec338" localized="636186213990520569">不过一个老头子罢了。一个很老、很老、[i]老得没边儿[/i]的老头子，是吧？能给你添多大乱子？</Localize>
   
   
-  <Localize id="d46a408e-3301-462f-8a07-8881c6c60fa4" localized="636035400671732093">抱歉，我的[Player:boy/girl]，你开头不赖，可一个真正的基督徒，总不能只会背主祷文第一句吧。</Localize>
+  <Localize id="d46a408e-3301-462f-8a07-8881c6c60fa4" localized="636035400671732093">抱歉，我的[Player:男孩/女孩]，你开头不赖，可一个真正的基督徒，总不能只会背主祷文第一句吧。</Localize>
   
   
   <Localize id="d46d526e-3fae-4614-a14f-b471866e6565" localized="636138003107933751">又是你？！你就不能消停一会儿吗？！</Localize>
@@ -61298,7 +61298,7 @@
   <Localize id="d5295f2e-050c-421b-a6c6-67138d90f875" localized="636132854897354329">得，这下守卫发现我们了。</Localize>
   
   
-  <Localize id="d529762b-2ea0-4413-99ec-19931d2e9dd5" localized="636164104483488885">我才不信呢，像你这般身手不凡的[Player:man/woman]。</Localize>
+  <Localize id="d529762b-2ea0-4413-99ec-19931d2e9dd5" localized="636164104483488885">我才不信呢，像你这般身手不凡的[Player:男子/女子]。</Localize>
   
   
   <Localize id="d52a660e-2fcc-4b40-a695-183a1647884d" localized="636113495746291089">我自己[i]当然[/i]绝不可能参与此等恶行，但也万万不能听任你们犯下如此暴行！</Localize>
@@ -62117,7 +62117,7 @@
   <Localize id="d7ecd7d5-316d-4308-b0e9-fc0a3ea993a8" localized="636172552583666973">我偶尔会和他切磋。他若能在战场上放下几分掌控欲，或许能更胜一筹。不过嘛，轮不到我来教旁人如何打仗。</Localize>
   
   
-  <Localize id="d7ee4c24-0a68-493d-98f3-1e254331b365" localized="636074727833169110">你看起来心事重重，我的[Player:son/daughter]。什么在让你烦忧？</Localize>
+  <Localize id="d7ee4c24-0a68-493d-98f3-1e254331b365" localized="636074727833169110">你看起来心事重重，我的[Player:儿子/女儿]。什么在让你烦忧？</Localize>
   
   
   <Localize id="d7ef6ffa-548e-4e66-9bbb-3f940548468f" localized="636178424343185786"/>
@@ -62576,7 +62576,7 @@
   <Localize id="d96f9fe6-4cb4-4938-8600-315419e9dad5" localized="636186137897526644">你还从未在埃奥福维克受过正式的迎接，对吧？那让我先把这事儿办了：欢迎来到埃奥福维克，丹麦人[Player:Name]。愿神与你同在。</Localize>
   
   
-  <Localize id="d9708de6-28b0-4bd3-9516-4a331a1d95e5" localized="636034116623530603">请宽恕我，[Player:Hlaford/Hlafdia]。国王的帐篷里正等着您呢。</Localize>
+  <Localize id="d9708de6-28b0-4bd3-9516-4a331a1d95e5" localized="636034116623530603">请宽恕我，[Player:领主/女领主]。国王的帐篷里正等着您呢。</Localize>
   
   
   <Localize id="d970f487-d952-452b-b01d-4650d9afeb7d" localized="636223485143111846">那男孩停下攻势，一双锐利的蓝眼睛紧紧盯住了你。</Localize>
@@ -62588,7 +62588,7 @@
   <Localize id="d977c213-0aa9-46d8-aa4b-e9a0481c6f95" localized="636162269808392616">请容我介绍默丁·埃姆里斯，世间最后的德鲁伊。默丁，这位是考斯坦丁·马克·弗格斯，皮克塔维亚之王。</Localize>
   
   
-  <Localize id="d977e60a-0eb1-45af-a4d6-e66a01e4d678" localized="636172353086914288">你知道吗……你说得对。抱歉，我不该因旁人对[Player:man/woman]的闲言碎语，就拒绝[Player:him/her]。你需要什么？</Localize>
+  <Localize id="d977e60a-0eb1-45af-a4d6-e66a01e4d678" localized="636172353086914288">你知道吗……你说得对。抱歉，我不该因旁人对[Player:男子/女子]的闲言碎语，就拒绝[Player:他/她]。你需要什么？</Localize>
   
   
   <Localize id="d9794755-be13-458a-a126-c8ca47cf89f4" localized="636223448599244346">那是自然，[Player:Name]。无论你做什么，我们都誓死追随。</Localize>
@@ -63608,7 +63608,7 @@
   <Localize id="dccee377-1f5e-4200-a9d3-8f9e306b2525" localized="636147413227996516">当心脚下，弟兄们。</Localize>
   
   
-  <Localize id="dcd36af3-f9f5-44de-a46f-21b38e6a75a5" localized="636172652665498799">那么，很荣幸认识您，[Player:Hlaford/Hlafdia]。能见识到那些不为人熟知的异域文化和习俗，实在总是令人着迷。</Localize>
+  <Localize id="dcd36af3-f9f5-44de-a46f-21b38e6a75a5" localized="636172652665498799">那么，很荣幸认识您，[Player:领主/女领主]。能见识到那些不为人熟知的异域文化和习俗，实在总是令人着迷。</Localize>
   
   
   <Localize id="dcd4f0d2-d863-4eec-81cb-e31ca066791e" localized="635908755881617642">回头再聊，克维尔杜尔夫。</Localize>
@@ -63713,7 +63713,7 @@
   <Localize id="dd2306b6-69f1-4a29-9cdd-7feebdf9584b" localized="636113559299656818">他先是仔细地审视你，接着又审视起他自己来。</Localize>
   
   
-  <Localize id="dd294226-1954-4298-b153-1587ffe44689" localized="636002201666068726">你回来了，[Player:Norseman/Norsewoman]。</Localize>
+  <Localize id="dd294226-1954-4298-b153-1587ffe44689" localized="636002201666068726">你回来了，[Player:诺斯人/诺斯女子]。</Localize>
   
   
   <Localize id="dd302f7b-d5c4-4863-851a-e9c6cc8c7d60" localized="635993473089216830">还以为我不知道呢，她一直偷偷溜出去会我那邻居奥尔德温。他田产广阔，日子也过得滋润。</Localize>
@@ -64343,7 +64343,7 @@
   <Localize id="df01c450-0e78-4fdf-9def-2d5e1f974d87" localized="635972763351583692">{杀了他。}我要用你的命来终结这诅咒。</Localize>
   
   
-  <Localize id="df033325-7dfe-4c3a-a103-4f8c5f3be6ab" localized="635871789160578574">我仿佛看见我那幼小的[Player:brother/sister]，乘着美丽的长船，带着[Player:his/her]忠心的朋友和侍卫们消失在天际，从此一去不返。</Localize>
+  <Localize id="df033325-7dfe-4c3a-a103-4f8c5f3be6ab" localized="635871789160578574">我仿佛看见我那幼小的[Player:兄弟/姐妹]，乘着美丽的长船，带着[Player:他/她]忠心的朋友和侍卫们消失在天际，从此一去不返。</Localize>
   
   
   <Localize id="df0402ac-93b9-4fe2-bff0-5e13e54cf7d6" localized="636171852684949917">那么你愿意把女儿托付给我们吗？</Localize>
@@ -64610,7 +64610,7 @@
   <Localize id="dff461ac-b794-4d52-996d-a1885616d85b" localized="636052368229929228">一朵娇嫩的小花，纤薄的淡色花瓣，是你从自家住处附近的一堆牲畜粪便里拔出来的。</Localize>
   
   
-  <Localize id="dff49b58-2b56-4297-8270-853e80172da3" localized="636194934188296448">谢谢你。我相信他只需要他的[Player:brother/sister]几句鼓励就够了。</Localize>
+  <Localize id="dff49b58-2b56-4297-8270-853e80172da3" localized="636194934188296448">谢谢你。我相信他只需要他的[Player:兄弟/姐妹]几句鼓励就够了。</Localize>
   
   
   <Localize id="dffb3a41-111f-43f9-95fc-40661eefff6e" localized="636113570691052780">那些强盗不会再找你麻烦了。</Localize>
@@ -64628,7 +64628,7 @@
   <Localize id="e00809d5-f21d-47c2-ae20-ef84a179b0bb" localized="635972819766872362">你将自己如何同猎人们找到那些奴仆的经过说了一遍。令他大喜过望的是，你接着承诺会把男孩放回桑达尔身边，然后便告辞了。</Localize>
   
   
-  <Localize id="e008bc58-60a2-4e0c-b341-26fb55ea8236" localized="636132758819812911">够了！都给我住手！光是盯着那个异教徒[Player:chieftain/warrior woman]就够我们受的了，我可不想再加上这条河来烦心！</Localize>
+  <Localize id="e008bc58-60a2-4e0c-b341-26fb55ea8236" localized="636132758819812911">够了！都给我住手！光是盯着那个异教徒[Player:酋长/女战士]就够我们受的了，我可不想再加上这条河来烦心！</Localize>
   
   
   <Localize id="e00eb2b9-a26b-4b8d-aaf7-7a1d34c98134" localized="635961692600721186">你何不自己看看？他就在这儿。</Localize>
@@ -65033,7 +65033,7 @@
   <Localize id="e1bbf47f-1bc1-4b8e-a88c-07ed294436ba" localized="636107543086332003"/>
   
   
-  <Localize id="e1bf6864-d08b-4a2b-9940-0260950dd115" localized="636040971423439732">[i][Player:Bastard/Bitch][/i]。</Localize>
+  <Localize id="e1bf6864-d08b-4a2b-9940-0260950dd115" localized="636040971423439732">[i][Player:混蛋/贱人][/i]。</Localize>
   
   
   <Localize id="e1c3df52-f734-4fee-ad09-2c2117af9205" localized="636160273312968869"/>
@@ -65153,7 +65153,7 @@
   <Localize id="e22c791a-c93e-4407-a603-82d69645ae96" localized="636155074222822869"/>
   
   
-  <Localize id="e22d4275-0557-4479-be61-e184ab75b74e" localized="636200812779518693">威斯哈尔，[Player:Norseman/Norsewoman]。</Localize>
+  <Localize id="e22d4275-0557-4479-be61-e184ab75b74e" localized="636200812779518693">威斯哈尔，[Player:诺斯人/诺斯女子]。</Localize>
   
   
   <Localize id="e22d9092-4a90-4739-988f-a0549bd6f0ae" localized="636153617309557521"/>
@@ -65447,7 +65447,7 @@
   <Localize id="e31e0ac6-154a-4aaf-9b8b-731413e6d94a" localized="635972770022015516">多谢你，我……请让我一个人……让我独自承受这份哀痛吧。</Localize>
   
   
-  <Localize id="e3216ed1-ce0a-4d64-b1ca-c57d048b8fa3" localized="636184804711904712">抱歉了，[Player:lad/lass]。你我之间，到此为止。你该走了。</Localize>
+  <Localize id="e3216ed1-ce0a-4d64-b1ca-c57d048b8fa3" localized="636184804711904712">抱歉了，[Player:小伙子/姑娘]。你我之间，到此为止。你该走了。</Localize>
   
   
   <Localize id="e3218633-cfb3-4489-958d-cd3a4cddfd6b" localized="635966016418281694">那我们倒要看看，其他商贾对此事作何感想！</Localize>
@@ -65957,7 +65957,7 @@
   <Localize id="e4c06f5f-248b-4c34-aa03-48325a337041" localized="636113662679769523">守好你的嘴，不然就要你的命。</Localize>
   
   
-  <Localize id="e4c1ad7b-32af-49dc-9eaa-3b23afd1e987" localized="636223500795796725">领主[Player:Name]及[Player:his/her]侍卫拼死抵御来敌，然劫掠依然得逞。此事暴露出本地区防卫漏洞之严重。</Localize>
+  <Localize id="e4c1ad7b-32af-49dc-9eaa-3b23afd1e987" localized="636223500795796725">领主[Player:Name]及[Player:他/她]侍卫拼死抵御来敌，然劫掠依然得逞。此事暴露出本地区防卫漏洞之严重。</Localize>
   
   
   <Localize id="e4c54eee-373a-4287-91c9-bdea3e09c501" localized="635858724350351137">就这么着吧。但这事最好到此为止！</Localize>
@@ -66749,7 +66749,7 @@
   <Localize id="e74c88b0-fee3-47d8-9c3b-09718df7ba35" localized="635974532783887074">离那座古坟远点。净是些邪门的仪式和古怪的响动。</Localize>
   
   
-  <Localize id="e7529d1c-81a7-4812-8193-ecda2e7c1957" localized="636221491215299027">我担心仅凭斯卡基一人，挡不住[Player:him/her]。若你准许，我愿一同前往。</Localize>
+  <Localize id="e7529d1c-81a7-4812-8193-ecda2e7c1957" localized="636221491215299027">我担心仅凭斯卡基一人，挡不住[Player:他/她]。若你准许，我愿一同前往。</Localize>
   
   
   <Localize id="e752f205-61ed-4805-9428-d8bb0b036229" localized="636153607819246286">你在这儿待了一辈子？就不想出去闯闯，见见世面？</Localize>
@@ -66773,7 +66773,7 @@
   <Localize id="e76aa6b1-d32d-45f6-b11d-54615d4ed770" localized="636069631265275233">如今我已有了新的家人。这个护身符自打我出生便护着我，现在你要远行，就让它来守护你吧。</Localize>
   
   
-  <Localize id="e76df1f7-7fdf-4590-a0cb-1d68e218a153" localized="636162306749673705">呃，这位是斯克恩来的[Player:Name]。[Player:He/She]有些事想问问。</Localize>
+  <Localize id="e76df1f7-7fdf-4590-a0cb-1d68e218a153" localized="636162306749673705">呃，这位是斯克恩来的[Player:Name]。[Player:他/她]有些事想问问。</Localize>
   
   
   <Localize id="e76f4d5a-9503-4592-83e6-74a745730131" localized="635966912430440533">埃尔林格的妻子赫约迪丝来到你面前，脊背挺直，目光毫不躲闪地与你对视。你看得出她方才哭过，声音却异常坚定。</Localize>
@@ -67058,10 +67058,10 @@
   <Localize id="e86d1a83-e928-484a-944e-55eec8726067" localized="636159631854238564">她一边掂量着你的话，一边揉搓着双臂，试图让那苍老的皮肤暖和些。</Localize>
   
   
-  <Localize id="e86e0e6c-94fb-4883-bd1f-555a4a6c5b6d" localized="636227754139555987">我万分歉疚，我的[Player:boy/girl]。我们已别无他法了。</Localize>
+  <Localize id="e86e0e6c-94fb-4883-bd1f-555a4a6c5b6d" localized="636227754139555987">我万分歉疚，我的[Player:男孩/女孩]。我们已别无他法了。</Localize>
   
   
-  <Localize id="e870b38b-448a-420d-819d-30b62b10fdd4" localized="636223583706649344">和平？狗屁。你是你父亲的[Player:son/daughter]，你的所作所为便是铁证。无论怎样，你骨子里都会成为一个维京人。</Localize>
+  <Localize id="e870b38b-448a-420d-819d-30b62b10fdd4" localized="636223583706649344">和平？狗屁。你是你父亲的[Player:儿子/女儿]，你的所作所为便是铁证。无论怎样，你骨子里都会成为一个维京人。</Localize>
   
   
   <Localize id="e873b6c8-77de-489d-860c-935a60e9af9e" localized="635908781498017438"/>
@@ -67094,7 +67094,7 @@
   <Localize id="e87fe7ee-2a09-4b71-9213-5087ddac51d8" localized="636171509974000884">她毒蛇般迅猛，撒克逊刀一挥，带着精湛的技法利落割下他的右耳。他迸出一声尖叫，接着是拖长了的呜咽。</Localize>
   
   
-  <Localize id="e881efb6-5e20-425a-9f5a-4f4fed821557" localized="635961617856484447">[Player:Velkominn/Velkomin]，仁慈的领主。你是来补充补给的吗？</Localize>
+  <Localize id="e881efb6-5e20-425a-9f5a-4f4fed821557" localized="635961617856484447">[Player:欢迎/欢迎]，仁慈的领主。你是来补充补给的吗？</Localize>
   
   
   <Localize id="e887e399-e89f-4305-a4de-e05b6499eb0c" localized="636162264057905582">你当然明白，空手而归，我是不会给你奖赏的。这次任务的失败，会让我在往后的日子里举步维艰。</Localize>
@@ -67415,7 +67415,7 @@
   <Localize id="e9aedaec-820c-4347-9d75-ed86fa07d595" localized="635968310467507901">她重重叹了口气，目光低垂，双肩颓丧地垮塌下去。</Localize>
   
   
-  <Localize id="e9b2c2da-ca22-4c3e-bbde-95a22228b6eb" localized="636184850778578456">你惹错[Player:man/woman]了，斯卡基。</Localize>
+  <Localize id="e9b2c2da-ca22-4c3e-bbde-95a22228b6eb" localized="636184850778578456">你惹错[Player:男子/女子]了，斯卡基。</Localize>
   
   
   <Localize id="e9b3dd8d-d2af-4463-9003-7f6effa63b1b" localized="636221708136969760">珀斯和艾奥弗维克已是我们的囊中之物。一个统一的不列颠，将由我来统治。</Localize>
@@ -67925,7 +67925,7 @@
   <Localize id="eb86c242-64bb-4f6e-9f86-b470019d89f2" localized="636162313490769847"/>
   
   
-  <Localize id="eb8e94ef-4a9a-4f7b-ad8a-352bb7d4ad97" localized="636185630852206178">很好。瓦达，去安排好，[Player:Name]为[Player:his/her]效力，该得的报酬一分也不能少。</Localize>
+  <Localize id="eb8e94ef-4a9a-4f7b-ad8a-352bb7d4ad97" localized="636185630852206178">很好。瓦达，去安排好，[Player:Name]为[Player:他/她]效力，该得的报酬一分也不能少。</Localize>
   
   
   <Localize id="eb90f18c-c29c-4fef-892b-9c63909026e8" localized="635972901052437611"/>
@@ -68222,7 +68222,7 @@
   <Localize id="ec78ac51-6141-4737-be87-309503dd7603" localized="636107705530826938">你和你的人，对我和我的人。咱们现在就去外面的悬崖上分个高下。你赢了，我向你效忠。我赢了，你他妈就滚蛋。</Localize>
   
   
-  <Localize id="ec7a0666-4be7-42d3-b0ef-5600b7ea4401" localized="636179410713179487">[Player:Velkominn/Velkomin]，[Player:Velkominn/Velkomin]。我刚从里伯来的商船上买了一车刚宰的鲜牛肉。要瞧一眼不？</Localize>
+  <Localize id="ec7a0666-4be7-42d3-b0ef-5600b7ea4401" localized="636179410713179487">[Player:欢迎/欢迎]，[Player:欢迎/欢迎]。我刚从里伯来的商船上买了一车刚宰的鲜牛肉。要瞧一眼不？</Localize>
   
   
   <Localize id="ec7b9377-2e86-42a5-829c-8c3cfaba1605" localized="635971971579181695">一种用巨魔树霉菌制成的粉末，应当能治艾芙拉的病。</Localize>
@@ -68675,7 +68675,7 @@
   <Localize id="ee18a5cf-6b7f-48e5-8693-ae5a23c4d2b7" localized="635961626553790875">哪怕是干点木工活呢！你就没个喜欢捣鼓的事儿？！</Localize>
   
   
-  <Localize id="ee1a6f27-c6ae-4c42-8098-e495ac6f6fd0" localized="635896044696133594">奥塔尔，你这灌饱了黄汤的泼才！你怎[i]敢[/i]在[Player:his/her]自家的宴席上，折辱你家领主的颜面！你的家眷就等着为此偿债吧！</Localize>
+  <Localize id="ee1a6f27-c6ae-4c42-8098-e495ac6f6fd0" localized="635896044696133594">奥塔尔，你这灌饱了黄汤的泼才！你怎[i]敢[/i]在[Player:他/她]自家的宴席上，折辱你家领主的颜面！你的家眷就等着为此偿债吧！</Localize>
   
   
   <Localize id="ee20604a-857e-412c-a790-1e6bcceb32d2" localized="635919270858099748"/>
@@ -69101,7 +69101,7 @@
   <Localize id="ef7bd0a0-6b3b-4cc0-bcde-2c810f853eb3" localized="635974603459512742"/>
   
   
-  <Localize id="ef7ccb42-de06-49f8-b9bf-4a2a71ec0b0c" localized="635987469015095510">唉，可我也知道，你们这些年轻[Player:men/women]一旦拿定主意，任谁也拦不住。行吧行吧，我来瞧瞧手里有些什么。</Localize>
+  <Localize id="ef7ccb42-de06-49f8-b9bf-4a2a71ec0b0c" localized="635987469015095510">唉，可我也知道，你们这些年轻[Player:男人/女人]一旦拿定主意，任谁也拦不住。行吧行吧，我来瞧瞧手里有些什么。</Localize>
   
   
   <Localize id="ef7f14f0-5cb2-4471-a026-7db60661b862" localized="635961608382505855">俺们也卖周边农家送来的鲜肉，您要是头疼脑热、或是受了伤想寻个药方子，俺们这儿也备着些许药材补酒，不多，但都是挑了又挑的。</Localize>
@@ -69272,7 +69272,7 @@
   <Localize id="f00d0b7f-12cd-40cd-8288-49e334c9e788" localized="635998752576790866">没错，它确实时常摸进我们城里来。一条漆黑的大狗，眼里喷着火。</Localize>
   
   
-  <Localize id="f010a639-4a76-4dbf-b9be-ac8f9ef928d5" localized="636192277966495375">好样的，[Player:man/woman]。</Localize>
+  <Localize id="f010a639-4a76-4dbf-b9be-ac8f9ef928d5" localized="636192277966495375">好样的，[Player:男子/女子]。</Localize>
   
   
   <Localize id="f011ee47-ea3a-44db-af08-26cf67076016" localized="636118781054493542">你纯粹是个无赖。</Localize>
@@ -69650,7 +69650,7 @@
   <Localize id="f17b3d7f-682d-4b4e-96d4-9e1530601e56" localized="636174954232320197">求主庇佑！</Localize>
   
   
-  <Localize id="f18285f8-27da-4732-8b8d-1954031342a9" localized="636214996244032534">嗯，听过你的名号。都说你这[Player:man/woman]残忍又冷血。珀斯城心，你再休想踏进一步！</Localize>
+  <Localize id="f18285f8-27da-4732-8b8d-1954031342a9" localized="636214996244032534">嗯，听过你的名号。都说你这[Player:男子/女子]残忍又冷血。珀斯城心，你再休想踏进一步！</Localize>
   
   
   <Localize id="f1830e9f-5f0f-4239-8cd5-1eee30c75612" localized="635925638227395755">好，咱们动手吧。</Localize>
@@ -69680,7 +69680,7 @@
   <Localize id="f193ec82-7e70-4a15-864e-b75e9020641b" localized="635987397465427000">希密尔觉着索尔怕是吃饱喝足了。“明儿晚，咱们得去猎点吃的，好歹喂饱三张嘴。”</Localize>
   
   
-  <Localize id="f19448fd-f87d-49ad-882c-e9364bcec3d8" localized="635957281612713713">错不了！你准是[Player:son/daughter]家的[Player:Father]——这鼻子一看便知。</Localize>
+  <Localize id="f19448fd-f87d-49ad-882c-e9364bcec3d8" localized="635957281612713713">错不了！你准是[Player:儿子/女儿]家的[Player:Father]——这鼻子一看便知。</Localize>
   
   
   <Localize id="f1995ff5-3d55-4ddc-9f24-94bd48c5966c" localized="636009260161094263">若这是上帝的旨意……我安息便是。</Localize>
@@ -69767,7 +69767,7 @@
   <Localize id="f1d61851-a0bd-48f7-a7af-deb3657d7a52" localized="636135456798430148"/>
   
   
-  <Localize id="f1d6ba58-17c7-47f2-b96d-de7f69c27824" localized="636223368009588688">你的所作所为，实实在在给我们都上了一课——评判一个[Player:man/woman]，不能光看[Player:his/her]族人的名声。</Localize>
+  <Localize id="f1d6ba58-17c7-47f2-b96d-de7f69c27824" localized="636223368009588688">你的所作所为，实实在在给我们都上了一课——评判一个[Player:男子/女子]，不能光看[Player:他/她]族人的名声。</Localize>
   
   
   <Localize id="f1d7d315-e92e-4553-b209-33e894bf6d24" localized="636106030439020330">好了，尽力不去想它，我们得专注眼前的危局。</Localize>
@@ -70175,7 +70175,7 @@
   <Localize id="f3510797-836c-40be-b9bf-66e29d2fe2a6" localized="636162007927798825">这狗日的妖风，倒吹得我像回了家一般自在。</Localize>
   
   
-  <Localize id="f3552e78-b0fe-41e0-87be-eb9d507308ae" localized="635996222617778729">内芙娅，你若是为我而战该多好。若你这回赢了，我只盼[Player:Name]能比[Player:his/her]父亲当个更像样的领主。</Localize>
+  <Localize id="f3552e78-b0fe-41e0-87be-eb9d507308ae" localized="635996222617778729">内芙娅，你若是为我而战该多好。若你这回赢了，我只盼[Player:Name]能比[Player:他/她]父亲当个更像样的领主。</Localize>
   
   
   <Localize id="f355869c-fba7-4edc-b292-ed8f9312567b" localized="635895118551474457">不值一谢。</Localize>
@@ -70295,7 +70295,7 @@
   <Localize id="f3c6d1a8-3989-487d-80e9-447e82f9cf60" localized="635973603538548488">{离开。}</Localize>
   
   
-  <Localize id="f3c819a5-7a86-4bb8-8728-7750a4796a1e" localized="636035392552781815">抱歉，我的[Player:boy/girl]，你差一点就明白了，可你若真领悟了基督的教诲，就绝不会忘记他的复活！</Localize>
+  <Localize id="f3c819a5-7a86-4bb8-8728-7750a4796a1e" localized="636035392552781815">抱歉，我的[Player:男孩/女孩]，你差一点就明白了，可你若真领悟了基督的教诲，就绝不会忘记他的复活！</Localize>
   
   
   <Localize id="f3c8f075-9d6f-4a1a-82cb-976e49292aae" localized="635924371178831292">{喝下那液体。}</Localize>
@@ -70349,7 +70349,7 @@
   <Localize id="f3ddac10-b136-4e8d-b85f-4b316f5f9bd9" localized="635967680182682385"/>
   
   
-  <Localize id="f3ddf63a-0d32-4886-a594-306a4225f912" localized="636107668427567232">我已决意宣誓向[Player:Name]效忠。在[Player:his/her]的领导下，我们以奥克尼群岛为跳板，对不列颠群岛发动全面入侵。</Localize>
+  <Localize id="f3ddf63a-0d32-4886-a594-306a4225f912" localized="636107668427567232">我已决意宣誓向[Player:Name]效忠。在[Player:他/她]的领导下，我们以奥克尼群岛为跳板，对不列颠群岛发动全面入侵。</Localize>
   
   
   <Localize id="f3e1223c-e650-4008-948f-715593333e2f" localized="635996221751574586"/>
@@ -70565,7 +70565,7 @@
   <Localize id="f483423b-58d7-4f66-b4c9-0fe22e6d6afb" localized="636166606864908538">不幸的是，我们认识他。</Localize>
   
   
-  <Localize id="f4847b02-b197-4252-ace8-59a82cb707a9" localized="636194830605361855">见到你总是很高兴，[Player:Hlaford/Hlafdia]。</Localize>
+  <Localize id="f4847b02-b197-4252-ace8-59a82cb707a9" localized="636194830605361855">见到你总是很高兴，[Player:领主/女领主]。</Localize>
   
   
   <Localize id="f48660c7-4975-44b0-8119-5fabe59cd339" localized="635868646621939406">你抄起最要紧的装备，胡乱套上衣衫。屋外，烈焰猛然腾空，钢铁撞击的铿锵之声从海岸方向不绝传来。</Localize>
@@ -71018,7 +71018,7 @@
   <Localize id="f61b0f81-5619-4a81-a327-9b82bb4eca57" localized="635853639600326927">我喝。</Localize>
   
   
-  <Localize id="f623cac2-4c60-4335-ac1a-703a6544a8a3" localized="636172359693521979">真不巧啊，[Player:lad/lass]，她把那个号角给了我，当作永恒之爱的信物。我没记错的话，“永远”可还没结束呢！</Localize>
+  <Localize id="f623cac2-4c60-4335-ac1a-703a6544a8a3" localized="636172359693521979">真不巧啊，[Player:小伙子/姑娘]，她把那个号角给了我，当作永恒之爱的信物。我没记错的话，“永远”可还没结束呢！</Localize>
   
   
   <Localize id="f62515fe-a676-49f4-92d6-b62f48142a1b" localized="635924350274115610">可这里离海岸有两英里呢。</Localize>
@@ -71351,7 +71351,7 @@
   <Localize id="f7459448-ab10-4be0-be5a-cfa272c29143" localized="635966105028500337">哈夫丹之子与马多尔之子</Localize>
   
   
-  <Localize id="f745ccc9-f4b9-4922-b738-cb96fa2cff6b" localized="635965850061989175">看来[Player:Name]往[Player:his/her]的侍卫队里塞了个女巫。</Localize>
+  <Localize id="f745ccc9-f4b9-4922-b738-cb96fa2cff6b" localized="635965850061989175">看来[Player:Name]往[Player:他/她]的侍卫队里塞了个女巫。</Localize>
   
   
   <Localize id="f74a3238-f6dc-458b-ae52-bb2950052a4b" localized="636209638522642673">艾菲，别闹了……</Localize>
@@ -71753,7 +71753,7 @@
   <Localize id="f8d74689-017a-42cc-98a9-d5c52b371bb0" localized="636155889707487146">塔洛克瞧着并不十分甘愿，可到底还是抬起脚，朝村子后头走去，基利安就给捆在那里。</Localize>
   
   
-  <Localize id="f8d8e5d1-0aa9-4949-bd29-8d743c03f286" localized="635864766585679459">抱歉，我的好[Player:boy/girl]，我不会卖刀给你，让你拿去对准自家族人。阿斯莱夫小时候还老在铁匠铺里帮忙呢。</Localize>
+  <Localize id="f8d8e5d1-0aa9-4949-bd29-8d743c03f286" localized="635864766585679459">抱歉，我的好[Player:男孩/女孩]，我不会卖刀给你，让你拿去对准自家族人。阿斯莱夫小时候还老在铁匠铺里帮忙呢。</Localize>
   
   
   <Localize id="f8dbc283-407e-4cfc-9a8d-f036eb3871ee" localized="636183498155381615">所以我们这是要给一帮异邦人当雇佣兵？跟[Player:Father]当年一个样。</Localize>
@@ -72761,7 +72761,7 @@
   <Localize id="fc3342de-6be2-44e7-ab81-6c958b055aba" localized="636126560849806305"/>
   
   
-  <Localize id="fc336e8a-e934-4303-a63d-05f65389d022" localized="636269976522800346">[Player:Name]演[Player:Thorr/Freyja]，我演巴德尔，而内夫娅则是——</Localize>
+  <Localize id="fc336e8a-e934-4303-a63d-05f65389d022" localized="636269976522800346">[Player:Name]演[Player:托尔/芙蕾雅]，我演巴德尔，而内夫娅则是——</Localize>
   
   
   <Localize id="fc3e3a81-0cd6-4d09-b9e4-9df86ba5e32e" localized="636136142729600605">埃迪丝发出了一声赞许的咕哝。</Localize>
@@ -72944,7 +72944,7 @@
   <Localize id="fcd4d619-79e4-49d5-98a1-8f0b52bbbae5" localized="636171869874250503"/>
   
   
-  <Localize id="fcdc6eb8-b53c-4eb7-b72b-0b7bbacf61cd" localized="636107563269165295">欢迎归来，尊贵的[Player:Hlaford/Hlafdia]、雅尔[Player:Name]。今日有何事需我等效力？</Localize>
+  <Localize id="fcdc6eb8-b53c-4eb7-b72b-0b7bbacf61cd" localized="636107563269165295">欢迎归来，尊贵的[Player:领主/女领主]、雅尔[Player:Name]。今日有何事需我等效力？</Localize>
   
   
   <Localize id="fcdd01f5-7c0a-4fcf-844b-358eb1384409" localized="636074727956112062">有个坏消息要告诉你。格里穆尔夫叔叔死了。</Localize>
@@ -73121,7 +73121,7 @@
   <Localize id="fd7713ee-9ec9-40c9-8301-49e1850ad0b2" localized="636159328955379349"/>
   
   
-  <Localize id="fd782205-10a1-4492-8801-f2779d547e99" localized="636107524504332743">这么说，如今执掌奥克尼群岛的就是你这个[Player:man/woman]了？我估摸着，对我这种人来说，也不会有什么两样。</Localize>
+  <Localize id="fd782205-10a1-4492-8801-f2779d547e99" localized="636107524504332743">这么说，如今执掌奥克尼群岛的就是你这个[Player:男子/女子]了？我估摸着，对我这种人来说，也不会有什么两样。</Localize>
   
   
   <Localize id="fd7b8fce-f9cf-4809-ab00-e574f92d4860" localized="636107665346764711"/>
@@ -73172,7 +73172,7 @@
   <Localize id="fd96897b-dac3-4a4b-82c2-328e6bddb2fd" localized="636168806712704559"/>
   
   
-  <Localize id="fd96ce2f-5f15-4c9e-a7bc-6f31e0eccca5" localized="636224211014630378">没人质疑你的战斗身手，[Player:Hlaford/Hlafdia]，我们不过是在履行跟戈德威夫那边定下的约定！</Localize>
+  <Localize id="fd96ce2f-5f15-4c9e-a7bc-6f31e0eccca5" localized="636224211014630378">没人质疑你的战斗身手，[Player:领主/女领主]，我们不过是在履行跟戈德威夫那边定下的约定！</Localize>
   
   
   <Localize id="fd9750f2-7561-404f-af23-43149bc59ecf" localized="636172314253063628">我们只是冲你的财宝来的。老实躲着，兴许还能活命。</Localize>
@@ -73253,7 +73253,7 @@
   <Localize id="fde1477f-d7ae-4269-8ba3-58e280ffc79a" localized="636123232653478428">待你走得够远，再也听不见那对如胶似漆的鸳鸯细语时，艾菲悄悄摸了上来。</Localize>
   
   
-  <Localize id="fde953b7-a5e6-4fef-b130-ce103b778267" localized="636204430321638529">你？当我们的[Player:king/queen]？皮克特人是骄傲而强悍的民族！在康斯坦丁的王座上，你恐怕连[i]一星期[/i]都撑不过去。</Localize>
+  <Localize id="fde953b7-a5e6-4fef-b130-ce103b778267" localized="636204430321638529">你？当我们的[Player:国王/女王]？皮克特人是骄傲而强悍的民族！在康斯坦丁的王座上，你恐怕连[i]一星期[/i]都撑不过去。</Localize>
   
   
   <Localize id="fdea152c-286b-4c64-9985-5eb92ec6ffa2" localized="635924288803219676">他们已经够大了，我不在也能照看农场——就算真出了乱子，还有他们的姑姑和叔祖父能搭把手。</Localize>
@@ -73460,7 +73460,7 @@
   <Localize id="feaab795-a979-4b4e-b536-1bc9e1f655e3" localized="636183637452037201">盟友？咱们不是要在这片地界上给自己打出一块地盘吗？如今这又算什么名堂？</Localize>
   
   
-  <Localize id="feacd841-2dcc-4061-8afd-a708a685e852" localized="636153646339242789">唉，我亲爱的[Player:lad/lass]。你竟还需开口来问，这真叫我心里难受。当年，德鲁伊们可是这整片大地的统治者，若我没弄错的话，你们那片土地也不例外！当然了，这层干系可也不能说准没有，你且记着……</Localize>
+  <Localize id="feacd841-2dcc-4061-8afd-a708a685e852" localized="636153646339242789">唉，我亲爱的[Player:小伙子/姑娘]。你竟还需开口来问，这真叫我心里难受。当年，德鲁伊们可是这整片大地的统治者，若我没弄错的话，你们那片土地也不例外！当然了，这层干系可也不能说准没有，你且记着……</Localize>
   
   
   <Localize id="feb0f6b8-2acd-4aea-b435-f68c2345f2e2" localized="636216640228917855">如今你又寻到了更多这样的石碑，倒不妨在翻译上头再做一番尝试。</Localize>
@@ -73781,7 +73781,7 @@
   <Localize id="ffce55d6-0d23-4261-8462-513e80262ed4" localized="635927129074083148">那年轻人似乎给打了个措手不及，一抹慌张掠过他的脸庞。</Localize>
   
   
-  <Localize id="ffcea34e-1817-4199-9a33-2585be5e9210" localized="636171512009887144">[Player:man/woman]，你是个年轻[Player:Name]——又毛躁又没耐性。等上了些春秋你便会明白，这世上有的事，是急不得的。</Localize>
+  <Localize id="ffcea34e-1817-4199-9a33-2585be5e9210" localized="636171512009887144">[Player:男子/女子]，你是个年轻[Player:Name]——又毛躁又没耐性。等上了些春秋你便会明白，这世上有的事，是急不得的。</Localize>
   
   
   <Localize id="ffceee66-34b2-43a2-90e8-d067007bb616" localized="635919270858099748"/>

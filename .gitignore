@@ -20,6 +20,7 @@ __pycache__/
 *.tmp
 *.bak
 *.bak0000
+/extracted_for_ainiee_translated_before_player_variants.csv
 .vscode/
 .idea/
 Thumbs.db
