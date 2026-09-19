@@ -182,6 +182,7 @@ python batch_replace_uabea.py
 - 验证结果：已在实际游戏中确认汉化资源、对话、动态称谓和角色名称正常加载；独立临时目录按玩家安装流程还原后 SHA-256 与当前汉化资源一致。
 - 已知问题：AI 自动翻译，部分长文本、术语与语气仍可能需要润色；其他 Mod 或不同游戏版本会导致差分拒绝应用。
 - GitHub Release：`https://github.com/zfyu222/expeditions-viking-hanhua/releases/tag/v1.2`
+- GitHub 下载资产命名：`Expeditions.Viking_ChinesePatch_.{版本号}.zip`（例如 `Expeditions.Viking_ChinesePatch_.1.2.zip`）。后续发布沿用此格式；项目本地归档仍按中文补丁命名规范保存。
 - 百度网盘：待镜像上传。
 
 ### ⚠ 关键：Custom Localization 覆盖文件夹（务必先处理）
