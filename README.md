@@ -79,6 +79,14 @@ cd Tools\AINiee
 
 > **翻译提示词建议**：告知大模型这是维京时代背景的策略 RPG，包含 BBCode 标签和占位符，对话粗犷直接，UI 文本简洁。
 
+### 2026-10-18：自定义术语审校恢复 revision 8
+
+- 当前续作使用自定义 Codex 工作流，标准执行模型为 Luna；原文为项目根目录 `expeditions-viking_text.csv`，共 23,195 条。
+- 按用户要求恢复 revision 8 的原始术语快照和已验收结论；复用原有 187 批，补齐旧 00083 中尚未入验收的 19 条后，5,331 条术语均有逐项审校记录。
+- revision 9 的全量重审已停止，其已完成结果保留为历史，不作为本次交付基准。新快照的预合并规则不追溯改写 revision 8。
+- 恢复通过工作流程序执行，数据库和配置已备份至 `TranslateFiles/backups/restore_glossary_r9_to_r8_449218961bf04aee88de53ec6a896286/`；备份及运行状态不入库。
+- 当前仍在术语冻结前收尾：修正旧结果字段格式、处理同源重复项及具体冲突；正文尚未启动。续作记录见 `TranslateFiles/TranslateDoc.md` 与 `TranslateFiles/reports/revision8_resume_20261018.json`。
+
 ### 第 3 步：回填
 
 ```powershell
