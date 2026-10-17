@@ -85,7 +85,11 @@ cd Tools\AINiee
 - 按用户要求恢复 revision 8 的原始术语快照和已验收结论；复用原有 187 批，补齐旧 00083 中尚未入验收的 19 条后，5,331 条术语均有逐项审校记录。
 - revision 9 的全量重审已停止，其已完成结果保留为历史，不作为本次交付基准。新快照的预合并规则不追溯改写 revision 8。
 - 恢复通过工作流程序执行，数据库和配置已备份至 `TranslateFiles/backups/restore_glossary_r9_to_r8_449218961bf04aee88de53ec6a896286/`；备份及运行状态不入库。
-- 当前仍在术语冻结前收尾：修正旧结果字段格式、处理同源重复项及具体冲突；正文尚未启动。续作记录见 `TranslateFiles/TranslateDoc.md` 与 `TranslateFiles/reports/revision8_resume_20261018.json`。
+- r8 已完成冻结：复用 5,331 条逐项审校记录，403 组等价重复由程序合并，276 组分歧经 36 个定向包裁决；正式术语表共 3,529 项（人物 1,386、术语 1,728、禁翻 415）。
+- 冻结产物：`TranslateFiles/glossary/r8/freeze_731eced6/built/glossary_reviewed.json`，SHA-256 为 `8b1369e804c5c7f66803e0961da266077ff087a5ecc849b9e6806ece5c8b31a4`。原审校、合并及裁决来源均保留。
+- 特殊收尾实现仅位于本项目 `TranslateFiles/scripts/`；共享基础程序的特殊改动已撤销。后续配置修订只切执行方式或预算，不重做 r8 术语审校。
+- 用户已指定下一阶段改用自定义 API，沿用本地配置的 `mimo-v2.6-flash`。先做 30 条代表性试译及独立审校并经 Sol 验收；原 150 条方案预计 17 次执行，超过流程预算，因此按既有缩样机制调整。凭据不入项目、不入库。
+- 续作与冻结报告见 `TranslateFiles/reports/r8_completion_20261018.md`；阶段运行记录见 `TranslateFiles/TranslateDoc.md`。
 
 ### 第 3 步：回填
 

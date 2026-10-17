@@ -1,0 +1,422 @@
+{
+  "checked_at": "2026-10-17T21:18:29.979715+00:00",
+  "sessions": [
+    {
+      "session_id": "73d7a61456544e36931d595334349681",
+      "task_id": "pilot_translate-r12-00001-bdaacadb",
+      "status": "repair_required",
+      "round": 0,
+      "old_receipt": {
+        "failed_ids": [
+          "R0000001_d7484dd684",
+          "R0000002_543dcbbf5d",
+          "R0000006_a5b2f9df4c",
+          "R0000008_61fc1074de",
+          "R0000013_46719f731d",
+          "R0000030_b6eb75711f",
+          "R0000080_889335a601",
+          "R0000126_759f9d3167",
+          "R0000148_d917ac8a4b",
+          "R0000156_43086306f6",
+          "R0000202_6cb2d1fcc3",
+          "R0000245_57926d5638",
+          "R0000252_4357aebb14",
+          "R0000255_f6f233cea8",
+          "R0000303_7ef65fb7a5",
+          "R0000305_a1ff7a65d0",
+          "R0000313_554e6ec0be",
+          "R0000434_edd3aa68a6",
+          "R0000510_0969316d14",
+          "R0000591_be82fd550b",
+          "R0000598_283d6748d2",
+          "R0001218_d6f1d2918d",
+          "R0005028_87810a9f5f",
+          "R0007116_26cc4505e8",
+          "R0009483_00ea6edb14"
+        ],
+        "failures": [
+          {
+            "diagnostic": "R0000001_d7484dd684: terminology mismatch ['H', 'i', 's', 'm', 'a', 'y', 'n', 't', 'e', 'r', 'o', 'k', 'c']",
+            "id": "R0000001_d7484dd684"
+          },
+          {
+            "diagnostic": "R0000002_543dcbbf5d: terminology mismatch ['s', 'n', 'e', 'r']",
+            "id": "R0000002_543dcbbf5d"
+          },
+          {
+            "diagnostic": "R0000006_a5b2f9df4c: terminology mismatch ['o', 'r', 'a', 'l', 'm', 'y', 'i', 'n', 'c', 'u', 's', 't', 'e', 'x', 'k']",
+            "id": "R0000006_a5b2f9df4c"
+          },
+          {
+            "diagnostic": "R0000008_61fc1074de: terminology mismatch ['o', 'u', 'rest', 't', 'e', 'a', 'c', 'k', 'y', 'r', 'n', 'l', 'i', 's', 'm']",
+            "id": "R0000008_61fc1074de"
+          },
+          {
+            "diagnostic": "R0000013_46719f731d: terminology mismatch ['a', 'i', 't', 's', 'e', '/', 'r']",
+            "id": "R0000013_46719f731d"
+          },
+          {
+            "diagnostic": "R0000030_b6eb75711f: terminology mismatch ['e', 'a', 's', 'k', 'i', 'l', 'n', 't', 'u', 'o', 'c', 'r', 'H', 'y', 'm']",
+            "id": "R0000030_b6eb75711f"
+          },
+          {
+            "diagnostic": "R0000080_889335a601: terminology mismatch ['i', 'e', 's', 't', 'o', 'a', 'n', 'r', 'm', 'y', 'l', 'c']",
+            "id": "R0000080_889335a601"
+          },
+          {
+            "diagnostic": "R0000126_759f9d3167: terminology mismatch ['o', 'u', 'r', 'e', 't', 'l', 'a', 'don', 'c', 'y', 'm', 'n']",
+            "id": "R0000126_759f9d3167"
+          },
+          {
+            "diagnostic": "R0000148_d917ac8a4b: terminology mismatch ['e', 'l', 'y', 'o', 'u', 'i', 't', 'm', 'a', 's', 'n', 'r', 'executed']",
+            "id": "R0000148_d917ac8a4b"
+          },
+          {
+            "diagnostic": "R0000156_43086306f6: terminology mismatch ['o', 'r', 'y', 'm', 'u', 'n', 'man', 'e', 't', 's', 'rest', 'a', 'i', 'c', 'l']",
+            "id": "R0000156_43086306f6"
+          },
+          {
+            "diagnostic": "R0000202_6cb2d1fcc3: terminology mismatch ['i', 's', 't', 'e', 'r', 'u', 'a', 'n', 'y', 'm', 'o', 'k', 'c', 'l']",
+            "id": "R0000202_6cb2d1fcc3"
+          },
+          {
+            "diagnostic": "R0000245_57926d5638: terminology mismatch ['e', 'o', 'u', 't', 's', 'i', 'c', 'k', 'r', 'n']",
+            "id": "R0000245_57926d5638"
+          },
+          {
+            "diagnostic": "R0000252_4357aebb14: terminology mismatch ['o', 'y', 's', 'n', 'e', 'a', 'r', 'u', 't', 'm', 'c', 'are', 'k', 'i', 'l', ':']",
+            "id": "R0000252_4357aebb14"
+          },
+          {
+            "diagnostic": "R0000255_f6f233cea8: terminology mismatch ['H', 'e', 'i', 's', 'r', 'o', 'u', 'n', 'l', 'y', 'a', 'c', 'k', 't', 'm', 'x']",
+            "id": "R0000255_f6f233cea8"
+          },
+          {
+            "diagnostic": "R0000303_7ef65fb7a5: terminology mismatch ['n', 'y', 'o', 'u', 'e', 'i', 's', 'c', 'r', 'father', 'a', 'l', 'P', 't', 'm']",
+            "id": "R0000303_7ef65fb7a5"
+          },
+          {
+            "diagnostic": "R0000305_a1ff7a65d0: terminology mismatch ['a', 's', 'e', 'r', 'o', 't', 'u', 'k', 'i', 'y', 'l', 'm', '/', 'n']",
+            "id": "R0000305_a1ff7a65d0"
+          },
+          {
+            "diagnostic": "R0000313_554e6ec0be: terminology mismatch ['n', 'y', 't', 'i', 'e', 'l', 's']",
+            "id": "R0000313_554e6ec0be"
+          },
+          {
+            "diagnostic": "R0000434_edd3aa68a6: terminology mismatch ['o', 'u', 's', 't', 'a', 'n', 'i', 'c', 'r', 'e', 'y', 'father', 'l', 'hird', 'm', 'x']",
+            "id": "R0000434_edd3aa68a6"
+          },
+          {
+            "diagnostic": "R0000510_0969316d14: terminology mismatch ['u', 't', 'c', 'a', 'n', 'o', 's', 'e', 'm', 'y', 'r', 'i']",
+            "id": "R0000510_0969316d14"
+          },
+          {
+            "diagnostic": "R0000591_be82fd550b: terminology mismatch ['e', 'a', 'i', 't', 'u', 'n', 'l', 'y', 's', 'o', 'x', 'c', 'k', '/', 'r', 'chance', 'end', 'm']",
+            "id": "R0000591_be82fd550b"
+          },
+          {
+            "diagnostic": "R0000598_283d6748d2: terminology mismatch ['e', 'r', 'o', 'u', 'm', 's', 't', 'n', 'a', 'i', 'y', 'c', 'l', 'k']",
+            "id": "R0000598_283d6748d2"
+          },
+          {
+            "diagnostic": "R0001218_d6f1d2918d: terminology mismatch ['Greedy', ':', 'N', 'a', 'm', 'e', 'r', 'k', 's', 'o', 'i', 't', 'u', 'c', 'l', 'H', '/', 'y', 'arms']",
+            "id": "R0001218_d6f1d2918d"
+          },
+          {
+            "diagnostic": "R0005028_87810a9f5f: terminology mismatch ['n', 'e', 'a', 'y', 'l', 't', 'r', 'c', 'i', 'o', 's', 'throwing', 'u', 'saw', 'm', 'god']",
+            "id": "R0005028_87810a9f5f"
+          },
+          {
+            "diagnostic": "R0007116_26cc4505e8: terminology mismatch ['i', 's', 'e', 'a', 'r', 'o', 'u', 'n', 'c', 'k', 'l', 't', 'm', 'y']",
+            "id": "R0007116_26cc4505e8"
+          },
+          {
+            "diagnostic": "R0009483_00ea6edb14: terminology mismatch ['o', 'u', 's', 'i', 't', 'n', 'l', 'e', 'c', 'r', 'm', 'a', ':', '/', 'head', 'y']",
+            "id": "R0009483_00ea6edb14"
+          }
+        ],
+        "preserved_records": 0,
+        "session_id": "73d7a61456544e36931d595334349681",
+        "status": "repair_required",
+        "summary": {
+          "records": {
+            "source": 23195
+          },
+          "tasks": {
+            "running": 3
+          }
+        },
+        "task_id": "pilot_translate-r12-00001-bdaacadb"
+      },
+      "records": [
+        {
+          "id": "R0000001_d7484dd684",
+          "extra_square_markers": {},
+          "before": "R0000001_d7484dd684: terminology mismatch ['H', 'i', 's', 'm', 'a', 'y', 'n', 't', 'e', 'r', 'o', 'k', 'c']",
+          "after": "pass"
+        },
+        {
+          "id": "R0000002_543dcbbf5d",
+          "extra_square_markers": {},
+          "before": "R0000002_543dcbbf5d: terminology mismatch ['s', 'n', 'e', 'r']",
+          "after": "pass"
+        },
+        {
+          "id": "R0000006_a5b2f9df4c",
+          "extra_square_markers": {},
+          "before": "R0000006_a5b2f9df4c: terminology mismatch ['o', 'r', 'a', 'l', 'm', 'y', 'i', 'n', 'c', 'u', 's', 't', 'e', 'x', 'k']",
+          "after": "pass"
+        },
+        {
+          "id": "R0000008_61fc1074de",
+          "extra_square_markers": {},
+          "before": "R0000008_61fc1074de: terminology mismatch ['o', 'u', 'rest', 't', 'e', 'a', 'c', 'k', 'y', 'r', 'n', 'l', 'i', 's', 'm']",
+          "after": "R0000008_61fc1074de: terminology mismatch ['rest']"
+        },
+        {
+          "id": "R0000013_46719f731d",
+          "extra_square_markers": {},
+          "before": "R0000013_46719f731d: terminology mismatch ['a', 'i', 't', 's', 'e', '/', 'r']",
+          "after": "pass"
+        },
+        {
+          "id": "R0000030_b6eb75711f",
+          "extra_square_markers": {},
+          "before": "R0000030_b6eb75711f: terminology mismatch ['e', 'a', 's', 'k', 'i', 'l', 'n', 't', 'u', 'o', 'c', 'r', 'H', 'y', 'm']",
+          "after": "pass"
+        },
+        {
+          "id": "R0000080_889335a601",
+          "extra_square_markers": {},
+          "before": "R0000080_889335a601: terminology mismatch ['i', 'e', 's', 't', 'o', 'a', 'n', 'r', 'm', 'y', 'l', 'c']",
+          "after": "pass"
+        },
+        {
+          "id": "R0000126_759f9d3167",
+          "extra_square_markers": {},
+          "before": "R0000126_759f9d3167: terminology mismatch ['o', 'u', 'r', 'e', 't', 'l', 'a', 'don', 'c', 'y', 'm', 'n']",
+          "after": "R0000126_759f9d3167: terminology mismatch ['don']"
+        },
+        {
+          "id": "R0000148_d917ac8a4b",
+          "extra_square_markers": {},
+          "before": "R0000148_d917ac8a4b: terminology mismatch ['e', 'l', 'y', 'o', 'u', 'i', 't', 'm', 'a', 's', 'n', 'r', 'executed']",
+          "after": "R0000148_d917ac8a4b: terminology mismatch ['executed']"
+        },
+        {
+          "id": "R0000156_43086306f6",
+          "extra_square_markers": {},
+          "before": "R0000156_43086306f6: terminology mismatch ['o', 'r', 'y', 'm', 'u', 'n', 'man', 'e', 't', 's', 'rest', 'a', 'i', 'c', 'l']",
+          "after": "R0000156_43086306f6: terminology mismatch ['man', 'rest']"
+        },
+        {
+          "id": "R0000202_6cb2d1fcc3",
+          "extra_square_markers": {},
+          "before": "R0000202_6cb2d1fcc3: terminology mismatch ['i', 's', 't', 'e', 'r', 'u', 'a', 'n', 'y', 'm', 'o', 'k', 'c', 'l']",
+          "after": "pass"
+        },
+        {
+          "id": "R0000245_57926d5638",
+          "extra_square_markers": {},
+          "before": "R0000245_57926d5638: terminology mismatch ['e', 'o', 'u', 't', 's', 'i', 'c', 'k', 'r', 'n']",
+          "after": "pass"
+        },
+        {
+          "id": "R0000252_4357aebb14",
+          "extra_square_markers": {},
+          "before": "R0000252_4357aebb14: terminology mismatch ['o', 'y', 's', 'n', 'e', 'a', 'r', 'u', 't', 'm', 'c', 'are', 'k', 'i', 'l', ':']",
+          "after": "R0000252_4357aebb14: terminology mismatch ['are']"
+        },
+        {
+          "id": "R0000255_f6f233cea8",
+          "extra_square_markers": {},
+          "before": "R0000255_f6f233cea8: terminology mismatch ['H', 'e', 'i', 's', 'r', 'o', 'u', 'n', 'l', 'y', 'a', 'c', 'k', 't', 'm', 'x']",
+          "after": "pass"
+        },
+        {
+          "id": "R0000303_7ef65fb7a5",
+          "extra_square_markers": {},
+          "before": "R0000303_7ef65fb7a5: terminology mismatch ['n', 'y', 'o', 'u', 'e', 'i', 's', 'c', 'r', 'father', 'a', 'l', 'P', 't', 'm']",
+          "after": "R0000303_7ef65fb7a5: terminology mismatch ['father']"
+        },
+        {
+          "id": "R0000305_a1ff7a65d0",
+          "extra_square_markers": {},
+          "before": "R0000305_a1ff7a65d0: terminology mismatch ['a', 's', 'e', 'r', 'o', 't', 'u', 'k', 'i', 'y', 'l', 'm', '/', 'n']",
+          "after": "pass"
+        },
+        {
+          "id": "R0000313_554e6ec0be",
+          "extra_square_markers": {},
+          "before": "R0000313_554e6ec0be: terminology mismatch ['n', 'y', 't', 'i', 'e', 'l', 's']",
+          "after": "pass"
+        },
+        {
+          "id": "R0000434_edd3aa68a6",
+          "extra_square_markers": {},
+          "before": "R0000434_edd3aa68a6: terminology mismatch ['o', 'u', 's', 't', 'a', 'n', 'i', 'c', 'r', 'e', 'y', 'father', 'l', 'hird', 'm', 'x']",
+          "after": "R0000434_edd3aa68a6: terminology mismatch ['father', 'hird']"
+        },
+        {
+          "id": "R0000510_0969316d14",
+          "extra_square_markers": {},
+          "before": "R0000510_0969316d14: terminology mismatch ['u', 't', 'c', 'a', 'n', 'o', 's', 'e', 'm', 'y', 'r', 'i']",
+          "after": "pass"
+        },
+        {
+          "id": "R0000591_be82fd550b",
+          "extra_square_markers": {},
+          "before": "R0000591_be82fd550b: terminology mismatch ['e', 'a', 'i', 't', 'u', 'n', 'l', 'y', 's', 'o', 'x', 'c', 'k', '/', 'r', 'chance', 'end', 'm']",
+          "after": "R0000591_be82fd550b: terminology mismatch ['chance', 'end']"
+        },
+        {
+          "id": "R0000598_283d6748d2",
+          "extra_square_markers": {},
+          "before": "R0000598_283d6748d2: terminology mismatch ['e', 'r', 'o', 'u', 'm', 's', 't', 'n', 'a', 'i', 'y', 'c', 'l', 'k']",
+          "after": "pass"
+        },
+        {
+          "id": "R0001218_d6f1d2918d",
+          "extra_square_markers": {},
+          "before": "R0001218_d6f1d2918d: terminology mismatch ['Greedy', ':', 'N', 'a', 'm', 'e', 'r', 'k', 's', 'o', 'i', 't', 'u', 'c', 'l', 'H', '/', 'y', 'arms']",
+          "after": "R0001218_d6f1d2918d: terminology mismatch ['Greedy', 'arms']"
+        },
+        {
+          "id": "R0005028_87810a9f5f",
+          "extra_square_markers": {},
+          "before": "R0005028_87810a9f5f: terminology mismatch ['n', 'e', 'a', 'y', 'l', 't', 'r', 'c', 'i', 'o', 's', 'throwing', 'u', 'saw', 'm', 'god']",
+          "after": "R0005028_87810a9f5f: terminology mismatch ['throwing', 'saw', 'god']"
+        },
+        {
+          "id": "R0007116_26cc4505e8",
+          "extra_square_markers": {},
+          "before": "R0007116_26cc4505e8: terminology mismatch ['i', 's', 'e', 'a', 'r', 'o', 'u', 'n', 'c', 'k', 'l', 't', 'm', 'y']",
+          "after": "pass"
+        },
+        {
+          "id": "R0009483_00ea6edb14",
+          "extra_square_markers": {},
+          "before": "R0009483_00ea6edb14: terminology mismatch ['o', 'u', 's', 'i', 't', 'n', 'l', 'e', 'c', 'r', 'm', 'a', ':', '/', 'head', 'y']",
+          "after": "R0009483_00ea6edb14: terminology mismatch ['head']"
+        }
+      ],
+      "all_pass_after": false
+    },
+    {
+      "session_id": "5c21d0cb704541e9990d04d3700921b7",
+      "task_id": "pilot_translate-r12-00002-6cfa15f4-sb208df44",
+      "status": "needs_attention",
+      "round": 1,
+      "old_receipt": {
+        "failed_ids": [
+          "R0018723_40ae8e3b2a",
+          "R0018803_c05d48740d"
+        ],
+        "failures": [
+          {
+            "diagnostic": "R0018723_40ae8e3b2a: terminology mismatch ['s', 'i', 'e', 'n', 'a', 'm', '/', 'r', 'u', 't', 'c', 'l', 'y', 'aoo', 'H', 'o', ':', 'k', 'P', 'flanked']",
+            "id": "R0018723_40ae8e3b2a"
+          },
+          {
+            "diagnostic": "R0018803_c05d48740d: terminology mismatch ['s', 'i', 'e', 'n', 'a', 'm', '/', 'r', 'u', 't', 'c', 'l', 'y', 'aoo', 'H', 'o', ':', 'shield', 'P', 'flanked']",
+            "id": "R0018803_c05d48740d"
+          }
+        ],
+        "preserved_records": 0,
+        "session_id": "5c21d0cb704541e9990d04d3700921b7",
+        "status": "needs_attention",
+        "summary": {
+          "records": {
+            "source": 23195
+          },
+          "tasks": {
+            "running": 3
+          }
+        },
+        "task_id": "pilot_translate-r12-00002-6cfa15f4-sb208df44"
+      },
+      "records": [
+        {
+          "id": "R0018723_40ae8e3b2a",
+          "extra_square_markers": {},
+          "before": "R0018723_40ae8e3b2a: terminology mismatch ['s', 'i', 'e', 'n', 'a', 'm', '/', 'r', 'u', 't', 'c', 'l', 'y', 'aoo', 'H', 'o', ':', 'k', 'P', 'flanked']",
+          "after": "R0018723_40ae8e3b2a: terminology mismatch ['aoo', 'flanked']"
+        },
+        {
+          "id": "R0018803_c05d48740d",
+          "extra_square_markers": {},
+          "before": "R0018803_c05d48740d: terminology mismatch ['s', 'i', 'e', 'n', 'a', 'm', '/', 'r', 'u', 't', 'c', 'l', 'y', 'aoo', 'H', 'o', ':', 'shield', 'P', 'flanked']",
+          "after": "R0018803_c05d48740d: terminology mismatch ['aoo', 'shield', 'flanked']"
+        }
+      ],
+      "all_pass_after": false
+    },
+    {
+      "session_id": "4a1309b82be04c498ca678793290e9b3",
+      "task_id": "pilot_translate-r12-00002-6cfa15f4-s162976c3",
+      "status": "needs_attention",
+      "round": 1,
+      "old_receipt": {
+        "failed_ids": [
+          "R0019915_805e47fbfe",
+          "R0019916_5e91190d60",
+          "R0019917_1c42bd2a87"
+        ],
+        "failures": [
+          {
+            "diagnostic": "R0019915_805e47fbfe: terminology mismatch ['n', 't', 'e', 'm', 'o', 'u', 'a', 'i', 's', 'r', 'x', 'c', 'l', 'y', 'are', 'k', 'H', ':']",
+            "id": "R0019915_805e47fbfe"
+          },
+          {
+            "diagnostic": "R0019916_5e91190d60: terminology mismatch ['o', 'u', 'e', 'k', 'n', 'a', 'r', 's', 'i', 't', 'c', 'y', 'l', 'm', 'x']",
+            "id": "R0019916_5e91190d60"
+          },
+          {
+            "diagnostic": "R0019917_1c42bd2a87: terminology mismatch ['o', 'u', 'e', 'r', 't', 'i', 'l', 's', 'a', 'm', 'n', 'y', 'c', 'k']",
+            "id": "R0019917_1c42bd2a87"
+          }
+        ],
+        "preserved_records": 0,
+        "session_id": "4a1309b82be04c498ca678793290e9b3",
+        "status": "needs_attention",
+        "summary": {
+          "records": {
+            "source": 23195
+          },
+          "tasks": {
+            "running": 3
+          }
+        },
+        "task_id": "pilot_translate-r12-00002-6cfa15f4-s162976c3"
+      },
+      "records": [
+        {
+          "id": "R0019915_805e47fbfe",
+          "extra_square_markers": {},
+          "before": "R0019915_805e47fbfe: terminology mismatch ['n', 't', 'e', 'm', 'o', 'u', 'a', 'i', 's', 'r', 'x', 'c', 'l', 'y', 'are', 'k', 'H', ':']",
+          "after": "R0019915_805e47fbfe: terminology mismatch ['are']"
+        },
+        {
+          "id": "R0019916_5e91190d60",
+          "extra_square_markers": {},
+          "before": "R0019916_5e91190d60: terminology mismatch ['o', 'u', 'e', 'k', 'n', 'a', 'r', 's', 'i', 't', 'c', 'y', 'l', 'm', 'x']",
+          "after": "pass"
+        },
+        {
+          "id": "R0019917_1c42bd2a87",
+          "extra_square_markers": {},
+          "before": "R0019917_1c42bd2a87: terminology mismatch ['o', 'u', 'e', 'r', 't', 'i', 'l', 's', 'a', 'm', 'n', 'y', 'c', 'k']",
+          "after": "pass"
+        }
+      ],
+      "all_pass_after": false
+    }
+  ],
+  "accounting": {
+    "api_calls": 10,
+    "quality_attempts": 683,
+    "quality_authors": 42175,
+    "record_lineage": 35
+  }
+}

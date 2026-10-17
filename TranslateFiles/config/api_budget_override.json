@@ -1,0 +1,4 @@
+{
+  "task_input_tokens": 24576,
+  "reason": "Pilot record R0018803_c05d48740d requires 16947 complete input tokens; preserve its source, frozen terms, and shared batch allocation."
+}
