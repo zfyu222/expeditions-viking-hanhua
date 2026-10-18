@@ -15,7 +15,14 @@
 - 用户要求忽略旧正文数据、重新开始正式阶段。旧运行器已停止并归档；旧 6,530 条草稿及全部 672 个正式任务不参与本轮，原回复、API 消耗、作者和历史仍保留。
 - 新正式范围经公开 restart-body 建立（revision 15），同步当前本地调度配置后 revision 16；全部 23,195 条 source，无译文、无旧正式候选/检查缓存、无在途请求。冻结 r8 哈希及已接受试译保留。
 - 使用官方 `D:/StaticHanHua/Tools/localization/run_api_round.py --project <本项目> --stage translate`，不再调用旧 `TranslateFiles/scripts/api_round.py` 包装。
-- 新协议：批内 `1`、`2` 等短编号，句内 `[P1]` 等短标记；程序恢复完整 ID 和保护内容。translate 在同一进程内自动完成草稿扫描及常规修复，遇外部 Sol 任务/异常再交回。阶段之间不自动串联。
+- 新协议：批内 `1`、`2` 等短编号，句内 `[P1]` 等短标记；程序恢复完整 ID 和保护内容。最新流程的 translate 仅收齐草稿；程序审校另行调用 draft_check，遇外部 Sol 任务/异常交回。阶段之间不自动串联。
 - 当前全局本地模型 deepseek-flash、并发 5、max_requests 10000、max_completion_tokens 16384；正文 1024 原文 Token，完整输入预算 16384。凭据不复制、不输出。
 - 旧进程中断的 reserved 请求保留为 interrupted_restart，usage 未知，不按零消耗或免费取消处理。旧消费累计不清零。
 - 基线记录见 `reports/new_formal_restart_20261018.json`，原始备份见 `backups/restart_body_0582f94f910f4c8e99cecf292549db4f/`。
+
+## 恢复 r16 首轮原稿与独立程序审校
+
+- 已从 1,063 个首轮任务结果按 ID 恢复 23,195 条原稿，精确覆盖，无重复；排除带 strict_translation/draft_scan_key 的返修任务。任务输入指纹、源文绑定、会话结果、API 调用及实际作者逐项核对通过。
+- 原例外及原始结果字段完整保存在快照，恢复只执行已知保护映射替换。快照 `snapshots/r16_first_draft_20261018T142909Z_9c5af3c9/`；恢复报告 `reports/restore_r16_first_drafts.json`。
+- 完整恢复前备份及旧审校归档见 `backups/restore_r16_first_drafts_20261018T142909Z_9c5af3c9/`。新检查范围 revision 17，沿用共同程序的 revision 预算边界隔离旧修复计数；保留原任务结果、付费/执行/作者/lineage 历史，哈希核对未变。
+- 只执行官方 runner `--stage draft_check`，结束后交回主流程。此次不启动 review、export 或回填。

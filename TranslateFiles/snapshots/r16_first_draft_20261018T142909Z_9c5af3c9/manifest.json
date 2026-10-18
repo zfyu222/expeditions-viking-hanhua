@@ -1,0 +1,69 @@
+{
+  "status": "restored",
+  "source_revision": 16,
+  "source_batches": 1063,
+  "records": 23195,
+  "exact_id_coverage": true,
+  "duplicate_ids": 0,
+  "source_hash": "7d05511f1e62468e65b9f379d613789939c9b4bc6100b040310341bab5c60eb8",
+  "bindings_verified": [
+    "task_payload_fingerprint",
+    "task_result_hash",
+    "record_id_source_ordinal",
+    "frozen_glossary",
+    "style",
+    "valid_batch_item",
+    "session_result",
+    "api_call",
+    "actual_author_lineage"
+  ],
+  "backup": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\backups\\restore_r16_first_drafts_20261018T142909Z_9c5af3c9",
+  "snapshot": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\snapshots\\r16_first_draft_20261018T142909Z_9c5af3c9",
+  "snapshot_hashes": {
+    "drafts.csv": "0cc90c0be487add7f35ba5baf6820847f024c2733bee5a6116853e3be55f6763",
+    "drafts.jsonl": "b2cfd249a6cda5a00d9d87184b7e19e39ea9d306f196a6c91be934d6bd5d77ac",
+    "task_manifest.json": "3a8a18b2e53c5dd382e857700a362b7fff69c1b3957806278c5851867551393a"
+  },
+  "original_exception_records": 10,
+  "protection_mapping_records": 2821,
+  "history_before": {
+    "api_calls": {
+      "rows": 3550,
+      "sha256": "6c6184d8665563132286b1db5a331577ca3a8ea27b3e7c479c768638c42d2a97"
+    },
+    "quality_attempts": {
+      "rows": 4157,
+      "sha256": "ab66e71590be43f4a5462c6a165dae26b361aae0a34badc6b267156f3ae364f2"
+    },
+    "quality_authors": {
+      "rows": 95808,
+      "sha256": "c9ad1d36f2a21cfab8e1db7b2e751915ec3938a0140770355c171a82e6f89a3c"
+    },
+    "quality_results": {
+      "rows": 3546,
+      "sha256": "3309a9082fcf7255b165f0d6ba4c14a8a4eaf5c6b8969743e7f6c765ac7f12ff"
+    },
+    "record_lineage": {
+      "rows": 53668,
+      "sha256": "2c6473218878f33f0c13e00c17fe25151280e2800c8baba4358f853219add92b"
+    },
+    "repair_outcomes": {
+      "rows": 3,
+      "sha256": "8edd8607c9d6dd7038480c0bbc528df5d7ca09add53594ada17e99df8e1805c6"
+    }
+  },
+  "no_translation_requests": true,
+  "check_revision": 17,
+  "paused": true,
+  "cleared": {
+    "draft_candidates": 23195,
+    "draft_checks": 23195,
+    "draft_check_rounds": 5,
+    "checks": 0,
+    "repair_regressions": 107
+  },
+  "archived_production_tasks": 2803,
+  "history_unchanged": true,
+  "old_repair_routes_empty": true,
+  "restored_records": 23195
+}

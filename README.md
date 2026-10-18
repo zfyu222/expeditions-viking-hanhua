@@ -99,6 +99,13 @@ cd Tools\AINiee
 - 仍记录 9 条机械术语诊断，多数为普通词义或受保护标记内部词形，不是语义错误率或正式验收通过。动态性别分支被整体保护、可见英文分支仍需后续项目专项处理。正式全文翻译、独立审校、导出和实机门槛继续保留。
 - r8 冻结哈希未变。接受试译后已恢复正式翻译基线，23,195 条均待正文翻译，无运行中任务。详情见 `TranslateFiles/reports/pilot_new_method_20261018.md`。
 
+### 2026-10-18：恢复首轮原稿，单独执行新版程序审校
+
+- 按用户要求，仅从 revision 16、payload 不含 `strict_translation` 和 `draft_scan_key` 的 1,063 个已完成 translate 任务恢复 23,195 条原始草稿；未使用后续 draft-repair 译文。按记录 ID 对齐，核对任务输入哈希、源文/序号、冻结表、文体、有效批次结果、会话结果、API 调用及实际作者 lineage。
+- 恢复原始语境例外（10 条记录），仅还原原任务已知保护映射（2,821 条记录），不改写原译。首轮快照：`TranslateFiles/snapshots/r16_first_draft_20261018T142909Z_9c5af3c9/`（drafts.jsonl、单列 drafts.csv、task_manifest.json 及哈希 manifest）。这是审校前快照，不是正式交付 CSV。
+- 当前状态完整备份：`TranslateFiles/backups/restore_r16_first_drafts_20261018T142909Z_9c5af3c9/`。旧候选、队列及检查缓存已归档；建立 revision 17 程序审校范围，旧修复计数不参与本轮。全部付费、执行、作者及 lineage 历史逐表哈希核对保持不变；r8 冻结表、文体和已接受试译保持。
+- 本轮下一步仅调用官方 runner 的 `--stage draft_check`，自动处理必要修复及统一复查；结束后返回主流程，不启动独立语义审校、导出或回填。恢复审计：`TranslateFiles/reports/restore_r16_first_drafts.json`；项目内恢复脚本：`TranslateFiles/scripts/restore_r16_first_drafts.py`，未调用 restart-body。
+
 ### 2026-10-18：按最新规则重新启动正式翻译
 
 - 用户明确要求不沿用旧正文数据，按更新的正式流程重新开始。旧运行器已停止，6,530 条旧草稿及 672 个旧正式任务归档；原 API 消耗、作者与原始回复保留。
