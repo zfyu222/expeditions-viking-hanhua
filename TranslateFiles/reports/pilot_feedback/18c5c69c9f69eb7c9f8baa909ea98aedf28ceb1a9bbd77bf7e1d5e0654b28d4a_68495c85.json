@@ -1,0 +1,7 @@
+{
+  "report_hash": "18c5c69c9f69eb7c9f8baa909ea98aedf28ceb1a9bbd77bf7e1d5e0654b28d4a",
+  "reviewer": "main",
+  "decision": "retry",
+  "summary": "User requested a fresh pilot using the updated calibration workflow; retain the same saved 30 sample IDs and all historical results, retire the old independent-review queue, preserve the r8 frozen glossary.",
+  "retry_ids": null
+}

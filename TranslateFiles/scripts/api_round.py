@@ -32,6 +32,48 @@ def budget_override():
 class VikingAPIWorkflow(shared.Workflow):
     """Keep the project input cap when shared API batching sync configures."""
 
+    def _pilot_budget_check(self, db, stage, allocated=False):
+        if stage in ('pilot_translate', 'pilot_review'):
+            limit = self.config(db)['pilot_call_limit']
+            spent = self.pilot_spent(db)
+            if spent > limit or (not allocated and spent >= limit):
+                raise ValueError('Project pilot execution budget exhausted')
+
+    def pilot_plan(self):
+        plan = super().pilot_plan()
+        with self.db() as db:
+            limit = self.config(db)['pilot_call_limit']
+        plan['execution_limit'] = limit
+        plan['within_budget'] = (plan['within_budget'] and
+            plan['executions_effective'] + plan['translation_batches'] + plan['review_batches'] <= limit)
+        plan['note'] = 'Project-authorized aggregate limit; all historical raw attempts and audited exclusions retained. Production task and per-record repair limits still apply.'
+        return plan
+
+    def claim(self, stage, *args, **kwargs):
+        with self.db() as db:
+            self._pilot_budget_check(db, stage)
+        return super().claim(stage, *args, **kwargs)
+
+    def _batch_session(self, db, task, *args, **kwargs):
+        # Shared callers insert the attempt in this same transaction first.
+        # Raising here rolls back the allocation, including concurrent retries.
+        self._pilot_budget_check(db, task['stage'], allocated=True)
+        return super()._batch_session(db, task, *args, **kwargs)
+
+    def batch_repair(self, session_id, *args, **kwargs):
+        with self.db() as db:
+            run = self._batch_run(db, session_id)
+            task = db.execute('SELECT stage FROM tasks WHERE id=?', (run['task_id'],)).fetchone()
+            self._pilot_budget_check(db, task['stage'])
+        return super().batch_repair(session_id, *args, **kwargs)
+
+    def batch_retry(self, session_id, *args, **kwargs):
+        with self.db() as db:
+            run = self._batch_run(db, session_id)
+            task = db.execute('SELECT stage FROM tasks WHERE id=?', (run['task_id'],)).fetchone()
+            self._pilot_budget_check(db, task['stage'])
+        return super().batch_retry(session_id, *args, **kwargs)
+
     def configure(self, patch, reason, impact='auto', record_ids=None):
         if reason != SYNC_REASON:
             return super().configure(patch, reason, impact, record_ids)

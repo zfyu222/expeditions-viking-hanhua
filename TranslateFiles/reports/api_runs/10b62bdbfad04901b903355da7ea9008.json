@@ -1,0 +1,13 @@
+{
+  "run_id": "10b62bdbfad04901b903355da7ea9008",
+  "stage": "pilot_review",
+  "status": "failed",
+  "started_at": "2026-10-18T01:40:13.687105+00:00",
+  "receipt_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\10b62bdbfad04901b903355da7ea9008.json",
+  "stdout_log": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\logs\\api_runs\\10b62bdbfad04901b903355da7ea9008.stdout.log",
+  "stderr_log": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\logs\\api_runs\\10b62bdbfad04901b903355da7ea9008.stderr.log",
+  "pid": 9544,
+  "exit_code": 1,
+  "reason": "API process failed; inspect logs and recover existing handoffs before retrying",
+  "finished_at": "2026-10-18T01:40:14.362380+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "audit": "pilot_budget_d182039a6edd476096c3b1b06ded77f5",
+  "revision": 12,
+  "pilot_plan": {
+    "sample_records": 30,
+    "translated_records": 30,
+    "reviewed_records": 23,
+    "translation_batches": 0,
+    "review_batches": 0,
+    "executions_used": 12,
+    "executions_raw": 14,
+    "executions_exempt": 2,
+    "executions_effective": 12,
+    "execution_limit": 100,
+    "running_tasks": 3,
+    "maximum_prepared_input_tokens": 0,
+    "within_budget": true,
+    "note": "Project-authorized aggregate limit; all historical raw attempts and audited exclusions retained. Production task and per-record repair limits still apply."
+  },
+  "pending_issued_api": 0,
+  "preserved_tables": [
+    "tasks",
+    "batch_runs",
+    "batch_items",
+    "api_calls",
+    "quality_attempts",
+    "quality_authors",
+    "pilot_attempt_exclusions"
+  ]
+}

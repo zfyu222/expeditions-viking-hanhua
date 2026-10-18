@@ -1,0 +1,10 @@
+{
+  "session": "c5a9e5123389404795074f106036c459",
+  "classification": "format_only_id_suffix_correction",
+  "from": "R0000255_f6f233cea5",
+  "to": "R0000255_f6f233cea8",
+  "raw_reply_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\pilot_translate-r12-00001-ab4ccd39\\handoffs\\c5a9e5123389404795074f106036c459\\result.invalid-id.original.json",
+  "raw_sha256": "d91b98bd69e3e77bbe9f3948c6da95685a94209e00ed0a63e21e575a895d43a2",
+  "normalized_sha256": "6c19c744e1dd2b3d03f49464d7754371686e8b6b92fe89dcb8bebc9253730f22",
+  "basis": "Only one missing and one unknown ID; same unique ordinal 255 and one-character hash-suffix typo. Main AI read source and candidate, verified belly/cheeks/smile/voice/Market Street details correspond. Translation and exceptions are unchanged. Public batch-finish still validates all IDs and task/input hash."
+}

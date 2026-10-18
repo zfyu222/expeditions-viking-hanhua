@@ -1,0 +1,659 @@
+{
+  "schema": 1,
+  "kind": "pilot",
+  "purpose": "calibration",
+  "pilot_key": "f0bc6004056751264e9c87bf14df1e8292894caf9425d1f581939ae6fb98b69c",
+  "source_sha256": "7d05511f1e62468e65b9f379d613789939c9b4bc6100b040310341bab5c60eb8",
+  "glossary": {
+    "hash": "8b1369e804c5c7f66803e0961da266077ff087a5ecc849b9e6806ece5c8b31a4",
+    "path": "glossary\\r8\\freeze_731eced6\\built\\glossary_reviewed.json",
+    "revision": 8
+  },
+  "config": {
+    "agent_attempt_limit": 2,
+    "agent_task_limit": 1,
+    "api": {
+      "api_format": "OpenAI",
+      "api_key_env": "SHH_TRANSLATION_API_KEY",
+      "api_url": "",
+      "concurrency": 3,
+      "extra_body": {},
+      "max_completion_tokens": 8192,
+      "max_requests": 100,
+      "model_name": "",
+      "request_timeout": 120,
+      "requests_per_minute": 30,
+      "target_platform": "custom_platform_shh",
+      "temperature": 1,
+      "think_switch": false,
+      "tls_switch": false
+    },
+    "backend": "api",
+    "batch_chars": 12000,
+    "batch_records": null,
+    "batch_tokens": 1024,
+    "body_repair_round_limit": 6,
+    "case_sensitive": false,
+    "context_records": 0,
+    "draft_scan_workers": 1,
+    "exclusions": [],
+    "extract_batch_records": null,
+    "extract_batch_tokens": 10000,
+    "game_background": "## 游戏信息\n\n| 项目 | 内容 |\n|------|------|\n| 游戏名 | Expeditions: Viking |\n| 引擎 | Unity 5.6.4f1 |\n| 脚本后端 | Mono |\n| 文本总量 | 23195 条（9 个类别） |\n| 本地化格式 | XML（Unity TextAsset） |\n| 汉化方式 | 直接替换 `resources.assets` 中的英文 TextAsset |\n| 翻译引擎 | AiNiee（DeepSeek V4 Flash） |\n| 汉化质量 | AI 自动翻译，非人工精翻 |",
+    "glossary_review_batch_records": 60,
+    "glossary_review_batch_tokens": 10000,
+    "lease_seconds": 3600,
+    "max_attempts": 3,
+    "model": "gpt-6-luna",
+    "pilot_batch_count": 1,
+    "pilot_call_limit": 100,
+    "pilot_ordinals": [
+      1,
+      2,
+      6,
+      8,
+      13,
+      30,
+      80,
+      126,
+      148,
+      156,
+      202,
+      245,
+      252,
+      255,
+      303,
+      305,
+      313,
+      434,
+      510,
+      591,
+      598,
+      1218,
+      5028,
+      7116,
+      9483,
+      18723,
+      18803,
+      19915,
+      19916,
+      19917
+    ],
+    "pilot_records": 30,
+    "placeholder_family_overrides": {},
+    "polish": false,
+    "protect_named_curly": null,
+    "quality_version": 2,
+    "review_batch_records": 80,
+    "review_batch_tokens": 1024,
+    "review_estimate": {
+      "ascii_chars_per_token": 3,
+      "full_base_tokens": 420,
+      "non_ascii_tokens_per_char": 2,
+      "pilot_base_tokens": 120,
+      "translation_multiplier": 3
+    },
+    "review_output_reserve_percent": 20,
+    "review_output_tokens": 16384,
+    "sol_no_progress_limit": 2,
+    "sol_repair_model": "gpt-6-sol",
+    "sol_repair_round_limit": 3,
+    "source_language": "英语",
+    "stage_backends": {},
+    "style": "历史题材维京策略 RPG。剧情对白口语自然、粗犷直接，保留人物声线和情绪；叙述简洁有画面感；UI 用短而清楚的现代简体中文。人名、地名、组织、技能及专名统一使用冻结术语表译名。保留所有游戏标记、标签、变量、占位符与大小写敏感内容；仅翻译玩家可见文本。",
+    "target_language": "简体中文",
+    "task_input_chars": 48000,
+    "task_input_tokens": 24576,
+    "whole_word": true,
+    "workflow": "custom"
+  },
+  "records": [
+    {
+      "id": "R0000001_d7484dd684",
+      "ordinal": 1,
+      "source": "His dismay is painted in broad strokes on his aging face.",
+      "translation": "他的惊惶明明白白写在那张苍老的脸上。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原文依据「His dismay is painted in broad strokes on his aging face.」中 His 为普通物主代词「他的」，非专名或需保留的原文内容；若按 t1「保留原文」字面执行会把英文代词留在中文句中，影响可读性与既定文体，故按语境译为「他的」。",
+          "source": "His"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0000002_543dcbbf5d",
+      "ordinal": 2,
+      "source": "Godwif sneers.",
+      "translation": "戈德威夫嗤笑一声。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0000006_a5b2f9df4c",
+      "ordinal": 6,
+      "source": "For all my flippancy, I must admit this is pretty much what I expected. Last summer we would have put up a much better fight, but the winter has taken its toll on us.",
+      "translation": "别看我嘴上轻浮，我得承认，这基本就是我预料中的样子。去年夏天我们还能打得像样些，可这个冬天把我们耗干了。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0000008_61fc1074de",
+      "ordinal": 8,
+      "source": "You rest the back of your hand on her forehead, feeling her fever against your skin - it's not the worst fever you've ever felt, but if it's lasted for several weeks, it's no small wonder she's so tired.",
+      "translation": "你把手背搁上她的额头，感受那股灼热传到你的皮肤上——这不算你见过最凶的高烧，可要是已经烧了好几个星期，她这么疲惫也就毫不奇怪了。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原句 rest the back of your hand on her forehead 中 rest 为把手背搁在/搭在额头上的动作义，属普通词义，非游戏术语'休息'，故按原句语境翻译。",
+          "source": "rest"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0000013_46719f731d",
+      "ordinal": 13,
+      "source": "Wait, [i]she[/i] set the fire?",
+      "translation": "等等，[i]她[/i]放的火？",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0000030_b6eb75711f",
+      "ordinal": 30,
+      "source": "The shieldmaiden Vigundr was killed in Frisia, wielding this winged spear against unknown attackers. Her husband sold it to you in Ribe so he could afford the journey home.",
+      "translation": "盾女维贡德尔死在弗里西亚，当时她手持这柄翼矛，迎战身份不明的袭击者。她的丈夫在里伯把这矛卖给了你，好凑够盘缠回家。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0000080_889335a601",
+      "ordinal": 80,
+      "source": "{Give 50 Rations.} I wish to give an offering to Heimdallr that he may grant me vigilance.",
+      "translation": "{给出 50 口粮。}我想向海姆达尔献上祭品，求他赐我警醒。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0000126_759f9d3167",
+      "ordinal": 126,
+      "source": "You're free to leave. I don't care where you go, but you better get out of my town.",
+      "translation": "你可以走了。我不在乎你去哪儿，但你最好给我滚出我的镇子。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原文 I don't care 中 don't 为助动词否定缩写，don 只是其字母片段，意为'不'，非人名'唐河'。",
+          "source": "don"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0000148_d917ac8a4b",
+      "ordinal": 148,
+      "source": "We'll help you fight them if that's what you want, but those who survive will not be executed. Agreed?",
+      "translation": "只要你愿意，我们会帮你打他们，但活下来的人不会被处死。说定了？",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原句 will not be executed 为被动语态，意为'不会被处死'，属普通词义，非技能状态'处决成功'。",
+          "source": "executed"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0000156_43086306f6",
+      "ordinal": 156,
+      "source": "Sorry, my young man! Let me just rest my arthritic 25-year-old legs a moment before I leave.",
+      "translation": "对不住啊，小伙子！让我这双二十五岁的老寒腿先休息一会儿再动身。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原文 my young man 意为'小伙子/年轻人'，属普通词义，非术语'男子'。",
+          "source": "man"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0000202_6cb2d1fcc3",
+      "ordinal": 202,
+      "source": "Finnguala is with her future husband. They seem to have known each other for a long time.",
+      "translation": "芬努阿拉和她的未婚夫在一起。他们看上去相识已久。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0000245_57926d5638",
+      "ordinal": 245,
+      "source": "The doubts. The bickering.",
+      "translation": "种种疑虑。无尽的争吵。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0000252_4357aebb14",
+      "ordinal": 252,
+      "source": "Two boys, one around 15 years of age, the other much younger, are crouched at the edge of the creek. A moment's observation reveals their errand: the older boy is teaching the younger how to tickle fish. The lesson is confined to a purely theoretical level, as the creek is much too shallow for fish.",
+      "translation": "两个男孩蹲在溪边，一个约莫十五岁，另一个小得多。稍加观察便能看出他们在忙什么：大男孩正教小男孩怎么用手把鱼“挠”出来。这堂课只停留在纯理论层面——这条溪太浅，根本没有鱼。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原文 Two boys ... are crouched 中 are 为系动词，构成进行时态，非人名'阿雷'。",
+          "source": "are"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0000255_f6f233cea8",
+      "ordinal": 255,
+      "source": "He is round of belly and red of cheeks, with a friendly smile permanently affixed to his face, and a voice that booms across the busiest part of Market Street without at any point becoming obnoxious.",
+      "translation": "他肚子圆滚，双颊红润，脸上永远挂着友善的笑；嗓门洪亮，能盖过集市街最喧闹的一角，却从不惹人厌。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0000303_7ef65fb7a5",
+      "ordinal": 303,
+      "source": "In Northumbria, you've discovered evidence of your father's final expedition. Perhaps you can find out where it all ended and get some answers at last.",
+      "translation": "在诺森布里亚，你发现了父亲最后一次远征的线索。也许你能查清这一切终结于何处，最终得到答案。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原文 your father's 意为'你的父亲'，属亲属普通词义，非'神父'。",
+          "source": "father"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0000305_a1ff7a65d0",
+      "ordinal": 305,
+      "source": "I was here for-- treasure. But the robbers took it. If you help me, I'll... [i]gasp[/i]... I'll tell you how to find it.",
+      "translation": "我来这儿是为了——财宝。可强盗把它抢走了。你要是肯帮我，我就……[i]喘口气[/i]……我就告诉你怎么找到它。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0000313_554e6ec0be",
+      "ordinal": 313,
+      "source": "Anything else?",
+      "translation": "还有别的事吗？",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0000434_edd3aa68a6",
+      "ordinal": 434,
+      "source": "You stand victorious side by side with your father and his long-dead hird. Slain jøtnar smolder on the ground, their faces distorted into expressions of pain and surprise.",
+      "translation": "你与父亲和他那支早已死去的亲兵队并肩而立，大获全胜。被杀的约顿巨人伏在地上冒着青烟，面容因痛苦与惊愕而扭曲。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原文 your father 意为'你的父亲'，属亲属普通词义，非'神父'。",
+          "source": "father"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0000510_0969316d14",
+      "ordinal": 510,
+      "source": "But I cannot send my warriors to aid you.",
+      "translation": "但我没法派我的战士去支援你。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0000591_be82fd550b",
+      "ordinal": 591,
+      "source": "If we wait until they stop expecting an attack and [i]then[/i] strike, we'll at least have a chance to reach Skule and end him before they can mobilise.",
+      "translation": "如果我们按兵不动，等他们不再戒备，再[i]出击[/i]，至少还有机会直取斯库勒，趁他们还没调动人马就结果了他。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原文 we'll at least have a chance to reach Skule 中 chance 意为'机会'，属普通词义，非属性术语'几率'。",
+          "source": "chance"
+        },
+        {
+          "reason": "原文 end him 意为'结果/干掉他'，为动词'终结'的普通词义，非属性术语'体魄'。",
+          "source": "end"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0000598_283d6748d2",
+      "ordinal": 598,
+      "source": "{Offer 80 Valuables.} You must've been standing here for quite some time. If I were to hand you four pence for an ale, I could make these sorry sods somebody else's problem.",
+      "translation": "{献上 80 贵重物品。}你在这儿站了少说有一阵子了。我要是给你四个便士换杯麦酒，就能把这帮倒霉蛋变成别人的麻烦。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0001218_d6f1d2918d",
+      "ordinal": 1218,
+      "source": "[Greedy:Name] jerks free of [Boring:Name]'s hand and wades into the mud inside the circle of sticks. [Greedy:He/She] sinks a little, as [Greedy:he/she] gets close to the artifact protruding from the bog, but pays it no mind, and continues to bury [Greedy:his/her] arms in the mud in search of treasure.",
+      "translation": "[Greedy:Name]猛地从[Boring:Name]手中挣脱，趟进木棍圈内的泥地里。[Greedy:He/She]身子微微一沉——[Greedy:he/she]靠近了那件从沼泽里探出的古物——却毫不在意，继续把[Greedy:his/her]双臂埋进泥里翻找财宝。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原句中 Greedy 仅出现在 [Greedy:Name]、[Greedy:He/She] 等受保护占位符内，保护标记须原样保留，不译作'贪婪'。",
+          "source": "Greedy"
+        },
+        {
+          "reason": "原文 bury his arms in the mud 中 arms 指双臂/手臂，属身体部位普通词义，非'武器'。",
+          "source": "arms"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0005028_87810a9f5f",
+      "ordinal": 5028,
+      "source": "One day all the gods were gathered. They decided to test the oath by throwing everything they could find at Baldr, and they saw that nothing hurt him. But his brother Loki, ever the schemer, made an arrow from mistletoe and convinced the blind god Hodr, who was also brother to them both, to shoot Baldr with it.",
+      "translation": "有一天，诸神齐聚一堂。他们决定考验这道誓言，向巴德尔投掷一切能找来的东西，却发现没有什么能伤到他。可他的兄弟洛基——从来是个阴谋家——用槲寄生做了一支箭，又说动了同样是他们两兄弟的盲神霍德尔，让他用这支箭射巴德尔。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原文 they saw that nothing hurt him 中 saw 为动词'看见/发现'的过去式，非工具'锯子'。",
+          "source": "saw"
+        },
+        {
+          "reason": "原文 the blind god Hodr 中 god 指北欧神话中的神祇，非基督教'上帝'，按原句普通词义译作'神'。",
+          "source": "god"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0007116_26cc4505e8",
+      "ordinal": 7116,
+      "source": "Ketill fishes around in his backpack and produces a delicate medallion of gilded silver, in the shape of an incomplete circle. At either of its ends is a sort of four-leaf clover with a dark red glass bead at the center. You think you've seen it before, but you never attributed any particular meaning to it.",
+      "translation": "凯蒂尔在背包里摸索了一阵，取出一枚精致的吊坠：鎏银打造，形如一枚不完整的圆环。两端各有一片四叶形饰物，中心嵌着一粒暗红色的玻璃珠。你觉得自己从前见过它，却从未觉得它有什么特别含义。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0009483_00ea6edb14",
+      "ordinal": 9483,
+      "source": "You sit in silence for some time and listen to the quiet buzzing of insects. On the other side of the tree, [Victim:Name] lets out a mumbled curse as a wasp circles [Victim:his/her] head. The [Victim:archetype] swings ineffectually at the irritating insect, but that just seems to aggravate the creature.",
+      "translation": "你静静坐了好一会儿，听着虫儿低低的嗡鸣。树的另一侧，[Victim:Name]被一只绕着[Victim:his/her]头部打转的黄蜂惹得低声咒骂。[Victim:archetype]朝那只恼人的虫子徒劳地挥了几下，反倒像是把它惹得更凶了。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0018723_40ae8e3b2a",
+      "ordinal": 18723,
+      "source": "[size=\"16\"][name][/size][requirement]\\n[difficulty] [archetype]\\n[aoo]\\nHitpoints: [color=\"orange\"][hp1] / [hp2][/color]\\nDamage: [color=\"orange\"][dmg1] - [dmg2][/color]\\n\\nDR Melee: [color=\"orange\"][drmelee]%[/color]\\nDR Ranged: [color=\"orange\"][drranged]%[/color]\\nBlock Chance: [color=\"orange\"][block]%[/color]\\n\\nPhysical Resist: [color=\"orange\"][physresist]%[/color]\\nMental Resist: [color=\"orange\"][mentresist]%[/color][color=\"lime\"][flanked][/color][color=\"red\"][cover][/color]\\n\\n[tohitchance][size=\"18\"][color=\"lime\"][dmgtodeal1] - [dmgtodeal2][/color][/size] expected damage\\n[size=\"18\"][color=\"lime\"][crit]%[/color][/size] chance to crit",
+      "translation": "[size=\"16\"][name][/size][requirement]\\n[difficulty] [archetype]\\n[aoo]\\n生命值: [color=\"orange\"][hp1] / [hp2][/color]\\n伤害: [color=\"orange\"][dmg1] - [dmg2][/color]\\n\\n近战减伤: [color=\"orange\"][drmelee]%[/color]\\n远程减伤: [color=\"orange\"][drranged]%[/color]\\n格挡几率: [color=\"orange\"][block]%[/color]\\n\\n物理抗性: [color=\"orange\"][physresist]%[/color]\\n精神抗性: [color=\"orange\"][mentresist]%[/color][color=\"lime\"][flanked][/color][color=\"red\"][cover][/color]\\n\\n[tohitchance][size=\"18\"][color=\"lime\"][dmgtodeal1] - [dmgtodeal2][/color][/size]预计伤害\\n[size=\"18\"][color=\"lime\"][crit]%[/color][/size]暴击率",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原文中[aoo]为受保护的游戏动态标记（占位符），运行时由游戏引擎替换显示文本，非普通文本出现，冻结术语由游戏系统在运行时呈现",
+          "source": "aoo"
+        },
+        {
+          "reason": "原文中[flanked]位于[color=\"lime\"][flanked][/color]游戏标记内部（占位符），为受保护的游戏动态标记，非普通文本出现",
+          "source": "flanked"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0018803_c05d48740d",
+      "ordinal": 18803,
+      "source": "[size=\"16\"][name][/size][requirement]\\n[difficulty] [archetype]\\n[aoo]\\nHitpoints: [color=\"orange\"][hp1] / [hp2][/color]\\n[shield]\\nDamage: [color=\"orange\"][dmg1] - [dmg2][/color] ([color=\"orange\"][ap][/color] AP)\\nCritical: [color=\"orange\"][targetcrit]%[/color]\\n\\nDR Melee: [color=\"orange\"][drmelee]%[/color]\\nDR Ranged: [color=\"orange\"][drranged]%[/color]\\n\\nPhysical Resist: [color=\"orange\"][physresist]%[/color]\\nMental Resist: [color=\"orange\"][mentresist]%[/color]\\nMovement: [color=\"orange\"][moves][/color][color=\"lime\"][flanked][/color][color=\"red\"][cover][/color]\\n\\n[tohitchance][size=\"18\"][color=\"lime\"][dmgtodeal1] - [dmgtodeal2][/color][/size] expected damage\\n[size=\"18\"][color=\"lime\"][targetap][/color][/size] Armour Piercing damage\\n[size=\"18\"][color=\"lime\"][crit]%[/color][/size] chance to crit",
+      "translation": "[size=\"16\"][name][/size][requirement]\\n[difficulty] [archetype]\\n[aoo]\\n生命值: [color=\"orange\"][hp1] / [hp2][/color]\\n[shield]\\n伤害: [color=\"orange\"][dmg1] - [dmg2][/color] ([color=\"orange\"][ap][/color] AP)\\n暴击: [color=\"orange\"][targetcrit]%[/color]\\n\\n近战减伤: [color=\"orange\"][drmelee]%[/color]\\n远程减伤: [color=\"orange\"][drranged]%[/color]\\n\\n物理抗性: [color=\"orange\"][physresist]%[/color]\\n精神抗性: [color=\"orange\"][mentresist]%[/color]\\n移动力: [color=\"orange\"][moves][/color][color=\"lime\"][flanked][/color][color=\"red\"][cover][/color]\\n\\n[tohitchance][size=\"18\"][color=\"lime\"][dmgtodeal1] - [dmgtodeal2][/color][/size]预计伤害\\n[size=\"18\"][color=\"lime\"][targetap][/color][/size]穿甲伤害\\n[size=\"18\"][color=\"lime\"][crit]%[/color][/size]暴击率",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原文中[aoo]为受保护的游戏动态标记（占位符⟪SHH_ff329731a0dd_8⟫），运行时由游戏引擎替换显示文本，非普通文本出现，冻结术语由游戏系统在运行时呈现",
+          "source": "aoo"
+        },
+        {
+          "reason": "原文中[shield]为受保护的游戏动态标记（占位符⟪SHH_ff329731a0dd_15⟫），运行时由游戏引擎替换显示文本，非普通文本出现",
+          "source": "shield"
+        },
+        {
+          "reason": "原文中[flanked]位于[color=\"lime\"][flanked][/color]游戏标记内部（占位符⟪SHH_ff329731a0dd_51⟫），为受保护的游戏动态标记，非普通文本出现",
+          "source": "flanked"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0019915_805e47fbfe",
+      "ordinal": 19915,
+      "source": "In the mountains of the north, there exists a cult of warriors who call themselves the Ulfhednar. They are said to be Odinn's special warriors, who wear little except the pelt of a wolf into battle and become impervious to steel or fire. Gunnarr, the giant with the wholly ironic byname \"the Peaceful\", claims to be one of these berserkers.\\n\\nGunnarr led a group of raiders from the northern trade hub Kaupang to the isle of Orkney in the west, where he had the misfortune to meet Skule Skullcleaver. Skule convinced Gunnarr to mount a raid against your village. He may not be the most predictable huscarl in your service, but one thing is certain: it is far better to have Gunnarr on your side than against you.",
+      "translation": "在北方群山之中，存在着一个自称乌尔夫赫德纳的战士教团。据说他们是奥丁的亲选战士，上阵时几乎不着寸缕，只披一张狼皮，刀剑烈火皆不能伤。巨人贡纳尔，别名取得极其讽刺——“和平者”，自称便是这些狂战士之一。\\n\\n贡纳尔曾率一队劫掠者，从北方交易重镇考庞出发西行，抵达西边的奥克尼岛，却在那儿倒霉地遇上了碎颅者斯库勒。斯库勒说服贡纳尔对你的村庄发起劫掠。他或许是你麾下最难以捉摸的侍卫，但有一点可以肯定：贡纳尔站在你这边，远好过与你为敌。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原文为 They are said to be，are 为系动词普通用法（据说他们是……），非人名“阿雷”",
+          "source": "are"
+        },
+        {
+          "reason": "原文为 the pelt of a wolf，指狼皮，为普通词义，非人名沃尔夫",
+          "source": "wolf"
+        },
+        {
+          "reason": "原文为 one thing is certain，thing 为普通代词“事情”，非集会场",
+          "source": "thing"
+        },
+        {
+          "reason": "原文为 one thing is certain，certain 为普通义“确定、肯定”，非人名凯尔坦",
+          "source": "certain"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0019916_5e91190d60",
+      "ordinal": 19916,
+      "source": "You've known Nefja and her sister Eyfura since you were children. Their late father Holmunn was among your father's closest huscarls, and the sisters were often left solely in the care of their mother while he was travelling with his thegn.\\n\\nThe twins grew apart from an early age - where Eyfura was always her mother's beautiful and delicate girl, Nefja took more after her father and would spend her days exploring the woods, playing in the moor, or fighting with the boys. As soon as she was old enough to hold a wooden stick, she started training to be a warrior.\\n\\nOver the years, the fire that burns brightly inside Nefja has turned her into a disciplined shieldmaiden, and what she lacks in raw strength is more than made up for in deftness and resolve.",
+      "translation": "你与内夫娅、埃芙拉姐妹自幼相识。她们已故的父亲霍尔蒙是你父亲最亲近的侍卫之一，随领主出行时，姐妹俩常常只能由母亲独自照看。\\n\\n这对双胞胎自小便性情相异——埃芙拉一直是母亲身边美丽纤弱的姑娘，内夫娅则更像父亲，整日在林中探游、荒野中玩耍，或与男孩子打斗。刚能握住一根木棍，她就开始操练，立志成为一名战士。\\n\\n多年过去，内夫娅心中那团熊熊烈火将她锻造成一名训练有素的盾女；她在天生力量上的欠缺，被灵巧与坚毅弥补得绰绰有余。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原文为 their late father Holmunn，指父亲，为普通词义，非神职神父",
+          "source": "father"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    },
+    {
+      "id": "R0019917_1c42bd2a87",
+      "ordinal": 19917,
+      "source": "Though her title is Princess of the Kingdom of Cait, Aife has few of a princess's manners and none of the typical conceits. Cait is a poor and harsh country, and Aife was raised to be as resilient and determined as any of her father's subjects. As soon as she was old enough, she was sent to train with the famous warrior Grainne, whose tutelage has turned her into a skillful trapper.\\n\\nGifted from an early age with equal parts curiosity and courage, Aife decided almost on a whim to join your hird. It's clear that she harbours some fascination with you and your culture. It's fortunate then that she is such a considerable asset on the field of battle.",
+      "translation": "虽有凯特王国公主之名，艾芙却几乎没有公主的仪态，也没有半分骄矜。凯特是个贫瘠苦寒之国，艾芙从小被养得和父亲的臣民一样坚韧刚强。年纪一到，她便被送去跟随名战士格兰妮习艺，如今在其教导下，她已是一名娴熟的陷阱专家。\\n\\n艾芙自幼便兼具好奇与胆识，几乎是随性一念，便决定加入你的亲兵队。看得出来，她对你和你的文化颇感兴趣。好在，她同时也是战场上的一大助力。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原文为 her father's subjects，father 指父亲，为普通词义，非神职神父",
+          "source": "father"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": null
+    }
+  ],
+  "tasks": [
+    {
+      "id": "pilot_review-r12-00001-6358b52a",
+      "stage": "pilot_review",
+      "status": "done",
+      "attempt": 1,
+      "backend": "api",
+      "ids": "[\"R0000001_d7484dd684\",\"R0000002_543dcbbf5d\",\"R0000006_a5b2f9df4c\",\"R0000008_61fc1074de\",\"R0000013_46719f731d\",\"R0000030_b6eb75711f\",\"R0000080_889335a601\",\"R0000126_759f9d3167\",\"R0000148_d917ac8a4b\",\"R0000156_43086306f6\",\"R0000202_6cb2d1fcc3\",\"R0000245_57926d5638\",\"R0000252_4357aebb14\"]",
+      "error": null
+    },
+    {
+      "id": "pilot_review-r12-00002-e2c7b3da",
+      "stage": "pilot_review",
+      "status": "done",
+      "attempt": 1,
+      "backend": "api",
+      "ids": "[\"R0000255_f6f233cea8\",\"R0000303_7ef65fb7a5\",\"R0000305_a1ff7a65d0\",\"R0000313_554e6ec0be\",\"R0000434_edd3aa68a6\",\"R0000510_0969316d14\",\"R0000591_be82fd550b\",\"R0000598_283d6748d2\",\"R0001218_d6f1d2918d\"]",
+      "error": null
+    },
+    {
+      "id": "pilot_review-r12-00003-ad259fc0",
+      "stage": "pilot_review",
+      "status": "pending",
+      "attempt": 1,
+      "backend": "api",
+      "ids": "[\"R0005028_87810a9f5f\",\"R0007116_26cc4505e8\",\"R0009483_00ea6edb14\"]",
+      "error": null
+    },
+    {
+      "id": "pilot_review-r12-00004-965d5b37",
+      "stage": "pilot_review",
+      "status": "done",
+      "attempt": 1,
+      "backend": "api",
+      "ids": "[\"R0018723_40ae8e3b2a\"]",
+      "error": null
+    },
+    {
+      "id": "pilot_review-r12-00005-bf353c61",
+      "stage": "pilot_review",
+      "status": "pending",
+      "attempt": 1,
+      "backend": "api",
+      "ids": "[\"R0018803_c05d48740d\",\"R0019915_805e47fbfe\"]",
+      "error": null
+    },
+    {
+      "id": "pilot_review-r12-00006-0e36940e",
+      "stage": "pilot_review",
+      "status": "pending",
+      "attempt": 1,
+      "backend": "api",
+      "ids": "[\"R0019916_5e91190d60\",\"R0019917_1c42bd2a87\"]",
+      "error": null
+    },
+    {
+      "id": "pilot_translate-r12-00001-bdaacadb",
+      "stage": "pilot_translate",
+      "status": "done",
+      "attempt": 2,
+      "backend": "api",
+      "ids": "[\"R0000001_d7484dd684\",\"R0000002_543dcbbf5d\",\"R0000006_a5b2f9df4c\",\"R0000008_61fc1074de\",\"R0000013_46719f731d\",\"R0000030_b6eb75711f\",\"R0000080_889335a601\",\"R0000126_759f9d3167\",\"R0000148_d917ac8a4b\",\"R0000156_43086306f6\",\"R0000202_6cb2d1fcc3\",\"R0000245_57926d5638\",\"R0000252_4357aebb14\",\"R0000255_f6f233cea8\",\"R0000303_7ef65fb7a5\",\"R0000305_a1ff7a65d0\",\"R0000313_554e6ec0be\",\"R0000434_edd3aa68a6\",\"R0000510_0969316d14\",\"R0000591_be82fd550b\",\"R0000598_283d6748d2\",\"R0001218_d6f1d2918d\",\"R0005028_87810a9f5f\",\"R0007116_26cc4505e8\",\"R0009483_00ea6edb14\"]",
+      "error": null
+    },
+    {
+      "id": "pilot_translate-r12-00002-6cfa15f4-s162976c3",
+      "stage": "pilot_translate",
+      "status": "done",
+      "attempt": 3,
+      "backend": "api",
+      "ids": "[\"R0019915_805e47fbfe\",\"R0019916_5e91190d60\",\"R0019917_1c42bd2a87\"]",
+      "error": null
+    },
+    {
+      "id": "pilot_translate-r12-00002-6cfa15f4-sb208df44",
+      "stage": "pilot_translate",
+      "status": "done",
+      "attempt": 3,
+      "backend": "api",
+      "ids": "[\"R0018723_40ae8e3b2a\",\"R0018803_c05d48740d\"]",
+      "error": null
+    }
+  ],
+  "config_note": "Current configuration. Saved outputs retain their producer task/input snapshots; a settings change alone does not mean these outputs were regenerated.",
+  "ready_for_assessment": false,
+  "statistics": {
+    "sample_records": 30,
+    "translated_records": 30,
+    "mechanical_failed_records": null,
+    "task_statuses": {
+      "done": 6,
+      "pending": 3
+    },
+    "api_request_statuses_cumulative": {
+      "received": 8
+    }
+  },
+  "failures": [],
+  "note": "Mechanical findings are diagnostic, not a semantic error rate. Main AI assesses pipeline reliability, style and recurring quality problems. Individual errors need not be cleared before accepting calibration.",
+  "snapshot_hash": "b3f2fc0b7c66a4a6085c5636724fda8704b8bdde455b873008103d41efa28ae6",
+  "report_hash": "18c5c69c9f69eb7c9f8baa909ea98aedf28ceb1a9bbd77bf7e1d5e0654b28d4a"
+}

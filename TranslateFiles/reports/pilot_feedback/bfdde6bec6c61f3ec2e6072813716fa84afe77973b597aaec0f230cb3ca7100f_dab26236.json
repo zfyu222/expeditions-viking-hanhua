@@ -1,0 +1,12 @@
+{
+  "report_hash": "bfdde6bec6c61f3ec2e6072813716fa84afe77973b597aaec0f230cb3ca7100f",
+  "reviewer": "main",
+  "decision": "retry",
+  "retry_ids": [
+    "R0000008_61fc1074de",
+    "R0000126_759f9d3167",
+    "R0000156_43086306f6",
+    "R0019916_5e91190d60"
+  ],
+  "summary": "Main AI compared all 30 source/translation pairs for calibration. Three translation tasks completed; the 25-item batch needed manual audited correction of one unambiguous ordinal-255 ID suffix typo after format retry failure. Overall narration, UI labels, names, literal escapes and BBCode are usable, but targeted prompt calibration is needed: R8 turns conditional if it has lasted into a fact; R126 incorrectly inserts the Don river name for ordinary town despite a contextual exception; R156 young man is an unnatural literal vocative; R19916 invents elder-sister ordering despite later twins. Retry only these four after clarifying ordinary versus proper senses, modality and unsupported relationship details. Six mechanical failed records are not a semantic error rate: most involve ordinary senses or tokens inside protected brackets. R1218 gender alternatives remain English because the current protector hides their whole source; keep as an explicit project protection/localization issue, not an API semantic repair target. Do not require sentence-perfect pilot or restart the glossary."
+}

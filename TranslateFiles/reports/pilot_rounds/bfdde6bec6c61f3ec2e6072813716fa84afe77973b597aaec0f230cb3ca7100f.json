@@ -1,0 +1,761 @@
+{
+  "schema": 1,
+  "kind": "pilot",
+  "purpose": "calibration",
+  "pilot_key": "f0bc6004056751264e9c87bf14df1e8292894caf9425d1f581939ae6fb98b69c",
+  "source_sha256": "7d05511f1e62468e65b9f379d613789939c9b4bc6100b040310341bab5c60eb8",
+  "glossary": {
+    "hash": "8b1369e804c5c7f66803e0961da266077ff087a5ecc849b9e6806ece5c8b31a4",
+    "path": "glossary\\r8\\freeze_731eced6\\built\\glossary_reviewed.json",
+    "revision": 8
+  },
+  "config": {
+    "agent_attempt_limit": 2,
+    "agent_task_limit": 1,
+    "api": {
+      "api_format": "OpenAI",
+      "api_key_env": "SHH_TRANSLATION_API_KEY",
+      "api_url": "",
+      "concurrency": 3,
+      "extra_body": {},
+      "max_completion_tokens": 8192,
+      "max_requests": 100,
+      "model_name": "",
+      "request_timeout": 120,
+      "requests_per_minute": 30,
+      "target_platform": "custom_platform_shh",
+      "temperature": 1,
+      "think_switch": false,
+      "tls_switch": false
+    },
+    "backend": "api",
+    "batch_chars": 12000,
+    "batch_records": null,
+    "batch_tokens": 1024,
+    "body_repair_round_limit": 6,
+    "case_sensitive": false,
+    "context_records": 0,
+    "draft_scan_workers": 1,
+    "exclusions": [],
+    "extract_batch_records": null,
+    "extract_batch_tokens": 10000,
+    "game_background": "## 游戏信息\n\n| 项目 | 内容 |\n|------|------|\n| 游戏名 | Expeditions: Viking |\n| 引擎 | Unity 5.6.4f1 |\n| 脚本后端 | Mono |\n| 文本总量 | 23195 条（9 个类别） |\n| 本地化格式 | XML（Unity TextAsset） |\n| 汉化方式 | 直接替换 `resources.assets` 中的英文 TextAsset |\n| 翻译引擎 | AiNiee（DeepSeek V4 Flash） |\n| 汉化质量 | AI 自动翻译，非人工精翻 |",
+    "glossary_review_batch_records": 60,
+    "glossary_review_batch_tokens": 10000,
+    "lease_seconds": 3600,
+    "max_attempts": 3,
+    "model": "gpt-6-luna",
+    "pilot_batch_count": 1,
+    "pilot_call_limit": 100,
+    "pilot_ordinals": [
+      1,
+      2,
+      6,
+      8,
+      13,
+      30,
+      80,
+      126,
+      148,
+      156,
+      202,
+      245,
+      252,
+      255,
+      303,
+      305,
+      313,
+      434,
+      510,
+      591,
+      598,
+      1218,
+      5028,
+      7116,
+      9483,
+      18723,
+      18803,
+      19915,
+      19916,
+      19917
+    ],
+    "pilot_records": 30,
+    "placeholder_family_overrides": {},
+    "polish": false,
+    "protect_named_curly": null,
+    "quality_version": 2,
+    "review_batch_records": 80,
+    "review_batch_tokens": 1024,
+    "review_estimate": {
+      "ascii_chars_per_token": 3,
+      "full_base_tokens": 420,
+      "non_ascii_tokens_per_char": 2,
+      "pilot_base_tokens": 120,
+      "translation_multiplier": 3
+    },
+    "review_output_reserve_percent": 20,
+    "review_output_tokens": 16384,
+    "sol_no_progress_limit": 2,
+    "sol_repair_model": "gpt-6-sol",
+    "sol_repair_round_limit": 3,
+    "source_language": "英语",
+    "stage_backends": {},
+    "style": "历史题材维京策略 RPG。剧情对白口语自然、粗犷直接，保留人物声线和情绪；叙述简洁有画面感；UI 用短而清楚的现代简体中文。人名、地名、组织、技能及专名统一使用冻结术语表译名。保留所有游戏标记、标签、变量、占位符与大小写敏感内容；仅翻译玩家可见文本。",
+    "target_language": "简体中文",
+    "task_input_chars": 48000,
+    "task_input_tokens": 24576,
+    "whole_word": true,
+    "workflow": "custom"
+  },
+  "records": [
+    {
+      "id": "R0000001_d7484dd684",
+      "ordinal": 1,
+      "source": "His dismay is painted in broad strokes on his aging face.",
+      "translation": "他那沮丧的神情，明明白白写在这张日渐苍老的脸上。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原句 His dismay 中 His 为普通物主代词，作定语修饰 dismay，并非需要原样保留的标记，故译为 他。",
+          "source": "His"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0000002_543dcbbf5d",
+      "ordinal": 2,
+      "source": "Godwif sneers.",
+      "translation": "戈德威夫嗤笑一声。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0000006_a5b2f9df4c",
+      "ordinal": 6,
+      "source": "For all my flippancy, I must admit this is pretty much what I expected. Last summer we would have put up a much better fight, but the winter has taken its toll on us.",
+      "translation": "尽管我说话轻浮，也不得不承认，这几乎就是我预料中的结果。换了去年夏天，我们还能好好打上一场，可这一冬已经把我们耗垮了。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0000008_61fc1074de",
+      "ordinal": 8,
+      "source": "You rest the back of your hand on her forehead, feeling her fever against your skin - it's not the worst fever you've ever felt, but if it's lasted for several weeks, it's no small wonder she's so tired.",
+      "translation": "你把手背贴上她的额头，感受着那股灼热透过皮肤——这算不上你见过最凶的高烧，可它已经持续了好几个星期，难怪她这么疲惫。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原句 rest the back of your hand on her forehead 中 rest 为动词，义为轻轻放置手背，而非 休息 之义，故不套用冻结译法。",
+          "source": "rest"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0000013_46719f731d",
+      "ordinal": 13,
+      "source": "Wait, [i]she[/i] set the fire?",
+      "translation": "等等，[i]她[/i]放的火？",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0000030_b6eb75711f",
+      "ordinal": 30,
+      "source": "The shieldmaiden Vigundr was killed in Frisia, wielding this winged spear against unknown attackers. Her husband sold it to you in Ribe so he could afford the journey home.",
+      "translation": "盾女维贡德尔死于弗里西亚，当时她正挥舞这柄翼矛迎战身份不明的袭击者。她的丈夫在里伯把这矛卖给你，好凑够回家的盘缠。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0000080_889335a601",
+      "ordinal": 80,
+      "source": "{Give 50 Rations.} I wish to give an offering to Heimdallr that he may grant me vigilance.",
+      "translation": "{给予 50 口粮。}我想向海姆达尔献上祭品，求他赐我警觉。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0000126_759f9d3167",
+      "ordinal": 126,
+      "source": "You're free to leave. I don't care where you go, but you better get out of my town.",
+      "translation": "你可以走了。我不在乎你去哪，但最好赶紧给我滚出唐河。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原句 I don't care where you go 中出现的是助动词缩写 don't，并非地名 don，故不套用 唐河。",
+          "source": "don"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0000148_d917ac8a4b",
+      "ordinal": 148,
+      "source": "We'll help you fight them if that's what you want, but those who survive will not be executed. Agreed?",
+      "translation": "只要你们想，我们会帮你们跟他们打，但活下来的人不会被处决。同意吗？",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原句 those who survive will not be executed 中 executed 为被动语态的普通动词义 处决，并非成就型状态提示，译作 处决成功 会改变句意。",
+          "source": "executed"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0000156_43086306f6",
+      "ordinal": 156,
+      "source": "Sorry, my young man! Let me just rest my arthritic 25-year-old legs a moment before I leave.",
+      "translation": "抱歉了，我的年轻男子！走之前，先让我这对25岁就患了关节炎的腿休息一下。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0000202_6cb2d1fcc3",
+      "ordinal": 202,
+      "source": "Finnguala is with her future husband. They seem to have known each other for a long time.",
+      "translation": "芬努阿拉正和她的未婚夫在一起。两人看起来相识已久。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0000245_57926d5638",
+      "ordinal": 245,
+      "source": "The doubts. The bickering.",
+      "translation": "那些猜忌，那些争吵。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0000252_4357aebb14",
+      "ordinal": 252,
+      "source": "Two boys, one around 15 years of age, the other much younger, are crouched at the edge of the creek. A moment's observation reveals their errand: the older boy is teaching the younger how to tickle fish. The lesson is confined to a purely theoretical level, as the creek is much too shallow for fish.",
+      "translation": "两个男孩蹲在小溪边，一个约莫15岁，另一个小得多。稍加观察便能看出他们要做的事：大男孩正教小男孩怎样用手逗鱼。这堂课只停留在纯理论层面——小溪太浅，里面根本没有鱼。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原句 the other much younger, are crouched at the edge of the creek 中 are 为系动词结构的一部分，非人名 阿雷，故不套用冻结译法。",
+          "source": "are"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0000255_f6f233cea8",
+      "ordinal": 255,
+      "source": "He is round of belly and red of cheeks, with a friendly smile permanently affixed to his face, and a voice that booms across the busiest part of Market Street without at any point becoming obnoxious.",
+      "translation": "他腰圆腮红，脸上永远挂着友善的笑容，嗓门能响彻集市街最热闹的一段，却从不惹人厌烦。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原句 affixed to his face 中 his 为普通物主代词，指代主语 He，并非需要原样保留的标记，故译为 他的。",
+          "source": "His"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0000303_7ef65fb7a5",
+      "ordinal": 303,
+      "source": "In Northumbria, you've discovered evidence of your father's final expedition. Perhaps you can find out where it all ended and get some answers at last.",
+      "translation": "在诺森布里亚，你发现了父亲最后一次远征的线索。也许你能查清这一切终结于何处，终于得到答案。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原句 your father's final expedition 中 father 指主角的亲生父亲（同批文本中还提到 his long-dead hird），并非对神职人员的称呼，故不套用 神父。",
+          "source": "father"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0000305_a1ff7a65d0",
+      "ordinal": 305,
+      "source": "I was here for-- treasure. But the robbers took it. If you help me, I'll... [i]gasp[/i]... I'll tell you how to find it.",
+      "translation": "我来这儿是为——财宝。可强盗把它抢走了。你若肯帮我，我……[i]喘息[/i]……我就告诉你怎么找到它。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0000313_554e6ec0be",
+      "ordinal": 313,
+      "source": "Anything else?",
+      "translation": "还有别的吗？",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0000434_edd3aa68a6",
+      "ordinal": 434,
+      "source": "You stand victorious side by side with your father and his long-dead hird. Slain jøtnar smolder on the ground, their faces distorted into expressions of pain and surprise.",
+      "translation": "你与父亲及他那支早已亡故的亲兵队并肩而立，大获全胜。被杀死的约顿巨人仍在地上闷烧，面孔扭曲成痛苦与惊愕的神情。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原句 with your father and his long-dead hird 中 father 指主角的亲生父亲，统领亲兵队的世俗首领，并非神职人员，故不套用 神父。",
+          "source": "father"
+        },
+        {
+          "reason": "原句 his long-dead hird 中 his 为普通物主代词，并非需要原样保留的标记，故译为 他的。",
+          "source": "His"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0000510_0969316d14",
+      "ordinal": 510,
+      "source": "But I cannot send my warriors to aid you.",
+      "translation": "但我不能把我的战士派去支援你。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0000591_be82fd550b",
+      "ordinal": 591,
+      "source": "If we wait until they stop expecting an attack and [i]then[/i] strike, we'll at least have a chance to reach Skule and end him before they can mobilise.",
+      "translation": "如果我们等到他们不再戒备袭击时[i]再[/i]动手，至少还有几率抢到斯库勒面前，在他们集结之前把他了结。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原句 reach Skule and end him 中 end 为动词，意为 了结、干掉，并非名词 体魄，套用会改变句意。",
+          "source": "end"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0000598_283d6748d2",
+      "ordinal": 598,
+      "source": "{Offer 80 Valuables.} You must've been standing here for quite some time. If I were to hand you four pence for an ale, I could make these sorry sods somebody else's problem.",
+      "translation": "{献上 80 贵重物品。}你在这儿一定站了有些时候了。要是我给你四便士换杯麦酒，就能把这些倒霉蛋变成别人的麻烦。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0001218_d6f1d2918d",
+      "ordinal": 1218,
+      "source": "[Greedy:Name] jerks free of [Boring:Name]'s hand and wades into the mud inside the circle of sticks. [Greedy:He/She] sinks a little, as [Greedy:he/she] gets close to the artifact protruding from the bog, but pays it no mind, and continues to bury [Greedy:his/her] arms in the mud in search of treasure.",
+      "translation": "[Greedy:Name]猛地挣脱[Boring:Name]的手，蹚进木桩围圈内的泥沼。[Greedy:He/She]的身子往下沉了沉——那是[Greedy:he/she]靠近那件从沼泽中探出的器物所致——却浑不在意，继续把[Greedy:his/her]双臂埋进泥里搜寻宝藏。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原句 continues to bury ... arms in the mud 中 arms 指人的双臂，而非可装备的武器，故译为 双臂。",
+          "source": "arms"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [
+        "R0001218_d6f1d2918d: terminology mismatch ['Greedy']",
+        "terminology mismatch: Greedy"
+      ],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0005028_87810a9f5f",
+      "ordinal": 5028,
+      "source": "One day all the gods were gathered. They decided to test the oath by throwing everything they could find at Baldr, and they saw that nothing hurt him. But his brother Loki, ever the schemer, made an arrow from mistletoe and convinced the blind god Hodr, who was also brother to them both, to shoot Baldr with it.",
+      "translation": "一天，诸神齐聚一堂。他们决定检验那句誓言，朝巴德尔投掷一切能找到的东西，结果发现没有什么能伤到他。可他的兄弟洛基——从来都是个阴谋家——用槲寄生做了一支箭，并说服双目失明的神明霍德尔（他同样是两人共同的兄弟）朝巴德尔射去。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原句 But his brother Loki 中 his 为普通物主代词，并非需要原样保留的标记，故译为 他的。",
+          "source": "His"
+        },
+        {
+          "reason": "原句 they saw that nothing hurt him 中 saw 是动词 see 的过去式，意为 看到，并非名词 锯子。",
+          "source": "saw"
+        },
+        {
+          "reason": "原句 the blind god Hodr 中 god 指北欧神明，与同段诸神语境一致，非基督教的 上帝，故译为 神明。",
+          "source": "god"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0007116_26cc4505e8",
+      "ordinal": 7116,
+      "source": "Ketill fishes around in his backpack and produces a delicate medallion of gilded silver, in the shape of an incomplete circle. At either of its ends is a sort of four-leaf clover with a dark red glass bead at the center. You think you've seen it before, but you never attributed any particular meaning to it.",
+      "translation": "凯蒂尔在背包里摸索了一阵，掏出一枚精致的鎏银吊坠，形如一个不闭合的圆环。圆环两端各有一片四叶草般的饰物，中心嵌着一颗深红色玻璃珠。你觉得自己曾见过它，却从未觉得它有何特别含义。",
+      "metadata": {},
+      "exceptions": [
+        {
+          "reason": "原句 fishes around in his backpack 中 his 为普通物主代词，并非需要原样保留的标记，故译为 他的。",
+          "source": "His"
+        }
+      ],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0009483_00ea6edb14",
+      "ordinal": 9483,
+      "source": "You sit in silence for some time and listen to the quiet buzzing of insects. On the other side of the tree, [Victim:Name] lets out a mumbled curse as a wasp circles [Victim:his/her] head. The [Victim:archetype] swings ineffectually at the irritating insect, but that just seems to aggravate the creature.",
+      "translation": "你们静坐了好一会儿，听着昆虫细碎的嗡鸣。树的另一边，一只黄蜂绕着[Victim:his/her]头部打转，[Victim:Name]含混地咒了一声。那[Victim:archetype]朝恼人的虫子徒劳地挥了几下，反倒像是把那家伙惹恼了。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [],
+      "producer": {
+        "task_id": "pilot_translate-r12-00001-ab4ccd39",
+        "instance": "api-pilot_translate-2b80a3a6a11549fe805fcfbd87504961"
+      }
+    },
+    {
+      "id": "R0018723_40ae8e3b2a",
+      "ordinal": 18723,
+      "source": "[size=\"16\"][name][/size][requirement]\\n[difficulty] [archetype]\\n[aoo]\\nHitpoints: [color=\"orange\"][hp1] / [hp2][/color]\\nDamage: [color=\"orange\"][dmg1] - [dmg2][/color]\\n\\nDR Melee: [color=\"orange\"][drmelee]%[/color]\\nDR Ranged: [color=\"orange\"][drranged]%[/color]\\nBlock Chance: [color=\"orange\"][block]%[/color]\\n\\nPhysical Resist: [color=\"orange\"][physresist]%[/color]\\nMental Resist: [color=\"orange\"][mentresist]%[/color][color=\"lime\"][flanked][/color][color=\"red\"][cover][/color]\\n\\n[tohitchance][size=\"18\"][color=\"lime\"][dmgtodeal1] - [dmgtodeal2][/color][/size] expected damage\\n[size=\"18\"][color=\"lime\"][crit]%[/color][/size] chance to crit",
+      "translation": "[size=\"16\"][name][/size][requirement]\\n[difficulty] [archetype]\\n[aoo]\\n生命值：[color=\"orange\"][hp1] / [hp2][/color]\\n伤害：[color=\"orange\"][dmg1] - [dmg2][/color]\\n\\n近战减伤：[color=\"orange\"][drmelee]%[/color]\\n远程减伤：[color=\"orange\"][drranged]%[/color]\\n格挡几率：[color=\"orange\"][block]%[/color]\\n\\n物理抗性：[color=\"orange\"][physresist]%[/color]\\n精神抗性：[color=\"orange\"][mentresist]%[/color][color=\"lime\"][flanked][/color][color=\"red\"][cover][/color]\\n\\n[tohitchance][size=\"18\"][color=\"lime\"][dmgtodeal1] - [dmgtodeal2][/color][/size] 预计伤害\\n[size=\"18\"][color=\"lime\"][crit]%[/color][/size] 暴击率",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [
+        "R0018723_40ae8e3b2a: terminology mismatch ['aoo', 'flanked']",
+        "terminology mismatch: aoo, flanked"
+      ],
+      "producer": {
+        "task_id": "pilot_translate-r12-00002-4b684713-se4d6c692",
+        "instance": "api-pilot_translate-9352ce64cb9a417583a24f580812f7f9"
+      }
+    },
+    {
+      "id": "R0018803_c05d48740d",
+      "ordinal": 18803,
+      "source": "[size=\"16\"][name][/size][requirement]\\n[difficulty] [archetype]\\n[aoo]\\nHitpoints: [color=\"orange\"][hp1] / [hp2][/color]\\n[shield]\\nDamage: [color=\"orange\"][dmg1] - [dmg2][/color] ([color=\"orange\"][ap][/color] AP)\\nCritical: [color=\"orange\"][targetcrit]%[/color]\\n\\nDR Melee: [color=\"orange\"][drmelee]%[/color]\\nDR Ranged: [color=\"orange\"][drranged]%[/color]\\n\\nPhysical Resist: [color=\"orange\"][physresist]%[/color]\\nMental Resist: [color=\"orange\"][mentresist]%[/color]\\nMovement: [color=\"orange\"][moves][/color][color=\"lime\"][flanked][/color][color=\"red\"][cover][/color]\\n\\n[tohitchance][size=\"18\"][color=\"lime\"][dmgtodeal1] - [dmgtodeal2][/color][/size] expected damage\\n[size=\"18\"][color=\"lime\"][targetap][/color][/size] Armour Piercing damage\\n[size=\"18\"][color=\"lime\"][crit]%[/color][/size] chance to crit",
+      "translation": "[size=\"16\"][name][/size][requirement]\\n[difficulty] [archetype]\\n[aoo]\\n生命值：[color=\"orange\"][hp1] / [hp2][/color]\\n[shield]\\n伤害：[color=\"orange\"][dmg1] - [dmg2][/color] ([color=\"orange\"][ap][/color] AP)\\n暴击：[color=\"orange\"][targetcrit]%[/color]\\n\\n近战减伤：[color=\"orange\"][drmelee]%[/color]\\n远程减伤：[color=\"orange\"][drranged]%[/color]\\n\\n物理抗性：[color=\"orange\"][physresist]%[/color]\\n精神抗性：[color=\"orange\"][mentresist]%[/color]\\n移动力：[color=\"orange\"][moves][/color][color=\"lime\"][flanked][/color][color=\"red\"][cover][/color]\\n\\n[tohitchance][size=\"18\"][color=\"lime\"][dmgtodeal1] - [dmgtodeal2][/color][/size] 预计伤害\\n[size=\"18\"][color=\"lime\"][targetap][/color][/size] 穿甲伤害\\n[size=\"18\"][color=\"lime\"][crit]%[/color][/size] 暴击率",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [
+        "R0018803_c05d48740d: terminology mismatch ['aoo', 'shield', 'flanked']",
+        "terminology mismatch: aoo, shield, flanked"
+      ],
+      "producer": {
+        "task_id": "pilot_translate-r12-00002-4b684713-se4d6c692",
+        "instance": "api-pilot_translate-9352ce64cb9a417583a24f580812f7f9"
+      }
+    },
+    {
+      "id": "R0019915_805e47fbfe",
+      "ordinal": 19915,
+      "source": "In the mountains of the north, there exists a cult of warriors who call themselves the Ulfhednar. They are said to be Odinn's special warriors, who wear little except the pelt of a wolf into battle and become impervious to steel or fire. Gunnarr, the giant with the wholly ironic byname \"the Peaceful\", claims to be one of these berserkers.\\n\\nGunnarr led a group of raiders from the northern trade hub Kaupang to the isle of Orkney in the west, where he had the misfortune to meet Skule Skullcleaver. Skule convinced Gunnarr to mount a raid against your village. He may not be the most predictable huscarl in your service, but one thing is certain: it is far better to have Gunnarr on your side than against you.",
+      "translation": "北方群山之中，有一个战士组成的教团，自称乌尔夫赫德纳。据说他们是奥丁的亲选战士，上阵时几乎不着寸缕，只披狼皮，刀剑烈火都伤不了他们分毫。贡纳尔——这个巨人却有着一个极具讽刺意味的别名\"和平者\"——自称就是这些狂战士之一。\\n\\n贡纳尔带领一群劫掠者从北方贸易枢纽考庞出发，前往西边的奥克尼岛，却在那里不幸遇到了碎颅者斯库勒。斯库勒说服贡纳尔对你的村庄发动劫掠。他或许不是你麾下最让人放心的侍卫，但有一点是肯定的：让贡纳尔站在你这边，远好过让他与你为敌。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [
+        "R0019915_805e47fbfe: terminology mismatch ['are', 'wolf', 'trade', 'thing', 'certain']",
+        "terminology mismatch: are, wolf, trade, thing, certain"
+      ],
+      "producer": {
+        "task_id": "pilot_translate-r12-00002-4b684713-sb20b3826",
+        "instance": "api-pilot_translate-b42236704f1b46a2ad30efcaed3e8dc5"
+      }
+    },
+    {
+      "id": "R0019916_5e91190d60",
+      "ordinal": 19916,
+      "source": "You've known Nefja and her sister Eyfura since you were children. Their late father Holmunn was among your father's closest huscarls, and the sisters were often left solely in the care of their mother while he was travelling with his thegn.\\n\\nThe twins grew apart from an early age - where Eyfura was always her mother's beautiful and delicate girl, Nefja took more after her father and would spend her days exploring the woods, playing in the moor, or fighting with the boys. As soon as she was old enough to hold a wooden stick, she started training to be a warrior.\\n\\nOver the years, the fire that burns brightly inside Nefja has turned her into a disciplined shieldmaiden, and what she lacks in raw strength is more than made up for in deftness and resolve.",
+      "translation": "你从小就认识内夫娅和她的姐姐埃芙拉。她们已故的父亲霍尔蒙是你父亲最亲近的侍卫之一，当他跟随领主外出时，姐妹俩常常只能由母亲独自照看。\\n\\n这对双胞胎从很小的时候起就性情迥异——埃芙拉一直是母亲身边那个美丽乖巧的女孩，内夫娅则更像父亲，成日在林间探索、在荒野嬉戏，或者跟男孩们打斗。她刚能握住木棍，就开始了战士的训练。\\n\\n多年来，内夫娅心中那团熊熊烈火将她锻造成了一名训练有素的盾女；她在纯粹的力量上有所欠缺，但这份不足被她的灵巧与坚毅所弥补。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [
+        "R0019916_5e91190d60: terminology mismatch ['father']",
+        "terminology mismatch: father"
+      ],
+      "producer": {
+        "task_id": "pilot_translate-r12-00002-4b684713-sb20b3826",
+        "instance": "api-pilot_translate-b42236704f1b46a2ad30efcaed3e8dc5"
+      }
+    },
+    {
+      "id": "R0019917_1c42bd2a87",
+      "ordinal": 19917,
+      "source": "Though her title is Princess of the Kingdom of Cait, Aife has few of a princess's manners and none of the typical conceits. Cait is a poor and harsh country, and Aife was raised to be as resilient and determined as any of her father's subjects. As soon as she was old enough, she was sent to train with the famous warrior Grainne, whose tutelage has turned her into a skillful trapper.\\n\\nGifted from an early age with equal parts curiosity and courage, Aife decided almost on a whim to join your hird. It's clear that she harbours some fascination with you and your culture. It's fortunate then that she is such a considerable asset on the field of battle.",
+      "translation": "尽管艾芙的头衔是凯特王国的公主，她却没有多少公主的仪态，更没有那种常见的骄矜。凯特是个贫瘠而严酷的国度，艾芙被培养得和她父亲的臣民一样坚韧果决。她刚够年纪，就被送去跟随著名的战士格兰妮训练，在格兰妮的教导下，她成了一名出色的陷阱专家。\\n\\n艾芙自幼便兼具好奇心与胆量，几乎是凭着一时兴起就决定加入你的亲兵队。很明显，她对你和你的文化怀有某种好奇与兴趣。所幸的是，她在战场上也确实是位难得的得力干将。",
+      "metadata": {},
+      "exceptions": [],
+      "issues": [],
+      "diagnostics": [
+        "R0019917_1c42bd2a87: terminology mismatch ['father']",
+        "terminology mismatch: father"
+      ],
+      "producer": {
+        "task_id": "pilot_translate-r12-00002-4b684713-sb20b3826",
+        "instance": "api-pilot_translate-b42236704f1b46a2ad30efcaed3e8dc5"
+      }
+    }
+  ],
+  "tasks": [
+    {
+      "id": "pilot_translate-r12-00001-ab4ccd39",
+      "stage": "pilot_translate",
+      "status": "done",
+      "attempt": 2,
+      "backend": "api",
+      "ids": "[\"R0000001_d7484dd684\",\"R0000002_543dcbbf5d\",\"R0000006_a5b2f9df4c\",\"R0000008_61fc1074de\",\"R0000013_46719f731d\",\"R0000030_b6eb75711f\",\"R0000080_889335a601\",\"R0000126_759f9d3167\",\"R0000148_d917ac8a4b\",\"R0000156_43086306f6\",\"R0000202_6cb2d1fcc3\",\"R0000245_57926d5638\",\"R0000252_4357aebb14\",\"R0000255_f6f233cea8\",\"R0000303_7ef65fb7a5\",\"R0000305_a1ff7a65d0\",\"R0000313_554e6ec0be\",\"R0000434_edd3aa68a6\",\"R0000510_0969316d14\",\"R0000591_be82fd550b\",\"R0000598_283d6748d2\",\"R0001218_d6f1d2918d\",\"R0005028_87810a9f5f\",\"R0007116_26cc4505e8\",\"R0009483_00ea6edb14\"]",
+      "error": null
+    },
+    {
+      "id": "pilot_translate-r12-00002-4b684713-sb20b3826",
+      "stage": "pilot_translate",
+      "status": "done",
+      "attempt": 2,
+      "backend": "api",
+      "ids": "[\"R0019915_805e47fbfe\",\"R0019916_5e91190d60\",\"R0019917_1c42bd2a87\"]",
+      "error": null
+    },
+    {
+      "id": "pilot_translate-r12-00002-4b684713-se4d6c692",
+      "stage": "pilot_translate",
+      "status": "done",
+      "attempt": 1,
+      "backend": "api",
+      "ids": "[\"R0018723_40ae8e3b2a\",\"R0018803_c05d48740d\"]",
+      "error": null
+    }
+  ],
+  "config_note": "Current configuration. Saved outputs retain their producer task/input snapshots; a settings change alone does not mean these outputs were regenerated.",
+  "ready_for_assessment": true,
+  "statistics": {
+    "sample_records": 30,
+    "translated_records": 30,
+    "mechanical_failed_records": 6,
+    "task_statuses": {
+      "done": 3
+    },
+    "api_request_statuses_cumulative": {
+      "invalid_model_result": 3,
+      "received": 10
+    }
+  },
+  "failures": [
+    {
+      "id": "R0001218_d6f1d2918d",
+      "ordinal": 1218,
+      "source": "[Greedy:Name] jerks free of [Boring:Name]'s hand and wades into the mud inside the circle of sticks. [Greedy:He/She] sinks a little, as [Greedy:he/she] gets close to the artifact protruding from the bog, but pays it no mind, and continues to bury [Greedy:his/her] arms in the mud in search of treasure.",
+      "translation": "[Greedy:Name]猛地挣脱[Boring:Name]的手，蹚进木桩围圈内的泥沼。[Greedy:He/She]的身子往下沉了沉——那是[Greedy:he/she]靠近那件从沼泽中探出的器物所致——却浑不在意，继续把[Greedy:his/her]双臂埋进泥里搜寻宝藏。",
+      "diagnostics": [
+        "R0001218_d6f1d2918d: terminology mismatch ['Greedy']",
+        "terminology mismatch: Greedy"
+      ],
+      "missing_terms": [
+        "Greedy"
+      ],
+      "structural_issues": []
+    },
+    {
+      "id": "R0018723_40ae8e3b2a",
+      "ordinal": 18723,
+      "source": "[size=\"16\"][name][/size][requirement]\\n[difficulty] [archetype]\\n[aoo]\\nHitpoints: [color=\"orange\"][hp1] / [hp2][/color]\\nDamage: [color=\"orange\"][dmg1] - [dmg2][/color]\\n\\nDR Melee: [color=\"orange\"][drmelee]%[/color]\\nDR Ranged: [color=\"orange\"][drranged]%[/color]\\nBlock Chance: [color=\"orange\"][block]%[/color]\\n\\nPhysical Resist: [color=\"orange\"][physresist]%[/color]\\nMental Resist: [color=\"orange\"][mentresist]%[/color][color=\"lime\"][flanked][/color][color=\"red\"][cover][/color]\\n\\n[tohitchance][size=\"18\"][color=\"lime\"][dmgtodeal1] - [dmgtodeal2][/color][/size] expected damage\\n[size=\"18\"][color=\"lime\"][crit]%[/color][/size] chance to crit",
+      "translation": "[size=\"16\"][name][/size][requirement]\\n[difficulty] [archetype]\\n[aoo]\\n生命值：[color=\"orange\"][hp1] / [hp2][/color]\\n伤害：[color=\"orange\"][dmg1] - [dmg2][/color]\\n\\n近战减伤：[color=\"orange\"][drmelee]%[/color]\\n远程减伤：[color=\"orange\"][drranged]%[/color]\\n格挡几率：[color=\"orange\"][block]%[/color]\\n\\n物理抗性：[color=\"orange\"][physresist]%[/color]\\n精神抗性：[color=\"orange\"][mentresist]%[/color][color=\"lime\"][flanked][/color][color=\"red\"][cover][/color]\\n\\n[tohitchance][size=\"18\"][color=\"lime\"][dmgtodeal1] - [dmgtodeal2][/color][/size] 预计伤害\\n[size=\"18\"][color=\"lime\"][crit]%[/color][/size] 暴击率",
+      "diagnostics": [
+        "R0018723_40ae8e3b2a: terminology mismatch ['aoo', 'flanked']",
+        "terminology mismatch: aoo, flanked"
+      ],
+      "missing_terms": [
+        "aoo",
+        "flanked"
+      ],
+      "structural_issues": []
+    },
+    {
+      "id": "R0018803_c05d48740d",
+      "ordinal": 18803,
+      "source": "[size=\"16\"][name][/size][requirement]\\n[difficulty] [archetype]\\n[aoo]\\nHitpoints: [color=\"orange\"][hp1] / [hp2][/color]\\n[shield]\\nDamage: [color=\"orange\"][dmg1] - [dmg2][/color] ([color=\"orange\"][ap][/color] AP)\\nCritical: [color=\"orange\"][targetcrit]%[/color]\\n\\nDR Melee: [color=\"orange\"][drmelee]%[/color]\\nDR Ranged: [color=\"orange\"][drranged]%[/color]\\n\\nPhysical Resist: [color=\"orange\"][physresist]%[/color]\\nMental Resist: [color=\"orange\"][mentresist]%[/color]\\nMovement: [color=\"orange\"][moves][/color][color=\"lime\"][flanked][/color][color=\"red\"][cover][/color]\\n\\n[tohitchance][size=\"18\"][color=\"lime\"][dmgtodeal1] - [dmgtodeal2][/color][/size] expected damage\\n[size=\"18\"][color=\"lime\"][targetap][/color][/size] Armour Piercing damage\\n[size=\"18\"][color=\"lime\"][crit]%[/color][/size] chance to crit",
+      "translation": "[size=\"16\"][name][/size][requirement]\\n[difficulty] [archetype]\\n[aoo]\\n生命值：[color=\"orange\"][hp1] / [hp2][/color]\\n[shield]\\n伤害：[color=\"orange\"][dmg1] - [dmg2][/color] ([color=\"orange\"][ap][/color] AP)\\n暴击：[color=\"orange\"][targetcrit]%[/color]\\n\\n近战减伤：[color=\"orange\"][drmelee]%[/color]\\n远程减伤：[color=\"orange\"][drranged]%[/color]\\n\\n物理抗性：[color=\"orange\"][physresist]%[/color]\\n精神抗性：[color=\"orange\"][mentresist]%[/color]\\n移动力：[color=\"orange\"][moves][/color][color=\"lime\"][flanked][/color][color=\"red\"][cover][/color]\\n\\n[tohitchance][size=\"18\"][color=\"lime\"][dmgtodeal1] - [dmgtodeal2][/color][/size] 预计伤害\\n[size=\"18\"][color=\"lime\"][targetap][/color][/size] 穿甲伤害\\n[size=\"18\"][color=\"lime\"][crit]%[/color][/size] 暴击率",
+      "diagnostics": [
+        "R0018803_c05d48740d: terminology mismatch ['aoo', 'shield', 'flanked']",
+        "terminology mismatch: aoo, shield, flanked"
+      ],
+      "missing_terms": [
+        "aoo",
+        "shield",
+        "flanked"
+      ],
+      "structural_issues": []
+    },
+    {
+      "id": "R0019915_805e47fbfe",
+      "ordinal": 19915,
+      "source": "In the mountains of the north, there exists a cult of warriors who call themselves the Ulfhednar. They are said to be Odinn's special warriors, who wear little except the pelt of a wolf into battle and become impervious to steel or fire. Gunnarr, the giant with the wholly ironic byname \"the Peaceful\", claims to be one of these berserkers.\\n\\nGunnarr led a group of raiders from the northern trade hub Kaupang to the isle of Orkney in the west, where he had the misfortune to meet Skule Skullcleaver. Skule convinced Gunnarr to mount a raid against your village. He may not be the most predictable huscarl in your service, but one thing is certain: it is far better to have Gunnarr on your side than against you.",
+      "translation": "北方群山之中，有一个战士组成的教团，自称乌尔夫赫德纳。据说他们是奥丁的亲选战士，上阵时几乎不着寸缕，只披狼皮，刀剑烈火都伤不了他们分毫。贡纳尔——这个巨人却有着一个极具讽刺意味的别名\"和平者\"——自称就是这些狂战士之一。\\n\\n贡纳尔带领一群劫掠者从北方贸易枢纽考庞出发，前往西边的奥克尼岛，却在那里不幸遇到了碎颅者斯库勒。斯库勒说服贡纳尔对你的村庄发动劫掠。他或许不是你麾下最让人放心的侍卫，但有一点是肯定的：让贡纳尔站在你这边，远好过让他与你为敌。",
+      "diagnostics": [
+        "R0019915_805e47fbfe: terminology mismatch ['are', 'wolf', 'trade', 'thing', 'certain']",
+        "terminology mismatch: are, wolf, trade, thing, certain"
+      ],
+      "missing_terms": [
+        "are",
+        "wolf",
+        "trade",
+        "thing",
+        "certain"
+      ],
+      "structural_issues": []
+    },
+    {
+      "id": "R0019916_5e91190d60",
+      "ordinal": 19916,
+      "source": "You've known Nefja and her sister Eyfura since you were children. Their late father Holmunn was among your father's closest huscarls, and the sisters were often left solely in the care of their mother while he was travelling with his thegn.\\n\\nThe twins grew apart from an early age - where Eyfura was always her mother's beautiful and delicate girl, Nefja took more after her father and would spend her days exploring the woods, playing in the moor, or fighting with the boys. As soon as she was old enough to hold a wooden stick, she started training to be a warrior.\\n\\nOver the years, the fire that burns brightly inside Nefja has turned her into a disciplined shieldmaiden, and what she lacks in raw strength is more than made up for in deftness and resolve.",
+      "translation": "你从小就认识内夫娅和她的姐姐埃芙拉。她们已故的父亲霍尔蒙是你父亲最亲近的侍卫之一，当他跟随领主外出时，姐妹俩常常只能由母亲独自照看。\\n\\n这对双胞胎从很小的时候起就性情迥异——埃芙拉一直是母亲身边那个美丽乖巧的女孩，内夫娅则更像父亲，成日在林间探索、在荒野嬉戏，或者跟男孩们打斗。她刚能握住木棍，就开始了战士的训练。\\n\\n多年来，内夫娅心中那团熊熊烈火将她锻造成了一名训练有素的盾女；她在纯粹的力量上有所欠缺，但这份不足被她的灵巧与坚毅所弥补。",
+      "diagnostics": [
+        "R0019916_5e91190d60: terminology mismatch ['father']",
+        "terminology mismatch: father"
+      ],
+      "missing_terms": [
+        "father"
+      ],
+      "structural_issues": []
+    },
+    {
+      "id": "R0019917_1c42bd2a87",
+      "ordinal": 19917,
+      "source": "Though her title is Princess of the Kingdom of Cait, Aife has few of a princess's manners and none of the typical conceits. Cait is a poor and harsh country, and Aife was raised to be as resilient and determined as any of her father's subjects. As soon as she was old enough, she was sent to train with the famous warrior Grainne, whose tutelage has turned her into a skillful trapper.\\n\\nGifted from an early age with equal parts curiosity and courage, Aife decided almost on a whim to join your hird. It's clear that she harbours some fascination with you and your culture. It's fortunate then that she is such a considerable asset on the field of battle.",
+      "translation": "尽管艾芙的头衔是凯特王国的公主，她却没有多少公主的仪态，更没有那种常见的骄矜。凯特是个贫瘠而严酷的国度，艾芙被培养得和她父亲的臣民一样坚韧果决。她刚够年纪，就被送去跟随著名的战士格兰妮训练，在格兰妮的教导下，她成了一名出色的陷阱专家。\\n\\n艾芙自幼便兼具好奇心与胆量，几乎是凭着一时兴起就决定加入你的亲兵队。很明显，她对你和你的文化怀有某种好奇与兴趣。所幸的是，她在战场上也确实是位难得的得力干将。",
+      "diagnostics": [
+        "R0019917_1c42bd2a87: terminology mismatch ['father']",
+        "terminology mismatch: father"
+      ],
+      "missing_terms": [
+        "father"
+      ],
+      "structural_issues": []
+    }
+  ],
+  "note": "Mechanical findings are diagnostic, not a semantic error rate. Main AI assesses pipeline reliability, style and recurring quality problems. Individual errors need not be cleared before accepting calibration.",
+  "snapshot_hash": "9f30378c44d523abc42bb55682578070d7459401513ce42c6d13287220a1b543",
+  "report_hash": "bfdde6bec6c61f3ec2e6072813716fa84afe77973b597aaec0f230cb3ca7100f"
+}
