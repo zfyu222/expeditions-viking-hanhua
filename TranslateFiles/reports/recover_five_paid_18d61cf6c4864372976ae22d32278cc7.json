@@ -1,0 +1,223 @@
+{
+  "audit": "recover_five_paid_18d61cf6c4864372976ae22d32278cc7",
+  "backup": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\backups\\recover_five_paid_18d61cf6c4864372976ae22d32278cc7",
+  "changes": [
+    {
+      "session": "40f36995e6794c88a1f061879da8b42a",
+      "raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\translate-r13-00005-1b88e8e6-s101b4cd4\\handoffs\\40f36995e6794c88a1f061879da8b42a\\result.json",
+      "raw_sha256": "1541870cf7458d3097c68797ac38e99910a2528e77dfe3e841e23f2b64d11983",
+      "normalized_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\translate-r13-00005-1b88e8e6-s101b4cd4\\handoffs\\40f36995e6794c88a1f061879da8b42a\\result.protocol_recovered.json",
+      "normalized_sha256": "c0254e2a2a9752221101b5fa8363b2519057687f76a3862bede042c1a955c51e",
+      "edits": [
+        {
+          "from": "R0000209_6b67e233c3",
+          "to": null,
+          "reason": "Out-of-scope additional record has only empty translation and no other fields"
+        },
+        {
+          "from": "R0000209_afb4bced73",
+          "to": null,
+          "reason": "Out-of-scope additional record has only empty translation and no other fields"
+        }
+      ],
+      "worker": "api-translate-0e45678762984c77be1d326e19101fb0"
+    },
+    {
+      "session": "f5341701db18448abb717302e75a0c40",
+      "raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\translate-r13-00002-2fa73ffa\\handoffs\\f5341701db18448abb717302e75a0c40\\result.json",
+      "raw_sha256": "a091162c833c801a7910e0d4c4b568052e0c3b8d3f8bbc8f0531616386a0add2",
+      "normalized_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\translate-r13-00002-2fa73ffa\\handoffs\\f5341701db18448abb717302e75a0c40\\result.protocol_recovered.json",
+      "normalized_sha256": "2496668f2906d2f281ec2cb410f50538444712fdead48e08fec94367b373bc4b",
+      "edits": [
+        {
+          "from": "R0000106_3e6422ec82",
+          "to": "R0000106_3e6422ec80"
+        },
+        {
+          "from": "R0000110_68ec9c11e1",
+          "to": "R0000110_68ec9c11e4"
+        }
+      ],
+      "worker": "api-translate-bb51598d5f2b4a469d6b1a5ad755ed7c"
+    },
+    {
+      "session": "3f91aa378d4c42c6927542b09f85acd1",
+      "raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\translate-r13-00014-b24cb930-s0b8fc2d7\\handoffs\\3f91aa378d4c42c6927542b09f85acd1\\result.json",
+      "raw_sha256": "70a5cb94bfe824f4874556c98c8bb21f408a3f0c0182308ce3bb04a5722fe29f",
+      "normalized_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\translate-r13-00014-b24cb930-s0b8fc2d7\\handoffs\\3f91aa378d4c42c6927542b09f85acd1\\result.protocol_recovered.json",
+      "normalized_sha256": "5a2dc7b51e545468d407961790dafc021aa1fa70788f91964ba381129310aacd",
+      "edits": [
+        {
+          "from": "R0000477_2d711bc297",
+          "to": "R0000477_d2711bc297"
+        }
+      ],
+      "worker": "api-translate-5b754df15a5f4c70b3c32f95c9364e8b"
+    },
+    {
+      "session": "ec8c72e74462411595e57b8493cd0782",
+      "raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\translate-r13-00019-73bd5775-s1c0e009a\\handoffs\\ec8c72e74462411595e57b8493cd0782\\result.json",
+      "raw_sha256": "f9e572524d23c6a2bc770dcd96059333235e58e31623e5a9c580b22c2a753e91",
+      "normalized_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\translate-r13-00019-73bd5775-s1c0e009a\\handoffs\\ec8c72e74462411595e57b8493cd0782\\result.protocol_recovered.json",
+      "normalized_sha256": "ef764c78d7f6dce2bda01f8ab70995c2b3a13cc210cfd0a80ba0c746a93f53ea",
+      "edits": [
+        {
+          "from": "R0000635_9086b9f188",
+          "to": "R0000635_90867238af"
+        }
+      ],
+      "worker": "api-translate-e1ec5523e8c54fa3847bdc2d89f9e1f2"
+    },
+    {
+      "session": "94b06827584543e1887b6e8a45a6f26f",
+      "raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\translate-r13-00009-a750c548-s58318e8b\\handoffs\\94b06827584543e1887b6e8a45a6f26f\\result.json",
+      "raw_sha256": "16da512b3bce87f3502094a7bedf4f5ab9d0b3c69ba39e93316af1b74ecdc179",
+      "normalized_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\translate-r13-00009-a750c548-s58318e8b\\handoffs\\94b06827584543e1887b6e8a45a6f26f\\result.protocol_recovered.json",
+      "normalized_sha256": "153e795ad9007d7d710eebbd1d2603bdf3e14ee21e5b98459066c14eb68a6bbe",
+      "edits": [
+        {
+          "from": "R0000296_2bbcba7356",
+          "to": "R0000296_83d824768c"
+        },
+        {
+          "from": "R0000297_54aff0ef89",
+          "to": "R0000297_2bbcba7356"
+        }
+      ],
+      "worker": "api-translate-fa2acedd28424cf4b09776dcc2ab23c7"
+    }
+  ],
+  "receipts": [
+    {
+      "status": "submitted",
+      "session_id": "40f36995e6794c88a1f061879da8b42a",
+      "task_id": "translate-r13-00005-1b88e8e6-s101b4cd4",
+      "records": 31,
+      "summary": {
+        "records": {
+          "source": 22714,
+          "translate": 481
+        },
+        "tasks": {
+          "done": 16,
+          "pending": 653,
+          "running": 4
+        }
+      },
+      "quality": "draft_saved; full checks deferred to draft-scan"
+    },
+    {
+      "status": "submitted",
+      "session_id": "f5341701db18448abb717302e75a0c40",
+      "task_id": "translate-r13-00002-2fa73ffa",
+      "records": 57,
+      "summary": {
+        "records": {
+          "source": 22657,
+          "translate": 538
+        },
+        "tasks": {
+          "done": 17,
+          "pending": 653,
+          "running": 3
+        }
+      },
+      "quality": "draft_saved; full checks deferred to draft-scan"
+    },
+    {
+      "status": "submitted",
+      "session_id": "3f91aa378d4c42c6927542b09f85acd1",
+      "task_id": "translate-r13-00014-b24cb930-s0b8fc2d7",
+      "records": 30,
+      "summary": {
+        "records": {
+          "source": 22627,
+          "translate": 568
+        },
+        "tasks": {
+          "done": 18,
+          "pending": 653,
+          "running": 2
+        }
+      },
+      "quality": "draft_saved; full checks deferred to draft-scan"
+    },
+    {
+      "status": "submitted",
+      "session_id": "ec8c72e74462411595e57b8493cd0782",
+      "task_id": "translate-r13-00019-73bd5775-s1c0e009a",
+      "records": 28,
+      "summary": {
+        "records": {
+          "source": 22599,
+          "translate": 596
+        },
+        "tasks": {
+          "done": 19,
+          "pending": 653,
+          "running": 1
+        }
+      },
+      "quality": "draft_saved; full checks deferred to draft-scan"
+    },
+    {
+      "status": "submitted",
+      "session_id": "94b06827584543e1887b6e8a45a6f26f",
+      "task_id": "translate-r13-00009-a750c548-s58318e8b",
+      "records": 28,
+      "summary": {
+        "records": {
+          "source": 22571,
+          "translate": 624
+        },
+        "tasks": {
+          "done": 20,
+          "pending": 653
+        }
+      },
+      "quality": "draft_saved; full checks deferred to draft-scan"
+    }
+  ],
+  "summary": {
+    "records": {
+      "source": 22571,
+      "translate": 624
+    },
+    "tasks": {
+      "done": 20,
+      "pending": 653
+    }
+  },
+  "original_waiting_statuses": {
+    "40f36995e6794c88a1f061879da8b42a": {
+      "status": "submitted",
+      "worker": "api-translate-0e45678762984c77be1d326e19101fb0",
+      "result_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\translate-r13-00005-1b88e8e6-s101b4cd4\\handoffs\\40f36995e6794c88a1f061879da8b42a\\result.protocol_recovered.json"
+    },
+    "f5341701db18448abb717302e75a0c40": {
+      "status": "submitted",
+      "worker": "api-translate-bb51598d5f2b4a469d6b1a5ad755ed7c",
+      "result_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\translate-r13-00002-2fa73ffa\\handoffs\\f5341701db18448abb717302e75a0c40\\result.protocol_recovered.json"
+    },
+    "3f91aa378d4c42c6927542b09f85acd1": {
+      "status": "submitted",
+      "worker": "api-translate-5b754df15a5f4c70b3c32f95c9364e8b",
+      "result_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\translate-r13-00014-b24cb930-s0b8fc2d7\\handoffs\\3f91aa378d4c42c6927542b09f85acd1\\result.protocol_recovered.json"
+    },
+    "ec8c72e74462411595e57b8493cd0782": {
+      "status": "submitted",
+      "worker": "api-translate-e1ec5523e8c54fa3847bdc2d89f9e1f2",
+      "result_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\translate-r13-00019-73bd5775-s1c0e009a\\handoffs\\ec8c72e74462411595e57b8493cd0782\\result.protocol_recovered.json"
+    },
+    "94b06827584543e1887b6e8a45a6f26f": {
+      "status": "submitted",
+      "worker": "api-translate-fa2acedd28424cf4b09776dcc2ab23c7",
+      "result_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\translate-r13-00009-a750c548-s58318e8b\\handoffs\\94b06827584543e1887b6e8a45a6f26f\\result.protocol_recovered.json"
+    },
+    "f808ef05c6114defbe49b3bcece66f78": {
+      "status": "transport_abandoned",
+      "worker": "api-translate-2bfdb2d42d7c40128644e2ba13af629e",
+      "result_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\translate-r13-00009-a750c548-s58318e8b\\handoffs\\f808ef05c6114defbe49b3bcece66f78\\result.json"
+    }
+  }
+}
