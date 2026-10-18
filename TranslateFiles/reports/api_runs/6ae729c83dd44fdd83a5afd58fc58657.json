@@ -1,0 +1,17 @@
+{
+  "run_id": "6ae729c83dd44fdd83a5afd58fc58657",
+  "stage": "pilot_translate",
+  "status": "completed",
+  "started_at": "2026-10-17T23:56:30.596586+00:00",
+  "receipt_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\6ae729c83dd44fdd83a5afd58fc58657.json",
+  "stdout_log": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\logs\\api_runs\\6ae729c83dd44fdd83a5afd58fc58657.stdout.log",
+  "stderr_log": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\logs\\api_runs\\6ae729c83dd44fdd83a5afd58fc58657.stderr.log",
+  "pid": 32416,
+  "exit_code": 0,
+  "accepted": 3,
+  "failed": 0,
+  "paused": false,
+  "needs_attention_count": 0,
+  "pending_handoffs_count": 0,
+  "finished_at": "2026-10-17T23:59:27.839893+00:00"
+}

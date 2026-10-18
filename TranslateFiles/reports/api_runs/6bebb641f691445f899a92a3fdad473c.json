@@ -1,0 +1,13 @@
+{
+  "run_id": "6bebb641f691445f899a92a3fdad473c",
+  "stage": "pilot_translate",
+  "status": "failed",
+  "started_at": "2026-10-17T23:55:50.642259+00:00",
+  "receipt_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\6bebb641f691445f899a92a3fdad473c.json",
+  "stdout_log": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\logs\\api_runs\\6bebb641f691445f899a92a3fdad473c.stdout.log",
+  "stderr_log": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\logs\\api_runs\\6bebb641f691445f899a92a3fdad473c.stderr.log",
+  "pid": 40936,
+  "exit_code": 1,
+  "reason": "API process failed; inspect logs and recover existing handoffs before retrying",
+  "finished_at": "2026-10-17T23:55:50.957405+00:00"
+}

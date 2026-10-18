@@ -1,0 +1,203 @@
+{
+  "audit_id": "resume_paid_pilot_dce170129417445fb539d3396ef6aea9",
+  "time": "2026-10-17T23:54:46.682615+00:00",
+  "backup": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\backups\\resume_paid_pilot_dce170129417445fb539d3396ef6aea9",
+  "budget": {
+    "before": 6,
+    "after": 12,
+    "spent_before": 5,
+    "spent_after_allocation": 8
+  },
+  "recheck_receipts": [
+    {
+      "status": "repair_required",
+      "session_id": "73d7a61456544e36931d595334349681",
+      "task_id": "pilot_translate-r12-00001-bdaacadb",
+      "failed_ids": [
+        "R0000008_61fc1074de",
+        "R0000126_759f9d3167",
+        "R0000148_d917ac8a4b",
+        "R0000156_43086306f6",
+        "R0000252_4357aebb14",
+        "R0000303_7ef65fb7a5",
+        "R0000434_edd3aa68a6",
+        "R0000591_be82fd550b",
+        "R0001218_d6f1d2918d",
+        "R0005028_87810a9f5f",
+        "R0009483_00ea6edb14"
+      ],
+      "failures": [
+        {
+          "id": "R0000008_61fc1074de",
+          "diagnostic": "R0000008_61fc1074de: terminology mismatch ['rest']"
+        },
+        {
+          "id": "R0000126_759f9d3167",
+          "diagnostic": "R0000126_759f9d3167: terminology mismatch ['don']"
+        },
+        {
+          "id": "R0000148_d917ac8a4b",
+          "diagnostic": "R0000148_d917ac8a4b: terminology mismatch ['executed']"
+        },
+        {
+          "id": "R0000156_43086306f6",
+          "diagnostic": "R0000156_43086306f6: terminology mismatch ['man', 'rest']"
+        },
+        {
+          "id": "R0000252_4357aebb14",
+          "diagnostic": "R0000252_4357aebb14: terminology mismatch ['are']"
+        },
+        {
+          "id": "R0000303_7ef65fb7a5",
+          "diagnostic": "R0000303_7ef65fb7a5: terminology mismatch ['father']"
+        },
+        {
+          "id": "R0000434_edd3aa68a6",
+          "diagnostic": "R0000434_edd3aa68a6: terminology mismatch ['father', 'hird']"
+        },
+        {
+          "id": "R0000591_be82fd550b",
+          "diagnostic": "R0000591_be82fd550b: terminology mismatch ['chance', 'end']"
+        },
+        {
+          "id": "R0001218_d6f1d2918d",
+          "diagnostic": "R0001218_d6f1d2918d: terminology mismatch ['Greedy', 'arms']"
+        },
+        {
+          "id": "R0005028_87810a9f5f",
+          "diagnostic": "R0005028_87810a9f5f: terminology mismatch ['throwing', 'saw', 'god']"
+        },
+        {
+          "id": "R0009483_00ea6edb14",
+          "diagnostic": "R0009483_00ea6edb14: terminology mismatch ['head']"
+        }
+      ],
+      "preserved_records": 14,
+      "summary": {
+        "records": {
+          "source": 23195
+        },
+        "tasks": {
+          "running": 3
+        }
+      }
+    },
+    {
+      "status": "needs_attention",
+      "session_id": "5c21d0cb704541e9990d04d3700921b7",
+      "task_id": "pilot_translate-r12-00002-6cfa15f4-sb208df44",
+      "failed_ids": [
+        "R0018723_40ae8e3b2a",
+        "R0018803_c05d48740d"
+      ],
+      "failures": [
+        {
+          "id": "R0018723_40ae8e3b2a",
+          "diagnostic": "R0018723_40ae8e3b2a: terminology mismatch ['aoo', 'flanked']"
+        },
+        {
+          "id": "R0018803_c05d48740d",
+          "diagnostic": "R0018803_c05d48740d: terminology mismatch ['aoo', 'shield', 'flanked']"
+        }
+      ],
+      "preserved_records": 0,
+      "summary": {
+        "records": {
+          "source": 23195
+        },
+        "tasks": {
+          "running": 3
+        }
+      }
+    },
+    {
+      "status": "needs_attention",
+      "session_id": "4a1309b82be04c498ca678793290e9b3",
+      "task_id": "pilot_translate-r12-00002-6cfa15f4-s162976c3",
+      "failed_ids": [
+        "R0019915_805e47fbfe"
+      ],
+      "failures": [
+        {
+          "id": "R0019915_805e47fbfe",
+          "diagnostic": "R0019915_805e47fbfe: terminology mismatch ['are']"
+        }
+      ],
+      "preserved_records": 2,
+      "summary": {
+        "records": {
+          "source": 23195
+        },
+        "tasks": {
+          "running": 3
+        }
+      }
+    }
+  ],
+  "unissued_api_sessions": [
+    {
+      "status": "ready",
+      "session_id": "debb7d1238ee4f4ea6b1d1c1bed31dbd",
+      "task_id": "pilot_translate-r12-00001-bdaacadb",
+      "records": 11,
+      "input_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\pilot_translate-r12-00001-bdaacadb\\handoffs\\debb7d1238ee4f4ea6b1d1c1bed31dbd\\input.md",
+      "input_tokens": 4723,
+      "result_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\pilot_translate-r12-00001-bdaacadb\\handoffs\\debb7d1238ee4f4ea6b1d1c1bed31dbd\\result.json",
+      "result_template_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\pilot_translate-r12-00001-bdaacadb\\handoffs\\debb7d1238ee4f4ea6b1d1c1bed31dbd\\result.template.json",
+      "task_ready": true,
+      "repair_part": 1,
+      "repair_parts": 1,
+      "pending_repair_parts": 0,
+      "repair_parent_session": "73d7a61456544e36931d595334349681"
+    },
+    {
+      "status": "ready",
+      "session_id": "8e3dc6a6c34c485b9cca93abbbbfc101",
+      "task_id": "pilot_translate-r12-00002-6cfa15f4-sb208df44",
+      "records": 2,
+      "input_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\pilot_translate-r12-00002-6cfa15f4-sb208df44\\handoffs\\8e3dc6a6c34c485b9cca93abbbbfc101\\input.md",
+      "input_tokens": 10652,
+      "result_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\pilot_translate-r12-00002-6cfa15f4-sb208df44\\handoffs\\8e3dc6a6c34c485b9cca93abbbbfc101\\result.json",
+      "result_template_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\pilot_translate-r12-00002-6cfa15f4-sb208df44\\handoffs\\8e3dc6a6c34c485b9cca93abbbbfc101\\result.template.json",
+      "task_ready": true,
+      "repair_part": 1,
+      "repair_parts": 1,
+      "pending_repair_parts": 0,
+      "repair_parent_session": "5c21d0cb704541e9990d04d3700921b7"
+    },
+    {
+      "status": "ready",
+      "session_id": "ce8db2afaa42434a9008e82f6a02414d",
+      "task_id": "pilot_translate-r12-00002-6cfa15f4-s162976c3",
+      "records": 1,
+      "input_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\pilot_translate-r12-00002-6cfa15f4-s162976c3\\handoffs\\ce8db2afaa42434a9008e82f6a02414d\\input.md",
+      "input_tokens": 2237,
+      "result_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\pilot_translate-r12-00002-6cfa15f4-s162976c3\\handoffs\\ce8db2afaa42434a9008e82f6a02414d\\result.json",
+      "result_template_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\pilot_translate-r12-00002-6cfa15f4-s162976c3\\handoffs\\ce8db2afaa42434a9008e82f6a02414d\\result.template.json",
+      "task_ready": true,
+      "repair_part": 1,
+      "repair_parts": 1,
+      "pending_repair_parts": 0,
+      "repair_parent_session": "4a1309b82be04c498ca678793290e9b3"
+    }
+  ],
+  "pilot_plan": {
+    "sample_records": 30,
+    "translated_records": 0,
+    "reviewed_records": 0,
+    "translation_batches": 0,
+    "review_batches": 3,
+    "executions_used": 8,
+    "execution_limit": 12,
+    "running_tasks": 3,
+    "maximum_prepared_input_tokens": 0,
+    "within_budget": true,
+    "note": "No agent spawned; all claims/retries count across revisions. Explicit repair grant, if present, applies only to its tasks."
+  },
+  "remaining_strategy": "3 repair sessions already counted in spent8; no future translation allocation. Three independent review batches project 11/12 executions; one remains. Sol acceptance required.",
+  "shared_source_sha256": {
+    "translation_workflow.py": "4af0fc5aa6dcf34bbe5f5f0c595551c38bae3b650ea3cabd0d161a3bb9105f0d",
+    "workflow_quality.py": "bf3bdf44c4e755ade33b07abc1a51d32baadd558f30e2108f4aadcf782f3061f",
+    "ainiee_bridge.py": "4fe9e140a5a633ba4bae7b9906699c7788d7e80bb195ac8a422677b8d8717260"
+  }
+}

@@ -14,9 +14,6 @@ sys.path.insert(0, str(SHARED))
 
 import translation_workflow as shared
 from run_api_round import STAGES, execute
-from viking_term_adapter import install
-
-install(shared.bridge)
 
 
 OVERRIDE = PROJECT / 'TranslateFiles/config/api_budget_override.json'
