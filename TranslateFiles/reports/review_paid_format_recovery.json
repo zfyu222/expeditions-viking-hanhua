@@ -1,0 +1,427 @@
+{
+  "status": "collected",
+  "backup": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\backups\\review_format_recovery_a2a3ede7fb7245c6ae8e32a865bcdef3",
+  "entries": [
+    {
+      "task_id": "review-r17-00039-d755ba01",
+      "session_id": "76f49a9b099c4b68af164a4045e59371",
+      "actual_author": "api-review-e4d927bb740b4b29b1efa4506d1b4d3f",
+      "audit": {
+        "task_id": "review-r17-00039-d755ba01",
+        "source_session_id": "76f49a9b099c4b68af164a4045e59371",
+        "source_instance_binding": "original API response from this exact session; no reassignment",
+        "latest_session_id": "76f49a9b099c4b68af164a4045e59371",
+        "selected_latest_session": true,
+        "selection_reason": "latest complete response, deterministic format fix",
+        "source_raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00039-d755ba01\\handoffs\\76f49a9b099c4b68af164a4045e59371\\response.raw.txt",
+        "source_raw_sha256": "e5e83f5d3326cca354db8929b508452659239d5233d13687d8c848d67b1efd10",
+        "source_input_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00039-d755ba01\\handoffs\\76f49a9b099c4b68af164a4045e59371\\input.md",
+        "source_input_sha256": "530e859f0b8b520e66aa33db62a1a62f042547461f555654cfcf3131a2a9283f",
+        "source_transport_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00039-d755ba01\\handoffs\\76f49a9b099c4b68af164a4045e59371\\api_id_transport.v2.json",
+        "source_transport_sha256": "943e6b47782b51a34a757532431e9c635601e6c0f4055819d0de159f9ad37148",
+        "task_input_hash": "8b7e179a19bdc8163bb5d7d914463fc8c0ade0d4b2740c55f0088d9d61977a00",
+        "record_count": 18,
+        "short_ids": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18"
+        ],
+        "edits": [
+          {
+            "character_offset_before_edit": 8898,
+            "before": "\"id\":14,",
+            "after": "\"id\":\"14\",",
+            "reason": "normalize numeric short ID to mapped string"
+          }
+        ],
+        "validation": [
+          "JSON parsed",
+          "canonical_api_result accepted original session binding and scope",
+          "all input short IDs covered once",
+          "source excerpts are substrings of source text",
+          "no semantic fields synthesized"
+        ],
+        "recovered_sha256": "eb3f46fd01953274c63e82e42ef41bd19f2f597066022174f126f7161655536c"
+      },
+      "canonical_result": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00039-d755ba01\\handoffs\\76f49a9b099c4b68af164a4045e59371\\result.format_recovered.canonical.json",
+      "prior_session_status": "waiting",
+      "prior_session_receipt": null,
+      "prior_lease_until": 1792342631.0571117,
+      "preserved_attempt": 2
+    },
+    {
+      "task_id": "review-r17-00081-75843e2b",
+      "session_id": "2df43ec18d8a47fc87a53ae467d0f661",
+      "actual_author": "api-review-561dc93077ae46838a2fc3cb5dae3767",
+      "audit": {
+        "task_id": "review-r17-00081-75843e2b",
+        "source_session_id": "2df43ec18d8a47fc87a53ae467d0f661",
+        "source_instance_binding": "original API response from this exact session; no reassignment",
+        "latest_session_id": "3867a4911cc44121a711c5ecdaf9beff",
+        "selected_latest_session": false,
+        "selection_reason": "latest response omits keep or translation for all 18 records; older complete response has only escaped-quote syntax damage",
+        "source_raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00081-75843e2b\\handoffs\\2df43ec18d8a47fc87a53ae467d0f661\\response.raw.txt",
+        "source_raw_sha256": "57b076e45f4405f71cb5dac7a729039b7533dc53fafaf18db8e5c7c08e39b1bc",
+        "source_input_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00081-75843e2b\\handoffs\\2df43ec18d8a47fc87a53ae467d0f661\\input.md",
+        "source_input_sha256": "3452294b772456823c446a084f3d64ce61dc9010fec6705b01f3591fad93bd9f",
+        "source_transport_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00081-75843e2b\\handoffs\\2df43ec18d8a47fc87a53ae467d0f661\\api_id_transport.v2.json",
+        "source_transport_sha256": "d8ab22a89e8ca1a2881185f0ad71b8fdd0e3eb72b94a0c6776ba28a4974e478f",
+        "task_input_hash": "eca6f02d90283151590ee3ae01f67b55926123a3f85b38617248dce3d2effe85",
+        "record_count": 18,
+        "short_ids": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18"
+        ],
+        "edits": [
+          {
+            "character_offset_before_edit": 7396,
+            "before": "轻蔑口吻保留，\"蠢女人\"与\"真正\"对比鲜明。",
+            "after": "轻蔑口吻保留，\\\"蠢女人\\\"与\\\"真正\\\"对比鲜明。",
+            "reason": "escape four literal quotation marks inside evidence string"
+          }
+        ],
+        "validation": [
+          "JSON parsed",
+          "canonical_api_result accepted original session binding and scope",
+          "all input short IDs covered once",
+          "source excerpts are substrings of source text",
+          "no semantic fields synthesized"
+        ],
+        "recovered_sha256": "8b860c5fa88cee4a1508b61ab7edcd5cd39eb4d20d3fb6779c5bd7dd4e3dfddf"
+      },
+      "canonical_result": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00081-75843e2b\\handoffs\\2df43ec18d8a47fc87a53ae467d0f661\\result.format_recovered.canonical.json",
+      "prior_session_status": "superseded",
+      "prior_session_receipt": "{\"format_error\":true,\"reason\":\"invalid_model_result\",\"retry_session\":\"3867a4911cc44121a711c5ecdaf9beff\",\"status\":\"superseded\"}",
+      "prior_lease_until": 1792342805.0469782,
+      "preserved_attempt": 2
+    },
+    {
+      "task_id": "review-r17-00094-17016347",
+      "session_id": "7ed7ca156d274603bd0d00494f0a9c26",
+      "actual_author": "api-review-758f3ce9175b4061b9030362d9e5c7f4",
+      "audit": {
+        "task_id": "review-r17-00094-17016347",
+        "source_session_id": "7ed7ca156d274603bd0d00494f0a9c26",
+        "source_instance_binding": "original API response from this exact session; no reassignment",
+        "latest_session_id": "7ed7ca156d274603bd0d00494f0a9c26",
+        "selected_latest_session": true,
+        "selection_reason": "latest complete response, deterministic format fix",
+        "source_raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00094-17016347\\handoffs\\7ed7ca156d274603bd0d00494f0a9c26\\response.raw.txt",
+        "source_raw_sha256": "81b09bd5b1ae9f1d07fd04c6c04e623ac82f2ec1cab649f1c478cf1415bcf05e",
+        "source_input_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00094-17016347\\handoffs\\7ed7ca156d274603bd0d00494f0a9c26\\input.md",
+        "source_input_sha256": "5fe001c586dc35b85901ebee669cc5522fdfa7a03d65a0998413999b8accb0ef",
+        "source_transport_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00094-17016347\\handoffs\\7ed7ca156d274603bd0d00494f0a9c26\\api_id_transport.v2.json",
+        "source_transport_sha256": "f50ceda2fec5de704d3d53ced4eb5f01b376f0c0bdabb81d25a1dab8d7c7e24f",
+        "task_input_hash": "0a2034efa725b6f4b631af3d13ac6c5a639f9039af06d17a7324a62329e44ab5",
+        "record_count": 15,
+        "short_ids": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15"
+        ],
+        "edits": [
+          {
+            "character_offset_before_edit": 4732,
+            "before": "符合。\",\"tone\"",
+            "after": "符合。\"},\"tone\"",
+            "reason": "close terminology check object before tone"
+          }
+        ],
+        "validation": [
+          "JSON parsed",
+          "canonical_api_result accepted original session binding and scope",
+          "all input short IDs covered once",
+          "source excerpts are substrings of source text",
+          "no semantic fields synthesized"
+        ],
+        "recovered_sha256": "328c87cdbcc3b68c75cc0ba8ca22b2833c0455f14d8b98dccaa659913337da6b"
+      },
+      "canonical_result": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00094-17016347\\handoffs\\7ed7ca156d274603bd0d00494f0a9c26\\result.format_recovered.canonical.json",
+      "prior_session_status": "waiting",
+      "prior_session_receipt": null,
+      "prior_lease_until": 1792342867.6989138,
+      "preserved_attempt": 2
+    },
+    {
+      "task_id": "review-r17-00129-e800fd3e",
+      "session_id": "2474c678e0754ad3a953b9d9133af624",
+      "actual_author": "api-review-51f86537a67e4795bbb7ad967d302c2d",
+      "audit": {
+        "task_id": "review-r17-00129-e800fd3e",
+        "source_session_id": "2474c678e0754ad3a953b9d9133af624",
+        "source_instance_binding": "original API response from this exact session; no reassignment",
+        "latest_session_id": "2474c678e0754ad3a953b9d9133af624",
+        "selected_latest_session": true,
+        "selection_reason": "latest complete response, deterministic format fix",
+        "source_raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00129-e800fd3e\\handoffs\\2474c678e0754ad3a953b9d9133af624\\response.raw.txt",
+        "source_raw_sha256": "d813aad93c37989029f657ab589f9830a306848381a4010cb4482a94afd5a2f0",
+        "source_input_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00129-e800fd3e\\handoffs\\2474c678e0754ad3a953b9d9133af624\\input.md",
+        "source_input_sha256": "a83a7daffde532c931c4d7f9ca50a8ac939146b9cef1a230e38b45b040a61c8b",
+        "source_transport_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00129-e800fd3e\\handoffs\\2474c678e0754ad3a953b9d9133af624\\api_id_transport.v2.json",
+        "source_transport_sha256": "134253b53a959e12b11c979da3cac3c9fa5fbf164b95bc99373adc6f91e42605",
+        "task_input_hash": "f2e8422c701f3e7984b3dd2553784a53f1807e26c901211a6c6563148dcba5b8",
+        "record_count": 16,
+        "short_ids": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16"
+        ],
+        "edits": [
+          {
+            "character_offset_before_edit": 6406,
+            "before": "未加姐姐妹妹等。\",\"placeholders\"",
+            "after": "未加姐姐妹妹等。\"},\"placeholders\"",
+            "reason": "close logic check object before placeholders"
+          }
+        ],
+        "validation": [
+          "JSON parsed",
+          "canonical_api_result accepted original session binding and scope",
+          "all input short IDs covered once",
+          "source excerpts are substrings of source text",
+          "no semantic fields synthesized"
+        ],
+        "recovered_sha256": "c532083a4ccce9ad8ffdc2b8ae9dbb4742f11e643c23cdcd36afd0a787462ce1"
+      },
+      "canonical_result": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00129-e800fd3e\\handoffs\\2474c678e0754ad3a953b9d9133af624\\result.format_recovered.canonical.json",
+      "prior_session_status": "waiting",
+      "prior_session_receipt": null,
+      "prior_lease_until": 1792343146.1795454,
+      "preserved_attempt": 2
+    },
+    {
+      "task_id": "review-r17-00146-97b030dc",
+      "session_id": "46dfeb8cd89d499880130c6c94e32904",
+      "actual_author": "api-review-7c0280c0119f46b19b3ce7fdfd8f708e",
+      "audit": {
+        "task_id": "review-r17-00146-97b030dc",
+        "source_session_id": "46dfeb8cd89d499880130c6c94e32904",
+        "source_instance_binding": "original API response from this exact session; no reassignment",
+        "latest_session_id": "46dfeb8cd89d499880130c6c94e32904",
+        "selected_latest_session": true,
+        "selection_reason": "latest complete response, deterministic format fix",
+        "source_raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00146-97b030dc\\handoffs\\46dfeb8cd89d499880130c6c94e32904\\response.raw.txt",
+        "source_raw_sha256": "05fce242893929b6a59ae74e5997fe100983081d46a5f7e066ee153ddc4157b0",
+        "source_input_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00146-97b030dc\\handoffs\\46dfeb8cd89d499880130c6c94e32904\\input.md",
+        "source_input_sha256": "1d1d4bba820a866a5fb8c8344511b217d05ed42a7eb9e69014dc562873789d31",
+        "source_transport_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00146-97b030dc\\handoffs\\46dfeb8cd89d499880130c6c94e32904\\api_id_transport.v2.json",
+        "source_transport_sha256": "b102ef5038d5cae95dba27c154b0fe4cdc9d76dedc2aa3e988d414556a810b37",
+        "task_input_hash": "61b7249620e2b6f9e2707f0940f63b7fa5dd6c65176061061d903e71ba6035d7",
+        "record_count": 19,
+        "short_ids": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19"
+        ],
+        "edits": [
+          {
+            "character_offset_before_edit": 7978,
+            "before": "\"id\":14\"",
+            "after": "\"id\":\"14\"",
+            "reason": "quote numeric short ID"
+          }
+        ],
+        "validation": [
+          "JSON parsed",
+          "canonical_api_result accepted original session binding and scope",
+          "all input short IDs covered once",
+          "source excerpts are substrings of source text",
+          "no semantic fields synthesized"
+        ],
+        "recovered_sha256": "0b1977737bdcbf5bca814c7e5b543440f3f209debd5892816366ef4d3ebe59ea"
+      },
+      "canonical_result": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00146-97b030dc\\handoffs\\46dfeb8cd89d499880130c6c94e32904\\result.format_recovered.canonical.json",
+      "prior_session_status": "waiting",
+      "prior_session_receipt": null,
+      "prior_lease_until": 1792343376.8781004,
+      "preserved_attempt": 2
+    }
+  ],
+  "receipts": [
+    {
+      "status": "submitted",
+      "session_id": "76f49a9b099c4b68af164a4045e59371",
+      "task_id": "review-r17-00039-d755ba01",
+      "records": 18,
+      "summary": {
+        "records": {
+          "translate": 23195
+        },
+        "tasks": {
+          "done": 833,
+          "obsolete": 56,
+          "pending": 1335,
+          "running": 4
+        }
+      },
+      "quality": "review_saved; wait for the whole round before review-scan",
+      "remaining_round_batches": 1339,
+      "next_action": "finish_current_round"
+    },
+    {
+      "status": "submitted",
+      "session_id": "2df43ec18d8a47fc87a53ae467d0f661",
+      "task_id": "review-r17-00081-75843e2b",
+      "records": 18,
+      "summary": {
+        "records": {
+          "translate": 23195
+        },
+        "tasks": {
+          "done": 834,
+          "obsolete": 56,
+          "pending": 1335,
+          "running": 3
+        }
+      },
+      "quality": "review_saved; wait for the whole round before review-scan",
+      "remaining_round_batches": 1338,
+      "next_action": "finish_current_round"
+    },
+    {
+      "status": "submitted",
+      "session_id": "7ed7ca156d274603bd0d00494f0a9c26",
+      "task_id": "review-r17-00094-17016347",
+      "records": 15,
+      "summary": {
+        "records": {
+          "translate": 23195
+        },
+        "tasks": {
+          "done": 835,
+          "obsolete": 56,
+          "pending": 1335,
+          "running": 2
+        }
+      },
+      "quality": "review_saved; wait for the whole round before review-scan",
+      "remaining_round_batches": 1337,
+      "next_action": "finish_current_round"
+    },
+    {
+      "status": "submitted",
+      "session_id": "2474c678e0754ad3a953b9d9133af624",
+      "task_id": "review-r17-00129-e800fd3e",
+      "records": 16,
+      "summary": {
+        "records": {
+          "translate": 23195
+        },
+        "tasks": {
+          "done": 836,
+          "obsolete": 56,
+          "pending": 1335,
+          "running": 1
+        }
+      },
+      "quality": "review_saved; wait for the whole round before review-scan",
+      "remaining_round_batches": 1336,
+      "next_action": "finish_current_round"
+    },
+    {
+      "status": "submitted",
+      "session_id": "46dfeb8cd89d499880130c6c94e32904",
+      "task_id": "review-r17-00146-97b030dc",
+      "records": 19,
+      "summary": {
+        "records": {
+          "translate": 23195
+        },
+        "tasks": {
+          "done": 837,
+          "obsolete": 56,
+          "pending": 1335
+        }
+      },
+      "quality": "review_saved; wait for the whole round before review-scan",
+      "remaining_round_batches": 1335,
+      "next_action": "finish_current_round"
+    }
+  ],
+  "recovered_records": 86,
+  "api_history_unchanged": true,
+  "formal_records_unchanged": true,
+  "quality": "candidates_saved; not_semantic_acceptance",
+  "summary": {
+    "records": {
+      "translate": 23195
+    },
+    "tasks": {
+      "done": 837,
+      "obsolete": 56,
+      "pending": 1335
+    }
+  }
+}

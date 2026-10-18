@@ -101,6 +101,8 @@ cd Tools\AINiee
 
 ### 2026-10-18：恢复首轮原稿，单独执行新版程序审校
 
+后续进度（2026-10-19）：独立 review 已保存 146 批、2,230 条候选，剩余 1,335 批，尚未整轮验收。按用户要求先修复格式接收与重试流程，隔离副本以 2 次真实 API 请求验证 34 条记录，JSON 格式链路通过，1 条语义证据问题仍被严格拒收。正式数据及队列未受验证影响；详见 `TranslateFiles/TranslateDoc.md` 与 `TranslateFiles/reports/api_format_upgrade_validation.json`。
+
 - 按用户要求，仅从 revision 16、payload 不含 `strict_translation` 和 `draft_scan_key` 的 1,063 个已完成 translate 任务恢复 23,195 条原始草稿；未使用后续 draft-repair 译文。按记录 ID 对齐，核对任务输入哈希、源文/序号、冻结表、文体、有效批次结果、会话结果、API 调用及实际作者 lineage。
 - 恢复原始语境例外（10 条记录），仅还原原任务已知保护映射（2,821 条记录），不改写原译。首轮快照：`TranslateFiles/snapshots/r16_first_draft_20261018T142909Z_9c5af3c9/`（drafts.jsonl、单列 drafts.csv、task_manifest.json 及哈希 manifest）。这是审校前快照，不是正式交付 CSV。
 - 当前状态完整备份：`TranslateFiles/backups/restore_r16_first_drafts_20261018T142909Z_9c5af3c9/`。旧候选、队列及检查缓存已归档；建立 revision 17 程序审校范围，旧修复计数不参与本轮。全部付费、执行、作者及 lineage 历史逐表哈希核对保持不变；r8 冻结表、文体和已接受试译保持。
