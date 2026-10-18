@@ -1,0 +1,61 @@
+{
+  "receipt": "api_runs/1d7339927021406ba4e40c2c18c9ab4e.json",
+  "revision": 13,
+  "record_stages": {
+    "source": 22745,
+    "translate": 450
+  },
+  "task_statuses": {
+    "done": 14,
+    "pending": 653,
+    "running": 5
+  },
+  "waiting": [
+    {
+      "session": "40f36995e6794c88a1f061879da8b42a",
+      "task": "translate-r13-00005-1b88e8e6-s101b4cd4",
+      "result_exists": true,
+      "rejection": {
+        "task_id": "translate-r13-00005-1b88e8e6-s101b4cd4",
+        "error": "Output IDs must be unique and belong to this session",
+        "status": "rejected"
+      }
+    },
+    {
+      "session": "f5341701db18448abb717302e75a0c40",
+      "task": "translate-r13-00002-2fa73ffa",
+      "result_exists": true,
+      "rejection": {
+        "task_id": "translate-r13-00002-2fa73ffa",
+        "error": "Output IDs must be unique and belong to this session",
+        "status": "rejected"
+      }
+    },
+    {
+      "session": "3f91aa378d4c42c6927542b09f85acd1",
+      "task": "translate-r13-00014-b24cb930-s0b8fc2d7",
+      "result_exists": true,
+      "rejection": {
+        "task_id": "translate-r13-00014-b24cb930-s0b8fc2d7",
+        "error": "Output IDs must be unique and belong to this session",
+        "status": "rejected"
+      }
+    },
+    {
+      "session": "f808ef05c6114defbe49b3bcece66f78",
+      "task": "translate-r13-00009-a750c548-s58318e8b",
+      "result_exists": false,
+      "rejection": null
+    },
+    {
+      "session": "ec8c72e74462411595e57b8493cd0782",
+      "task": "translate-r13-00019-73bd5775-s1c0e009a",
+      "result_exists": true,
+      "rejection": {
+        "task_id": "translate-r13-00019-73bd5775-s1c0e009a",
+        "error": "Output IDs must be unique and belong to this session",
+        "status": "rejected"
+      }
+    }
+  ]
+}

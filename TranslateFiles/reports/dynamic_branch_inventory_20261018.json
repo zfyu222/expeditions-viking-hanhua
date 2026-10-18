@@ -1,0 +1,431 @@
+{
+  "purpose": "Inventory only; no source, translation, task, glossary or protection rules changed. Whole-bracket protection leaves these visible alternatives for later project-local handling.",
+  "total_occurrences": 498,
+  "variant_forms": 53,
+  "forms": [
+    {
+      "value": "his/her",
+      "count": 122,
+      "example": {
+        "ordinal": 115,
+        "marker": "[Player:his/her]"
+      }
+    },
+    {
+      "value": "he/she",
+      "count": 62,
+      "example": {
+        "ordinal": 115,
+        "marker": "[Player:he/she]"
+      }
+    },
+    {
+      "value": "man/woman",
+      "count": 46,
+      "example": {
+        "ordinal": 45,
+        "marker": "[Player:man/woman]"
+      }
+    },
+    {
+      "value": "He/She",
+      "count": 37,
+      "example": {
+        "ordinal": 243,
+        "marker": "[Stuck:He/She]"
+      }
+    },
+    {
+      "value": "him/her",
+      "count": 33,
+      "example": {
+        "ordinal": 487,
+        "marker": "[Unlucky:him/her]"
+      }
+    },
+    {
+      "value": "son/daughter",
+      "count": 33,
+      "example": {
+        "ordinal": 1988,
+        "marker": "[Player:son/daughter]"
+      }
+    },
+    {
+      "value": "Hlaford/Hlafdia",
+      "count": 23,
+      "example": {
+        "ordinal": 1195,
+        "marker": "[Player:Hlaford/Hlafdia]"
+      }
+    },
+    {
+      "value": "boy/girl",
+      "count": 17,
+      "example": {
+        "ordinal": 223,
+        "marker": "[Player:boy/girl]"
+      }
+    },
+    {
+      "value": "lad/lass",
+      "count": 14,
+      "example": {
+        "ordinal": 1699,
+        "marker": "[Player:lad/lass]"
+      }
+    },
+    {
+      "value": "brother/sister",
+      "count": 13,
+      "example": {
+        "ordinal": 1639,
+        "marker": "[Player:brother/sister]"
+      }
+    },
+    {
+      "value": "king/queen",
+      "count": 13,
+      "example": {
+        "ordinal": 1950,
+        "marker": "[Player:king/queen]"
+      }
+    },
+    {
+      "value": "Velkominn/Velkomin",
+      "count": 12,
+      "example": {
+        "ordinal": 224,
+        "marker": "[Player:Velkominn/Velkomin]"
+      }
+    },
+    {
+      "value": "Norseman/Norsewoman",
+      "count": 12,
+      "example": {
+        "ordinal": 358,
+        "marker": "[Player:Norseman/Norsewoman]"
+      }
+    },
+    {
+      "value": "His/Her",
+      "count": 9,
+      "example": {
+        "ordinal": 2736,
+        "marker": "[Curious01:His/Her]"
+      }
+    },
+    {
+      "value": "himself/herself",
+      "count": 7,
+      "example": {
+        "ordinal": 662,
+        "marker": "[Player:himself/herself]"
+      }
+    },
+    {
+      "value": "brother/sis",
+      "count": 4,
+      "example": {
+        "ordinal": 2378,
+        "marker": "[Player:brother/sis]"
+      }
+    },
+    {
+      "value": "warrior/shieldmaiden",
+      "count": 2,
+      "example": {
+        "ordinal": 2549,
+        "marker": "[Player:warrior/shieldmaiden]"
+      }
+    },
+    {
+      "value": "nephew/niece",
+      "count": 2,
+      "example": {
+        "ordinal": 2779,
+        "marker": "[Player:nephew/niece]"
+      }
+    },
+    {
+      "value": "King/Queen",
+      "count": 2,
+      "example": {
+        "ordinal": 4864,
+        "marker": "[Player:King/Queen]"
+      }
+    },
+    {
+      "value": "bastard/bitch",
+      "count": 2,
+      "example": {
+        "ordinal": 6936,
+        "marker": "[Player:bastard/bitch]"
+      }
+    },
+    {
+      "value": "woman/sister",
+      "count": 1,
+      "example": {
+        "ordinal": 992,
+        "marker": "[Player:woman/sister]"
+      }
+    },
+    {
+      "value": "Brother/Sister",
+      "count": 1,
+      "example": {
+        "ordinal": 1073,
+        "marker": "[Player:Brother/Sister]"
+      }
+    },
+    {
+      "value": "master/mistress",
+      "count": 1,
+      "example": {
+        "ordinal": 1181,
+        "marker": "[Player:master/mistress]"
+      }
+    },
+    {
+      "value": "son/daughter-in-law",
+      "count": 1,
+      "example": {
+        "ordinal": 2281,
+        "marker": "[Player:son/daughter-in-law]"
+      }
+    },
+    {
+      "value": "bastardr/bikkja",
+      "count": 1,
+      "example": {
+        "ordinal": 2373,
+        "marker": "[Player:bastardr/bikkja]"
+      }
+    },
+    {
+      "value": "Man/Woman",
+      "count": 1,
+      "example": {
+        "ordinal": 3134,
+        "marker": "[Player:Man/Woman]"
+      }
+    },
+    {
+      "value": "handsome/beautiful",
+      "count": 1,
+      "example": {
+        "ordinal": 3462,
+        "marker": "[Player:handsome/beautiful]"
+      }
+    },
+    {
+      "value": "you son/daughter",
+      "count": 1,
+      "example": {
+        "ordinal": 3820,
+        "marker": "[Player:you son/daughter]"
+      }
+    },
+    {
+      "value": "honourable/beautiful",
+      "count": 1,
+      "example": {
+        "ordinal": 3950,
+        "marker": "[Player:honourable/beautiful]"
+      }
+    },
+    {
+      "value": "bikkju-sonr/bikkja",
+      "count": 1,
+      "example": {
+        "ordinal": 5688,
+        "marker": "[Player:bikkju-sonr/bikkja]"
+      }
+    },
+    {
+      "value": "Bastardr/Bikkja",
+      "count": 1,
+      "example": {
+        "ordinal": 5933,
+        "marker": "[Player:Bastardr/Bikkja]"
+      }
+    },
+    {
+      "value": "guy/lady",
+      "count": 1,
+      "example": {
+        "ordinal": 6307,
+        "marker": "[Player:guy/lady]"
+      }
+    },
+    {
+      "value": "bastard/woman",
+      "count": 1,
+      "example": {
+        "ordinal": 6505,
+        "marker": "[Player:bastard/woman]"
+      }
+    },
+    {
+      "value": "son of a bitch/little mare",
+      "count": 1,
+      "example": {
+        "ordinal": 7336,
+        "marker": "[Player:son of a bitch/little mare]"
+      }
+    },
+    {
+      "value": "tender/sisterly",
+      "count": 1,
+      "example": {
+        "ordinal": 7429,
+        "marker": "[Player:tender/sisterly]"
+      }
+    },
+    {
+      "value": "son of a bitch/bitch",
+      "count": 1,
+      "example": {
+        "ordinal": 8842,
+        "marker": "[Player:son of a bitch/bitch]"
+      }
+    },
+    {
+      "value": "big lug/silly girl",
+      "count": 1,
+      "example": {
+        "ordinal": 9123,
+        "marker": "[Player:big lug/silly girl]"
+      }
+    },
+    {
+      "value": "snake/mare",
+      "count": 1,
+      "example": {
+        "ordinal": 9388,
+        "marker": "[Player:snake/mare]"
+      }
+    },
+    {
+      "value": "he himself/she herself",
+      "count": 1,
+      "example": {
+        "ordinal": 10562,
+        "marker": "[Player:he himself/she herself]"
+      }
+    },
+    {
+      "value": "craftsman/craftswoman",
+      "count": 1,
+      "example": {
+        "ordinal": 11285,
+        "marker": "[Player:craftsman/craftswoman]"
+      }
+    },
+    {
+      "value": "brothers/brother and sister",
+      "count": 1,
+      "example": {
+        "ordinal": 11359,
+        "marker": "[Player:brothers/brother and sister]"
+      }
+    },
+    {
+      "value": "boys/girls",
+      "count": 1,
+      "example": {
+        "ordinal": 12638,
+        "marker": "[Player:boys/girls]"
+      }
+    },
+    {
+      "value": "warrior/thieldmaiden",
+      "count": 1,
+      "example": {
+        "ordinal": 12955,
+        "marker": "[Player:warrior/thieldmaiden]"
+      }
+    },
+    {
+      "value": "hlaford/hlafdia",
+      "count": 1,
+      "example": {
+        "ordinal": 13266,
+        "marker": "[Player:hlaford/hlafdia]"
+      }
+    },
+    {
+      "value": "man/girl",
+      "count": 1,
+      "example": {
+        "ordinal": 13297,
+        "marker": "[Player:man/girl]"
+      }
+    },
+    {
+      "value": "son/girl",
+      "count": 1,
+      "example": {
+        "ordinal": 13418,
+        "marker": "[Player:son/girl]"
+      }
+    },
+    {
+      "value": "his/hers",
+      "count": 1,
+      "example": {
+        "ordinal": 13429,
+        "marker": "[Lover:his/hers]"
+      }
+    },
+    {
+      "value": "He's/She's",
+      "count": 1,
+      "example": {
+        "ordinal": 14250,
+        "marker": "[Random01:He's/She's]"
+      }
+    },
+    {
+      "value": "his/her breath",
+      "count": 1,
+      "example": {
+        "ordinal": 14473,
+        "marker": "[Random01:his/her breath]"
+      }
+    },
+    {
+      "value": "chieftain/warrior woman",
+      "count": 1,
+      "example": {
+        "ordinal": 16071,
+        "marker": "[Player:chieftain/warrior woman]"
+      }
+    },
+    {
+      "value": "Bastard/Bitch",
+      "count": 1,
+      "example": {
+        "ordinal": 16173,
+        "marker": "[Player:Bastard/Bitch]"
+      }
+    },
+    {
+      "value": "men/women",
+      "count": 1,
+      "example": {
+        "ordinal": 17171,
+        "marker": "[Player:men/women]"
+      }
+    },
+    {
+      "value": "Thorr/Freyja",
+      "count": 1,
+      "example": {
+        "ordinal": 18088,
+        "marker": "[Player:Thorr/Freyja]"
+      }
+    }
+  ]
+}
