@@ -1,0 +1,158 @@
+{
+  "run_id": "9997b2f8440b436eabfb97318a22c34b",
+  "stage": "draft_check",
+  "status": "needs_attention",
+  "started_at": "2026-10-18T14:57:51.113406+00:00",
+  "receipt_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\9997b2f8440b436eabfb97318a22c34b.json",
+  "stdout_log": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\logs\\api_runs\\9997b2f8440b436eabfb97318a22c34b.stdout.log",
+  "stderr_log": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\logs\\api_runs\\9997b2f8440b436eabfb97318a22c34b.stderr.log",
+  "profile_log": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\logs\\api_runs\\9997b2f8440b436eabfb97318a22c34b.profile.jsonl",
+  "profile_summary": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\9997b2f8440b436eabfb97318a22c34b.profile.json",
+  "pid": 34628,
+  "exit_code": 0,
+  "accepted": 0,
+  "failed": 0,
+  "paused": false,
+  "needs_attention_count": 1,
+  "pending_handoffs_count": 0,
+  "continuous": true,
+  "stage_clean": false,
+  "next_action": "external_executor_required",
+  "api_rounds": [],
+  "last_scan": {
+    "stage": "translate",
+    "phase": "initial_full",
+    "status": "needs_repair",
+    "clean": false,
+    "checked_records": 23195,
+    "failed_records": 17,
+    "report_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\full_draft_scan.json"
+  },
+  "repair_dispatch": [
+    {
+      "task_id": "draft-repair-c4ebd87e95f44d65868f-s8b5da017",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0000726_eed9b5e2a3": 7,
+        "R0001218_d6f1d2918d": 7,
+        "R0002162_2689e1b19d": 7,
+        "R0003421_03bd5cfa77": 7,
+        "R0012153_bfc1066895": 7,
+        "R0017709_fb2142b837": 7,
+        "R0019575_2a89c67a57": 7,
+        "R0020044_8ae7f3c3f9": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-c4ebd87e95f44d65868f-sb5104cef",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0005622_9af11b5ffb": 7,
+        "R0007758_f9fe523d95": 7,
+        "R0007922_ee312f82e6": 7,
+        "R0009995_37e801b50f": 7,
+        "R0013870_fcf4710e13": 7,
+        "R0014739_7f8aa7bca1": 7,
+        "R0017194_18e095b735": 7,
+        "R0018264_fc0cead31c": 7,
+        "R0019909_f2ce741ecb": 7
+      },
+      "automatic_escalation": true
+    }
+  ],
+  "finished_at": "2026-10-18T15:10:11.182832+00:00",
+  "elapsed_seconds": 740.07,
+  "performance": {
+    "run_id": "9997b2f8440b436eabfb97318a22c34b",
+    "stage": "draft_check",
+    "status": "needs_attention",
+    "elapsed_seconds": 739.6615,
+    "first_request_seconds": null,
+    "requests_started": 0,
+    "accepted_batches": 0,
+    "failed_attempts": 0,
+    "peak_in_flight": 0,
+    "total_batches": null,
+    "completed_before_run": null,
+    "recovered_batches": 0,
+    "records_saved_this_run": 0,
+    "api_cycles": [],
+    "stage_clean": false,
+    "phase_seconds": {
+      "draft_scan": 739.5922
+    },
+    "unfinished_phases": [],
+    "run_tokens": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "cached_prompt_tokens": 0,
+      "reasoning_tokens": 0,
+      "reported_requests": 0,
+      "unknown_requests": 0
+    },
+    "project_tokens": {
+      "prompt_tokens": 16442401,
+      "completion_tokens": 3962532,
+      "total_tokens": 20404933,
+      "cached_prompt_tokens": 3287680,
+      "reasoning_tokens": 0,
+      "reported_requests": 4158,
+      "unknown_requests": 19
+    },
+    "counters": {
+      "term_cache_misses": 21539,
+      "term_cache_hits": 1711
+    },
+    "timings": {
+      "db_lock_wait": {
+        "count": 5,
+        "sum_seconds": 0.000178,
+        "max_seconds": 6.4e-05
+      },
+      "config_validate": {
+        "count": 9,
+        "sum_seconds": 0.049779,
+        "max_seconds": 0.043308
+      },
+      "glossary_load": {
+        "count": 6,
+        "sum_seconds": 0.012209,
+        "max_seconds": 0.011983
+      },
+      "term_match": {
+        "count": 23250,
+        "sum_seconds": 728.308704,
+        "max_seconds": 1.496599
+      },
+      "token_count": {
+        "count": 63,
+        "sum_seconds": 0.380364,
+        "max_seconds": 0.351471
+      },
+      "input_render": {
+        "count": 3,
+        "sum_seconds": 0.008013,
+        "max_seconds": 0.003217
+      },
+      "task_allocate": {
+        "count": 1,
+        "sum_seconds": 0.158909,
+        "max_seconds": 0.158909
+      },
+      "draft_scan": {
+        "count": 1,
+        "sum_seconds": 739.591841,
+        "max_seconds": 739.591841
+      }
+    },
+    "timing_note": "Nested spans overlap; concurrent request sums may exceed elapsed wall time.",
+    "profile_log": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\logs\\api_runs\\9997b2f8440b436eabfb97318a22c34b.profile.jsonl",
+    "profile_summary": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\9997b2f8440b436eabfb97318a22c34b.profile.json"
+  }
+}

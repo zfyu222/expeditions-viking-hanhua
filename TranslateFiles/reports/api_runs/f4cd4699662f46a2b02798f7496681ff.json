@@ -1,0 +1,1256 @@
+{
+  "run_id": "f4cd4699662f46a2b02798f7496681ff",
+  "stage": "draft_check",
+  "status": "needs_attention",
+  "started_at": "2026-10-18T14:30:42.520735+00:00",
+  "receipt_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\f4cd4699662f46a2b02798f7496681ff.json",
+  "stdout_log": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\logs\\api_runs\\f4cd4699662f46a2b02798f7496681ff.stdout.log",
+  "stderr_log": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\logs\\api_runs\\f4cd4699662f46a2b02798f7496681ff.stderr.log",
+  "profile_log": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\logs\\api_runs\\f4cd4699662f46a2b02798f7496681ff.profile.jsonl",
+  "profile_summary": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\f4cd4699662f46a2b02798f7496681ff.profile.json",
+  "pid": 21940,
+  "exit_code": 0,
+  "accepted": 689,
+  "failed": 11,
+  "paused": false,
+  "needs_attention_count": 1,
+  "pending_handoffs_count": 0,
+  "continuous": true,
+  "stage_clean": false,
+  "next_action": "external_executor_required",
+  "api_rounds": [
+    {
+      "cycle": 1,
+      "accepted": 368,
+      "failed": 7,
+      "records_saved": 4451,
+      "scan": {
+        "phase": "issue_recheck",
+        "status": "needs_repair",
+        "clean": false,
+        "checked_records": 4451,
+        "failed_records": 601,
+        "report_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\full_draft_scan.json"
+      }
+    },
+    {
+      "cycle": 2,
+      "accepted": 76,
+      "failed": 0,
+      "records_saved": 601,
+      "scan": {
+        "phase": "issue_recheck",
+        "status": "needs_repair",
+        "clean": false,
+        "checked_records": 601,
+        "failed_records": 524,
+        "report_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\full_draft_scan.json"
+      }
+    },
+    {
+      "cycle": 3,
+      "accepted": 67,
+      "failed": 1,
+      "records_saved": 524,
+      "scan": {
+        "phase": "issue_recheck",
+        "status": "needs_repair",
+        "clean": false,
+        "checked_records": 524,
+        "failed_records": 497,
+        "report_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\full_draft_scan.json"
+      }
+    },
+    {
+      "cycle": 4,
+      "accepted": 64,
+      "failed": 1,
+      "records_saved": 497,
+      "scan": {
+        "phase": "issue_recheck",
+        "status": "needs_repair",
+        "clean": false,
+        "checked_records": 497,
+        "failed_records": 464,
+        "report_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\full_draft_scan.json"
+      }
+    },
+    {
+      "cycle": 5,
+      "accepted": 60,
+      "failed": 1,
+      "records_saved": 464,
+      "scan": {
+        "phase": "issue_recheck",
+        "status": "needs_repair",
+        "clean": false,
+        "checked_records": 464,
+        "failed_records": 416,
+        "report_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\full_draft_scan.json"
+      }
+    },
+    {
+      "cycle": 6,
+      "accepted": 54,
+      "failed": 1,
+      "records_saved": 416,
+      "scan": {
+        "phase": "issue_recheck",
+        "status": "needs_repair",
+        "clean": false,
+        "checked_records": 416,
+        "failed_records": 416,
+        "report_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\full_draft_scan.json"
+      }
+    }
+  ],
+  "last_scan": {
+    "stage": "translate",
+    "phase": "issue_recheck",
+    "status": "needs_repair",
+    "clean": false,
+    "checked_records": 416,
+    "failed_records": 416,
+    "report_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\full_draft_scan.json"
+  },
+  "repair_dispatch": [
+    {
+      "task_id": "draft-repair-808135bf8483492f9030-s93c3b042",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0000045_e68ea0b486": 7,
+        "R0000058_7aee7f0f5c": 7,
+        "R0000065_27c06f90ae": 7,
+        "R0000092_b59490f109": 7,
+        "R0000182_b53d677815": 7,
+        "R0000244_8ebc595c48": 7,
+        "R0000414_795f247c62": 7,
+        "R0000527_4e8d723730": 7,
+        "R0000541_8542da7ff9": 7,
+        "R0000575_0ea1401cce": 7,
+        "R0000578_654b46eb89": 7,
+        "R0000579_2973d38c07": 7,
+        "R0000583_401287a55b": 7,
+        "R0000591_be82fd550b": 7,
+        "R0000732_5ca7f1fe1a": 7,
+        "R0000739_bedb081449": 7,
+        "R0000740_8fd7e99083": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-808135bf8483492f9030-s1567d83a",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0000797_5b11046285": 7,
+        "R0000853_d74391b98f": 7,
+        "R0000922_eaaeab88f7": 7,
+        "R0000984_51e43b36c0": 7,
+        "R0000988_a06e2c9b42": 7,
+        "R0000992_c805d0ae84": 7,
+        "R0001005_f6eb7a8e65": 7,
+        "R0001006_f81e9eb98d": 7,
+        "R0001022_9009dfbe31": 7,
+        "R0001025_93b18c81d2": 7,
+        "R0001056_b59914d285": 7,
+        "R0001057_8758a6b098": 7,
+        "R0001156_2899c3fe01": 7,
+        "R0001159_c4a6f15545": 7,
+        "R0001171_7b485e7da0": 7,
+        "R0001192_d9506b366b": 7,
+        "R0001212_543ae9e7d1": 7,
+        "R0001253_3bd7de7145": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-bafc5bd2fe2146698338-s4128f6d5",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0001266_cf2d3d4565": 7,
+        "R0001274_4c33f51109": 7,
+        "R0001280_a5bbd3b0e5": 7,
+        "R0001285_fd2e7b1725": 7,
+        "R0001463_9a5d4538de": 7,
+        "R0001466_af4137507e": 7,
+        "R0001507_2f38afc4b9": 7,
+        "R0001519_56c432a052": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-bafc5bd2fe2146698338-sfde154d5",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0001523_a6249a345f": 7,
+        "R0001882_333956381a": 7,
+        "R0001937_b13a90fc93": 7,
+        "R0001988_a11990836a": 7,
+        "R0002005_f36b518e9f": 7,
+        "R0002011_529eb7f84a": 7,
+        "R0002171_3ca5d5b2da": 7,
+        "R0002196_d1e0726033": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-bafc5bd2fe2146698338-s7a0289fb",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0002258_cd5410ee2b": 7,
+        "R0002281_6887072059": 7,
+        "R0002302_13524fd4dc": 7,
+        "R0002329_811f30d8e8": 7,
+        "R0002420_a5d1b9e9d2": 7,
+        "R0002423_3c0706896c": 7,
+        "R0002457_1a637b668b": 7,
+        "R0002490_b70c33bbef": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-bafc5bd2fe2146698338-s2c6e3e21",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0002494_4db9658b30": 7,
+        "R0002514_68f9486d25": 7,
+        "R0002516_0e525feb1e": 7,
+        "R0002546_fb8dad3c04": 7,
+        "R0002553_01a80b2d89": 7,
+        "R0002611_c5321350bb": 7,
+        "R0002615_ad0cf00fe8": 7,
+        "R0002690_a9817c957f": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-3b1711aeb622422894bf-s850b77a8",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0003141_a5999de3ee": 7,
+        "R0003484_49c5ced8fc": 7,
+        "R0003501_aac97c4c9c": 7,
+        "R0003661_c08ea7435b": 7,
+        "R0003693_fe3618eac8": 7,
+        "R0003731_f1d222f51e": 7,
+        "R0003778_f24b018ab5": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-3b1711aeb622422894bf-s6b27327a",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0003854_6f209a6b67": 7,
+        "R0003885_f0dd1bf8fa": 7,
+        "R0003915_cdcf3eecd5": 7,
+        "R0004101_cbf990fcd2": 7,
+        "R0004202_57d65b2758": 7,
+        "R0004227_df1aacf23b": 7,
+        "R0004369_8bcdcc2efd": 7,
+        "R0004394_51ee20f401": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-3b1711aeb622422894bf-sb0941d57",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0004448_cd8a41ac3e": 7,
+        "R0004559_43ef5af82a": 7,
+        "R0004671_c81b57abc8": 7,
+        "R0004681_62ded62971": 7,
+        "R0004697_6da3d1b001": 7,
+        "R0004718_ec23d29602": 7,
+        "R0004765_ed2eb77971": 7,
+        "R0004787_8012aaa177": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-3b1711aeb622422894bf-s857905c6",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0004800_a7a541c153": 7,
+        "R0004839_3911384f31": 7,
+        "R0004844_f30f711ffb": 7,
+        "R0004864_1159edcbb7": 7,
+        "R0004881_4edac2a187": 7,
+        "R0004912_f3a84fd1ca": 7,
+        "R0004919_bc0096b171": 7,
+        "R0004942_cd81937d35": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-6560f8e871314d0e8301-sf315f6d7",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0004960_b2f1708aa6": 7,
+        "R0005065_0cc823adeb": 7,
+        "R0005073_cd9503b75c": 7,
+        "R0005126_6fee1adfd1": 7,
+        "R0005157_13a9caa4f5": 7,
+        "R0005241_3dbdb2b0e7": 7,
+        "R0005329_1ebc48bd9d": 7,
+        "R0005358_32d8f0f139": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-6560f8e871314d0e8301-s5fc9f5d4",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0005395_dcc14e1830": 7,
+        "R0005414_c0737fcdc0": 7,
+        "R0005417_d643da4fab": 7,
+        "R0005488_96277df7cb": 7,
+        "R0005498_5fc5342c96": 7,
+        "R0005504_d5e13cf3fe": 7,
+        "R0005590_5990509247": 7,
+        "R0005598_770f3aa94b": 7,
+        "R0005612_ad8248834e": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-6560f8e871314d0e8301-s81b76834",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0005617_8d39b6ae2d": 7,
+        "R0005627_7f0de40e9e": 7,
+        "R0005734_1586fea252": 7,
+        "R0005860_a39114ba2f": 7,
+        "R0006007_fe245efe49": 7,
+        "R0006010_13fd4a7309": 7,
+        "R0006096_289b9a1eb4": 7,
+        "R0006109_9da2118b0c": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-6560f8e871314d0e8301-sd87900b4",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0006120_d36fc626f9": 7,
+        "R0006254_17b3a04a9c": 7,
+        "R0006297_4f312e8152": 7,
+        "R0006340_2a2cf288e2": 7,
+        "R0006366_e53ef9b588": 7,
+        "R0006406_cb636d8ea0": 7,
+        "R0006431_908e7d5f8b": 7,
+        "R0006505_94697fb3b4": 7,
+        "R0006516_3d8c1d98bb": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-1a716fe3f2e94946be6f-sb7941ae1",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0006525_5cb1ac0eb6": 7,
+        "R0006566_4fee6db105": 7,
+        "R0006578_3d6b4ae639": 7,
+        "R0006589_df0129697c": 7,
+        "R0006784_c8e298d798": 7,
+        "R0006793_a2f1466260": 7,
+        "R0006903_7934d0adb5": 7,
+        "R0007010_9b4794fd50": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-1a716fe3f2e94946be6f-s0d846f1c",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0007104_848c25d8ad": 7,
+        "R0007122_29096d55c6": 7,
+        "R0007165_c3c1dabe19": 7,
+        "R0007167_cdadae9c23": 7,
+        "R0007169_45180fdfdd": 7,
+        "R0007176_7f93089c80": 7,
+        "R0007205_0bfbc94647": 7,
+        "R0007212_3faeefc3a6": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-1a716fe3f2e94946be6f-se1edd29f",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0007275_262df26de2": 7,
+        "R0007316_6f089ee8df": 7,
+        "R0007373_8556b472eb": 7,
+        "R0007701_df5badc6fa": 7,
+        "R0007712_795ee6dc45": 7,
+        "R0007749_df39c75918": 7,
+        "R0007760_4ca6c70695": 7,
+        "R0008181_85023f4526": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-1a716fe3f2e94946be6f-s5476a12b",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0008225_4473603df4": 7,
+        "R0008230_e0189ce521": 7,
+        "R0008251_0c4230e902": 7,
+        "R0008305_d5cfe0f803": 7,
+        "R0008321_1115031626": 7,
+        "R0008423_7e592376a1": 7,
+        "R0008666_4dad9dc6b3": 7,
+        "R0008696_641e63b13e": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-89c7ac8688e7436bbd7a-s368ead08",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0008710_dfc12308b5": 7,
+        "R0008753_90e66f901b": 7,
+        "R0008807_09a25cf6fa": 7,
+        "R0008862_ac7678f365": 7,
+        "R0008921_c191a99e97": 7,
+        "R0008953_2a827d9095": 7,
+        "R0009031_cb12e01b2a": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-89c7ac8688e7436bbd7a-s4731f0c3",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0009045_a8afd461c8": 7,
+        "R0009065_3034e895f2": 7,
+        "R0009091_008d315c09": 7,
+        "R0009102_e03eaba86d": 7,
+        "R0009117_1c471082c9": 7,
+        "R0009151_410877a74f": 7,
+        "R0009152_c71207b842": 7,
+        "R0009166_36c31042a2": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-89c7ac8688e7436bbd7a-sa630a248",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0009289_6dc637a3f1": 7,
+        "R0009295_9b8f1170e7": 7,
+        "R0009320_36c923931d": 7,
+        "R0009349_81c2340c7c": 7,
+        "R0009380_7bca2bc83b": 7,
+        "R0009388_2a93292b49": 7,
+        "R0009448_9471f90724": 7,
+        "R0009463_d8bed6b053": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-89c7ac8688e7436bbd7a-s89bb23b5",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0009512_0088a69caa": 7,
+        "R0009567_6af3412608": 7,
+        "R0009573_e9d11cab9d": 7,
+        "R0009605_441bb0f321": 7,
+        "R0009642_42b2c96a15": 7,
+        "R0009648_d5423cafd6": 7,
+        "R0009683_dba27b1d27": 7,
+        "R0009688_f432e9461f": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-3ce143a99f334d6795d2-s66858221",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0009702_45e4a7b573": 7,
+        "R0009759_c319900135": 7,
+        "R0009821_55c1cce915": 7,
+        "R0009837_c4e39faf9c": 7,
+        "R0009851_cd10dc40f9": 7,
+        "R0009853_3e279ee53b": 7,
+        "R0009960_3107c84c34": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-3ce143a99f334d6795d2-s990a9daf",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0009998_9f20c745ae": 7,
+        "R0010026_4d4393d3d1": 7,
+        "R0010039_6ccfd4c3f1": 7,
+        "R0010083_7be82b81c3": 7,
+        "R0010091_b852bb8002": 7,
+        "R0010096_52daacb319": 7,
+        "R0010216_3d30aaecc5": 7,
+        "R0010238_2db2ad7eb8": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-3ce143a99f334d6795d2-sd35f1033",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0010347_a82d8d11ee": 7,
+        "R0010356_e6be4fcb78": 7,
+        "R0010359_48f7c77a5b": 7,
+        "R0010404_b22ff99ff5": 7,
+        "R0010518_e5ef4ece81": 7,
+        "R0010537_98e8d289a6": 7,
+        "R0010997_8f9064ba29": 7,
+        "R0011062_ab77b62868": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-3ce143a99f334d6795d2-sc39ffb87",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0011069_42d28ad794": 7,
+        "R0011124_b1f3a86b2a": 7,
+        "R0011130_ac9a5c0856": 7,
+        "R0011137_cb6b51bea8": 7,
+        "R0011201_73b6e5fe02": 7,
+        "R0011410_1842444366": 7,
+        "R0011411_ca362c8cc5": 7,
+        "R0011826_c7d235927a": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-d2b3a8aec733425bb24b-sedc4d9ef",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0011862_0800c52f9a": 7,
+        "R0011934_4a16a46d3f": 7,
+        "R0011935_f6f1d9c8ba": 7,
+        "R0011952_dfc46c391f": 7,
+        "R0011964_ad7e2f5118": 7,
+        "R0011975_683fac402c": 7,
+        "R0012016_b8de558262": 7,
+        "R0012021_8d7b778d67": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-d2b3a8aec733425bb24b-s9b8e3303",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0012027_ae72fd93e1": 7,
+        "R0012153_bfc1066895": 7,
+        "R0012206_e3a5c4c3fd": 7,
+        "R0012220_b964909120": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-d2b3a8aec733425bb24b-s3501ac07",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0012224_2aca3253d1": 7,
+        "R0012254_c71368ab89": 7,
+        "R0012261_b613a79ff3": 7,
+        "R0012304_a0d6d9162c": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-d2b3a8aec733425bb24b-s9bbda456",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0012354_ed95413aa1": 7,
+        "R0012366_6193e609f0": 7,
+        "R0012372_34fb0013f8": 7,
+        "R0012406_f0699aada3": 7,
+        "R0012428_9b5098f7da": 7,
+        "R0012435_e6f09a114b": 7,
+        "R0012537_883c167ce2": 7,
+        "R0012547_49e2c3adae": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-d2b3a8aec733425bb24b-s5dbf5173",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0012566_43ce4bdcd9": 7,
+        "R0012583_25dca15d46": 7,
+        "R0012618_3e04b480dc": 7,
+        "R0012619_f5ee04246f": 7,
+        "R0012622_e248672d33": 7,
+        "R0012723_326433ae4e": 7,
+        "R0012834_4dbc046246": 7,
+        "R0012839_dadd9791ba": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-2c798fad76cb4c6c9a89-s7f608fb4",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0012847_df75274d48": 7,
+        "R0012848_1bd37b2c0f": 7,
+        "R0012886_7baea3bce7": 7,
+        "R0012937_9ccb0a75fa": 7,
+        "R0012995_122c4131d3": 7,
+        "R0013032_7be0274007": 7,
+        "R0013037_e64d451913": 7,
+        "R0013186_b76ea1d28b": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-2c798fad76cb4c6c9a89-sf6551f27",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0013265_a9817c957f": 7,
+        "R0013268_9bb963d0aa": 7,
+        "R0013390_aa144302e2": 7,
+        "R0013558_32a95313ce": 7,
+        "R0013601_13cbfc1fc6": 7,
+        "R0013862_93cdcaa2da": 7,
+        "R0013871_abae62531a": 7,
+        "R0013890_9740b648f6": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-2c798fad76cb4c6c9a89-sf5946dbe",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0013934_be4f988bf0": 7,
+        "R0013961_33fe59c036": 7,
+        "R0013992_609e3e78cc": 7,
+        "R0014009_b2e8fb9a84": 7,
+        "R0014196_421cc7c98d": 7,
+        "R0014223_3ecf2fdcfc": 7,
+        "R0014278_de7bc19ef0": 7,
+        "R0014287_ae7d6fe4d1": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-2c798fad76cb4c6c9a89-s83aade71",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0014294_c042fb5f5a": 7,
+        "R0014342_f2445e9727": 7,
+        "R0014355_f30491423e": 7,
+        "R0014361_3848f1265c": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-2c798fad76cb4c6c9a89-sfe77e509",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0014370_edb2eae542": 7,
+        "R0014388_f7b92efc49": 7,
+        "R0014459_f4358b4eca": 7,
+        "R0014489_fb276ad6c5": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-9318d52ccc1c45adb2c4-s69783b7c",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0014494_207a0c293f": 7,
+        "R0014496_fb531cdf03": 7,
+        "R0014503_e96a0a9583": 7,
+        "R0014514_644e313f71": 7,
+        "R0014571_45d0139d4f": 7,
+        "R0014759_a976a10e24": 7,
+        "R0014760_dde96b5242": 7,
+        "R0015047_8592b1ba95": 7,
+        "R0015051_c69ec93d5c": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-9318d52ccc1c45adb2c4-sdc2fa62c",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0015101_ed5d730683": 7,
+        "R0015131_fa16b543bc": 7,
+        "R0015135_79537fd1b1": 7,
+        "R0015240_ccb89f2de1": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-9318d52ccc1c45adb2c4-s7e86587f",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0015273_bb3eae180c": 7,
+        "R0015551_2c6b0cc4e8": 7,
+        "R0015555_ec68b938a4": 7,
+        "R0015556_9533a30ef9": 7,
+        "R0015595_cf5c8dd0d1": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-9318d52ccc1c45adb2c4-s0f5ed59b",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0015623_e6b6e7e855": 7,
+        "R0015652_72fb6862ac": 7,
+        "R0015691_b73d6193e0": 7,
+        "R0015700_6a3d82b8a9": 7,
+        "R0015715_20e466fc78": 7,
+        "R0015727_a53b0f8dbb": 7,
+        "R0015826_59c6ceedbb": 7,
+        "R0015836_b4df58e640": 7,
+        "R0015845_9294bae39c": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-9318d52ccc1c45adb2c4-s6cbcd998",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0015848_2b7390e994": 7,
+        "R0015907_5d581b1049": 7,
+        "R0015923_bd01d03479": 7,
+        "R0015995_906eb12c6d": 7,
+        "R0016030_1d9adb4a3b": 7,
+        "R0016099_6e30076ee9": 7,
+        "R0016258_2244667253": 7,
+        "R0016268_cc15782487": 7,
+        "R0016315_b9c969f8e4": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-d70cd134fa7744919907-s4c9b23a2",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0016319_eeac7a2555": 7,
+        "R0016490_770f3aa94b": 7,
+        "R0016545_acde1a146c": 7,
+        "R0017067_5af5fa7c60": 7,
+        "R0017158_5a7990646a": 7,
+        "R0017198_05140b2272": 7,
+        "R0017312_85da6bb758": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-d70cd134fa7744919907-s57b75e9d",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0017381_a981d37052": 7,
+        "R0017394_db60d62247": 7,
+        "R0017435_df955d101d": 7,
+        "R0017480_98af80beb7": 7,
+        "R0017617_197381999e": 7,
+        "R0017771_e1248200f8": 7,
+        "R0017793_9fb5d687c9": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-d70cd134fa7744919907-s15526f6f",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0017811_d9d3a78c8a": 7,
+        "R0017858_ec50ea5335": 7,
+        "R0017879_348d096cb6": 7,
+        "R0017957_596c40e957": 7,
+        "R0017962_ada0883ac7": 7,
+        "R0018016_a70e4e0c13": 7,
+        "R0018036_ee78caec9f": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-d70cd134fa7744919907-s1c6d868d",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0018039_eb534dd56e": 7,
+        "R0018043_92418da52a": 7,
+        "R0018175_bd1e158ac6": 7,
+        "R0018193_3febf68a9a": 7,
+        "R0018210_058b5044c0": 7,
+        "R0018360_c10617e771": 7,
+        "R0018501_5fdcb3539e": 7,
+        "R0018610_d855ce779b": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-7c842be7afed4a70ad10-s8a2bb906",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0018723_40ae8e3b2a": 7,
+        "R0018753_15a0d2722a": 7,
+        "R0018754_28430ad39b": 7,
+        "R0018775_24bb7a909e": 7,
+        "R0018869_e1bb83ee9a": 7,
+        "R0019058_b6caf47ad5": 7,
+        "R0019265_6f322ad42c": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-7c842be7afed4a70ad10-s3a90b70f",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0019347_387617bd72": 7,
+        "R0019350_d575db3c6e": 7,
+        "R0019371_feca170564": 7,
+        "R0019456_bddae1d797": 7,
+        "R0019767_357dbbbeb5": 7,
+        "R0019785_22e02adb76": 7,
+        "R0019786_8efa224ddb": 7,
+        "R0019800_6faa41d35b": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-7c842be7afed4a70ad10-s547c991d",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0019803_4a873cb135": 7,
+        "R0020346_10a6f9af1e": 7,
+        "R0020350_b11869ee85": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-7c842be7afed4a70ad10-sc374e4cb",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0020362_1c722e5e8a": 7,
+        "R0020375_a2f4a1849e": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-7c842be7afed4a70ad10-sc70afc3a",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0020401_4a3433c26b": 7,
+        "R0020412_7de997facd": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-7c842be7afed4a70ad10-s51743d03",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0020414_db81882126": 7,
+        "R0020418_f66eff7392": 7,
+        "R0020421_249a63f597": 7,
+        "R0022330_7352e3fb7c": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-7c842be7afed4a70ad10-s6b25699c",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0022334_fec3222566": 7,
+        "R0022428_dfe5ab1aaf": 7,
+        "R0022447_e97aa42329": 7,
+        "R0022464_e8497f61f7": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-7fe142ef7e3b45628fb7-s40e70bef",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0022475_081c00f571": 7,
+        "R0022557_91cbd2fa3b": 7,
+        "R0022574_8484746475": 7,
+        "R0022575_8484746475": 7,
+        "R0022684_0c9e903e60": 7,
+        "R0022686_dda4940569": 7,
+        "R0022717_85ccf3fe04": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-7fe142ef7e3b45628fb7-s3492d686",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0022739_3c316c1bc8": 7,
+        "R0022767_70a25b20c9": 7,
+        "R0022768_3fbb8cbfdf": 7,
+        "R0022769_5ea13c05ee": 7,
+        "R0022770_2573d6ceb4": 7,
+        "R0022894_f2089cb8f0": 7,
+        "R0022938_4d25f0ece2": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-7fe142ef7e3b45628fb7-s182c2158",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0000726_eed9b5e2a3": 7,
+        "R0001218_d6f1d2918d": 7,
+        "R0002162_2689e1b19d": 7,
+        "R0003421_03bd5cfa77": 7,
+        "R0005622_9af11b5ffb": 7,
+        "R0007758_f9fe523d95": 7,
+        "R0007922_ee312f82e6": 7,
+        "R0009995_37e801b50f": 7,
+        "R0013870_fcf4710e13": 7,
+        "R0014739_7f8aa7bca1": 7,
+        "R0017194_18e095b735": 7,
+        "R0017709_fb2142b837": 7,
+        "R0019575_2a89c67a57": 7,
+        "R0020044_8ae7f3c3f9": 7,
+        "R0022939_2a9a005c8a": 7
+      },
+      "automatic_escalation": true
+    },
+    {
+      "task_id": "draft-repair-e553c24a1afa4ba88277",
+      "backend": "codex",
+      "repair_tier": "sol",
+      "required_model": "gpt-6-sol",
+      "repair_counts": {
+        "R0018264_fc0cead31c": 7,
+        "R0019909_f2ce741ecb": 7
+      },
+      "automatic_escalation": true
+    }
+  ],
+  "finished_at": "2026-10-18T14:55:35.731913+00:00",
+  "elapsed_seconds": 1493.2119,
+  "performance": {
+    "run_id": "f4cd4699662f46a2b02798f7496681ff",
+    "stage": "draft_check",
+    "status": "needs_attention",
+    "elapsed_seconds": 1492.2159,
+    "first_request_seconds": 796.9991,
+    "requests_started": 700,
+    "accepted_batches": 689,
+    "failed_attempts": 11,
+    "peak_in_flight": 5,
+    "total_batches": 689,
+    "completed_before_run": 0,
+    "recovered_batches": 0,
+    "records_saved_this_run": 6953,
+    "api_cycles": [
+      {
+        "cycle": 1,
+        "accepted": 368,
+        "failed": 7,
+        "records_saved": 4451,
+        "scan": {
+          "phase": "issue_recheck",
+          "status": "needs_repair",
+          "clean": false,
+          "checked_records": 4451,
+          "failed_records": 601,
+          "report_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\full_draft_scan.json"
+        }
+      },
+      {
+        "cycle": 2,
+        "accepted": 76,
+        "failed": 0,
+        "records_saved": 601,
+        "scan": {
+          "phase": "issue_recheck",
+          "status": "needs_repair",
+          "clean": false,
+          "checked_records": 601,
+          "failed_records": 524,
+          "report_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\full_draft_scan.json"
+        }
+      },
+      {
+        "cycle": 3,
+        "accepted": 67,
+        "failed": 1,
+        "records_saved": 524,
+        "scan": {
+          "phase": "issue_recheck",
+          "status": "needs_repair",
+          "clean": false,
+          "checked_records": 524,
+          "failed_records": 497,
+          "report_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\full_draft_scan.json"
+        }
+      },
+      {
+        "cycle": 4,
+        "accepted": 64,
+        "failed": 1,
+        "records_saved": 497,
+        "scan": {
+          "phase": "issue_recheck",
+          "status": "needs_repair",
+          "clean": false,
+          "checked_records": 497,
+          "failed_records": 464,
+          "report_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\full_draft_scan.json"
+        }
+      },
+      {
+        "cycle": 5,
+        "accepted": 60,
+        "failed": 1,
+        "records_saved": 464,
+        "scan": {
+          "phase": "issue_recheck",
+          "status": "needs_repair",
+          "clean": false,
+          "checked_records": 464,
+          "failed_records": 416,
+          "report_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\full_draft_scan.json"
+        }
+      },
+      {
+        "cycle": 6,
+        "accepted": 54,
+        "failed": 1,
+        "records_saved": 416,
+        "scan": {
+          "phase": "issue_recheck",
+          "status": "needs_repair",
+          "clean": false,
+          "checked_records": 416,
+          "failed_records": 416,
+          "report_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\full_draft_scan.json"
+        }
+      }
+    ],
+    "stage_clean": false,
+    "phase_seconds": {
+      "draft_scan": 871.4654,
+      "setup": 0.0264,
+      "prepare": 0.7957,
+      "execute": 615.7519
+    },
+    "unfinished_phases": [],
+    "run_tokens": {
+      "prompt_tokens": 3187868,
+      "completion_tokens": 535072,
+      "total_tokens": 3722940,
+      "cached_prompt_tokens": 648960,
+      "reasoning_tokens": 0,
+      "reported_requests": 700,
+      "unknown_requests": 0
+    },
+    "project_tokens": {
+      "prompt_tokens": 16442401,
+      "completion_tokens": 3962532,
+      "total_tokens": 20404933,
+      "cached_prompt_tokens": 3287680,
+      "reasoning_tokens": 0,
+      "reported_requests": 4158,
+      "unknown_requests": 19
+    },
+    "counters": {
+      "term_cache_misses": 23494,
+      "term_cache_hits": 50087
+    },
+    "timings": {
+      "db_lock_wait": {
+        "count": 5790,
+        "sum_seconds": 177.19022,
+        "max_seconds": 5.324666
+      },
+      "config_validate": {
+        "count": 5927,
+        "sum_seconds": 4.903782,
+        "max_seconds": 0.044918
+      },
+      "glossary_load": {
+        "count": 10542,
+        "sum_seconds": 0.544889,
+        "max_seconds": 0.011779
+      },
+      "term_match": {
+        "count": 73581,
+        "sum_seconds": 817.519439,
+        "max_seconds": 1.48503
+      },
+      "token_count": {
+        "count": 33771,
+        "sum_seconds": 18.295119,
+        "max_seconds": 0.37821
+      },
+      "input_render": {
+        "count": 1986,
+        "sum_seconds": 6.406273,
+        "max_seconds": 0.008066
+      },
+      "task_allocate": {
+        "count": 204,
+        "sum_seconds": 70.711966,
+        "max_seconds": 0.745118
+      },
+      "draft_scan": {
+        "count": 7,
+        "sum_seconds": 871.462418,
+        "max_seconds": 792.619348
+      },
+      "resume": {
+        "count": 6,
+        "sum_seconds": 5e-06,
+        "max_seconds": 1e-06
+      },
+      "prepare": {
+        "count": 6,
+        "sum_seconds": 0.794211,
+        "max_seconds": 0.190198
+      },
+      "dispatch_lock_wait": {
+        "count": 730,
+        "sum_seconds": 32.947533,
+        "max_seconds": 2.007514
+      },
+      "batch_open": {
+        "count": 719,
+        "sum_seconds": 297.526124,
+        "max_seconds": 0.683727
+      },
+      "rate_limit_wait": {
+        "count": 700,
+        "sum_seconds": 3.238641,
+        "max_seconds": 0.597483
+      },
+      "api_request": {
+        "count": 700,
+        "sum_seconds": 2419.041189,
+        "max_seconds": 8.031192
+      },
+      "result_collect": {
+        "count": 689,
+        "sum_seconds": 74.083107,
+        "max_seconds": 0.74098
+      },
+      "retry_wait": {
+        "count": 11,
+        "sum_seconds": 22.03495,
+        "max_seconds": 2.004389
+      }
+    },
+    "timing_note": "Nested spans overlap; concurrent request sums may exceed elapsed wall time.",
+    "profile_log": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\logs\\api_runs\\f4cd4699662f46a2b02798f7496681ff.profile.jsonl",
+    "profile_summary": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\f4cd4699662f46a2b02798f7496681ff.profile.json"
+  }
+}

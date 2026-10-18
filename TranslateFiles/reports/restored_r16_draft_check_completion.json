@@ -1,0 +1,97 @@
+{
+  "status": "completed",
+  "stage": "draft_check",
+  "stage_clean": true,
+  "revision": 17,
+  "records": 23195,
+  "failed_records": 0,
+  "restored_first_pass": {
+    "source_revision": 16,
+    "batches": 1063,
+    "restore_report": "reports/restore_r16_first_drafts.json",
+    "snapshot": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\snapshots\\r16_first_draft_20261018T142909Z_9c5af3c9",
+    "snapshot_hashes": {
+      "drafts.csv": "0cc90c0be487add7f35ba5baf6820847f024c2733bee5a6116853e3be55f6763",
+      "drafts.jsonl": "b2cfd249a6cda5a00d9d87184b7e19e39ea9d306f196a6c91be934d6bd5d77ac",
+      "task_manifest.json": "3a8a18b2e53c5dd382e857700a362b7fff69c1b3957806278c5851867551393a"
+    }
+  },
+  "final_checks": [
+    {
+      "round": 9,
+      "phase": "issue_recheck",
+      "scope": "issues",
+      "checked_records": 17,
+      "result": "passed"
+    },
+    {
+      "round": 10,
+      "phase": "final_full",
+      "scope": "full",
+      "checked_records": 23195,
+      "result": "passed"
+    }
+  ],
+  "final_scan": "reports/full_draft_scan.json",
+  "receipts": [
+    {
+      "receipt_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\f4cd4699662f46a2b02798f7496681ff.json",
+      "status": "needs_attention",
+      "stage": "draft_check",
+      "stage_clean": false,
+      "next_action": "external_executor_required"
+    },
+    {
+      "receipt_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\9997b2f8440b436eabfb97318a22c34b.json",
+      "status": "needs_attention",
+      "stage": "draft_check",
+      "stage_clean": false,
+      "next_action": "external_executor_required"
+    },
+    {
+      "receipt_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\f431079d6f54487d98d2e18f93ffaf6c.json",
+      "status": "completed",
+      "stage": "draft_check",
+      "stage_clean": true,
+      "next_action": "stage_complete"
+    }
+  ],
+  "ordinary_repairs": {
+    "accepted_batches": 689,
+    "failed_attempts": 11,
+    "requests_started": 700,
+    "reported_tokens": {
+      "prompt_tokens": 3187868,
+      "completion_tokens": 535072,
+      "total_tokens": 3722940,
+      "cached_prompt_tokens": 648960,
+      "reasoning_tokens": 0,
+      "reported_requests": 700,
+      "unknown_requests": 0
+    },
+    "initial_failed_ids": 4451,
+    "after_six_rounds_failed_ids": 416
+  },
+  "marker_validator_fix": {
+    "affected_diagnostic_records": 414,
+    "remaining_after_fixed_full_scan": 17,
+    "archived_unattempted_jobs": 56,
+    "report": "reports/marker_validator_recheck.json",
+    "candidates_unchanged": true,
+    "completed_repair_counts_preserved": true,
+    "explanation": "Accept exact already-restored original protection literals as well as complete transport markers; still reject missing, repeated and fabricated markers and enforce structural rules. Validator policy v3 invalidates old scan cache."
+  },
+  "sol_repair": {
+    "tasks": [
+      "draft-repair-c4ebd87e95f44d65868f-s8b5da017",
+      "draft-repair-c4ebd87e95f44d65868f-sb5104cef"
+    ],
+    "records": 17,
+    "model": "gpt-6-sol"
+  },
+  "independent_semantic_review_started": false,
+  "export_started": false,
+  "repack_started": false,
+  "full_retranslation_performed": false,
+  "completed_at": "2026-10-18T15:26:11.170182+00:00"
+}

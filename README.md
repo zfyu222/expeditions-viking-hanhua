@@ -105,6 +105,8 @@ cd Tools\AINiee
 - 恢复原始语境例外（10 条记录），仅还原原任务已知保护映射（2,821 条记录），不改写原译。首轮快照：`TranslateFiles/snapshots/r16_first_draft_20261018T142909Z_9c5af3c9/`（drafts.jsonl、单列 drafts.csv、task_manifest.json 及哈希 manifest）。这是审校前快照，不是正式交付 CSV。
 - 当前状态完整备份：`TranslateFiles/backups/restore_r16_first_drafts_20261018T142909Z_9c5af3c9/`。旧候选、队列及检查缓存已归档；建立 revision 17 程序审校范围，旧修复计数不参与本轮。全部付费、执行、作者及 lineage 历史逐表哈希核对保持不变；r8 冻结表、文体和已接受试译保持。
 - 本轮下一步仅调用官方 runner 的 `--stage draft_check`，自动处理必要修复及统一复查；结束后返回主流程，不启动独立语义审校、导出或回填。恢复审计：`TranslateFiles/reports/restore_r16_first_drafts.json`；项目内恢复脚本：`TranslateFiles/scripts/restore_r16_first_drafts.py`，未调用 restart-body。
+- 本轮程序审校已完成：首次检查 4,451 条受影响，6 轮常规修复后余 416 条；发现其中 414 条含已还原原始标签却被要求 `[P1]` 的程序诊断，修复共同验收器并使旧检查缓存失效，重新全量检查后实际余 17 条。归档 56 个未尝试的旧升级包，保留全部已付费请求和已完成修复历史，不改候选稿。
+- 17 条由两个新的 gpt-6-sol 实例定向修复；统一复查 17 条通过，最终全量验收 23,195 条通过，0 失败，无待办/在途任务。首轮草稿快照哈希复核未变。完成报告 `TranslateFiles/reports/restored_r16_draft_check_completion.json`；最终回执 `TranslateFiles/reports/api_runs/f431079d6f54487d98d2e18f93ffaf6c.json`。本轮止于程序审校，不代表独立语义审校已完成，未导出或回填。
 
 ### 2026-10-18：按最新规则重新启动正式翻译
 
