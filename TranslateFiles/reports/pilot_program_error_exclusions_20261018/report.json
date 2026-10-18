@@ -1,0 +1,29 @@
+{
+  "authorization": "程序错误导致的错误不算吧，继续修复",
+  "raw": 8,
+  "exempt": 2,
+  "effective": 6,
+  "review_batches_authoritative_ainiee_venv": 6,
+  "projected_effective_total": 12,
+  "within_budget": true,
+  "sample_records": 30,
+  "translated_records": 30,
+  "reviewed_records_at_registration": 0,
+  "sessions": [
+    "4a1309b82be04c498ca678793290e9b3",
+    "5c21d0cb704541e9990d04d3700921b7"
+  ],
+  "attempt_tokens": [
+    "533e1b6d2ec0739baca278efb7d6a85e",
+    "d42dcdc9dfb597c31dbc715326f35395"
+  ],
+  "lineage_note": "Repair batch_runs.token retains original lease; excluded attempt tokens resolved by task_id + actual worker instance, preserving initial attempts rowid680/681. Exclusions target rowid682/683 only. First 3 translations and 3 subsequent real repairs continue to count.",
+  "preservation": "Original quality_attempts, task.attempt, authors, API paid usage, response files and freeze remain intact. Append-only ledger stores original receipt and response hash. Historical stdout retains original false single-letter terminology failures; resumed batch receipts differ and are preserved separately.",
+  "verification": "No tests added/run; no API or translation/review request issued by this subtask. Authoritative plan confirmed by parent using AINiee venv; system Python estimate4 is nonauthoritative due to tokenizer fallback.",
+  "sha256": {
+    "Tools\\localization\\translation_workflow.py": "f0480bfa9997db4d5b162dd304be329d6f547a48cc67a2c72362c9e329c142d0",
+    "Tools\\localization\\workflow_quality.py": "93f8c2d7511384ac857c416cff03df2e1f113c056b20c682f2e1ae63f10a6f64",
+    "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\logs\\api_runs\\6551eae2fbfb4f95a0cc04747f0ed8d6.stdout.log": "23c89c782abf1806f425f35e2f8a3db59d8fdfa09c44e1d0f2a0e0b4e657b02f",
+    "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\paid_pilot_resume_20261018.json": "fa38c7e1b003936a09557fb156ad188b21bee3daf050ff92b33344e72d575da4"
+  }
+}
