@@ -1,0 +1,22 @@
+{
+  "revision": 16,
+  "paused": true,
+  "source_records": 23195,
+  "active_tasks": 0,
+  "reserved_api": 0,
+  "glossary": {
+    "hash": "8b1369e804c5c7f66803e0961da266077ff087a5ecc849b9e6806ece5c8b31a4",
+    "path": "glossary\\r8\\freeze_731eced6\\built\\glossary_reviewed.json",
+    "revision": 8
+  },
+  "pilot_approved": true,
+  "api": {
+    "model_name": "deepseek-flash",
+    "concurrency": 5,
+    "max_requests": 10000,
+    "max_completion_tokens": 16384
+  },
+  "batch_tokens": 1024,
+  "task_input_tokens": 16384,
+  "fresh_body_revision": 15
+}

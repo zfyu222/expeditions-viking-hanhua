@@ -55,7 +55,7 @@
   "extract_batch_tokens": 10000,
   "glossary_review_batch_tokens": 10000,
   "review_batch_tokens": 1024,
-  "task_input_tokens": 24576,
+  "task_input_tokens": 16384,
   "review_output_tokens": 16384,
   "sol_repair_round_limit": 3,
   "sol_no_progress_limit": 2,
