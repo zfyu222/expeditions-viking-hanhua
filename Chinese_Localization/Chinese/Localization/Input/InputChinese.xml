@@ -3,22 +3,22 @@
   
 
   
-  <Contextdefault>探索控制</Contextdefault>
+  <Contextdefault>探索操作</Contextdefault>
   
   
-  <ContextCamping>露营控制</ContextCamping>
+  <ContextCamping>露营操作</ContextCamping>
   
   
-  <ContextCombat>战斗控制</ContextCombat>
+  <ContextCombat>战斗操作</ContextCombat>
   
   
-  <ContextDialogue>对话控制</ContextDialogue>
+  <ContextDialogue>对话操作</ContextDialogue>
   
   
-  <ContextOverlay>杂项控制</ContextOverlay>
+  <ContextOverlay>其他操作</ContextOverlay>
   
   
-  <ContextLoot>拾取控制</ContextLoot>
+  <ContextLoot>搜刮操作</ContextLoot>
   
 
   
@@ -36,7 +36,7 @@
   <ActionInventory>物品栏</ActionInventory>
   
   
-  <ActionPartyStats>队伍状态</ActionPartyStats>
+  <ActionPartyStats>队伍属性</ActionPartyStats>
   
   
   <ActionHomestead>家园</ActionHomestead>
@@ -45,7 +45,7 @@
   <ActionObjectives>目标</ActionObjectives>
   
   
-  <ActionCodex>典籍</ActionCodex>
+  <ActionCodex>图鉴</ActionCodex>
   
   
   <ActionFollow>镜头跟随</ActionFollow>
@@ -63,19 +63,19 @@
   <ActionRight>右</ActionRight>
   
   
-  <ActionRotateLeft>向左旋转</ActionRotateLeft>
+  <ActionRotateLeft>左转</ActionRotateLeft>
   
   
-  <ActionRotateRight>向右旋转</ActionRotateRight>
+  <ActionRotateRight>右转</ActionRotateRight>
   
   
-  <ActionShowInfo>高亮显示全部</ActionShowInfo>
+  <ActionShowInfo>全部高亮</ActionShowInfo>
   
   
-  <ActionQuickSave>快速保存</ActionQuickSave>
+  <ActionQuickSave>快速存档</ActionQuickSave>
   
   
-  <ActionQuickLoad>快速加载</ActionQuickLoad>
+  <ActionQuickLoad>快速读档</ActionQuickLoad>
   
   
   <ActionTrackQuest>追踪任务</ActionTrackQuest>
@@ -120,22 +120,22 @@
   <ActionDrop>丢弃</ActionDrop>
   
   
-  <ActionDrag>拖拽</ActionDrag>
+  <ActionDrag>拖动</ActionDrag>
   
   
-  <ActionBeginDrag>开始拖拽</ActionBeginDrag>
+  <ActionBeginDrag>开始拖动</ActionBeginDrag>
   
   
-  <ActionEndDrag>结束拖拽</ActionEndDrag>
+  <ActionEndDrag>结束拖动</ActionEndDrag>
   
   
-  <ActionToggleNonLethal>切换非致命模式</ActionToggleNonLethal>
+  <ActionToggleNonLethal>切换非致命</ActionToggleNonLethal>
   
   
   <ActionSwitchWeapons>切换武器</ActionSwitchWeapons>
   
   
-  <ActionCrouch>蹲伏</ActionCrouch>
+  <ActionCrouch>蹲下</ActionCrouch>
   
   
   <ActionInfoPanel>信息面板</ActionInfoPanel>

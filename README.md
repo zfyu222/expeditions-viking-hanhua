@@ -135,12 +135,38 @@ cd Tools\AINiee
 ### 第 3 步：回填
 
 ```powershell
-# 生成中文 XML 文件（从翻译 CSV 写回 XML 结构）
+# 1. 由正式译文生成回填用副本（回补漏译的选项片段、本地化性别分支）
+python TranslateFiles\scripts\repack_prepare.py --variants
+
+# 2. 校验回填副本（行数、标签、占位符、性别分支）
+python TranslateFiles\scripts\verify_repack_csv.py
+
+# 3. 生成中文 XML 文件（从回填副本写回 XML 结构）
 python build_localization.py
 
-# 用 UABEA CLI 批量替换 resources.assets 中的 TextAsset
+# 4. 校验 XML 与译文逐条一致
+python TranslateFiles\scripts\verify_built_xml.py
+
+# 5. 用 UABEA CLI 从原始备份重建并替换 resources.assets 中的 9 个 TextAsset
 python batch_replace_uabea.py
+
+# 6. 从部署后的资源导出，逐字节比对 XML 与资源内容
+python TranslateFiles\scripts\verify_deployed_assets.py
 ```
+
+### 2026-10-19：新译文回填完成（待实机验证）
+
+- 输入为本轮正式译文 `expeditions-viking_text_translated.csv`（23,195 条，单列，按源记录顺序）。已确认与 `extracted_strings.csv` 逐行对齐（原文完全一致），因此按行号映射回 9 个类别的 key。
+- 回填不改动已验收译文，而是生成回填副本 `TranslateFiles/repack/translation_for_repack.csv`，共调整 240 条：
+  - 100 条整体漏译的选项（`{Attack.}`、`{Leave.}` 等）沿用 v1.2 已发布译法回补；
+  - 136 条仅花括号片段漏译的对白，仅替换 `{…}` 内文本，句体保留本轮译文；
+  - 4 条定向修订：`Asleifr`→阿斯莱夫（术语表）、`Ready`→戒备（术语表）、`[[hotkey]]` 双层转义修复、1 条全角括号统一为花括号。
+- 291 处 `[Player:甲/乙]` 动态性别分支（50 种形式）已本地化为 `[Player:男子/女子]` 等；`[Player:Name]`、`[Shipname]` 等运行时变量原样保留。校验英文残留 0。
+- `build_localization.py` 改为读取单列译文并支持 `--translated/--output/--report`；同时修复同名路径跨类别串译（`TooltipHomesteadStatPower` 等 2 组在 GUI 与家园文件中的译文互相覆盖），key 现按类别隔离。
+- 生成结果：9 个中文 XML + `ProcQuestEnglish.xml`（保持英文），写入 23,195 条译文；逐条反查 0 缺失、0 不一致、0 英文性别分支。纯占位模板（`[x]`、`[size="16"][name]` 等）与拉丁语／古英语／盖尔语风味文本按原样保留（共 279 条原文未译）。
+- 回填：从 `backup/resources.assets`（344,539,620 bytes）重建，9/9 TextAsset 导入成功；部署后 `resources.assets` = 344,633,140 bytes，SHA-256 `0c07814ce8ace8232e1b7fd8be69f2c44eeac58447ed9d29ddb25901efde92d3`。
+- 验证：从部署后的资源重新导出 9 个 TextAsset，与生成的 XML 逐字节一致（9/9）；对白中 `{…}` 英文片段 0，英文性别分支 0，`[[hotkey]]` 与 `{攻击。}` 均已就位。报告见 `TranslateFiles/reports/repack_verification.json`、`repack_translation_prep.json`、`build_xml_verification.json`。
+- 待办：启动游戏实机检查（字体、排版、UI、对白、任务），测试前先清空 `Documents\My Games\Expeditions Viking\Custom Localization\`；实机通过后才可制作对外补丁。
 
 ### 2026-09-19：动态性别分支标签修复
 
@@ -197,29 +223,39 @@ python batch_replace_uabea.py
 
 ### resources.assets 中的 TextAsset pathId（Unity 5.6）
 
-| TextAsset 名称 | PathID | 原始大小 | 中文大小（2026-07-25 回填） |
+| TextAsset 名称 | PathID | 原始大小 | 中文大小（2026-10-19 回填） |
 |---|---|---|---|
-| GUIEnglish | 9040 | 197,875 | 194,254 |
-| HomesteadUpgradesEnglish | 9063 | 17,040 | 17,098 |
-| DialogueEnglish | 9146 | 3,786,345 | 3,900,150 |
-| SkillsEnglish | 9165 | 96,222 | 103,180 |
-| ItemsEnglish | 9309 | 20,829 | 21,104 |
-| InputEnglish | 9744 | 2,242 | 2,430 |
-| SceneDataEnglish | 9795 | 48,802 | 48,119 |
-| TutorialEnglish | 9799 | 31,947 | 29,626 |
-| CharacterNamesEnglish | 9804 | 79,027 | 115,603 |
+| GUIEnglish | 9040 | 197,875 | 193,142 |
+| HomesteadUpgradesEnglish | 9063 | 17,040 | 17,144 |
+| DialogueEnglish | 9146 | 3,786,345 | 3,809,951 |
+| SkillsEnglish | 9165 | 96,222 | 101,994 |
+| ItemsEnglish | 9309 | 20,829 | 20,937 |
+| InputEnglish | 9744 | 2,242 | 2,406 |
+| SceneDataEnglish | 9795 | 48,802 | 47,683 |
+| TutorialEnglish | 9799 | 31,947 | 27,878 |
+| CharacterNamesEnglish | 9804 | 79,027 | 152,712 |
 
 ### 回填验证
 
-- 验证方法：用 UABEA `exporttext` 从回填后的 `resources.assets` 导出 `DialogueEnglish`（pathId=9146），确认内容为中文。
-- 验证结果：通过。导出 XML 中 `<Localize>` 节点文本均为中文，与 `extracted_for_ainiee_translated.csv` 一一对应（如 `00008015-...` → "沮丧之情，如粗笔重墨般涂抹在他那张日渐苍老的脸上。"）。
-- 文件大小变化：原始 `resources.assets` = 344,539,620 bytes → 回填后 = 344,690,844 bytes（+151,224 bytes，中文 UTF-8 编码体积大于英文）。
+- 验证方法：用 UABEA `exporttext` 从回填后的 `resources.assets` 逐个导出 9 个 TextAsset，与生成的 XML 做 SHA-256 逐字节比对，并统计对白中的英文残留。
+- 验证结果（2026-10-19）：9/9 逐字节一致；对白 24,606 个 `<Localize>` 节点中 18,332 个为中文，`{…}` 英文片段 0、英文性别分支 0；`00008015-...` → "他那沮丧的神情，明明白白写在这张日渐苍老的脸上。"；`[[hotkey]]`、`{攻击。}` 均正确写入。
+- 文件大小变化：原始 `resources.assets` = 344,539,620 bytes → 2026-10-19 回填后 = 344,633,140 bytes。
 - 9/9 TextAsset 全部导入成功。
+
+## 已知问题
+
+- 2026-10-19 回填的载荷尚未实机验证：字体、排版、UI、对白、任务五项均为 `pending`，实机通过前不得发布。
+- 本轮 AI 译文有 240 条未经正式审校流程（100 条整体回补 + 136 条花括号片段回补 + 4 条定向修订），来源为 v1.2 已发布译文与 r8 术语表；如后续重跑导出，需重新应用 `repack_prepare.py`。
+- `expeditions-viking_text_translated.csv` 仍是正式审校产物；回填副本 `TranslateFiles/repack/translation_for_repack.csv` 与它存在上述差异，`final_validation.json` 只对正式 CSV 有效。
+- 纯占位模板与拉丁语／古英语／盖尔语风味台词保持原样（279 条），属预期保留。
+- 对白中 `[Player:甲/乙]` 分支必须保持 `[Player:…/…]` 形式；若后续译文重新保护该标签，需再次运行 `repack_prepare.py --variants`。
+- AI 自动翻译，长文本、术语与语气仍可能需要润色；`Custom Localization` 覆盖目录会屏蔽回填结果。
 
 ## 版本记录
 
 | 日期 | 操作 | 说明 |
 |------|------|------|
+| 2026-10-19 | 新译文回填 | 用正式译文重建 9 个 TextAsset 并部署；回补 240 条漏译/格式问题，291 处性别分支本地化；资源导出 9/9 逐字节一致，待实机验证 |
 | 2026-07-19 | 首次回填 | `build_localization.py` + `batch_replace_uabea.py`，9 个 TextAsset 替换 |
 | 2026-07-25 | 重新回填 | 译文 CSV 更新后重新生成 XML 并回填；`batch_replace_uabea.py` 改为以原始备份为干净基底重建，新增已知 pathId 快速校验模式 |
 | 2026-07-25 | 排查回填不生效 | 定位到游戏读取 `Documents\My Games\Expeditions Viking\Custom Localization\` 覆盖文件夹（旧汉化），删除后回填生效 |
@@ -228,6 +264,8 @@ python batch_replace_uabea.py
 | 2026-09-20 | 发布 v1.2 | 生成不含游戏原始资源的 HDiffPatch 差分补丁；在独立临时游戏目录一键安装并哈希校验通过 |
 
 ## 对外发布
+
+> 当前线上补丁仍为 v1.2（旧译文）。2026-10-19 的新译文本地回填已完成资源校验，但未实机验证，因此尚未打包发布；实机通过后再按 `game-release-patch` 追加 v1.3。
 
 - 补丁：`Dispatch/Expeditions Viking_子非鱼汉化1.2.zip`
 - 支持版本/平台：Steam Windows 版，Unity 5.6.4f1；仅支持原始 `resources.assets` 为 344,539,620 bytes 的安装。

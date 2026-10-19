@@ -3,29 +3,29 @@
   
   
   
-  <ArmourTier2>布甲</ArmourTier2>
+  <ArmourTier2>布料护甲</ArmourTier2>
   
   
-  <ArmourTier3>隐藏护甲</ArmourTier3>
+  <ArmourTier3>皮甲</ArmourTier3>
   
   
-  <ArmourTier4>札甲</ArmourTier4>
+  <ArmourTier4>扎甲</ArmourTier4>
   
   
   <ArmourTier5>锁子甲</ArmourTier5>
   
   
   
-  <ArmourTier2Description>这种由层层布料叠成的简陋护甲，能挡开些擦伤而不碍手脚，却实在不比寻常衣物强到哪里去。</ArmourTier2Description>
+  <ArmourTier2Description>多层布料缝成的简易护衣能挡下擦身而过的攻击，也不妨碍穿戴者的移动力，但比普通衣物强不了多少。</ArmourTier2Description>
   
   
-  <ArmourTier3Description>鞣制过的皮革层叠覆盖胸背，内衬毛皮，能很好地抵御轻度的割伤和冲击，但确实会稍微限制穿戴者的行动。</ArmourTier3Description>
+  <ArmourTier3Description>在胸口和后背层叠已治愈的兽皮，再以毛皮加衬，能有效抵挡轻度的割伤和冲击，但会略微限制穿戴者的移动力。</ArmourTier3Description>
   
   
-  <ArmourTier4Description>用绳索串接的煮沸硬化皮片，比起布料和简单皮革提供了更好的防护，且丝毫不比皮甲更限制行动。</ArmourTier4Description>
+  <ArmourTier4Description>将煮革小甲片成排穿缀起来，防护胜过布料和普通皮甲，对移动力的限制也不比皮甲更多。</ArmourTier4Description>
   
   
-  <ArmourTier5Description>一件由互锁铁环制成的锁子甲衬衫，能出色地抵御所有武器的攻击，但这件甲衣相当沉重，并会显著限制行动。</ArmourTier5Description>
+  <ArmourTier5Description>由互锁铁环编成的护衣能对各类武器提供出色保护，但这件护衣相当沉重，会明显限制移动力。</ArmourTier5Description>
   
   
   
@@ -39,26 +39,26 @@
   <HelmetTier3>钢盔</HelmetTier3>
   
   
-  <HelmetTier4>带护颈头盔</HelmetTier4>
+  <HelmetTier4>垂帘盔</HelmetTier4>
   
   
-  <HelmetTier5>覆面盔</HelmetTier5>
+  <HelmetTier5>面罩头盔</HelmetTier5>
   
   
   
-  <HelmetTier1Description>这些原始的毛皮头盔制作简单，但不如更先进的设计来得坚固。</HelmetTier1Description>
+  <HelmetTier1Description>这些原始毛皮头盔制作简单，但不如更先进的款式强韧。</HelmetTier1Description>
   
   
-  <HelmetTier2Description>鞣制皮革头盔能提供不错的防护，足以抵御擦过的打击。</HelmetTier2Description>
+  <HelmetTier2Description>已治愈的皮革头盔能有效抵挡擦身而过的攻击。</HelmetTier2Description>
   
   
-  <HelmetTier3Description>钢盔需要高超的技艺才能制作，但却能承受大量的攻击。</HelmetTier3Description>
+  <HelmetTier3Description>钢盔需要高超的工艺才能制成，但能承受大量打击。</HelmetTier3Description>
   
   
-  <HelmetTier4Description>一些制甲师傅发现，在钢盔上附加一圈锁子甲护颈，是提供额外防护的简易方法。</HelmetTier4Description>
+  <HelmetTier4Description>一些制甲匠发现，把锁子甲帘幕装在钢盔上，是提供额外保护的简便方法。</HelmetTier4Description>
   
   
-  <HelmetTier5Description>为带护颈头盔加装护目镜和护鼻，不仅提供了一点更多的防护，而且看起来非常威风凛凛。</HelmetTier5Description>
+  <HelmetTier5Description>在垂帘盔上加装护目镜和护鼻，不仅能多提供一点保护，样子也非常威风。</HelmetTier5Description>
   
   
   
@@ -79,19 +79,19 @@
   
   
   
-  <AxeTier1Description>用于家务的简单实用斧头。</AxeTier1Description>
+  <AxeTier1Description>简易多用途斧，适合日常劳作。</AxeTier1Description>
   
   
-  <AxeTier2Description>比工具斧高一级，胡须型的设计使其在战斗中更得心应手。</AxeTier2Description>
+  <AxeTier2Description>比工具斧高出一档，胡须式设计让这柄斧在战斗中更易使唤。</AxeTier2Description>
   
   
-  <AxeTier3Description>更宽的斧刃使其更容易对盾牌和肉体造成伤害。</AxeTier3Description>
+  <AxeTier3Description>更宽的斧刃，更容易对盾牌和血肉造成伤害。</AxeTier3Description>
   
   
-  <AxeTier4Description>这种设计是战斧的顶峰，能施展各种招式与狠辣手段。</AxeTier4Description>
+  <AxeTier4Description>这种设计是战斗用斧的顶峰，各种花招与阴狠手段都能施展开来。</AxeTier4Description>
   
   
-  <AxeTier5Description>很少有铁匠知晓如何在坩埚中锻造钢材。这种技法在此造就了一柄耐久度无出其右的斧子。</AxeTier5Description>
+  <AxeTier5Description>没几个铁匠懂得在坩埚里锻钢。这门技艺在这里锻出了一柄耐久度无与伦比的斧。</AxeTier5Description>
   
   
   
@@ -108,23 +108,23 @@
   <BowTier4>榆木弓</BowTier4>
   
   
-  <BowTier5>紫杉弓</BowTier5>
+  <BowTier5>紫杉木弓</BowTier5>
   
   
   
-  <BowTier1Description>一把用柳树木材制成的简易弓。适合猎杀动物，但对人的效果欠佳。</BowTier1Description>
+  <BowTier1Description>用柳木制成的简易弓。用来狩猎动物还算趁手，对付人就不太行了。</BowTier1Description>
   
   
-  <BowTier2Description>桦木强韧而富有弹性，能制成一把出色的猎弓，在战斗中亦相当好用。</BowTier2Description>
+  <BowTier2Description>桦木坚固而有韧性，制成的狩猎弓相当出色，在战斗中也颇为堪用。</BowTier2Description>
   
   
-  <BowTier3Description>一把制作精良的松木弓，配以同等品质的马鬃弓弦，其舒适的握把确保了满弓时的稳定。</BowTier3Description>
+  <BowTier3Description>一柄做工扎实的松木弓，配上等质的马鬃弦，握把舒适，满拉时也能保持稳定。</BowTier3Description>
   
   
-  <BowTier4Description>这把精致的弓由榆木制成。它柔韧而强劲——在训练有素的弓箭手手中，是一件致命的武器。</BowTier4Description>
+  <BowTier4Description>这柄精良的弓以榆木制成。它柔韧而坚固——到了熟练弓箭手手中便是致命武器。</BowTier4Description>
   
   
-  <BowTier5Description>紫杉木的材质极其适合制作战弓。这是一件强大而坚固的武器，饰有精美的握把和最高品质的弓弦。</BowTier5Description>
+  <BowTier5Description>紫杉木天生适合做战弓。这柄武器强劲结实，饰有精美的握把和品质上乘的弓弦。</BowTier5Description>
   
   
   
@@ -138,59 +138,59 @@
   <DaneAxeTier3>宽刃丹麦斧</DaneAxeTier3>
   
   
-  <DaneAxeTier4>战用丹麦斧</DaneAxeTier4>
+  <DaneAxeTier4>战斗型丹麦斧</DaneAxeTier4>
   
   
   <DaneAxeTier5>坩埚钢丹麦斧</DaneAxeTier5>
   
   
   
-  <DaneAxeTier1Description>装在长杆末端的简单实用斧头，用以在战斗中延伸其触及范围。</DaneAxeTier1Description>
+  <DaneAxeTier1Description>简易多用途斧头，装在长木杆顶端，以延展攻击距离。</DaneAxeTier1Description>
   
   
-  <DaneAxeTier2Description>比实用斧高一级，胡须型的设计使其在战斗中更得心应手。</DaneAxeTier2Description>
+  <DaneAxeTier2Description>比多用途斧高出一档，胡须式设计让这柄斧在战斗中更易使唤。</DaneAxeTier2Description>
   
   
-  <DaneAxeTier3Description>更宽的斧刃使其更容易对盾牌和血肉之躯造成伤害。</DaneAxeTier3Description>
+  <DaneAxeTier3Description>更宽的斧刃，更容易对盾牌和血肉造成伤害。</DaneAxeTier3Description>
   
   
-  <DaneAxeTier4Description>这种设计是战斧的顶峰，能施展各种招式与狠辣手段。</DaneAxeTier4Description>
+  <DaneAxeTier4Description>这种设计是战斗用斧的顶峰，各种花招与阴狠手段都能施展开来。</DaneAxeTier4Description>
   
   
-  <DaneAxeTier5Description>很少有铁匠知晓如何在坩埚中锻造钢材。这种技法在此造就了一柄耐久度无出其右的斧子。</DaneAxeTier5Description>
-  
-  
-  
-  
-  <KnifeTier1>小刀</KnifeTier1>
-  
-  
-  <KnifeTier2>窄刃撒克逊刀</KnifeTier2>
-  
-  
-  <KnifeTier3>轻宽刃撒克逊刀</KnifeTier3>
-  
-  
-  <KnifeTier4>重宽刃撒克逊刀</KnifeTier4>
-  
-  
-  <KnifeTier5>长撒克逊刀</KnifeTier5>
+  <DaneAxeTier5Description>没几个铁匠懂得在坩埚里锻钢。这门技艺在这里锻出了一柄耐久度无与伦比的斧。</DaneAxeTier5Description>
   
   
   
-  <KnifeTier1Description>一把锋刃各异的短刀，单面开刃，装接在木柄上。出门在外，绝不可不带。</KnifeTier1Description>
+  
+  <KnifeTier1>短刀</KnifeTier1>
   
   
-  <KnifeTier2Description>长刃单刃刀，刚好短到可算作刀，但又长得足以造成重创。</KnifeTier2Description>
+  <KnifeTier2>窄刃萨克斯刀</KnifeTier2>
   
   
-  <KnifeTier3Description>这把刀较宽的刀刃使其在劈砍时更具分量，而且它的刀尖同样不容小觑。</KnifeTier3Description>
+  <KnifeTier3>轻型宽刃萨克斯刀</KnifeTier3>
   
   
-  <KnifeTier4Description>是本就非常沉重、修长且厚实的撒克逊刀的一版，更沉、更长、更厚。</KnifeTier4Description>
+  <KnifeTier4>重型宽刃萨克斯刀</KnifeTier4>
   
   
-  <KnifeTier5Description>这把刀近乎于一把剑。它微弯的刀刃坚固得足以像撬开蛤壳一样，撬开盔甲。</KnifeTier5Description>
+  <KnifeTier5>长刃短刀</KnifeTier5>
+  
+  
+  
+  <KnifeTier1Description>短小的单刃刀，锋利程度不一，装在木柄上。出门可别忘了带一把。</KnifeTier1Description>
+  
+  
+  <KnifeTier2Description>单刃长刀，短到还算得上是刀，又长到能造成可观的伤害。</KnifeTier2Description>
+  
+  
+  <KnifeTier3Description>这柄刀的刃身更宽，劈砍时更有分量，刀尖也不容小觑。</KnifeTier3Description>
+  
+  
+  <KnifeTier4Description>本就厚重宽长的撒克斯短刀，又加厚、加长、加重了一档。</KnifeTier4Description>
+  
+  
+  <KnifeTier5Description>这柄刀几乎就是一把剑。它微微弯曲的刀刃足够结实，能把护甲像蛤蜊壳一样撬开。</KnifeTier5Description>
   
   
   
@@ -201,29 +201,29 @@
   <SpearTier2>翼矛</SpearTier2>
   
   
-  <SpearTier3>花纹焊接矛</SpearTier3>
+  <SpearTier3>花纹锻焊长矛</SpearTier3>
   
   
-  <SpearTier4>花纹焊接翼型矛</SpearTier4>
+  <SpearTier4>花纹锻焊翼矛</SpearTier4>
   
   
-  <SpearTier5>坩埚钢矛</SpearTier5>
+  <SpearTier5>坩埚钢长矛</SpearTier5>
   
   
   
-  <SpearTier1Description>只不过是一头削尖的棍子，这种普通的矛廉价且易于使用。</SpearTier1Description>
+  <SpearTier1Description>普通的长矛不过是一根削尖的木棍，便宜又好使。</SpearTier1Description>
   
   
-  <SpearTier2Description>这把矛的矛尖被巧妙地塑形，用以撬开盔甲，并能为灵巧的持用者提供有限的劈砍能力。</SpearTier2Description>
+  <SpearTier2Description>这柄矛的矛尖造型巧妙，能撬穿护甲，灵巧的使用者还能用它做出有限的挥砍。</SpearTier2Description>
   
   
-  <SpearTier3Description>尽管对矛尖进行花纹焊接看似牛刀杀鸡，但额外增加的弹性使得刺击更为有力而精准。</SpearTier3Description>
+  <SpearTier3Description>给矛尖做花纹锻焊看似小题大做，但额外的韧性让刺击更有力、更精准。</SpearTier3Description>
   
   
-  <SpearTier4Description>融合巧妙的设计与精湛的铁匠工艺，这把矛在合适的人手中将无比致命。</SpearTier4Description>
+  <SpearTier4Description>巧妙的设计结合大师级的锻造技艺，这柄矛到了行家手里便极其致命。</SpearTier4Description>
   
   
-  <SpearTier5Description>此矛品质卓越，已从一件普通武器升华为近乎宗教圣物般的存在。</SpearTier5Description>
+  <SpearTier5Description>这柄矛的品质让它不再是寻常兵器，而更像一件宗教圣物。</SpearTier5Description>
   
   
   
@@ -234,29 +234,29 @@
   <SwordTier2>宽刃剑</SwordTier2>
   
   
-  <SwordTier3>花纹焊接单刃剑</SwordTier3>
+  <SwordTier3>花纹锻焊单刃剑</SwordTier3>
   
   
-  <SwordTier4>花纹焊接宽刃剑</SwordTier4>
+  <SwordTier4>花纹锻焊宽刃剑</SwordTier4>
   
   
   <SwordTier5>坩埚钢剑</SwordTier5>
   
   
   
-  <SwordTier1Description>除了夺人性命，剑别无他用，但它在此道上却极其擅长。</SwordTier1Description>
+  <SwordTier1Description>剑除了取人性命几乎别无他用，但做这件事它非常在行。</SwordTier1Description>
   
   
-  <SwordTier2Description>通过加宽剑身并开双刃，一件强大而多功能的武器就此诞生。</SwordTier2Description>
+  <SwordTier2Description>通过加宽刀身并磨利两侧刃口，打造出了一件威力强大而用途多样的武器。</SwordTier2Description>
   
   
-  <SwordTier3Description>花纹焊接一把剑需要对锻造拥有极高的掌控力，但最终成果无可辩驳。</SwordTier3Description>
+  <SwordTier3Description>对剑进行花纹锻焊需要极高水平的锻造技艺，但它的效果无可争辩。</SwordTier3Description>
   
   
-  <SwordTier4Description>尽管剑身尺寸不小，但这把剑却轻盈且完美平衡。其华丽的剑柄可舒适地握于任何手中。</SwordTier4Description>
+  <SwordTier4Description>尽管刀身尺寸不小，这把剑却轻盈且配重完美。它华丽的剑柄握在任何手中都很舒适。</SwordTier4Description>
   
   
-  <SwordTier5Description>欧洲锻造技艺的尖端水准，造就了这柄美丽的剑，其手感仿佛能削铁如泥，斩雪般轻松。</SwordTier5Description>
+  <SwordTier5Description>欧洲锻造技艺的顶尖水平打造出了一柄美丽的剑刃，感觉它能像切雪一样轻易劈开岩石。</SwordTier5Description>
   
   
   
@@ -270,26 +270,26 @@
   <SlingTier3>羊毛投石索</SlingTier3>
   
   
-  <SlingTier4>带握把亚麻投石索</SlingTier4>
+  <SlingTier4>带握柄的亚麻投石索</SlingTier4>
   
   
-  <SlingTier5>带握把羊毛投石索</SlingTier5>
+  <SlingTier5>带握柄的羊毛投石索</SlingTier5>
   
   
   
-  <SlingTier1Description>这算不上什么优雅的武器，但一块石头高速砸在脸上，往往都能把事办成。</SlingTier1Description>
+  <SlingTier1Description>它也许算不上优雅的武器，但高速飞来的石头往往更能解决问题。</SlingTier1Description>
   
   
-  <SlingTier2Description>更坚韧的弓弦和改良的释放机关，让这把投石索的每一次抛掷都迸发出更强的力道。</SlingTier2Description>
+  <SlingTier2Description>更结实的细绳和改良的释放装置，让这条投石索每次投掷都能施加更大的力量。</SlingTier2Description>
   
   
-  <SlingTier3Description>羊毛被紧纺成更长的绳索，配上设计更精良的弹丸兜囊，使这把投石索的威力出人意料地凶猛。</SlingTier3Description>
+  <SlingTier3Description>羊毛被紧密纺成更长的细绳，配上设计更好的弹兜，让这条投石索出人意料地强劲。</SlingTier3Description>
   
   
-  <SlingTier4Description>打造这把投石索时倾注了不寻常的巧思。它舒适的手柄和精心校准的弹丸兜囊，用起来是一种享受。</SlingTier4Description>
+  <SlingTier4Description>制造这条投石索投入了非同寻常的巧思。舒适的握柄和精心校准的弹兜让它用起来得心应手。</SlingTier4Description>
   
   
-  <SlingTier5Description>这把投石索做工如此精良，设计如此考究，拿它与同类武器相提并论简直是一种侮辱。</SlingTier5Description>
+  <SlingTier5Description>这条投石索做工如此精良、设计如此考究，拿它和其他同类武器相比几乎是一种侮辱。</SlingTier5Description>
   
   
   
@@ -300,39 +300,39 @@
   <ShieldTier2>冷杉木盾</ShieldTier2>
   
   
-  <ShieldTier3>镶衬松木盾</ShieldTier3>
+  <ShieldTier3>加衬松木盾</ShieldTier3>
   
   
-  <ShieldTier4>镶衬冷杉木盾</ShieldTier4>
+  <ShieldTier4>加衬冷杉木盾</ShieldTier4>
   
   
-  <ShieldTier5>镶衬紫杉木盾</ShieldTier5>
+  <ShieldTier5>加衬紫杉木盾</ShieldTier5>
   
   
   
-  <ShieldTier1Description>松木算不上制盾的上好木材，但它遍地都是，而且绝对比用手臂去挡刀来得强。</ShieldTier1Description>
+  <ShieldTier1Description>松木并非做盾牌的最佳木材，但它来源充足，而且总比用手臂去挡一击强得多。</ShieldTier1Description>
   
   
-  <ShieldTier2Description>由正值壮年时砍伐的冷杉木制成，这面盾比松木同类更坚韧，却未增加多少重量。</ShieldTier2Description>
+  <ShieldTier2Description>这面盾牌取自一棵正值壮年的冷杉，比松木盾更坚固，又不会增加太多重量。</ShieldTier2Description>
   
   
-  <ShieldTier3Description>用熟皮镶衬松木盾，能显著提升盾牌的结构完整性，还能防裂。</ShieldTier3Description>
+  <ShieldTier3Description>用鞣制皮革给松木盾加衬，能显著提升盾牌的结构稳固性，并防止木刺伤人。</ShieldTier3Description>
   
   
-  <ShieldTier4Description>这面耐用的镶衬皮冷杉木盾，在握柄与木板的连接处做了加固，品质更上一层。</ShieldTier4Description>
+  <ShieldTier4Description>这面耐用的皮革加衬冷杉木盾还加固了握柄与木材连接处的区域，从而得到进一步改良。</ShieldTier4Description>
   
   
-  <ShieldTier5Description>这样的盾悬挂在国王的王座之后。凭借其坚固的构造和涂绘精美的熟皮，它甚至能拦住一头冲锋的公牛。</ShieldTier5Description>
+  <ShieldTier5Description>这样的盾牌挂在国王的宝座后面。它结构坚固，配上绘饰精美的鞣制皮革，说不定能挡住一头冲来的公牛。</ShieldTier5Description>
   
 
   
   <ThrowableItem>投掷物</ThrowableItem>
   
   
-  <TrapItem>陷阱</TrapItem>
+  <TrapItem>陷阱道具</TrapItem>
   
   
-  <UtilityItem>通用道具</UtilityItem>
+  <UtilityItem>功能道具</UtilityItem>
   
   
   <ConsumableItem>消耗品</ConsumableItem>
@@ -341,10 +341,10 @@
   <SwordItem>剑</SwordItem>
   
   
-  <AxeItem>斧头</AxeItem>
+  <AxeItem>斧</AxeItem>
   
   
-  <KnifeItem>小刀</KnifeItem>
+  <KnifeItem>刀</KnifeItem>
   
   
   <SlingItem>投石索</SlingItem>
@@ -353,13 +353,13 @@
   <SpearItem>矛</SpearItem>
   
   
-  <DaneAxeItem>丹麦长斧</DaneAxeItem>
+  <DaneAxeItem>丹麦斧</DaneAxeItem>
    
   
   <BowItem>弓</BowItem>
   
   
-  <ShieldItem>盾</ShieldItem>
+  <ShieldItem>盾牌</ShieldItem>
   
   
   <TalismanItem>护符</TalismanItem>
@@ -397,7 +397,7 @@
   
 
   
-  <SpecialPropertyDescriptionGrammar>[condition] [effect].</SpecialPropertyDescriptionGrammar>
+  <SpecialPropertyDescriptionGrammar>[condition] [effect]。</SpecialPropertyDescriptionGrammar>
   
   
   
@@ -411,7 +411,7 @@
   <SpecialPropertyOwnerPrefix>([name])\n</SpecialPropertyOwnerPrefix>
   
   
-  <SpecialPropertyOwnerPrefixUnknown>（未知人物）\n</SpecialPropertyOwnerPrefixUnknown>
+  <SpecialPropertyOwnerPrefixUnknown>(陌生人)\n</SpecialPropertyOwnerPrefixUnknown>
   
   
   
@@ -427,37 +427,37 @@
   <AsgardianSpecialPropertyDescription>[x]% 自动复活几率</AsgardianSpecialPropertyDescription>
   
   
-  <AwkwardSpecialProperty>别扭</AwkwardSpecialProperty>
+  <AwkwardSpecialProperty>笨拙</AwkwardSpecialProperty>
   
   
-  <AwkwardSpecialPropertyDescription>[x] 最大精准度</AwkwardSpecialPropertyDescription>
+  <AwkwardSpecialPropertyDescription>[x] 命中率上限</AwkwardSpecialPropertyDescription>
   
   
   <BerserkerSpecialProperty>狂战士</BerserkerSpecialProperty>
   
   
-  <BerserkerSpecialPropertyDescription>[x]% 对未受伤目标伤害</BerserkerSpecialPropertyDescription>
+  <BerserkerSpecialPropertyDescription>[x]% 对未受伤目标造成的伤害</BerserkerSpecialPropertyDescription>
   
   
-  <BitingSpecialProperty>穿刺</BitingSpecialProperty>
+  <BitingSpecialProperty>凶狠</BitingSpecialProperty>
   
   
   <BitingSpecialPropertyDescription>[x]% 暴击伤害倍率</BitingSpecialPropertyDescription>
   
   
-  <BolsteringSpecialProperty>支撑</BolsteringSpecialProperty>
+  <BolsteringSpecialProperty>增益</BolsteringSpecialProperty>
   
   
   <BolsteringSpecialPropertyDescription>[x] 格挡率</BolsteringSpecialPropertyDescription>
   
   
-  <CursedSpecialProperty>诅咒</CursedSpecialProperty>
+  <CursedSpecialProperty>受诅咒</CursedSpecialProperty>
   
   
   <CursedSpecialPropertyDescription>士气 [x]</CursedSpecialPropertyDescription>
   
   
-  <DefenderSpecialProperty>防御者</DefenderSpecialProperty>
+  <DefenderSpecialProperty>防卫者</DefenderSpecialProperty>
   
   
   <DefenderSpecialPropertyDescription>与盟友相邻时 [x] 格挡率</DefenderSpecialPropertyDescription>
@@ -472,7 +472,7 @@
   <HunterSpecialProperty>猎人</HunterSpecialProperty>
   
   
-  <HunterSpecialPropertyDescription>[x]% 对野兽伤害</HunterSpecialPropertyDescription>
+  <HunterSpecialPropertyDescription>[x]% 对野兽造成的伤害</HunterSpecialPropertyDescription>
   
   
   <KeenSpecialProperty>锐利</KeenSpecialProperty>
@@ -487,13 +487,13 @@
   <LuckySpecialPropertyDescription>[x] 士气</LuckySpecialPropertyDescription>
   
   
-  <MarksmanSpecialProperty>神射手</MarksmanSpecialProperty>
+  <MarksmanSpecialProperty>射手</MarksmanSpecialProperty>
   
   
-  <MarksmanSpecialPropertyDescription>[x] 最大精准度</MarksmanSpecialPropertyDescription>
+  <MarksmanSpecialPropertyDescription>[x] 命中率上限</MarksmanSpecialPropertyDescription>
   
   
-  <NegatingSpecialProperty>否定</NegatingSpecialProperty>
+  <NegatingSpecialProperty>抵消</NegatingSpecialProperty>
   
   
   <NegatingSpecialPropertyDescription>取消所有正面效果</NegatingSpecialPropertyDescription>
@@ -508,25 +508,25 @@
   <RaiderSpecialProperty>劫掠者</RaiderSpecialProperty>
   
   
-  <RaiderSpecialPropertyDescription>[x]% 对无护甲人类伤害</RaiderSpecialPropertyDescription>
+  <RaiderSpecialPropertyDescription>[x]% 对无甲人类造成的伤害</RaiderSpecialPropertyDescription>
   
   
-  <RobustSpecialProperty>强健</RobustSpecialProperty>
+  <RobustSpecialProperty>强韧</RobustSpecialProperty>
   
   
   <RobustSpecialPropertyDescription>[x] 近战伤害减免</RobustSpecialPropertyDescription>
   
   
-  <RuthlessSpecialProperty>残忍</RuthlessSpecialProperty>
+  <RuthlessSpecialProperty>无情</RuthlessSpecialProperty>
   
   
-  <RuthlessSpecialPropertyDescription>[x]% 对定身目标伤害</RuthlessSpecialPropertyDescription>
+  <RuthlessSpecialPropertyDescription>[x]% 对定身目标造成的伤害</RuthlessSpecialPropertyDescription>
   
   
-  <SeekingSpecialProperty>索敌</SeekingSpecialProperty>
+  <SeekingSpecialProperty>寻找</SeekingSpecialProperty>
   
   
-  <SeekingSpecialPropertyDescription>夜间精准惩罚减半</SeekingSpecialPropertyDescription>
+  <SeekingSpecialPropertyDescription>夜间命中率惩罚减半</SeekingSpecialPropertyDescription>
   
   
   <SharpSpecialProperty>锋利</SharpSpecialProperty>
@@ -535,10 +535,10 @@
   <SharpSpecialPropertyDescription>[x]% 伤害</SharpSpecialPropertyDescription>
   
   
-  <SovereignSpecialProperty>主宰</SovereignSpecialProperty>
+  <SovereignSpecialProperty>王者</SovereignSpecialProperty>
   
   
-  <SovereignSpecialPropertyDescription>攻击不可被格挡</SovereignSpecialPropertyDescription>
+  <SovereignSpecialPropertyDescription>攻击无法被格挡</SovereignSpecialPropertyDescription>
   
   
   <SteelingSpecialProperty>钢化</SteelingSpecialProperty>
@@ -556,25 +556,25 @@
   <SunderingSpecialProperty>破盾</SunderingSpecialProperty>
   
   
-  <SunderingSpecialPropertyDescription>[x]% 对盾牌伤害</SunderingSpecialPropertyDescription>
+  <SunderingSpecialPropertyDescription>[x]% 对盾牌造成的伤害</SunderingSpecialPropertyDescription>
   
   
-  <SurtrSpecialProperty>苏尔特</SurtrSpecialProperty>
+  <SurtrSpecialProperty>苏尔特尔</SurtrSpecialProperty>
   
   
-  <SurtrSpecialPropertyDescription>[x]% 对燃烧敌人伤害</SurtrSpecialPropertyDescription>
+  <SurtrSpecialPropertyDescription>[x]% 对燃烧敌人造成的伤害</SurtrSpecialPropertyDescription>
   
   
   <SwiftSpecialProperty>迅捷</SwiftSpecialProperty>
   
   
-  <SwiftSpecialPropertyDescription>[x]% 额外攻击几率</SwiftSpecialPropertyDescription>
+  <SwiftSpecialPropertyDescription>[x]% 额外攻击概率</SwiftSpecialPropertyDescription>
   
   
   <TacticianSpecialProperty>战术家</TacticianSpecialProperty>
   
   
-  <TacticianSpecialPropertyDescription>[x]% 对被夹击目标伤害</TacticianSpecialPropertyDescription>
+  <TacticianSpecialPropertyDescription>[x]% 对遭到夹击的敌人造成的伤害</TacticianSpecialPropertyDescription>
   
   
   <ThickSpecialProperty>厚实</ThickSpecialProperty>
@@ -583,22 +583,22 @@
   <ThickSpecialPropertyDescription>[x] 远程伤害减免</ThickSpecialPropertyDescription>
   
   
-  <UnbreakableSpecialProperty>不破</UnbreakableSpecialProperty>
+  <UnbreakableSpecialProperty>坚不可摧</UnbreakableSpecialProperty>
   
   
-  <UnbreakableSpecialPropertyDescription>在战斗中不会受到伤害</UnbreakableSpecialPropertyDescription>
+  <UnbreakableSpecialPropertyDescription>战斗中不会受到伤害</UnbreakableSpecialPropertyDescription>
   
   
   <UnstoppableSpecialProperty>势不可挡</UnstoppableSpecialProperty>
   
   
-  <UnstoppableSpecialPropertyDescription>攻击路径上所有角色受到伤害</UnstoppableSpecialPropertyDescription>
+  <UnstoppableSpecialPropertyDescription>攻击路径上的所有角色均受到伤害</UnstoppableSpecialPropertyDescription>
   
   
   <VigilantSpecialProperty>警觉</VigilantSpecialProperty>
   
   
-  <VigilantSpecialPropertyDescription>[x] 避免暴击</VigilantSpecialPropertyDescription>
+  <VigilantSpecialPropertyDescription>[x] 以躲避暴击</VigilantSpecialPropertyDescription>
   
 
 
@@ -636,13 +636,13 @@
   <SchematicArmourOil>护甲油</SchematicArmourOil>
   
   
-  <SchematicArmourOilNamePrefix>上油</SchematicArmourOilNamePrefix>
+  <SchematicArmourOilNamePrefix>涂油</SchematicArmourOilNamePrefix>
   
   
-  <SchematicArmourOilDescription>护甲锻造图纸。给护甲的关节上油能使其松动，让行动更为自由。</SchematicArmourOilDescription>
+  <SchematicArmourOilDescription>护甲锻造图纸。给护甲的接合处上油可使其松动，让行动更加灵活。</SchematicArmourOilDescription>
   
   
-  <SchematicArmourOilItemDescription>制造护甲时所用的油，能让穿戴者在战斗中获得更大的行动自由。</SchematicArmourOilItemDescription>
+  <SchematicArmourOilItemDescription>制作时用来松动护甲的油，能让穿戴者在战斗中行动更加灵活。</SchematicArmourOilItemDescription>
   
   
   <SchematicArmourOilEffect>[color=&quot;lime&quot;]+1 移动力[/color]</SchematicArmourOilEffect>
@@ -652,64 +652,64 @@
   <SchematicArmourWebbing>护甲织带</SchematicArmourWebbing>
   
   
-  <SchematicArmourWebbingNamePrefix>装带</SchematicArmourWebbingNamePrefix>
+  <SchematicArmourWebbingNamePrefix>被网缚</SchematicArmourWebbingNamePrefix>
   
   
-  <SchematicArmourWebbingDescription>护甲锻造图纸。在护甲上附加织带能增加一个携带物品上阵的栏位。</SchematicArmourWebbingDescription>
+  <SchematicArmourWebbingDescription>护甲锻造图纸。在护甲上缝织带可增加一个道具栏位，以便携带物品进入战斗。</SchematicArmourWebbingDescription>
   
   
-  <SchematicArmourWebbingItemDescription>这件护甲上附着的织带，能让穿戴者多携带一件物品上阵。</SchematicArmourWebbingItemDescription>
+  <SchematicArmourWebbingItemDescription>这件护甲上缝的织带让穿戴者能多携带一件物品进入战斗。</SchematicArmourWebbingItemDescription>
   
   
-  <SchematicArmourWebbingEffect>[color=&quot;lime&quot;]+1 通用道具栏位[/color]</SchematicArmourWebbingEffect>
+  <SchematicArmourWebbingEffect>[color=&quot;lime&quot;]+1 道具栏位[/color]</SchematicArmourWebbingEffect>
   
   
   
   <SchematicHardenedLeather>硬化皮革</SchematicHardenedLeather>
   
   
-  <SchematicHardenedLeatherNamePrefix>硬化</SchematicHardenedLeatherNamePrefix>
+  <SchematicHardenedLeatherNamePrefix>坚韧</SchematicHardenedLeatherNamePrefix>
   
   
-  <SchematicHardenedLeatherDescription>护甲锻造图纸。使用硬化皮革制作护甲，可使其获得防火性能。</SchematicHardenedLeatherDescription>
+  <SchematicHardenedLeatherDescription>护甲锻造图纸。使用硬化皮革制作护甲可使其获得火焰抗性。</SchematicHardenedLeatherDescription>
   
   
-  <SchematicHardenedLeatherItemDescription>制作这件护甲所用的硬化皮革，能保护穿戴者抵御火焰。</SchematicHardenedLeatherItemDescription>
+  <SchematicHardenedLeatherItemDescription>护甲制作中使用的硬化皮革能保护穿戴者免受火焰伤害。</SchematicHardenedLeatherItemDescription>
   
   
   <SchematicHardenedLeatherEffect>[color=&quot;lime&quot;]火焰抗性[/color]</SchematicHardenedLeatherEffect>
   
   
   
-  <SchematicArmourPadding>护甲填充</SchematicArmourPadding>
+  <SchematicArmourPadding>护甲衬垫</SchematicArmourPadding>
   
   
-  <SchematicArmourPaddingNamePrefix>镶衬</SchematicArmourPaddingNamePrefix>
+  <SchematicArmourPaddingNamePrefix>加衬</SchematicArmourPaddingNamePrefix>
   
   
-  <SchematicArmourPaddingDescription>护甲锻造图纸。在护甲的接缝和关节处进行填充，可以保护穿戴者免受毒药侵害。</SchematicArmourPaddingDescription>
+  <SchematicArmourPaddingDescription>护甲锻造图纸。给护甲的接缝处加衬可保护穿戴者免受毒药伤害。</SchematicArmourPaddingDescription>
   
   
-  <SchematicArmourPaddingItemDescription>这件护甲在制作时添加的内部填充物，能保护穿戴者免受毒药侵害。</SchematicArmourPaddingItemDescription>
+  <SchematicArmourPaddingItemDescription>护甲在制作时加入的内衬能保护穿戴者免受毒药侵害。</SchematicArmourPaddingItemDescription>
   
   
-  <SchematicArmourPaddingEffect>[color=&quot;lime&quot;]毒药抗性[/color]</SchematicArmourPaddingEffect>
+  <SchematicArmourPaddingEffect>[color=&quot;lime&quot;]毒素抗性[/color]</SchematicArmourPaddingEffect>
   
   
   
-  <SchematicArmourOintment>护甲膏</SchematicArmourOintment>
+  <SchematicArmourOintment>护甲药膏</SchematicArmourOintment>
   
   
   <SchematicArmourOintmentNamePrefix>涂膏</SchematicArmourOintmentNamePrefix>
   
   
-  <SchematicArmourOintmentDescription>护甲锻造图纸。将麻痹膏擦在护甲上，能让穿戴者每回合恢复少量生命值。</SchematicArmourOintmentDescription>
+  <SchematicArmourOintmentDescription>护甲锻造图纸。将麻木药膏揉进护甲，可让穿戴者每回合回复少量生命值。</SchematicArmourOintmentDescription>
   
   
-  <SchematicArmourOintmentItemDescription>制作时涂抹于护甲内侧的药膏，能让穿戴者每回合恢复少量生命值。</SchematicArmourOintmentItemDescription>
+  <SchematicArmourOintmentItemDescription>制作时涂在内侧的药膏能让穿戴者每回合回复少量生命值。</SchematicArmourOintmentItemDescription>
   
   
-  <SchematicArmourOintmentEffect>[color=&quot;lime&quot;]每回合+5 生命恢复[/color]</SchematicArmourOintmentEffect>
+  <SchematicArmourOintmentEffect>[color=&quot;lime&quot;]+5 每回合生命回复[/color]</SchematicArmourOintmentEffect>
   
 
 

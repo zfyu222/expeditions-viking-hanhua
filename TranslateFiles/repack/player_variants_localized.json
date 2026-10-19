@@ -1,0 +1,1362 @@
+[
+  {
+    "index": 44,
+    "before": "我不想为难像你这样有身份的[Player:man/woman]，但你让我很感兴趣。你愿意考虑帮帮我吗？",
+    "after": "我不想为难像你这样有身份的[Player:男子/女子]，但你让我很感兴趣。你愿意考虑帮帮我吗？"
+  },
+  {
+    "index": 114,
+    "before": "我听说[Player:Name]饶了[Player:he/she]打败的一个男子，甚至还让他加入了[Player:his/her]亲兵队。",
+    "after": "我听说[Player:Name]饶了[Player:他/她]打败的一个男子，甚至还让他加入了[Player:他/她]亲兵队。"
+  },
+  {
+    "index": 222,
+    "before": "抱歉，我的[Player:boy/girl]，你差点就说对了，可你漏掉了倒数第二部分！真正的基督徒不会犯这种错。",
+    "after": "抱歉，我的[Player:男孩/女孩]，你差点就说对了，可你漏掉了倒数第二部分！真正的基督徒不会犯这种错。"
+  },
+  {
+    "index": 223,
+    "before": "[Player:Velkominn/Velkomin]来到里伯，[Player:Name]。是什么风把您吹来了？",
+    "after": "[Player:欢迎/欢迎]来到里伯，[Player:Name]。是什么风把您吹来了？"
+  },
+  {
+    "index": 357,
+    "before": "谢谢你，[Player:Norseman/Norsewoman]。现在让我们安静地为自己的灵魂祈祷吧。",
+    "after": "谢谢你，[Player:诺斯人/诺斯女子]。现在让我们安静地为自己的灵魂祈祷吧。"
+  },
+  {
+    "index": 373,
+    "before": "你是个好[Player:man/woman]。你已经尽力了。",
+    "after": "你是个好[Player:男子/女子]。你已经尽力了。"
+  },
+  {
+    "index": 382,
+    "before": "好吧，至少[Player:he/she]还[i]觉得抱歉[/i]，把我们丢下等死。",
+    "after": "好吧，至少[Player:他/她]还[i]觉得抱歉[/i]，把我们丢下等死。"
+  },
+  {
+    "index": 441,
+    "before": "谢谢你，[Player:Norseman/Norsewoman]。也许你的灵魂终究还有希望。",
+    "after": "谢谢你，[Player:诺斯人/诺斯女子]。也许你的灵魂终究还有希望。"
+  },
+  {
+    "index": 661,
+    "before": "各位，[i]这位[/i]可是对勇气略知一二的人物。弑怪者[Player:himself/herself]！",
+    "after": "各位，[i]这位[/i]可是对勇气略知一二的人物。弑怪者[Player:他自己/她自己]！"
+  },
+  {
+    "index": 680,
+    "before": "你以为我做这一切是为了掌声？是我处处与你为敌，才逼你成了了不起的[Player:man/woman]，但这并不是我任何举动的理由。",
+    "after": "你以为我做这一切是为了掌声？是我处处与你为敌，才逼你成了了不起的[Player:男子/女子]，但这并不是我任何举动的理由。"
+  },
+  {
+    "index": 932,
+    "before": "战争？！亲爱的[Player:boy/girl]，你怎么会问出这种问题？",
+    "after": "战争？！亲爱的[Player:男孩/女孩]，你怎么会问出这种问题？"
+  },
+  {
+    "index": 956,
+    "before": "斯凯恩的领主正在为[Player:his/her]的战船寻找训练有素的船员！想找活干的战士请到雅尔的兵营见[Player:Name]领主！",
+    "after": "斯凯恩的领主正在为[Player:他/她]的战船寻找训练有素的船员！想找活干的战士请到雅尔的兵营见[Player:Name]领主！"
+  },
+  {
+    "index": 987,
+    "before": "啊！哦，我亲爱的[Player:boy/girl]，你还活着，我太高兴了！来，起来吧，快站起来……",
+    "after": "啊！哦，我亲爱的[Player:男孩/女孩]，你还活着，我太高兴了！来，起来吧，快站起来……"
+  },
+  {
+    "index": 991,
+    "before": "你最好站到一边去，免得受伤，[Player:woman/sister]。",
+    "after": "你最好站到一边去，免得受伤，[Player:女子/姐妹]。"
+  },
+  {
+    "index": 1072,
+    "before": "祝你安好，[Player:Brother/Sister]。",
+    "after": "祝你安好，[Player:兄弟/姐妹]。"
+  },
+  {
+    "index": 1113,
+    "before": "看看你！已经长成一个强壮的[Player:man/woman]了。",
+    "after": "看看你！已经长成一个强壮的[Player:男子/女子]了。"
+  },
+  {
+    "index": 1180,
+    "before": "它的意思是这户人家的[Player:master/mistress]。",
+    "after": "它的意思是这户人家的[Player:主人/女主人]。"
+  },
+  {
+    "index": 1192,
+    "before": "[Player:Velkominn/Velkomin]回来，领主。要兽皮还是回收材料？品质上乘，包您满意。",
+    "after": "[Player:欢迎/欢迎]回来，领主。要兽皮还是回收材料？品质上乘，包您满意。"
+  },
+  {
+    "index": 1194,
+    "before": "请宽恕我，[Player:Hlaford/Hlafdia]。若你回心转意，我会等你。",
+    "after": "请宽恕我，[Player:领主/女领主]。若你回心转意，我会等你。"
+  },
+  {
+    "index": 1268,
+    "before": "是什么风把你吹到我家来的，[Player:Norseman/Norsewoman]？",
+    "after": "是什么风把你吹到我家来的，[Player:诺斯人/诺斯女子]？"
+  },
+  {
+    "index": 1269,
+    "before": "你真是太好了，[Player:Hlaford/Hlafdia]！我们终于能离开这个臭水坑了。",
+    "after": "你真是太好了，[Player:领主/女领主]！我们终于能离开这个臭水坑了。"
+  },
+  {
+    "index": 1542,
+    "before": "有了你，她现在安心多了，我的[Player:boy/girl]。没人料到你们会找到彼此，我想她自己最没想到，但我看得出来，你们在一起会幸福。",
+    "after": "有了你，她现在安心多了，我的[Player:男孩/女孩]。没人料到你们会找到彼此，我想她自己最没想到，但我看得出来，你们在一起会幸福。"
+  },
+  {
+    "index": 1638,
+    "before": "你该四处看看这地方，[Player:brother/sister]。这儿没什么可交易的，除非你的氏族正面临着岩石短缺的危险。",
+    "after": "你该四处看看这地方，[Player:兄弟/姐妹]。这儿没什么可交易的，除非你的氏族正面临着岩石短缺的危险。"
+  },
+  {
+    "index": 1698,
+    "before": "那可不好受啊，[Player:lad/lass]。等你回来再来找我们——只是别拖太久，我们可不打算一直待在这儿！",
+    "after": "那可不好受啊，[Player:小伙子/姑娘]。等你回来再来找我们——只是别拖太久，我们可不打算一直待在这儿！"
+  },
+  {
+    "index": 1751,
+    "before": "领主没有夸大[Player:his/her]的技能。",
+    "after": "领主没有夸大[Player:他/她]的技能。"
+  },
+  {
+    "index": 1874,
+    "before": "我听说[Player:Name]正在寻找强壮勇敢的人加入[Player:his/her]亲兵队。",
+    "after": "我听说[Player:Name]正在寻找强壮勇敢的人加入[Player:他/她]亲兵队。"
+  },
+  {
+    "index": 1935,
+    "before": "为[Player:Name]和[Player:his/her]的船员们干杯！愿你每日所见皆欢喜，所未见者亦然！",
+    "after": "为[Player:Name]和[Player:他/她]的船员们干杯！愿你每日所见皆欢喜，所未见者亦然！"
+  },
+  {
+    "index": 1949,
+    "before": "那就这样了？我是诺森布里亚和皮克特维亚的[Player:king/queen]。",
+    "after": "那就这样了？我是诺森布里亚和皮克特维亚的[Player:国王/女王]。"
+  },
+  {
+    "index": 1987,
+    "before": "哈。哈哈哈！你确实是[Player:Father]的[Player:son/daughter]。这话听着就像从他嘴里说出来的一样！",
+    "after": "哈。哈哈哈！你确实是[Player:Father]的[Player:儿子/女儿]。这话听着就像从他嘴里说出来的一样！"
+  },
+  {
+    "index": 2004,
+    "before": "亲爱的，去给那位[Player:man/woman]称些银子。然后带你兄弟下去码头，看看我们新到的载货船。",
+    "after": "亲爱的，去给那位[Player:男子/女子]称些银子。然后带你兄弟下去码头，看看我们新到的载货船。"
+  },
+  {
+    "index": 2010,
+    "before": "眼下还没开战，[Player:lad/lass]，可你既然也掺和进来，我看用不了多久就会打起来。",
+    "after": "眼下还没开战，[Player:小伙子/姑娘]，可你既然也掺和进来，我看用不了多久就会打起来。"
+  },
+  {
+    "index": 2128,
+    "before": "这么说，是要让年轻对老练？这赌注你最好别下，[Player:boy/girl]。",
+    "after": "这么说，是要让年轻对老练？这赌注你最好别下，[Player:男孩/女孩]。"
+  },
+  {
+    "index": 2280,
+    "before": "欢迎，欢迎！你来得有点——[i]嗝[/i] 哎哟我去，哈哈哈！失礼了！——你来得有点晚，不过随便待着吧。你是我[Player:son/daughter-in-law]的朋友吗？",
+    "after": "欢迎，欢迎！你来得有点——[i]嗝[/i] 哎哟我去，哈哈哈！失礼了！——你来得有点晚，不过随便待着吧。你是我[Player:儿子/儿媳]的朋友吗？"
+  },
+  {
+    "index": 2351,
+    "before": "哈哈，这才有精神[Player:lad/lass]！那就让我瞧瞧你有多大本事！",
+    "after": "哈哈，这才有精神[Player:小伙子/姑娘]！那就让我瞧瞧你有多大本事！"
+  },
+  {
+    "index": 2372,
+    "before": "我觉得这个[i][Player:bastardr/bikkja][/i]把咱们当成一群流口水的傻子了。",
+    "after": "我觉得这个[i][Player:混蛋/贱人][/i]把咱们当成一群流口水的傻子了。"
+  },
+  {
+    "index": 2377,
+    "before": "晚上好，[Player:brother/sis]——{留里克咧嘴一笑}我是说，[i]我尊敬的领主[/i]。你感觉怎么样？",
+    "after": "晚上好，[Player:兄弟/姐妹]——{留里克咧嘴一笑}我是说，[i]我尊敬的领主[/i]。你感觉怎么样？"
+  },
+  {
+    "index": 2419,
+    "before": "[Player:He/She]说得对，奥塔尔。这不是父亲想要的。",
+    "after": "[Player:他/她]说得对，奥塔尔。这不是父亲想要的。"
+  },
+  {
+    "index": 2424,
+    "before": "欢迎光临我这简陋的摊位，诺斯人[Player:Hlaford/Hlafdia]。我听过不少关于你们族人的可靠说法。你要是找草药或药方，我们这儿应有尽有。",
+    "after": "欢迎光临我这简陋的摊位，诺斯人[Player:领主/女领主]。我听过不少关于你们族人的可靠说法。你要是找草药或药方，我们这儿应有尽有。"
+  },
+  {
+    "index": 2487,
+    "before": "我一直都看错了。谢谢你，小[Player:brother/sister]。我会好好想想这事。",
+    "after": "我一直都看错了。谢谢你，小[Player:兄弟/姐妹]。我会好好想想这事。"
+  },
+  {
+    "index": 2507,
+    "before": "[Random01:Name] 用[Player:his/her]脚戳了戳国王的尸体。",
+    "after": "[Random01:Name] 用[Player:他/她]脚戳了戳国王的尸体。"
+  },
+  {
+    "index": 2548,
+    "before": "谢谢你！谢谢你，宽宏大量的[Player:warrior/shieldmaiden]！",
+    "after": "谢谢你！谢谢你，宽宏大量的[Player:战士/盾女]！"
+  },
+  {
+    "index": 2552,
+    "before": "我明白，你发起攻击是出于简单的欲望——想让自己发财。所以你是个对暴力毫无顾忌的[Player:man/woman]，你的忠诚可以用钱买到。",
+    "after": "我明白，你发起攻击是出于简单的欲望——想让自己发财。所以你是个对暴力毫无顾忌的[Player:男子/女子]，你的忠诚可以用钱买到。"
+  },
+  {
+    "index": 2583,
+    "before": "如你所愿，亲爱的[Player:boy/girl]。我不该多管你的事！",
+    "after": "如你所愿，亲爱的[Player:男孩/女孩]。我不该多管你的事！"
+  },
+  {
+    "index": 2674,
+    "before": "让统治权就这么从父亲传到[Player:son/daughter]，可不是我们的规矩。要想让氏族重新强大起来，我们就得推举最强的战士当领主。你不是我们里面最强的——只不过是你父亲的孩子里没那么弱的那个。",
+    "after": "让统治权就这么从父亲传到[Player:儿子/女儿]，可不是我们的规矩。要想让氏族重新强大起来，我们就得推举最强的战士当领主。你不是我们里面最强的——只不过是你父亲的孩子里没那么弱的那个。"
+  },
+  {
+    "index": 2717,
+    "before": "这位是[Player:Name]。是[Player:Father]与阿斯特丽德的[Player:son/daughter]。你还记得[Player:him/her]吗？",
+    "after": "这位是[Player:Name]。是[Player:Father]与阿斯特丽德的[Player:儿子/女儿]。你还记得[Player:他/她]吗？"
+  },
+  {
+    "index": 2757,
+    "before": "又见面了[Player:lad/lass]。你凑到银币了吗？",
+    "after": "又见面了[Player:小伙子/姑娘]。你凑到银币了吗？"
+  },
+  {
+    "index": 2778,
+    "before": "够了！你也许是领主，可你终究还是我的[Player:nephew/niece]！就让一个老人保留些秘密吧，看在他自己的伤痛份上。",
+    "after": "够了！你也许是领主，可你终究还是我的[Player:侄子/侄女]！就让一个老人保留些秘密吧，看在他自己的伤痛份上。"
+  },
+  {
+    "index": 2785,
+    "before": "其他人错了。我是你的[Player:brother/sister]，我了解你的力量。你的智慧和善良的力量。",
+    "after": "其他人错了。我是你的[Player:兄弟/姐妹]，我了解你的力量。你的智慧和善良的力量。"
+  },
+  {
+    "index": 2972,
+    "before": "我明白了。唉，[Player:he/she] 会来不及的。赫伦比约恩早就上路了。",
+    "after": "我明白了。唉，[Player:他/她] 会来不及的。赫伦比约恩早就上路了。"
+  },
+  {
+    "index": 3069,
+    "before": "我是[Player:Name]，[Player:Father]的[Player:son/daughter]。",
+    "after": "我是[Player:Name]，[Player:Father]的[Player:儿子/女儿]。"
+  },
+  {
+    "index": 3089,
+    "before": "希望你到这儿来不是为了找麻烦，[Player:Norseman/Norsewoman]。我们麻烦已经够多了。",
+    "after": "希望你到这儿来不是为了找麻烦，[Player:诺斯人/诺斯女子]。我们麻烦已经够多了。"
+  },
+  {
+    "index": 3133,
+    "before": "你三两下就收拾了那些犟骡子。[Player:Man/Woman]真是合我心意。",
+    "after": "你三两下就收拾了那些犟骡子。[Player:男子/女子]真是合我心意。"
+  },
+  {
+    "index": 3165,
+    "before": "统治者的唯一职责，就是守护[Player:his/her]的子民。",
+    "after": "统治者的唯一职责，就是守护[Player:他/她]的子民。"
+  },
+  {
+    "index": 3187,
+    "before": "你有什么话要对[Player:him/her]说吗？",
+    "after": "你有什么话要对[Player:他/她]说吗？"
+  },
+  {
+    "index": 3341,
+    "before": "……对斯库勒再也不构成威胁了……只要[Player:he/she]还能在[Player:his/her]伤势下活下来……",
+    "after": "……对斯库勒再也不构成威胁了……只要[Player:他/她]还能在[Player:他/她]伤势下活下来……"
+  },
+  {
+    "index": 3371,
+    "before": "既然你这么说，[Player:lad/lass]。见鬼，我可不会觉得你干不出来。",
+    "after": "既然你这么说，[Player:小伙子/姑娘]。见鬼，我可不会觉得你干不出来。"
+  },
+  {
+    "index": 3461,
+    "before": "我花了那么久把这些感情压下去，用你拒绝我的念头吓唬自己，或者……哇，你真是[Player:handsome/beautiful]。",
+    "after": "我花了那么久把这些感情压下去，用你拒绝我的念头吓唬自己，或者……哇，你真是[Player:英俊/美丽]。"
+  },
+  {
+    "index": 3483,
+    "before": "我想这些就是 [Player:Name] 在 [Player:he/she] 于埃塞尔雷德的营地审问间谍之后提到的孩子。",
+    "after": "我想这些就是 [Player:Name] 在 [Player:他/她] 于埃塞尔雷德的营地审问间谍之后提到的孩子。"
+  },
+  {
+    "index": 3523,
+    "before": "我是[Player:Name]，[Player:Father]的[Player:son/daughter]，斯凯恩的领主。",
+    "after": "我是[Player:Name]，[Player:Father]的[Player:儿子/女儿]，斯凯恩的领主。"
+  },
+  {
+    "index": 3678,
+    "before": "我觉得这可能就是[Player:Name]在埃塞尔雷德的营地、[Player:he/she]审问那名间谍之后提到的那个丈夫。",
+    "after": "我觉得这可能就是[Player:Name]在埃塞尔雷德的营地、[Player:他/她]审问那名间谍之后提到的那个丈夫。"
+  },
+  {
+    "index": 3775,
+    "before": "不完全是[Player:king/queen]。我是[Player:Name]，斯凯恩的领主。",
+    "after": "不完全是[Player:国王/女王]。我是[Player:Name]，斯凯恩的领主。"
+  },
+  {
+    "index": 3819,
+    "before": "我会在死后找到你，你这头猪的[Player:you son/daughter]！我会在赫尔找到你，让你后悔这一切！",
+    "after": "我会在死后找到你，你这头猪的[Player:你这儿子/你这女儿]！我会在赫尔找到你，让你后悔这一切！"
+  },
+  {
+    "index": 3949,
+    "before": "祝你安康，我的[Player:honourable/beautiful]领主。你是来找北萨克森最好的铁匠打把武器吗？",
+    "after": "祝你安康，我的[Player:尊贵/美丽]领主。你是来找北萨克森最好的铁匠打把武器吗？"
+  },
+  {
+    "index": 4137,
+    "before": "你已证明自己是个好[Player:man/woman]，也是诺森布里亚人民的朋友。如果有什么我能为你做的，我向你保证给你公道价钱。",
+    "after": "你已证明自己是个好[Player:男子/女子]，也是诺森布里亚人民的朋友。如果有什么我能为你做的，我向你保证给你公道价钱。"
+  },
+  {
+    "index": 4201,
+    "before": "领主之位绝不能像剑或马一样，从父亲传给[Player:son/daughter]。若我们氏族要延续下去，我们[i]必须[/i]确保由我们之中最强、最睿智的人来统治。",
+    "after": "领主之位绝不能像剑或马一样，从父亲传给[Player:儿子/女儿]。若我们氏族要延续下去，我们[i]必须[/i]确保由我们之中最强、最睿智的人来统治。"
+  },
+  {
+    "index": 4233,
+    "before": "我感觉很好！我一直盼着有一天能称自己为诺森布里亚的[Player:king/queen]！",
+    "after": "我感觉很好！我一直盼着有一天能称自己为诺森布里亚的[Player:国王/女王]！"
+  },
+  {
+    "index": 4240,
+    "before": "主与你们同在，[Player:Hlaford/Hlafdia]。我本想好好款待你们，但你也看到了，我们眼下正忙得不可开交。",
+    "after": "主与你们同在，[Player:领主/女领主]。我本想好好款待你们，但你也看到了，我们眼下正忙得不可开交。"
+  },
+  {
+    "index": 4293,
+    "before": "[Player:Norseman/Norsewoman]。你有什么事？",
+    "after": "[Player:诺斯人/诺斯女子]。你有什么事？"
+  },
+  {
+    "index": 4422,
+    "before": "[Player:Hlaford/Hlafdia]？在我们的话里，这是表示尊敬的说法。意思是……",
+    "after": "[Player:领主/女领主]？在我们的话里，这是表示尊敬的说法。意思是……"
+  },
+  {
+    "index": 4491,
+    "before": "等我一看到一切恢复如常，我就把这里发生的事禀告大人。感谢你的帮助，[Player:Norseman/Norsewoman]。你今天为上帝效了力。",
+    "after": "等我一看到一切恢复如常，我就把这里发生的事禀告大人。感谢你的帮助，[Player:诺斯人/诺斯女子]。你今天为上帝效了力。"
+  },
+  {
+    "index": 4566,
+    "before": "这个[Player:man/woman]是冒牌货！这些全是异教徒的混入者，他们代表不了我们的国王！",
+    "after": "这个[Player:男子/女子]是冒牌货！这些全是异教徒的混入者，他们代表不了我们的国王！"
+  },
+  {
+    "index": 4576,
+    "before": "你赢了，[Player:Father]的[Player:son/daughter]。来吧，动手吧。给我个痛快。",
+    "after": "你赢了，[Player:Father]的[Player:儿子/女儿]。来吧，动手吧。给我个痛快。"
+  },
+  {
+    "index": 4696,
+    "before": "我能守住斯凯恩、这条河和峡湾，无人能撼动。我是奥克尼群岛的雅尔，也是诺森布里亚和皮克特维亚的[Player:king/queen]。",
+    "after": "我能守住斯凯恩、这条河和峡湾，无人能撼动。我是奥克尼群岛的雅尔，也是诺森布里亚和皮克特维亚的[Player:国王/女王]。"
+  },
+  {
+    "index": 4722,
+    "before": "现在……道别这种事，越是拖着就越难开口。愿诸神的风鼓满你的帆，我的[Player:son/daughter]。",
+    "after": "现在……道别这种事，越是拖着就越难开口。愿诸神的风鼓满你的帆，我的[Player:儿子/女儿]。"
+  },
+  {
+    "index": 4738,
+    "before": "斯凯恩正在造一艘新长船。[Player:Name] [Player:Lastname] 雇了一队船员。[Player:He/She] 打算向西航行。",
+    "after": "斯凯恩正在造一艘新长船。[Player:Name] [Player:Lastname] 雇了一队船员。[Player:他/她] 打算向西航行。"
+  },
+  {
+    "index": 4764,
+    "before": "如果我们能到牢门前，[Player:Name]也许能加入战斗，只要[Player:he/she]伤得不太重。",
+    "after": "如果我们能到牢门前，[Player:Name]也许能加入战斗，只要[Player:他/她]伤得不太重。"
+  },
+  {
+    "index": 4863,
+    "before": "[Player:King/Queen]？你这个人，对诚实、善良和怜悯这些基督徒美德全然陌生？你连统治皮克特人都不配！",
+    "after": "[Player:国王/女王]？你这个人，对诚实、善良和怜悯这些基督徒美德全然陌生？你连统治皮克特人都不配！"
+  },
+  {
+    "index": 4869,
+    "before": "请原谅我，[Player:Hlaford/Hlafdia]。我无意冒犯。我祖母吩咐过，不要和……你们……这种人打交道。",
+    "after": "请原谅我，[Player:领主/女领主]。我无意冒犯。我祖母吩咐过，不要和……你们……这种人打交道。"
+  },
+  {
+    "index": 4959,
+    "before": "领主[Player:Name]和[Player:his/her]的侍卫勉强击退了进攻，但这也暴露出该地区安全度的诸多严重漏洞。",
+    "after": "领主[Player:Name]和[Player:他/她]的侍卫勉强击退了进攻，但这也暴露出该地区安全度的诸多严重漏洞。"
+  },
+  {
+    "index": 4970,
+    "before": "嘿，达伊尔，你觉得我能从这里一箭射穿[Player:his/her]的脑袋吗？应该不会比猎狐狸难吧？",
+    "after": "嘿，达伊尔，你觉得我能从这里一箭射穿[Player:他/她]的脑袋吗？应该不会比猎狐狸难吧？"
+  },
+  {
+    "index": 4985,
+    "before": "太感谢你了，年轻的[Player:man/woman]。你为我们做的事，我们怎么也报答不了。请收下这张旧毛皮，作为我们永恒感激的信物。",
+    "after": "太感谢你了，年轻的[Player:男子/女子]。你为我们做的事，我们怎么也报答不了。请收下这张旧毛皮，作为我们永恒感激的信物。"
+  },
+  {
+    "index": 5085,
+    "before": "我是[Player:Name]，[Player:Father]的[Player:son/daughter]，诺森布里亚与皮克特维亚的征服者。",
+    "after": "我是[Player:Name]，[Player:Father]的[Player:儿子/女儿]，诺森布里亚与皮克特维亚的征服者。"
+  },
+  {
+    "index": 5122,
+    "before": "一个人的道路，大多从一开始就定下了。你如今走的这条路，若不是因为你是领主的[Player:son/daughter]，根本不会向你敞开。",
+    "after": "一个人的道路，大多从一开始就定下了。你如今走的这条路，若不是因为你是领主的[Player:儿子/女儿]，根本不会向你敞开。"
+  },
+  {
+    "index": 5152,
+    "before": "别急，[Player:lad/lass]。那趟远征要了他的命，也搭上了我们大部分弟兄。你没跟着一起去送死，就该庆幸了。",
+    "after": "别急，[Player:小伙子/姑娘]。那趟远征要了他的命，也搭上了我们大部分弟兄。你没跟着一起去送死，就该庆幸了。"
+  },
+  {
+    "index": 5263,
+    "before": "记住我的话，[Player:Norseman/Norsewoman]：古老城墙里又躺着一个受害者。",
+    "after": "记住我的话，[Player:诺斯人/诺斯女子]：古老城墙里又躺着一个受害者。"
+  },
+  {
+    "index": 5394,
+    "before": "如果你守不住自己的土地，就不配统治它。等我当上你的[Player:king/queen]，一切都会好起来。",
+    "after": "如果你守不住自己的土地，就不配统治它。等我当上你的[Player:国王/女王]，一切都会好起来。"
+  },
+  {
+    "index": 5413,
+    "before": "很抱歉这样麻烦你，但我看你这随行阵仗，想必是位有身份的[Player:man/woman]。",
+    "after": "很抱歉这样麻烦你，但我看你这随行阵仗，想必是位有身份的[Player:男子/女子]。"
+  },
+  {
+    "index": 5484,
+    "before": "也许他的[Player:son/daughter]会做得更好。",
+    "after": "也许他的[Player:儿子/女儿]会做得更好。"
+  },
+  {
+    "index": 5572,
+    "before": "我会和当地的长老们合作，在你与斯库勒的恩怨了结之前处理好这里的事。你的新王国是撑不下去的，[Player:King/Queen] [Player:Name]。",
+    "after": "我会和当地的长老们合作，在你与斯库勒的恩怨了结之前处理好这里的事。你的新王国是撑不下去的，[Player:国王/女王] [Player:Name]。"
+  },
+  {
+    "index": 5613,
+    "before": "带着那样的随从，你一定是某种[Player:king/queen]？",
+    "after": "带着那样的随从，你一定是某种[Player:国王/女王]？"
+  },
+  {
+    "index": 5687,
+    "before": "[Player:He/She]杀了斯泰因！你这[Player:bikkju-sonr/bikkja]！",
+    "after": "[Player:他/她]杀了斯泰因！你这[Player:狗娘养的/贱人]！"
+  },
+  {
+    "index": 5729,
+    "before": "这几堵墙里不搞什么异教仪式，好心的[Player:man/woman]。我向你保证，我们全是敬畏上帝的基督徒。",
+    "after": "这几堵墙里不搞什么异教仪式，好心的[Player:男子/女子]。我向你保证，我们全是敬畏上帝的基督徒。"
+  },
+  {
+    "index": 5747,
+    "before": "谢谢你的帮助，[Player:Norseman/Norsewoman]。我会为你们的灵魂祈祷。",
+    "after": "谢谢你的帮助，[Player:诺斯人/诺斯女子]。我会为你们的灵魂祈祷。"
+  },
+  {
+    "index": 5892,
+    "before": "我越早面对这件事，就越早能找到出路。谢谢你对我直言不讳。你是个好[Player:brother/sister]。",
+    "after": "我越早面对这件事，就越早能找到出路。谢谢你对我直言不讳。你是个好[Player:兄弟/姐妹]。"
+  },
+  {
+    "index": 5932,
+    "before": "痛快点动手吧。[i][Player:Bastardr/Bikkja][/i]。",
+    "after": "痛快点动手吧。[i][Player:混蛋/贱人][/i]。"
+  },
+  {
+    "index": 6006,
+    "before": "其他人：里面桌上还有蜂蜜酒和吃的。等[Player:he/she]准备好，领主肯定会回来找我们。",
+    "after": "其他人：里面桌上还有蜂蜜酒和吃的。等[Player:他/她]准备好，领主肯定会回来找我们。"
+  },
+  {
+    "index": 6119,
+    "before": "我怀疑[Player:he/she]活不到有机会的那一天。",
+    "after": "我怀疑[Player:他/她]活不到有机会的那一天。"
+  },
+  {
+    "index": 6175,
+    "before": "祝你安康，[Player:brother/sis]。",
+    "after": "祝你安康，[Player:兄弟/姐妹]。"
+  },
+  {
+    "index": 6264,
+    "before": "祝你安康。我是[Player:Name]，[Player:Father]的[Player:son/daughter]。",
+    "after": "祝你安康。我是[Player:Name]，[Player:Father]的[Player:儿子/女儿]。"
+  },
+  {
+    "index": 6306,
+    "before": "真有意思。你这[Player:guy/lady]可真有意思。",
+    "after": "真有意思。你这[Player:家伙/女士]可真有意思。"
+  },
+  {
+    "index": 6365,
+    "before": "记住利害。在我们赶到[Player:him/her]之前，[Player:Name]就任他们宰割。要是我们失败，我们的领主就完了。",
+    "after": "记住利害。在我们赶到[Player:他/她]之前，[Player:Name]就任他们宰割。要是我们失败，我们的领主就完了。"
+  },
+  {
+    "index": 6435,
+    "before": "[Player:Velkominn/Velkomin]回来，[Player:Name]。今天是什么风把你吹到我这小店里来了？",
+    "after": "[Player:欢迎/欢迎]回来，[Player:Name]。今天是什么风把你吹到我这小店里来了？"
+  },
+  {
+    "index": 6504,
+    "before": "拿去。这些该够你花销了。上帝[i]见证[/i]，你可真是个难缠的[Player:bastard/woman]。",
+    "after": "拿去。这些该够你花销了。上帝[i]见证[/i]，你可真是个难缠的[Player:混蛋/女人]。"
+  },
+  {
+    "index": 6575,
+    "before": "这就是我们跟你说过的那位[Player:man/woman]，在沼泽里明智地分出了药品。",
+    "after": "这就是我们跟你说过的那位[Player:男子/女子]，在沼泽里明智地分出了药品。"
+  },
+  {
+    "index": 6588,
+    "before": "这对你来说或许只是件小事，[Player:Norseman/Norsewoman]，但你今天做了一件了不起的事。",
+    "after": "这对你来说或许只是件小事，[Player:诺斯人/诺斯女子]，但你今天做了一件了不起的事。"
+  },
+  {
+    "index": 6623,
+    "before": "啊，[Player:Hlaford/Hlafdia] [Player:Name]。很高兴你愿意接受我的提议。",
+    "after": "啊，[Player:领主/女领主] [Player:Name]。很高兴你愿意接受我的提议。"
+  },
+  {
+    "index": 6709,
+    "before": "啊，对，[Player:Father]的[Player:son/daughter]。你在西边干了些很有意思的事，是不是？非常有意思的事。",
+    "after": "啊，对，[Player:Father]的[Player:儿子/女儿]。你在西边干了些很有意思的事，是不是？非常有意思的事。"
+  },
+  {
+    "index": 6729,
+    "before": "要是母亲再问起，就告诉她我会没事的。只是心里想出去闯荡罢了。有你这样的[Player:brother/sister]，谁能不受到鼓舞呢？",
+    "after": "要是母亲再问起，就告诉她我会没事的。只是心里想出去闯荡罢了。有你这样的[Player:兄弟/姐妹]，谁能不受到鼓舞呢？"
+  },
+  {
+    "index": 6758,
+    "before": "啊！哦，亲爱的[Player:boy/girl]，你还活着，真是太好了！",
+    "after": "啊！哦，亲爱的[Player:男孩/女孩]，你还活着，真是太好了！"
+  },
+  {
+    "index": 6763,
+    "before": "对不起。你如今已是个成年的[Player:man/woman]，也是我的领主了。可在我眼里，你永远是我的小[Player:brother/sister]。",
+    "after": "对不起。你如今已是个成年的[Player:男子/女子]，也是我的领主了。可在我眼里，你永远是我的小[Player:兄弟/姐妹]。"
+  },
+  {
+    "index": 6819,
+    "before": "你真是位大慈大悲的[Player:man/woman]——比我应得的宽容多了。我不会回约克。奥斯雷德什么都不会听到。",
+    "after": "你真是位大慈大悲的[Player:男子/女子]——比我应得的宽容多了。我不会回约克。奥斯雷德什么都不会听到。"
+  },
+  {
+    "index": 6902,
+    "before": "当然啦，[Player:lad/lass]。当——然——啦。我是艾布琳，酋长。我不会开门的。",
+    "after": "当然啦，[Player:小伙子/姑娘]。当——然——啦。我是艾布琳，酋长。我不会开门的。"
+  },
+  {
+    "index": 6935,
+    "before": "你这该死的[Player:bastard/bitch]！你想偷偷摸摸混过去？！想打架，那就打一场！",
+    "after": "你这该死的[Player:混蛋/贱人]！你想偷偷摸摸混过去？！想打架，那就打一场！"
+  },
+  {
+    "index": 7053,
+    "before": "[Random01:Name]用[Player:his/her]脚戳了戳国王的尸体。",
+    "after": "[Random01:Name]用[Player:他/她]脚戳了戳国王的尸体。"
+  },
+  {
+    "index": 7335,
+    "before": "我——什么？你这狡猾的[Player:son of a bitch/little mare]。",
+    "after": "我——什么？你这狡猾的[Player:狗娘养的/小母马]。"
+  },
+  {
+    "index": 7409,
+    "before": "是，[Player:His/Her]诺森布里亚一世 [Player:Name] 殿下。",
+    "after": "是，[Player:他/她]诺森布里亚一世 [Player:Name] 殿下。"
+  },
+  {
+    "index": 7428,
+    "before": "她俯身过来，在你脸颊上落下[Player:tender/sisterly]一吻。",
+    "after": "她俯身过来，在你脸颊上落下[Player:温柔/姐妹般]一吻。"
+  },
+  {
+    "index": 7689,
+    "before": "尊敬的[Player:Hlaford/Hlafdia] [Player:Name]！[Player:Velkominn/Velkomin]光临我这简陋的小摊。最近我听到的全是对你的[i]溢美之词[/i]，我向你保证，我的价钱会配得上这份赞誉。",
+    "after": "尊敬的[Player:领主/女领主] [Player:Name]！[Player:欢迎/欢迎]光临我这简陋的小摊。最近我听到的全是对你的[i]溢美之词[/i]，我向你保证，我的价钱会配得上这份赞誉。"
+  },
+  {
+    "index": 7694,
+    "before": "过得怎么样，[Player:brother/sis]？",
+    "after": "过得怎么样，[Player:兄弟/姐妹]？"
+  },
+  {
+    "index": 7748,
+    "before": "[Player:Name]，我的[Player:boy/girl]，你父亲的事我深感痛惜。若是耶灵的百姓能在这艰难时刻帮上你什么，尽管开口。",
+    "after": "[Player:Name]，我的[Player:男孩/女孩]，你父亲的事我深感痛惜。若是耶灵的百姓能在这艰难时刻帮上你什么，尽管开口。"
+  },
+  {
+    "index": 7759,
+    "before": "什么？领主[Player:himself/herself]要亲自替我去采集？自你父亲管事以来，世道真是变了不少！",
+    "after": "什么？领主[Player:他自己/她自己]要亲自替我去采集？自你父亲管事以来，世道真是变了不少！"
+  },
+  {
+    "index": 7803,
+    "before": "再没有比你更好的[Player:brother/sister]了。我会想办法挺过去的。谢谢你。",
+    "after": "再没有比你更好的[Player:兄弟/姐妹]了。我会想办法挺过去的。谢谢你。"
+  },
+  {
+    "index": 7871,
+    "before": "入侵已经结束了。我是诺森布里亚和皮克特维亚的新[Player:king/queen]。",
+    "after": "入侵已经结束了。我是诺森布里亚和皮克特维亚的新[Player:国王/女王]。"
+  },
+  {
+    "index": 8002,
+    "before": "你这个残忍的[Player:man/woman]！你这个残忍、残忍、[i]没心肝[/i]的——",
+    "after": "你这个残忍的[Player:男子/女子]！你这个残忍、残忍、[i]没心肝[/i]的——"
+  },
+  {
+    "index": 8147,
+    "before": "如果你以皮克特维亚和诺森布里亚的[Player:king/queen]身份回到家乡，斯库勒就没有任何机会对抗你。",
+    "after": "如果你以皮克特维亚和诺森布里亚的[Player:国王/女王]身份回到家乡，斯库勒就没有任何机会对抗你。"
+  },
+  {
+    "index": 8180,
+    "before": "就我所知[Player:Name]的所作所为，我认为没有理由相信[Player:he/she]无法保护[Player:his/her]的领地。",
+    "after": "就我所知[Player:Name]的所作所为，我认为没有理由相信[Player:他/她]无法保护[Player:他/她]的领地。"
+  },
+  {
+    "index": 8232,
+    "before": "异教徒[i][Player:bastard/bitch][/i]。你不是我们的人！这事与你毫无利害关系！别多管闲事。",
+    "after": "异教徒[i][Player:混蛋/贱人][/i]。你不是我们的人！这事与你毫无利害关系！别多管闲事。"
+  },
+  {
+    "index": 8250,
+    "before": "你竟这般放肆地拒绝我的款待！果然是你父亲的[Player:son/daughter]……",
+    "after": "你竟这般放肆地拒绝我的款待！果然是你父亲的[Player:儿子/女儿]……"
+  },
+  {
+    "index": 8304,
+    "before": "[Player:Velkominn/Velkomin]直到世界的尽头。",
+    "after": "[Player:欢迎/欢迎]直到世界的尽头。"
+  },
+  {
+    "index": 8320,
+    "before": "荣幸之至，[Player:lad/lass]。你和你的族人打起仗来像是身上附了魔鬼。看着真是带劲。",
+    "after": "荣幸之至，[Player:小伙子/姑娘]。你和你的族人打起仗来像是身上附了魔鬼。看着真是带劲。"
+  },
+  {
+    "index": 8510,
+    "before": "又见面了，[Player:lad/lass]。你发现有什么地方需要我的船吗？",
+    "after": "又见面了，[Player:小伙子/姑娘]。你发现有什么地方需要我的船吗？"
+  },
+  {
+    "index": 8552,
+    "before": "我是[Player:Name]，[Player:Father]的[Player:son/daughter]，这些是我的随从。",
+    "after": "我是[Player:Name]，[Player:Father]的[Player:儿子/女儿]，这些是我的随从。"
+  },
+  {
+    "index": 8665,
+    "before": "殿下[Player:Hlaford/Hlafdia]雅尔[Player:Name]，有您光临是我们的荣幸。",
+    "after": "殿下[Player:领主/女领主]雅尔[Player:Name]，有您光临是我们的荣幸。"
+  },
+  {
+    "index": 8841,
+    "before": "你——你[Player:son of a bitch/bitch]！我们连那些村民都杀了，照样能收拾你！",
+    "after": "你——你[Player:狗娘养的/贱人]！我们连那些村民都杀了，照样能收拾你！"
+  },
+  {
+    "index": 8968,
+    "before": "行吧，那……祝你好运，[Player:lad/lass]。别说我没提醒过你。",
+    "after": "行吧，那……祝你好运，[Player:小伙子/姑娘]。别说我没提醒过你。"
+  },
+  {
+    "index": 9030,
+    "before": "你是一位极其端庄的[Player:man/woman]——我相信有你在身边，我就能为氏族开创大好未来。",
+    "after": "你是一位极其端庄的[Player:男子/女子]——我相信有你在身边，我就能为氏族开创大好未来。"
+  },
+  {
+    "index": 9064,
+    "before": "我真为你骄傲！你真是你父亲的[Player:son/daughter]。",
+    "after": "我真为你骄傲！你真是你父亲的[Player:儿子/女儿]。"
+  },
+  {
+    "index": 9120,
+    "before": "重荣誉的[Player:warrior/shieldmaiden]！请留步，占用您片刻时间。",
+    "after": "重荣誉的[Player:战士/盾女]！请留步，占用您片刻时间。"
+  },
+  {
+    "index": 9122,
+    "before": "不，你才[Player:big lug/silly girl]。我自有麻烦要处理——多亏你，麻烦少了一件，但还没完。",
+    "after": "不，你才[Player:傻大个/傻姑娘]。我自有麻烦要处理——多亏你，麻烦少了一件，但还没完。"
+  },
+  {
+    "index": 9186,
+    "before": "请原谅我们之前的偏见，[Player:Hlaford/Hlafdia] [Player:Name]。你已经证明自己是这座城镇的朋友。",
+    "after": "请原谅我们之前的偏见，[Player:领主/女领主] [Player:Name]。你已经证明自己是这座城镇的朋友。"
+  },
+  {
+    "index": 9207,
+    "before": "尽管我更愿意向一位能光明正大击败我的[Player:man/woman]屈膝，但我如今任你处置。",
+    "after": "尽管我更愿意向一位能光明正大击败我的[Player:男子/女子]屈膝，但我如今任你处置。"
+  },
+  {
+    "index": 9296,
+    "before": "请告诉我，[Player:Hlaford/Hlafdia] [Player:Name]，你从何处来？",
+    "after": "请告诉我，[Player:领主/女领主] [Player:Name]，你从何处来？"
+  },
+  {
+    "index": 9326,
+    "before": "[Player:He/She]是我的领主，我会忠心侍奉[Player:him/her]，直到女武神把我带到福尔克范格。",
+    "after": "[Player:他/她]是我的领主，我会忠心侍奉[Player:他/她]，直到女武神把我带到福尔克范格。"
+  },
+  {
+    "index": 9379,
+    "before": "上前来，好心的[Player:man/woman]。你要是想找食物或药品，可算来对地方了。",
+    "after": "上前来，好心的[Player:男子/女子]。你要是想找食物或药品，可算来对地方了。"
+  },
+  {
+    "index": 9387,
+    "before": "你——[i]什么？！[/i]我不是间谍，你这个诡计多端的[Player:snake/mare]！",
+    "after": "你——[i]什么？！[/i]我不是间谍，你这个诡计多端的[Player:蛇/母马]！"
+  },
+  {
+    "index": 9511,
+    "before": "就把那东西给[Player:him/her]吧，诺特。你不需要它，没有它你也照样打得很好。",
+    "after": "就把那东西给[Player:他/她]吧，诺特。你不需要它，没有它你也照样打得很好。"
+  },
+  {
+    "index": 9546,
+    "before": "我，格里姆瓦尔德之子阿斯莱夫，向[Player:Father]的[Player:Name] [Player:son/daughter]发起挑战，争夺我们氏族的统治权。",
+    "after": "我，格里姆瓦尔德之子阿斯莱夫，向[Player:Father]的[Player:Name] [Player:儿子/女儿]发起挑战，争夺我们氏族的统治权。"
+  },
+  {
+    "index": 9641,
+    "before": "如果[Player:Name]在这儿，[Player:he/she]可能已经让这臭气熏死了。我想我们该弄清楚这计划是谁在做主了。",
+    "after": "如果[Player:Name]在这儿，[Player:他/她]可能已经让这臭气熏死了。我想我们该弄清楚这计划是谁在做主了。"
+  },
+  {
+    "index": 9672,
+    "before": "我把事情搞得一团糟，[Player:brother/sis]。",
+    "after": "我把事情搞得一团糟，[Player:兄弟/姐妹]。"
+  },
+  {
+    "index": 9682,
+    "before": "你说呢，[Player:boy/girl]？准备好去砸碎几个约顿巨人的脑袋了吗？",
+    "after": "你说呢，[Player:男孩/女孩]？准备好去砸碎几个约顿巨人的脑袋了吗？"
+  },
+  {
+    "index": 9687,
+    "before": "该死，[Player:lad/lass]，你当时不在场。你不知道那是什么滋味。我想说的都说了，别再提了。",
+    "after": "该死，[Player:小伙子/姑娘]，你当时不在场。你不知道那是什么滋味。我想说的都说了，别再提了。"
+  },
+  {
+    "index": 9701,
+    "before": "因此，我特此将斯凯恩的全部领土授予碎颅者斯库勒。为保全[Player:his/her]荣誉，[Player:Name]被判流放异乡。",
+    "after": "因此，我特此将斯凯恩的全部领土授予碎颅者斯库勒。为保全[Player:他/她]荣誉，[Player:Name]被判流放异乡。"
+  },
+  {
+    "index": 9711,
+    "before": "你赢了，[Player:Father]之子[Player:son/daughter]。我会带着家人离开。",
+    "after": "你赢了，[Player:Father]之子[Player:儿子/女儿]。我会带着家人离开。"
+  },
+  {
+    "index": 9746,
+    "before": "[Player:Name]，[Player:Father]的[Player:son/daughter]，我向你发起决斗挑战，争夺领主之位。",
+    "after": "[Player:Name]，[Player:Father]的[Player:儿子/女儿]，我向你发起决斗挑战，争夺领主之位。"
+  },
+  {
+    "index": 9850,
+    "before": "顺便把我剩下的人生故事也讲给[Player:him/her]听吧。",
+    "after": "顺便把我剩下的人生故事也讲给[Player:他/她]听吧。"
+  },
+  {
+    "index": 9941,
+    "before": "我恳请您通情达理，尊敬的[Player:Hlaford/Hlafdia]。",
+    "after": "我恳请您通情达理，尊敬的[Player:领主/女领主]。"
+  },
+  {
+    "index": 9988,
+    "before": "那我深感荣幸，能被称为你的盟友，[Player:Hlaford/Hlafdia] [Player:Name]。",
+    "after": "那我深感荣幸，能被称为你的盟友，[Player:领主/女领主] [Player:Name]。"
+  },
+  {
+    "index": 10023,
+    "before": "既然你已经证明自己是个品行端正的[Player:man/woman]，我就给你更好的价钱。需要什么尽管说。",
+    "after": "既然你已经证明自己是个品行端正的[Player:男子/女子]，我就给你更好的价钱。需要什么尽管说。"
+  },
+  {
+    "index": 10033,
+    "before": "好了，真抱歉，你刚回来我就得走，我的[Player:boy/girl]，可我必须走了。我得替西格丽德和你母亲去办些要紧事。",
+    "after": "好了，真抱歉，你刚回来我就得走，我的[Player:男孩/女孩]，可我必须走了。我得替西格丽德和你母亲去办些要紧事。"
+  },
+  {
+    "index": 10038,
+    "before": "哦嚯！我亲爱的[Player:man/woman]，自从你父亲的船陪他驶往来世，我就一直等着你来找我谈这件事。",
+    "after": "哦嚯！我亲爱的[Player:男子/女子]，自从你父亲的船陪他驶往来世，我就一直等着你来找我谈这件事。"
+  },
+  {
+    "index": 10058,
+    "before": "[i]挣[/i]来的？！哎呀，到了这份上，我已经把你当成我的战斗[Player:brother/sister]了！",
+    "after": "[i]挣[/i]来的？！哎呀，到了这份上，我已经把你当成我的战斗[Player:兄弟/姐妹]了！"
+  },
+  {
+    "index": 10085,
+    "before": "我听说你们是异教徒，但除非我亲耳听一个[Player:man/woman]从[Player:his/her]自己嘴里说出来，否则我不会相信这种事。",
+    "after": "我听说你们是异教徒，但除非我亲耳听一个[Player:男子/女子]从[Player:他/她]自己嘴里说出来，否则我不会相信这种事。"
+  },
+  {
+    "index": 10215,
+    "before": "是我，我就是[Player:he/she]。你是谁？",
+    "after": "是我，我就是[Player:他/她]。你是谁？"
+  },
+  {
+    "index": 10324,
+    "before": "我永远感激你，年轻的[Player:man/woman]。我这简陋的家随时欢迎你。",
+    "after": "我永远感激你，年轻的[Player:男子/女子]。我这简陋的家随时欢迎你。"
+  },
+  {
+    "index": 10441,
+    "before": "我是[Player:Name] [Player:son/daughter]，[Player:Father]之子，诺森布里亚与皮克特维亚的征服者。",
+    "after": "我是[Player:Name] [Player:儿子/女儿]，[Player:Father]之子，诺森布里亚与皮克特维亚的征服者。"
+  },
+  {
+    "index": 10470,
+    "before": "恰恰相反，亲爱的[Player:man/woman]。你[i]正是[/i]我们拉拢埃安巴尔德所需要的人。",
+    "after": "恰恰相反，亲爱的[Player:男子/女子]。你[i]正是[/i]我们拉拢埃安巴尔德所需要的人。"
+  },
+  {
+    "index": 10479,
+    "before": "真不敢相信这是真的——我竟成了诺森布里亚的[Player:king/queen]。",
+    "after": "真不敢相信这是真的——我竟成了诺森布里亚的[Player:国王/女王]。"
+  },
+  {
+    "index": 10488,
+    "before": "你跟我说过我不必改变，可我总觉得你那么说，只是因为你是我的[Player:brother/sister]。",
+    "after": "你跟我说过我不必改变，可我总觉得你那么说，只是因为你是我的[Player:兄弟/姐妹]。"
+  },
+  {
+    "index": 10513,
+    "before": "埃尔林！领主来了！[Player:He/She]还带来了[Player:his/her]侍卫！",
+    "after": "埃尔林！领主来了！[Player:他/她]还带来了[Player:他/她]侍卫！"
+  },
+  {
+    "index": 10519,
+    "before": "听听[Player:him/her]的，想想这会给我们带来什么后果。塔洛尔克！讲点道理！",
+    "after": "听听[Player:他/她]的，想想这会给我们带来什么后果。塔洛尔克！讲点道理！"
+  },
+  {
+    "index": 10541,
+    "before": "斯凯恩的领主[Player:Name] [Player:Lastname]和[Player:his/her]名勇猛的战士为这个王国做了许多事。为此，[Player:Name]，我承诺支持你在日德兰的战役。",
+    "after": "斯凯恩的领主[Player:Name] [Player:Lastname]和[Player:他/她]名勇猛的战士为这个王国做了许多事。为此，[Player:Name]，我承诺支持你在日德兰的战役。"
+  },
+  {
+    "index": 10561,
+    "before": "我不把诡计算作我的武器，但一个战士必须了解，即便是[Player:he himself/she herself]自己不用的那些武器。",
+    "after": "我不把诡计算作我的武器，但一个战士必须了解，即便是[Player:他自己/她自己]自己不用的那些武器。"
+  },
+  {
+    "index": 10599,
+    "before": "当然，[Player:Hlaford/Hlafdia]。我不想耽搁你。",
+    "after": "当然，[Player:领主/女领主]。我不想耽搁你。"
+  },
+  {
+    "index": 10664,
+    "before": "[Player:Velkominn/Velkomin]前往赫尔海姆。",
+    "after": "[Player:欢迎/欢迎]前往赫尔海姆。"
+  },
+  {
+    "index": 10808,
+    "before": "这位是丹麦人[Player:Name]。不管你父亲的家园是谁烧的，[Player:he/she]都跟那事无关。",
+    "after": "这位是丹麦人[Player:Name]。不管你父亲的家园是谁烧的，[Player:他/她]都跟那事无关。"
+  },
+  {
+    "index": 10834,
+    "before": "[Player:He/She]战败后可向胜者宣誓效忠，否则[Player:his/her]性命不保。若你我任何一方在决斗中倒下，其遗体将葬于此地。",
+    "after": "[Player:他/她]战败后可向胜者宣誓效忠，否则[Player:他/她]性命不保。若你我任何一方在决斗中倒下，其遗体将葬于此地。"
+  },
+  {
+    "index": 10940,
+    "before": "如果你无法防御你的土地，你就不配统治它。等我成为你的[Player:king/queen]时，一切都会好起来。",
+    "after": "如果你无法防御你的土地，你就不配统治它。等我成为你的[Player:国王/女王]时，一切都会好起来。"
+  },
+  {
+    "index": 11026,
+    "before": "啊，[Player:Hlaford/Hlafdia] [Player:Name]。很高兴看到你也从那场伏击中脱身了。",
+    "after": "啊，[Player:领主/女领主] [Player:Name]。很高兴看到你也从那场伏击中脱身了。"
+  },
+  {
+    "index": 11028,
+    "before": "我没有冒犯的意思，诺斯人[Player:Hlaford/Hlafdia]，但你这趟差事得另寻他处。我们帮不了你。",
+    "after": "我没有冒犯的意思，诺斯人[Player:领主/女领主]，但你这趟差事得另寻他处。我们帮不了你。"
+  },
+  {
+    "index": 11284,
+    "before": "我去过斯凯恩，我知道你是个熟练的[Player:craftsman/craftswoman]。",
+    "after": "我去过斯凯恩，我知道你是个熟练的[Player:工匠/女工匠]。"
+  },
+  {
+    "index": 11358,
+    "before": "留里克迟疑地握住你的手，像是要敲定这笔交易——对于[Player:brothers/brother and sister]来说，这是个古怪的正式举动，但似乎有必要。",
+    "after": "留里克迟疑地握住你的手，像是要敲定这笔交易——对于[Player:兄弟们/兄妹]来说，这是个古怪的正式举动，但似乎有必要。"
+  },
+  {
+    "index": 11401,
+    "before": "我可是个很有耐心的[Player:man/woman]。不过这位埃迪丝，她可不受任何人的气。她现在这么安分，是因为她知道我喜欢给人留个机会；但你要是半个子儿都不交出来，我很乐意放她去收拾你。",
+    "after": "我可是个很有耐心的[Player:男子/女子]。不过这位埃迪丝，她可不受任何人的气。她现在这么安分，是因为她知道我喜欢给人留个机会；但你要是半个子儿都不交出来，我很乐意放她去收拾你。"
+  },
+  {
+    "index": 11423,
+    "before": "那场袭击真凶险，我的[Player:boy/girl]，但也别太伤心了——你已经处理得比谁都好了。只可惜你父亲的葬礼竟被这种事给搅了。",
+    "after": "那场袭击真凶险，我的[Player:男孩/女孩]，但也别太伤心了——你已经处理得比谁都好了。只可惜你父亲的葬礼竟被这种事给搅了。"
+  },
+  {
+    "index": 11542,
+    "before": "好[Player:man/woman]。我会好好享受的。",
+    "after": "好[Player:男子/女子]。我会好好享受的。"
+  },
+  {
+    "index": 11581,
+    "before": "[Player:Velkominn/Velkomin]回来，仁慈的领主。您是想补充补给吗？",
+    "after": "[Player:欢迎/欢迎]回来，仁慈的领主。您是想补充补给吗？"
+  },
+  {
+    "index": 11623,
+    "before": "打扰了，我、我的[Player:Hlaford/Hlafdia]。",
+    "after": "打扰了，我、我的[Player:领主/女领主]。"
+  },
+  {
+    "index": 11693,
+    "before": "[Player:Father]的[Player:son/daughter]，从斯凯恩来的？",
+    "after": "[Player:Father]的[Player:儿子/女儿]，从斯凯恩来的？"
+  },
+  {
+    "index": 11837,
+    "before": "你应该称呼这位丹麦人[Player:Name]，神父。[Player:He/She]是这群人的领袖，我只是跟来看看、学学的。",
+    "after": "你应该称呼这位丹麦人[Player:Name]，神父。[Player:他/她]是这群人的领袖，我只是跟来看看、学学的。"
+  },
+  {
+    "index": 11977,
+    "before": "[Random01:Name]用[Player:his/her]脚捅了捅国王的尸体。",
+    "after": "[Random01:Name]用[Player:他/她]脚捅了捅国王的尸体。"
+  },
+  {
+    "index": 11998,
+    "before": "这事没完！你听见没有！我会找到你的，[Player:Father]！我会让你和你的[Player:son/daughter]为对我做的事付出代价！",
+    "after": "这事没完！你听见没有！我会找到你的，[Player:Father]！我会让你和你的[Player:儿子/女儿]为对我做的事付出代价！"
+  },
+  {
+    "index": 12112,
+    "before": "你是个好[Player:man/woman]。你已经尽力了。",
+    "after": "你是个好[Player:男子/女子]。你已经尽力了。"
+  },
+  {
+    "index": 12334,
+    "before": "我需要你把这数目翻一倍。你这些货物换来的，是斯凯恩领主——声名远扬的战士[Player:Father]的[Player:son/daughter]——以及我最信任的侍卫为你效力。",
+    "after": "我需要你把这数目翻一倍。你这些货物换来的，是斯凯恩领主——声名远扬的战士[Player:Father]的[Player:儿子/女儿]——以及我最信任的侍卫为你效力。"
+  },
+  {
+    "index": 12338,
+    "before": "我当初挑战[Player:him/her]真是愚蠢。人得认清自己在这世上的位置。我活该待在这儿。",
+    "after": "我当初挑战[Player:他/她]真是愚蠢。人得认清自己在这世上的位置。我活该待在这儿。"
+  },
+  {
+    "index": 12536,
+    "before": "你确实是个厉害的[Player:man/woman]。我同情那些与你为敌的人，也很庆幸你站在我们这边。",
+    "after": "你确实是个厉害的[Player:男子/女子]。我同情那些与你为敌的人，也很庆幸你站在我们这边。"
+  },
+  {
+    "index": 12637,
+    "before": "如果这是塔拉让你干的什么无聊把戏，你可以告诉她，下回挑跑腿的[Player:boys/girls]时得挑准点。",
+    "after": "如果这是塔拉让你干的什么无聊把戏，你可以告诉她，下回挑跑腿的[Player:男孩们/女孩们]时得挑准点。"
+  },
+  {
+    "index": 12660,
+    "before": "你找到了你的[Player:man/woman]。口信是什么？",
+    "after": "你找到了你的[Player:男子/女子]。口信是什么？"
+  },
+  {
+    "index": 12722,
+    "before": "你这个自私又恶毒的[Player:man/woman]！我完全有权在这里，面对杀我儿子的凶手！",
+    "after": "你这个自私又恶毒的[Player:男子/女子]！我完全有权在这里，面对杀我儿子的凶手！"
+  },
+  {
+    "index": 12865,
+    "before": "啊，祝你安康，我亲爱的[Player:man/woman]。你这气度像是贵族出身。也许你的家园正需要奴隶？",
+    "after": "啊，祝你安康，我亲爱的[Player:男子/女子]。你这气度像是贵族出身。也许你的家园正需要奴隶？"
+  },
+  {
+    "index": 12885,
+    "before": "[Player:Name]已同意雇佣我们。我们将每人获得一百厄尔图格白银。在[Player:his/her]的领导下，我们将以奥克尼群岛为基地，对不列颠群岛发动全面入侵。",
+    "after": "[Player:Name]已同意雇佣我们。我们将每人获得一百厄尔图格白银。在[Player:他/她]的领导下，我们将以奥克尼群岛为基地，对不列颠群岛发动全面入侵。"
+  },
+  {
+    "index": 12954,
+    "before": "万分敬仰的[Player:warrior/thieldmaiden]，[Player:Velkominn/Velkomin]光临我们简陋的帐篷！我叫格尼普利，今天能为您做些什么？",
+    "after": "万分敬仰的[Player:战士/盾女]，[Player:欢迎/欢迎]光临我们简陋的帐篷！我叫格尼普利，今天能为您做些什么？"
+  },
+  {
+    "index": 12979,
+    "before": "[Player:Velkominn/Velkomin]。我叫斯瓦娜，是这座神庙的女祭司。这是你第一次来吗？",
+    "after": "[Player:欢迎/欢迎]。我叫斯瓦娜，是这座神庙的女祭司。这是你第一次来吗？"
+  },
+  {
+    "index": 12999,
+    "before": "是啊，或者[Player:Name]只是想要个能跟着[Player:him/her]到处走的战利品。",
+    "after": "是啊，或者[Player:Name]只是想要个能跟着[Player:他/她]到处走的战利品。"
+  },
+  {
+    "index": 13036,
+    "before": "哈哈！你可算不上什么外交家，亲爱的[Player:man/woman]，这一点毫无疑问。不过没关系！",
+    "after": "哈哈！你可算不上什么外交家，亲爱的[Player:男子/女子]，这一点毫无疑问。不过没关系！"
+  },
+  {
+    "index": 13132,
+    "before": "怎么，不抱一下你的[Player:brother/sister]吗？",
+    "after": "怎么，不抱一下你的[Player:兄弟/姐妹]吗？"
+  },
+  {
+    "index": 13265,
+    "before": "你好吗，[Player:hlaford/hlafdia]？我叫瓦达。要是你抽得出时间，我想和你聊上一两句。",
+    "after": "你好吗，[Player:领主/女领主]？我叫瓦达。要是你抽得出时间，我想和你聊上一两句。"
+  },
+  {
+    "index": 13296,
+    "before": "嘿，你迷路了吗，老[Player:man/girl]？我们可不想有人作伴。",
+    "after": "嘿，你迷路了吗，老[Player:男子/姑娘]？我们可不想有人作伴。"
+  },
+  {
+    "index": 13305,
+    "before": "得了吧，叔叔。我已经是个成年的[Player:man/woman]了，我有权知道发生了什么。",
+    "after": "得了吧，叔叔。我已经是个成年的[Player:男子/女子]了，我有权知道发生了什么。"
+  },
+  {
+    "index": 13389,
+    "before": "你是个明智又讲理的[Player:man/woman]。我祈祷你在这里的决定不会给你带来更多麻烦。",
+    "after": "你是个明智又讲理的[Player:男子/女子]。我祈祷你在这里的决定不会给你带来更多麻烦。"
+  },
+  {
+    "index": 13417,
+    "before": "那就开始准备吧，我的[Player:son/girl]。我会去疏通些关系，好让我们多了解斯库勒的动向和计划。",
+    "after": "那就开始准备吧，我的[Player:儿子/姑娘]。我会去疏通些关系，好让我们多了解斯库勒的动向和计划。"
+  },
+  {
+    "index": 13454,
+    "before": "告诉我，[Player:Name]——[Player:Father]的[Player:son/daughter]：我为什么还活着？",
+    "after": "告诉我，[Player:Name]——[Player:Father]的[Player:儿子/女儿]：我为什么还活着？"
+  },
+  {
+    "index": 13485,
+    "before": "[Player:Hlaford/Hlafdia] [Player:Name]。我一直盼着与你见面。",
+    "after": "[Player:领主/女领主] [Player:Name]。我一直盼着与你见面。"
+  },
+  {
+    "index": 13654,
+    "before": "我想这些就是[Player:Name]在[Player:he/she]审讯了埃塞尔雷德营地里的间谍之后提到的那些孤儿。",
+    "after": "我想这些就是[Player:Name]在[Player:他/她]审讯了埃塞尔雷德营地里的间谍之后提到的那些孤儿。"
+  },
+  {
+    "index": 13711,
+    "before": "虽然这算不上[Player:he/she]所说的那种不光彩之事——毕竟我们只有一艘船，要对付的是整个村子！",
+    "after": "虽然这算不上[Player:他/她]所说的那种不光彩之事——毕竟我们只有一艘船，要对付的是整个村子！"
+  },
+  {
+    "index": 13857,
+    "before": "假如我们暂且假设我是个南方来的贵族出身[Player:man/woman]。你会收多少钱？",
+    "after": "假如我们暂且假设我是个南方来的贵族出身[Player:男子/女子]。你会收多少钱？"
+  },
+  {
+    "index": 13933,
+    "before": "好心的[Player:man/woman]，我恳求你帮帮一个走投无路的可怜人。",
+    "after": "好心的[Player:男子/女子]，我恳求你帮帮一个走投无路的可怜人。"
+  },
+  {
+    "index": 13977,
+    "before": "我是[Player:Name]，[Player:Father]的[Player:son/daughter]。",
+    "after": "我是[Player:Name]，[Player:Father]的[Player:儿子/女儿]。"
+  },
+  {
+    "index": 13980,
+    "before": "若[Player:he/she]幸存，落败的[Player:he/she]可向胜者宣誓效忠，否则[Player:his/her]性命不保。若我们两人中有一人死于决斗，其尸身当葬于此。",
+    "after": "若[Player:他/她]幸存，落败的[Player:他/她]可向胜者宣誓效忠，否则[Player:他/她]性命不保。若我们两人中有一人死于决斗，其尸身当葬于此。"
+  },
+  {
+    "index": 13991,
+    "before": "别把[Player:man/woman]的父亲评判得太苛刻。他至少忠于自己的本性——这一点我们人人都该追求。",
+    "after": "别把[Player:男子/女子]的父亲评判得太苛刻。他至少忠于自己的本性——这一点我们人人都该追求。"
+  },
+  {
+    "index": 14015,
+    "before": "不管怎样，你帮了里伯一个大忙。谢谢你，[Player:Father]的[Player:son/daughter]。",
+    "after": "不管怎样，你帮了里伯一个大忙。谢谢你，[Player:Father]的[Player:儿子/女儿]。"
+  },
+  {
+    "index": 14118,
+    "before": "你还真是[i]是[/i][Player:Father]的[Player:son/daughter]，对吧？只是在你急着保护族人的时候，可别疏忽了他们真正的需求。",
+    "after": "你还真是[i]是[/i][Player:Father]的[Player:儿子/女儿]，对吧？只是在你急着保护族人的时候，可别疏忽了他们真正的需求。"
+  },
+  {
+    "index": 14237,
+    "before": "我们非来这一趟不可，好让我们的儿子亲眼见见他的救命恩人。我们还有一个孩子即将出生，是个[Player:son/daughter]。若你允许，我们想给[Player:him/her]取名叫[Player:Name]。",
+    "after": "我们非来这一趟不可，好让我们的儿子亲眼见见他的救命恩人。我们还有一个孩子即将出生，是个[Player:儿子/女儿]。若你允许，我们想给[Player:他/她]取名叫[Player:Name]。"
+  },
+  {
+    "index": 14255,
+    "before": "我守住斯凯恩、河流和峡湾的能力无可撼动。我是奥克尼群岛的雅尔，也是诺森布里亚和皮克特维亚的[Player:king/queen]。",
+    "after": "我守住斯凯恩、河流和峡湾的能力无可撼动。我是奥克尼群岛的雅尔，也是诺森布里亚和皮克特维亚的[Player:国王/女王]。"
+  },
+  {
+    "index": 14293,
+    "before": "我是[Player:Name] [Player:son/daughter]，是[Player:Father]的孩子，这里确实是我这个领主做主。",
+    "after": "我是[Player:Name] [Player:儿子/女儿]，是[Player:Father]的孩子，这里确实是我这个领主做主。"
+  },
+  {
+    "index": 14354,
+    "before": "你撒谎撒得太拙劣了，[Player:Norseman/Norsewoman]。把剩下的交出来。",
+    "after": "你撒谎撒得太拙劣了，[Player:诺斯人/诺斯女子]。把剩下的交出来。"
+  },
+  {
+    "index": 14639,
+    "before": "你告诉过我，智慧和仁慈之中蕴含着力量，可我总也甩不掉那种感觉——你那么说，只是因为你是我的[Player:brother/sister]。",
+    "after": "你告诉过我，智慧和仁慈之中蕴含着力量，可我总也甩不掉那种感觉——你那么说，只是因为你是我的[Player:兄弟/姐妹]。"
+  },
+  {
+    "index": 14733,
+    "before": "抱歉，我的[Player:boy/girl]，你开头本来还不错，可真正的基督徒绝不会那样把信经弄混。",
+    "after": "抱歉，我的[Player:男孩/女孩]，你开头本来还不错，可真正的基督徒绝不会那样把信经弄混。"
+  },
+  {
+    "index": 14759,
+    "before": "祝你安康，我是[Player:Name]，[Player:Father]的[Player:son/daughter]。我们来此是想与你们的国王谈谈。",
+    "after": "祝你安康，我是[Player:Name]，[Player:Father]的[Player:儿子/女儿]。我们来此是想与你们的国王谈谈。"
+  },
+  {
+    "index": 15038,
+    "before": "能再见到我的[Player:nephew/niece]总是好事。你找这头老狼有什么事？",
+    "after": "能再见到我的[Player:侄子/侄女]总是好事。你找这头老狼有什么事？"
+  },
+  {
+    "index": 15159,
+    "before": "我听说了。抱歉，我的[Player:boy/girl]，这事我不掺和。你们俩从小娃娃起我就认识。阿斯莱夫以前还常来铁匠铺帮忙。",
+    "after": "我听说了。抱歉，我的[Player:男孩/女孩]，这事我不掺和。你们俩从小娃娃起我就认识。阿斯莱夫以前还常来铁匠铺帮忙。"
+  },
+  {
+    "index": 15170,
+    "before": "想象一下，你要是以诺森布里亚和皮克特维亚的[Player:king/queen]身份来到阿尔庭议会，那会怎样！",
+    "after": "想象一下，你要是以诺森布里亚和皮克特维亚的[Player:国王/女王]身份来到阿尔庭议会，那会怎样！"
+  },
+  {
+    "index": 15188,
+    "before": "抱歉，我的[Player:boy/girl]，你开头说得不错，但真正的基督徒可不只会念主祷文的第一句。",
+    "after": "抱歉，我的[Player:男孩/女孩]，你开头说得不错，但真正的基督徒可不只会念主祷文的第一句。"
+  },
+  {
+    "index": 15239,
+    "before": "我敢肯定那不是真的，[Player:man/woman]，你的本领有目共睹。",
+    "after": "我敢肯定那不是真的，[Player:男子/女子]，你的本领有目共睹。"
+  },
+  {
+    "index": 15441,
+    "before": "你看起来心事重重，[Player:son/daughter]。是什么压得你喘不过气？",
+    "after": "你看起来心事重重，[Player:儿子/女儿]。是什么压得你喘不过气？"
+  },
+  {
+    "index": 15551,
+    "before": "恕我冒昧，[Player:Hlaford/Hlafdia]。国王的帐篷里正等着您。",
+    "after": "恕我冒昧，[Player:领主/女领主]。国王的帐篷里正等着您。"
+  },
+  {
+    "index": 15554,
+    "before": "你知道……你说得对。抱歉，我不该因为别人对[Player:him/her]的评价就拒绝一个[Player:man/woman]。你需要什么？",
+    "after": "你知道……你说得对。抱歉，我不该因为别人对[Player:他/她]的评价就拒绝一个[Player:男子/女子]。你需要什么？"
+  },
+  {
+    "index": 15818,
+    "before": "那么，很高兴认识你，[Player:Hlaford/Hlafdia]。能接触到鲜为人知的文化和传统，总是很有意思。",
+    "after": "那么，很高兴认识你，[Player:领主/女领主]。能接触到鲜为人知的文化和传统，总是很有意思。"
+  },
+  {
+    "index": 15844,
+    "before": "你回来了，[Player:Norseman/Norsewoman]。",
+    "after": "你回来了，[Player:诺斯人/诺斯女子]。"
+  },
+  {
+    "index": 16000,
+    "before": "我仿佛看见我那小小的[Player:brother/sister]消失在地平线上，乘着一条漂亮的长船，身边是[Player:his/her]忠贞的朋友与侍卫，一去不回。",
+    "after": "我仿佛看见我那小小的[Player:兄弟/姐妹]消失在地平线上，乘着一条漂亮的长船，身边是[Player:他/她]忠贞的朋友与侍卫，一去不回。"
+  },
+  {
+    "index": 16065,
+    "before": "谢谢你。我相信他只需要他的[Player:brother/sister]说几句鼓励的话。",
+    "after": "谢谢你。我相信他只需要他的[Player:兄弟/姐妹]说几句鼓励的话。"
+  },
+  {
+    "index": 16070,
+    "before": "行了！住手！我们得看守那个异教徒[Player:chieftain/warrior woman]已经够糟了。我可不想再为这条河操心！",
+    "after": "行了！住手！我们得看守那个异教徒[Player:酋长/女战士]已经够糟了。我可不想再为这条河操心！"
+  },
+  {
+    "index": 16172,
+    "before": "[i][Player:Bastard/Bitch][/i]。",
+    "after": "[i][Player:混蛋/贱人][/i]。"
+  },
+  {
+    "index": 16200,
+    "before": "祝你安好，[Player:Norseman/Norsewoman]。",
+    "after": "祝你安好，[Player:诺斯人/诺斯女子]。"
+  },
+  {
+    "index": 16267,
+    "before": "对不起，[Player:lad/lass]。我们到此为止了。你走吧。",
+    "after": "对不起，[Player:小伙子/姑娘]。我们到此为止了。你走吧。"
+  },
+  {
+    "index": 16395,
+    "before": "领主[Player:Name]和[Player:his/her]侍卫英勇奋战，努力击退来犯者，但劫掠还是得逞了。这一事件暴露了该地区安全度上的严重漏洞。",
+    "after": "领主[Player:Name]和[Player:他/她]侍卫英勇奋战，努力击退来犯者，但劫掠还是得逞了。这一事件暴露了该地区安全度上的严重漏洞。"
+  },
+  {
+    "index": 16593,
+    "before": "我担心光靠斯卡基一个人没法挫败[Player:him/her]。你要是允许，我也一起去。",
+    "after": "我担心光靠斯卡基一个人没法挫败[Player:他/她]。你要是允许，我也一起去。"
+  },
+  {
+    "index": 16600,
+    "before": "这位是，呃，斯凯恩的[Player:Name]。[Player:He/She]有些问题想请教？",
+    "after": "这位是，呃，斯凯恩的[Player:Name]。[Player:他/她]有些问题想请教？"
+  },
+  {
+    "index": 16667,
+    "before": "真是太对不起了，我的[Player:boy/girl]。我们已经别无选择了。",
+    "after": "真是太对不起了，我的[Player:男孩/女孩]。我们已经别无选择了。"
+  },
+  {
+    "index": 16668,
+    "before": "和平？狗屁。你真是你父亲的[Player:son/daughter]，你的所作所为就是证明。不管你愿不愿意，你都会成为维京人。",
+    "after": "和平？狗屁。你真是你父亲的[Player:儿子/女儿]，你的所作所为就是证明。不管你愿不愿意，你都会成为维京人。"
+  },
+  {
+    "index": 16676,
+    "before": "[Player:Velkominn/Velkomin]，仁慈的领主。您是想补充补给吗？",
+    "after": "[Player:欢迎/欢迎]，仁慈的领主。您是想补充补给吗？"
+  },
+  {
+    "index": 16761,
+    "before": "你惹错[Player:man/woman]了，斯卡基。",
+    "after": "你惹错[Player:男子/女子]了，斯卡基。"
+  },
+  {
+    "index": 16884,
+    "before": "很好。瓦达，务必把[Player:Name]为[Player:his/her]效劳的报酬付了。",
+    "after": "很好。瓦达，务必把[Player:Name]为[Player:他/她]效劳的报酬付了。"
+  },
+  {
+    "index": 16956,
+    "before": "[Player:Velkominn/Velkomin]，[Player:Velkominn/Velkomin]。刚从里伯上来的交易船上买了一整车新宰的牛肉。想来看看吗？",
+    "after": "[Player:欢迎/欢迎]，[Player:欢迎/欢迎]。刚从里伯上来的交易船上买了一整车新宰的牛肉。想来看看吗？"
+  },
+  {
+    "index": 17066,
+    "before": "奥塔尔，你这可悲的酒鬼！你竟[i]敢[/i]在[Player:his/her]自己的宴会上侮辱你领主的荣誉！你的家族要为此付出代价！",
+    "after": "奥塔尔，你这可悲的酒鬼！你竟[i]敢[/i]在[Player:他/她]自己的宴会上侮辱你领主的荣誉！你的家族要为此付出代价！"
+  },
+  {
+    "index": 17170,
+    "before": "唉，可我知道，你们这些年轻的[Player:men/women]一旦拿定主意，谁也别想拦住。好吧，好吧，我看看我这儿有什么。",
+    "after": "唉，可我知道，你们这些年轻的[Player:男人/女人]一旦拿定主意，谁也别想拦住。好吧，好吧，我看看我这儿有什么。"
+  },
+  {
+    "index": 17211,
+    "before": "好样的，[Player:man/woman]。",
+    "after": "好样的，[Player:男子/女子]。"
+  },
+  {
+    "index": 17302,
+    "before": "是啊，我们听说过你。你可是出了名的心狠手辣，[Player:man/woman]。你再也别想踏进珀斯城中心一步！",
+    "after": "是啊，我们听说过你。你可是出了名的心狠手辣，[Player:男子/女子]。你再也别想踏进珀斯城中心一步！"
+  },
+  {
+    "index": 17309,
+    "before": "没错！你一定是[Player:Father]的[Player:son/daughter]——就凭这鼻子，错不了。",
+    "after": "没错！你一定是[Player:Father]的[Player:儿子/女儿]——就凭这鼻子，错不了。"
+  },
+  {
+    "index": 17331,
+    "before": "你的所作所为给我们所有人上了一课：不能因为[Player:his/her]亲属的声望就去评判一个[Player:man/woman]。",
+    "after": "你的所作所为给我们所有人上了一课：不能因为[Player:他/她]亲属的声望就去评判一个[Player:男子/女子]。"
+  },
+  {
+    "index": 17434,
+    "before": "要是你为我而战就好了，内夫娅。如果你能赢下这场，我希望[Player:Name]会当个比[Player:his/her]父亲更好的领主。",
+    "after": "要是你为我而战就好了，内夫娅。如果你能赢下这场，我希望[Player:Name]会当个比[Player:他/她]父亲更好的领主。"
+  },
+  {
+    "index": 17465,
+    "before": "抱歉，我的[Player:boy/girl]，你差一点就说对了，但如果你真正理解基督的教诲，就绝不会忘记他的复活！",
+    "after": "抱歉，我的[Player:男孩/女孩]，你差一点就说对了，但如果你真正理解基督的教诲，就绝不会忘记他的复活！"
+  },
+  {
+    "index": 17479,
+    "before": "我已决定效忠[Player:Name]。在[Player:his/her]的领导下，我们将以奥克尼群岛为基地，全面入侵不列颠群岛。",
+    "after": "我已决定效忠[Player:Name]。在[Player:他/她]的领导下，我们将以奥克尼群岛为基地，全面入侵不列颠群岛。"
+  },
+  {
+    "index": 17535,
+    "before": "见到你总是好事，[Player:Hlaford/Hlafdia]",
+    "after": "见到你总是好事，[Player:领主/女领主]"
+  },
+  {
+    "index": 17658,
+    "before": "算你倒霉，[Player:lad/lass]，她把那号角送给我，当作她永恒之爱的象征。我上次确认的时候，“永远”可还没到头呢！",
+    "after": "算你倒霉，[Player:小伙子/姑娘]，她把那号角送给我，当作她永恒之爱的象征。我上次确认的时候，“永远”可还没到头呢！"
+  },
+  {
+    "index": 17742,
+    "before": "看来[Player:Name]把女巫带进了[Player:his/her]亲兵队。",
+    "after": "看来[Player:Name]把女巫带进了[Player:他/她]亲兵队。"
+  },
+  {
+    "index": 17840,
+    "before": "抱歉，我的[Player:boy/girl]，明知你要拿这刀去对付氏族里的人，我就不能卖给你。阿斯莱夫小时候常在铁匠铺里帮忙。",
+    "after": "抱歉，我的[Player:男孩/女孩]，明知你要拿这刀去对付氏族里的人，我就不能卖给你。阿斯莱夫小时候常在铁匠铺里帮忙。"
+  },
+  {
+    "index": 18087,
+    "before": "[Player:Name]是[Player:Thorr/Freyja]，我是巴德尔，内夫娅是——",
+    "after": "[Player:Name]是[Player:托尔/芙蕾雅]，我是巴德尔，内夫娅是——"
+  },
+  {
+    "index": 18133,
+    "before": "欢迎回来，[Player:Hlaford/Hlafdia]雅尔[Player:Name]。今天我们该如何助你一臂之力？",
+    "after": "欢迎回来，[Player:领主/女领主]雅尔[Player:Name]。今天我们该如何助你一臂之力？"
+  },
+  {
+    "index": 18174,
+    "before": "所以你现在就是掌管奥克尼群岛的那位[Player:man/woman]了，是吗？我可不觉得这会对我这种人有什么改变。",
+    "after": "所以你现在就是掌管奥克尼群岛的那位[Player:男子/女子]了，是吗？我可不觉得这会对我这种人有什么改变。"
+  },
+  {
+    "index": 18188,
+    "before": "没人质疑你的战斗本领，[Player:Hlaford/Hlafdia]，我们只是在履行戈德威夫在这桩约定里该做的那一份！",
+    "after": "没人质疑你的战斗本领，[Player:领主/女领主]，我们只是在履行戈德威夫在这桩约定里该做的那一份！"
+  },
+  {
+    "index": 18209,
+    "before": "你？我们的[Player:king/queen]？皮克特人既骄傲又强悍！你坐在考斯坦丁的王位上撑不过[i]一周[/i]。",
+    "after": "你？我们的[Player:国王/女王]？皮克特人既骄傲又强悍！你坐在考斯坦丁的王位上撑不过[i]一周[/i]。"
+  },
+  {
+    "index": 18253,
+    "before": "哦，我亲爱的[Player:lad/lass]。你竟要问这个，真让我难过。德鲁伊曾是所有这些土地的统治者，如果我没记错的话，也是你们土地的统治者！不过话说回来，这也不能排除……",
+    "after": "哦，我亲爱的[Player:小伙子/姑娘]。你竟要问这个，真让我难过。德鲁伊曾是所有这些土地的统治者，如果我没记错的话，也是你们土地的统治者！不过话说回来，这也不能排除……"
+  },
+  {
+    "index": 18329,
+    "before": "你还是个年轻的[Player:man/woman]，[Player:Name]——心急又没耐性。等你年纪大了就会明白，有些事急不得。",
+    "after": "你还是个年轻的[Player:男子/女子]，[Player:Name]——心急又没耐性。等你年纪大了就会明白，有些事急不得。"
+  }
+]

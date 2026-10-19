@@ -6,13 +6,14 @@ Expeditions Viking 汉化 - 第3步：将翻译结果写回 XML 文件（修复�
 
 import os
 import csv
+import argparse
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import shutil
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 LOCALIZATION_DIR = os.path.join(BASE_DIR, "output", "full-project", "ExportedProject", "Assets", "Resources", "localization")
-TRANSLATED_CSV = os.path.join(BASE_DIR, "extracted_for_ainiee_translated.csv")
+TRANSLATED_CSV = os.path.join(BASE_DIR, "TranslateFiles", "repack", "translation_for_repack.csv")
 EXTRACTED_CSV = os.path.join(BASE_DIR, "extracted_strings.csv")
 OUTPUT_DIR = os.path.join(BASE_DIR, "Chinese_Localization")
 
@@ -76,72 +77,82 @@ NAME_STATIC_TRANSLATIONS = {
 }
 
 
-def load_translations():
+def load_translations(translated_csv=TRANSLATED_CSV, extracted_csv=EXTRACTED_CSV):
     """按行号顺序，将翻译结果与原始 key 配对"""
-    # 读取翻译结果
+    # 读取翻译结果（单列；兼容带表头的旧格式）
     trans_list = []
-    with open(TRANSLATED_CSV, "r", encoding="utf-8-sig") as f:
+    with open(translated_csv, "r", encoding="utf-8-sig", newline="") as f:
         reader = csv.reader(f)
-        next(reader)  # skip header
-        for row in reader:
-            if row:
-                trans_list.append(row[0].strip())
+        for i, row in enumerate(reader):
+            if not row:
+                continue
+            if i == 0 and row[0].strip() in ("原文", "source", "Source"):
+                continue
+            trans_list.append(row[0].strip())
 
-    # 读取原始 key 和 category
+    # 读取原始 key 和 category（key 按类别隔离，避免同名路径跨文件串译）
     key_to_trans = {}
-    with open(EXTRACTED_CSV, "r", encoding="utf-8-sig") as f:
+    missing = []
+    with open(extracted_csv, "r", encoding="utf-8-sig", newline="") as f:
         reader = csv.DictReader(f)
         for i, row in enumerate(reader):
             if i < len(trans_list) and trans_list[i]:
-                key_to_trans[row["key"]] = trans_list[i]
+                key_to_trans[(row["category"], row["key"])] = trans_list[i]
+            else:
+                missing.append(row["key"])
 
+    if missing:
+        print(f"[警告] {len(missing)} 条 key 没有译文，将保留英文：{missing[:5]}")
     return key_to_trans
 
 
-def generate_dialogue_xml(source_path, output_path, translations):
+def generate_dialogue_xml(source_path, output_path, translations, category="dialogue"):
     """对话 XML：key 是 UUID"""
     tree = ET.parse(source_path)
     root = tree.getroot()
-    
+
     count = 0
     for elem in root.findall("Localize"):
         uid = elem.get("id", "")
-        if uid in translations:
-            elem.text = translations[uid]
+        text = translations.get((category, uid))
+        if text:
+            elem.text = text
             count += 1
-    
+
     write_xml(tree, output_path)
     return count
 
 
-def generate_by_path(source_path, output_path, translations):
+def generate_by_path(source_path, output_path, translations, category=None):
     """按路径匹配的 XML：key 格式为 Root/TagName 或 Root/.../TagName[@id]"""
     tree = ET.parse(source_path)
     root = tree.getroot()
-    
+
     parent_map = {c: p for p in root.iter() for c in p}
-    
+
     count = 0
     for elem in root.iter():
         if elem.tag == root.tag or elem.tag is ET.Comment:
             continue
-        
+
         if len(elem) == 0 and elem.text and elem.text.strip():
             # 构建与提取时一致的 key
             path = build_key(root, elem, parent_map)
-            if path in translations:
-                elem.text = translations[path]
+            text = translations.get((category, path))
+            if text:
+                elem.text = text
                 count += 1
-        
+
         elif elem.tag in ("Female", "Male"):
             uid = elem.get("id", "")
             for child in elem:
                 if child.text and child.text.strip():
                     path = f"{elem.tag}/{uid}/{child.tag}"
-                    if path in translations:
-                        child.text = translations[path]
+                    text = translations.get((category, path))
+                    if text:
+                        child.text = text
                         count += 1
-    
+
     write_xml(tree, output_path)
     return count
 
@@ -187,47 +198,69 @@ def write_xml(tree, output_path):
 
 
 def main():
-    translations = load_translations()
+    parser = argparse.ArgumentParser(description="将译文 CSV 写回游戏本地化 XML")
+    parser.add_argument("--translated", default=TRANSLATED_CSV, help="单列译文 CSV")
+    parser.add_argument("--output", default=OUTPUT_DIR, help="中文 XML 输出目录")
+    parser.add_argument("--report", default=os.path.join(
+        BASE_DIR, "TranslateFiles", "reports", "build_localization.json"), help="构建报告 JSON")
+    args = parser.parse_args()
+
+    translations = load_translations(args.translated)
     total = sum(1 for v in translations.values() if v)
     print(f"加载翻译: {len(translations)} 条 key, {total} 条有译文")
-    
-    if os.path.exists(OUTPUT_DIR):
-        shutil.rmtree(OUTPUT_DIR)
-    
+
+    if os.path.exists(args.output):
+        shutil.rmtree(args.output)
+
     total_written = 0
+    stats = {}
     for cat_name, filename in CATEGORY_FILES.items():
         subdir = CATEGORY_DIRS[cat_name]
         source_path = os.path.join(LOCALIZATION_DIR, subdir, filename)
-        
+
         if not os.path.exists(source_path):
             print(f"[跳过] {source_path}")
             continue
-        
+
         custom_subdir = CUSTOM_CATEGORY_DIRS[cat_name]
-        output_path = os.path.join(OUTPUT_DIR, "Chinese", "Localization", custom_subdir, f"{custom_subdir}Chinese.xml")
-        
+        output_path = os.path.join(args.output, "Chinese", "Localization", custom_subdir, f"{custom_subdir}Chinese.xml")
+
         if cat_name == "dialogue":
-            count = generate_dialogue_xml(source_path, output_path, translations)
+            count = generate_dialogue_xml(source_path, output_path, translations, cat_name)
         else:
-            count = generate_by_path(source_path, output_path, translations)
+            count = generate_by_path(source_path, output_path, translations, cat_name)
             if cat_name == "names":
                 static_count = apply_static_name_translations(output_path)
                 print(f"[names] 额外写入了 {static_count} 条根级称号/名称")
-        
+
         print(f"[{cat_name}] 写入了 {count} 条翻译")
+        stats[cat_name] = {"written": count, "source": source_path, "output": output_path}
         total_written += count
-    
+
     # 复制 ProcQuestEnglish
     proc_src = os.path.join(LOCALIZATION_DIR, "dialogue", "ProcQuestEnglish.txt")
-    proc_dst = os.path.join(OUTPUT_DIR, "Chinese", "Localization", "Dialogue", "ProcQuestEnglish.xml")
+    proc_dst = os.path.join(args.output, "Chinese", "Localization", "Dialogue", "ProcQuestEnglish.xml")
     if os.path.exists(proc_src):
         os.makedirs(os.path.dirname(proc_dst), exist_ok=True)
         tree = ET.parse(proc_src)
         write_xml(tree, proc_dst)
         print(f"[procquest] 已复制")
-    
+
+    report = {
+        "translated_csv": os.path.abspath(args.translated),
+        "output_dir": os.path.abspath(args.output),
+        "keys": len(translations),
+        "translations": total,
+        "total_written": total_written,
+        "categories": stats,
+    }
+    os.makedirs(os.path.dirname(args.report), exist_ok=True)
+    import json
+    with open(args.report, "w", encoding="utf-8") as f:
+        json.dump(report, f, ensure_ascii=False, indent=2)
+
     print(f"\n总计写入 {total_written} 条翻译")
-    print(f"输出: {OUTPUT_DIR}")
+    print(f"输出: {args.output}")
 
 
 if __name__ == "__main__":

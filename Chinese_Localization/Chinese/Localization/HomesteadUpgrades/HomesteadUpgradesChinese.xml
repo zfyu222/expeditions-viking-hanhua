@@ -12,7 +12,7 @@
   <HomesteadRequirement>[size=&quot;10&quot;][color=&quot;red&quot;][i]需要 [w][/i][/color][/size]\n</HomesteadRequirement>
   
   
-  <HomesteadRequirementBuilding>[z] 等级 [y]</HomesteadRequirementBuilding>
+  <HomesteadRequirementBuilding>[z] 技能等级 [y]</HomesteadRequirementBuilding>
   
   
   <HomesteadRequirementResource>[x] [y]</HomesteadRequirementResource>
@@ -21,54 +21,54 @@
   <HomesteadUpgradePurchaseTitle>购买升级</HomesteadUpgradePurchaseTitle>
   
   
-  <HomesteadUpgradePurchase>[name]\n此项升级需耗时[color=&quot;orange&quot;][time][/color]才能完成。\n指派奴隶参与升级，可缩短完工时间。</HomesteadUpgradePurchase>
+  <HomesteadUpgradePurchase>[name]\n完成此升级需要[color=&quot;orange&quot;][time][/color]。 \n指派奴隶参与此项升级可缩短完成所需时间。</HomesteadUpgradePurchase>
   
   
   <HomesteadUpgradeRankMaxed>[color=&quot;orange&quot;]已完全升级[/color]</HomesteadUpgradeRankMaxed>
   
   
-  <HomesteadUpgradeBranchUnavailable>\n[color=&quot;grey&quot;]树枝不可用。[/color]</HomesteadUpgradeBranchUnavailable>
+  <HomesteadUpgradeBranchUnavailable>\n[color=&quot;grey&quot;]该分支不可用。[/color]</HomesteadUpgradeBranchUnavailable>
   
   
-  <HomesteadUpgradeBuildingInProgress>[color=&quot;silver&quot;][x][/color] 等级 [y] [color=&quot;grey&quot;]进行中[/color]\n[i][color=&quot;silver&quot;][size=&quot;14&quot;]剩余 [time]。[/size][/color][/i]</HomesteadUpgradeBuildingInProgress>
+  <HomesteadUpgradeBuildingInProgress>[color=&quot;silver&quot;][x][/color] 技能等级 [y] [color=&quot;grey&quot;]进行中[/color]\n[i][color=&quot;silver&quot;][size=&quot;14&quot;][time] 剩余。[/size][/color][/i]</HomesteadUpgradeBuildingInProgress>
   
   
-  <HomesteadUpgradeTimeRemaining>剩余 [x]</HomesteadUpgradeTimeRemaining>
+  <HomesteadUpgradeTimeRemaining>[x] 剩余</HomesteadUpgradeTimeRemaining>
   
   
   <HomesteadUpgradeTime>[x]</HomesteadUpgradeTime>
   
   
-  <HomesteadUpgradeBonusOverTime>每周 [x] [y]</HomesteadUpgradeBonusOverTime>
+  <HomesteadUpgradeBonusOverTime>[x] [y] 每周</HomesteadUpgradeBonusOverTime>
   
   
   <HomesteadUpgradeBonus>[x] [y]</HomesteadUpgradeBonus>
   
   
   
-  <HomesteadBranchRankBonus>[color=&quot;silver&quot;]等级 [x]：[/color] [i][bonus][/i]</HomesteadBranchRankBonus>
+  <HomesteadBranchRankBonus>[color=&quot;silver&quot;]技能等级 [x]：[/color] [i][bonus][/i]</HomesteadBranchRankBonus>
   
   
-  <HomesteadBranchRankCost>[color=&quot;silver&quot;]消耗：[/color] [i][cost] [color=&quot;red&quot;][requirement][/color][/i]</HomesteadBranchRankCost>
+  <HomesteadBranchRankCost>[color=&quot;silver&quot;]花费：[/color] [i][cost] [color=&quot;red&quot;][requirement][/color][/i]</HomesteadBranchRankCost>
   
   
   <HomesteadBranchRankTime>[color=&quot;silver&quot;]时间：[/color] [i][time][/i]。</HomesteadBranchRankTime>
   
   
   
-  <TooltipHomesteadStatPower>代表你氏族征召军队、向海外投射意志的能力。</TooltipHomesteadStatPower>
+  <TooltipHomesteadStatPower>代表你的氏族召集军队、向外施展意志的能力。</TooltipHomesteadStatPower>
   
   
-  <TooltipHomesteadStatProsperity>代表你氏族的财富与幸福，这折射出你身为首领的才干。</TooltipHomesteadStatProsperity>
+  <TooltipHomesteadStatProsperity>代表你的氏族的财富与幸福，这也映照出你作为领主的能力。</TooltipHomesteadStatProsperity>
   
   
-  <TooltipHomesteadUpgradeButtonProgress>建筑正在施工，[time] 内无法升级。</TooltipHomesteadUpgradeButtonProgress>
+  <TooltipHomesteadUpgradeButtonProgress>建筑正在施工中。在[time]之前无法升级。</TooltipHomesteadUpgradeButtonProgress>
   
   
-  <TooltipHomesteadUpgradeButtonResources>你缺少建造此项升级所需的资源。</TooltipHomesteadUpgradeButtonResources>
+  <TooltipHomesteadUpgradeButtonResources>你没有建造此升级所需的资源。</TooltipHomesteadUpgradeButtonResources>
   
   
-  <TooltipHomesteadUpgradeButtonRequiment>此项升级需要 [w]</TooltipHomesteadUpgradeButtonRequiment>
+  <TooltipHomesteadUpgradeButtonRequiment>此升级需要[w]</TooltipHomesteadUpgradeButtonRequiment>
   
   
   
@@ -76,20 +76,20 @@
   <HomesteadUpgradeLongHouse>长屋</HomesteadUpgradeLongHouse>
   
   
-  <HomesteadUpgradeLongHouseDescription>你的家园，你权力的根基所在。</HomesteadUpgradeLongHouseDescription>
+  <HomesteadUpgradeLongHouseDescription>你的家，也是你权力的根基所在。</HomesteadUpgradeLongHouseDescription>
   
   
   
   <HomesteadBranchStronghold>要塞</HomesteadBranchStronghold>
   
   
-  <HomesteadBranchStrongholdDescription>议事与御敌之所。</HomesteadBranchStrongholdDescription>
+  <HomesteadBranchStrongholdDescription>提供建议并抵御来犯者。</HomesteadBranchStrongholdDescription>
   
   
   <HomesteadBranchMeadHall>蜜酒厅</HomesteadBranchMeadHall>
   
   
-  <HomesteadBranchMeadHallDescription>盛宴与庆典。</HomesteadBranchMeadHallDescription>
+  <HomesteadBranchMeadHallDescription>宴饮与庆典。</HomesteadBranchMeadHallDescription>
   
   
   
@@ -97,49 +97,49 @@
   
   
   
-  <TooltipHomesteadBranchLongHouseRank0>[size=&quot;16&quot;][name][/size]\n[name]是你父亲亲手建起的宅邸。它曾坚固无比，挺过无数风雨，如今却亟需修缮。这里是氏族欢聚、宴饮以及向领主请议的场所。</TooltipHomesteadBranchLongHouseRank0>
+  <TooltipHomesteadBranchLongHouseRank0>[size=&quot;16&quot;][name][/size]\n这座[name]是你父亲亲手建起的家宅。它坚固结实，已屹立多年，如今却年久失修，需要修理。这里是氏族聚会、宴饮、与领主议事的场所。</TooltipHomesteadBranchLongHouseRank0>
   
   
   
-  <TooltipHomesteadBranchMeadHallRank1>[size=&quot;16&quot;][name] 等级 1[/size]\n[requirement][i][x] [y][/i]\n领主的厅堂，主要用于承办盛宴与庆典。\n[color=&quot;silver&quot;]消耗：[/color] [cost]</TooltipHomesteadBranchMeadHallRank1>
+  <TooltipHomesteadBranchMeadHallRank1>[size=&quot;16&quot;][name] 1级[/size]\n[requirement][i][x] [y][/i]\n领主的厅堂，主要用来容纳宴席和庆典。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchMeadHallRank1>
   
   
-  <TooltipHomesteadBranchMeadHallRank2>[size=&quot;16&quot;][name] 等级 2[/size]\n[requirement][i][x] [y][/i]\n领主的厅堂，主要用于承办盛宴与庆典。\n[color=&quot;silver&quot;]消耗：[/color] [cost]</TooltipHomesteadBranchMeadHallRank2>
+  <TooltipHomesteadBranchMeadHallRank2>[size=&quot;16&quot;][name] 2级[/size]\n[requirement][i][x] [y][/i]\n领主的厅堂，主要用来容纳宴席和庆典。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchMeadHallRank2>
   
   
-  <TooltipHomesteadBranchMeadHallRank3>[size=&quot;16&quot;][name] 等级 3[/size]\n[requirement][i][x] [y][/i]\n领主的厅堂，主要用于承办盛宴与庆典。\n[color=&quot;silver&quot;]消耗：[/color] [cost]</TooltipHomesteadBranchMeadHallRank3>
+  <TooltipHomesteadBranchMeadHallRank3>[size=&quot;16&quot;][name] 3级[/size]\n[requirement][i][x] [y][/i]\n领主的厅堂，主要用以举办宴会与庆典。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchMeadHallRank3>
   
     
   
-  <TooltipHomesteadBranchStrongholdRank1>[size=&quot;16&quot;][name] 等级 1[/size]\n[requirement][i][x] [y][/i]\n领主的堡垒，主要用于议事与抵御外敌。\n[color=&quot;silver&quot;]消耗：[/color] [cost]</TooltipHomesteadBranchStrongholdRank1>
+  <TooltipHomesteadBranchStrongholdRank1>[size=&quot;16&quot;][name] 1级[/size]\n[requirement][i][x] [y][/i]\n领主的堡垒，主要用以议事及抵御来犯之敌。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchStrongholdRank1>
   
   
-  <TooltipHomesteadBranchStrongholdRank2>[size=&quot;16&quot;][name] 等级 2[/size]\n[requirement][i][x] [y][/i]\n领主的堡垒，主要用于议事与抵御外敌。\n[color=&quot;silver&quot;]消耗：[/color] [cost]</TooltipHomesteadBranchStrongholdRank2>
+  <TooltipHomesteadBranchStrongholdRank2>[size=&quot;16&quot;][name] 2级[/size]\n[requirement][i][x] [y][/i]\n领主的堡垒，主要用以议事及抵御来犯之敌。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchStrongholdRank2>
   
   
-  <TooltipHomesteadBranchStrongholdRank3>[size=&quot;16&quot;][name] 等级 3[/size]\n[requirement][i][x] [y][/i]\n领主的堡垒，主要用于议事与抵御外敌。\n[color=&quot;silver&quot;]消耗：[/color] [cost]</TooltipHomesteadBranchStrongholdRank3>
-  
-  
-  
-  
-  <HomesteadUpgradeThing>庭格</HomesteadUpgradeThing>
-  
-  
-  <HomesteadUpgradeThingDescription>你家宅的炉火核心。</HomesteadUpgradeThingDescription>
+  <TooltipHomesteadBranchStrongholdRank3>[size=&quot;16&quot;][name] 3级[/size]\n[requirement][i][x] [y][/i]\n领主的堡垒，主要用于议事和抵御来犯之敌。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchStrongholdRank3>
   
   
   
-  <HomesteadBranchFolkmoot>民众集会</HomesteadBranchFolkmoot>
+  
+  <HomesteadUpgradeThing>集会场</HomesteadUpgradeThing>
   
   
-  <HomesteadBranchFolkmootDescription>靠税收保障稳定收入。</HomesteadBranchFolkmootDescription>
+  <HomesteadUpgradeThingDescription>你家园的中心火塘。</HomesteadUpgradeThingDescription>
   
   
   
-  <HomesteadBranchMarket>市场</HomesteadBranchMarket>
+  <HomesteadBranchFolkmoot>民会</HomesteadBranchFolkmoot>
   
   
-  <HomesteadBranchMarketDescription>将商人引至你的家宅。</HomesteadBranchMarketDescription>
+  <HomesteadBranchFolkmootDescription>来自税收的稳定收入。</HomesteadBranchFolkmootDescription>
+  
+  
+  
+  <HomesteadBranchMarket>集市</HomesteadBranchMarket>
+  
+  
+  <HomesteadBranchMarketDescription>吸引商人来到你的家园。</HomesteadBranchMarketDescription>
   
   
   
@@ -147,48 +147,48 @@
   
   
   
-  <TooltipHomesteadBranchThingRank0>[size=&quot;16&quot;][name][/size]\n[name]是你家宅跳动的心脏，却在你父亲治下从未被真正派上用场。如今，是时候将它塑造成属民们体面的聚会之所了。</TooltipHomesteadBranchThingRank0>
+  <TooltipHomesteadBranchThingRank0>[size=&quot;16&quot;][name][/size]\n[name]是你的家园的中心，但在你父亲统治时期从未得到充分利用。现在是时候把它打造成一个合适的、供你的臣民聚集的场所了。</TooltipHomesteadBranchThingRank0>
   
    
   
-  <TooltipHomesteadBranchFolkmootRank1>[size=&quot;16&quot;][name] 等级 1[/size]\n[requirement][i]每周 [x] [y] 和 [x1] [y1][/i]\n一处供你的人民以荷尔姆冈格或荣誉决斗公开化解争端的地方。凭税收确保稳定收入。\n[color=&quot;silver&quot;]消耗：[/color] [cost]</TooltipHomesteadBranchFolkmootRank1>
+  <TooltipHomesteadBranchFolkmootRank1>[size=&quot;16&quot;][name] 1级[/size]\n[requirement][i][x] [y]和[x1] [y1]每周[/i]\n供你的人民在霍尔姆冈决斗或恩维格决斗中公开解决争端的场所。通过税收确保一份稳定的收入。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchFolkmootRank1>
   
   
-  <TooltipHomesteadBranchFolkmootRank2>[size=&quot;16&quot;][name] 2级[/size]\n[requirement][i]每周[x] [y]与[x1] [y1][/i]\n供你的人民通过决斗或荣誉决斗公开解决争端之地。确保通过税收获得稳定收入。\n[color=&quot;silver&quot;]消耗：[/color] [cost]</TooltipHomesteadBranchFolkmootRank2>
+  <TooltipHomesteadBranchFolkmootRank2>[size=&quot;16&quot;][name] 2级[/size]\n[requirement][i][x] [y]和[x1] [y1]每周[/i]\n供你的人民在霍尔姆冈决斗或恩维格决斗中公开解决争端的场所。通过税收确保一份稳定的收入。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchFolkmootRank2>
   
   
-  <TooltipHomesteadBranchFolkmootRank3>[size=&quot;16&quot;][name] 3级[/size]\n[requirement][i]每周[x] [y]与[x1] [y1][/i]\n供你的人民通过决斗或荣誉决斗公开解决争端之地。确保通过税收获得稳定收入。\n[color=&quot;silver&quot;]消耗：[/color] [cost]</TooltipHomesteadBranchFolkmootRank3>
+  <TooltipHomesteadBranchFolkmootRank3>[size=&quot;16&quot;][name] 3级[/size]\n[requirement][i][x] [y]和[x1] [y1]每周[/i]\n供你的人民在霍尔姆冈决斗或恩维格决斗中公开解决争端的场所。通过税收确保稳定的收入。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchFolkmootRank3>
   
    
   
-  <TooltipHomesteadBranchMarketRank1>[size=&quot;16&quot;][name] 1级[/size]\n[requirement][i][x] [y]与一位新商人[/i]\n商人们可以支起摊位兜售货物之地。\n[color=&quot;silver&quot;]消耗：[/color] [cost]</TooltipHomesteadBranchMarketRank1>
+  <TooltipHomesteadBranchMarketRank1>[size=&quot;16&quot;][name] 1级[/size]\n[requirement][i][x] [y]和一名新商人[/i]\n商人可以在此支起摊位出售货物的场所。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchMarketRank1>
   
   
-  <TooltipHomesteadBranchMarketRank2>[size=&quot;16&quot;][name] 2级[/size]\n[requirement][i][x] [y]与一位新商人[/i]\n商人们可以支起摊位兜售货物之地。\n[color=&quot;silver&quot;]消耗：[/color] [cost]</TooltipHomesteadBranchMarketRank2>
+  <TooltipHomesteadBranchMarketRank2>[size=&quot;16&quot;][name] 2级[/size]\n[requirement][i][x] [y]和一名新商人[/i]\n商人可以在此支起摊位出售货物的场所。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchMarketRank2>
   
   
-  <TooltipHomesteadBranchMarketRank3>[size=&quot;16&quot;][name] 3级[/size]\n[requirement][i][x] [y]与新商人们[/i]\n商人们可以支起摊位兜售货物之地。\n[color=&quot;silver&quot;]消耗：[/color] [cost]</TooltipHomesteadBranchMarketRank3>
+  <TooltipHomesteadBranchMarketRank3>[size=&quot;16&quot;][name] 3级[/size]\n[requirement][i][x] [y]和多名新商人[/i]\n商人可以在此支起摊位出售货物的场所。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchMarketRank3>
   
   
   
   
-  <HomesteadUpgradeMoor>泽地</HomesteadUpgradeMoor>
+  <HomesteadUpgradeMoor>荒野</HomesteadUpgradeMoor>
   
   
   <HomesteadUpgradeMoorDescription>村庄宗教活动的中心。</HomesteadUpgradeMoorDescription>
   
   
   
-  <HomesteadBranchHerbalGlade>草药林</HomesteadBranchHerbalGlade>
+  <HomesteadBranchHerbalGlade>药草林地</HomesteadBranchHerbalGlade>
   
   
-  <HomesteadBranchHerbalGladeDescription>产出药草。</HomesteadBranchHerbalGladeDescription>
+  <HomesteadBranchHerbalGladeDescription>产出草药。</HomesteadBranchHerbalGladeDescription>
   
   
   <HomesteadBranchSacrificialBog>献祭沼泽</HomesteadBranchSacrificialBog>
   
   
-  <HomesteadBranchSacrificialBogDescription>安抚鬼魂与众神。</HomesteadBranchSacrificialBogDescription>
+  <HomesteadBranchSacrificialBogDescription>安抚鬼魂与诸神。</HomesteadBranchSacrificialBogDescription>
   
   
   
@@ -196,49 +196,49 @@
   
   
   
-  <TooltipHomesteadBranchMoorRank0>[size=&quot;16&quot;][name][/size]\n氏族女巫的家，也是村庄宗教活动的中心。在老女巫的手里，这里已日渐破败失修。</TooltipHomesteadBranchMoorRank0>
+  <TooltipHomesteadBranchMoorRank0>[size=&quot;16&quot;][name][/size]\n氏族女巫的居所是村庄宗教活动的中心。在老女巫掌管期间，这里渐渐变得杂乱破败。</TooltipHomesteadBranchMoorRank0>
   
    
   
-  <TooltipHomesteadBranchSacrificialBogRank1>[size=&quot;16&quot;][name] 1级[/size]\n[requirement][i]每周[x] [y]与[x1] [y1][/i]\n专为安抚神灵、祭拜众神而设。\n[color=&quot;silver&quot;]消耗：[/color] [cost]</TooltipHomesteadBranchSacrificialBogRank1>
+  <TooltipHomesteadBranchSacrificialBogRank1>[size=&quot;16&quot;][name] 1级[/size]\n[requirement][i][x] [y] 和 [x1] [y1] 每周[/i]\n专用于安抚幽灵、敬奉诸神。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchSacrificialBogRank1>
   
   
-  <TooltipHomesteadBranchSacrificialBogRank2>[size=&quot;16&quot;][name] 2级[/size]\n[requirement][i]每周[x] [y]与[x1] [y1][/i]\n专为安抚神灵、祭拜众神而设。\n[color=&quot;silver&quot;]消耗：[/color] [cost]</TooltipHomesteadBranchSacrificialBogRank2>
+  <TooltipHomesteadBranchSacrificialBogRank2>[size=&quot;16&quot;][name] 2级[/size]\n[requirement][i][x] [y] 和 [x1] [y1] 每周[/i]\n供奉用以安抚幽灵、敬奉诸神。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchSacrificialBogRank2>
   
   
-  <TooltipHomesteadBranchSacrificialBogRank3>[size=&quot;16&quot;][name] 3级[/size]\n[requirement][i]每周[x] [y]与[x1] [y1][/i]\n专为安抚神灵、祭拜众神而设。\n[color=&quot;silver&quot;]消耗：[/color] [cost]</TooltipHomesteadBranchSacrificialBogRank3>
-  
-  
-  
-  <TooltipHomesteadBranchHerbalGladeRank1>[size=&quot;16&quot;][name] 1级[/size]\n[requirement][i]每周[x] [y]与[x1] [y1][/i]\n为女巫疗伤的种种药剂提供滋养。\n[color=&quot;silver&quot;]消耗：[/color] [cost]</TooltipHomesteadBranchHerbalGladeRank1>
-  
-  
-  <TooltipHomesteadBranchHerbalGladeRank2>[size=&quot;16&quot;][name] 2级[/size]\n[requirement][i]每周[x] [y]与[x1] [y1][/i]\n为女巫疗伤的种种药剂提供滋养。\n[color=&quot;silver&quot;]消耗：[/color] [cost]</TooltipHomesteadBranchHerbalGladeRank2>
-  
-  
-  <TooltipHomesteadBranchHerbalGladeRank3>[size=&quot;16&quot;][name] 3级[/size]\n[requirement][i]每周[x] [y]与[x1] [y1][/i]\n为女巫疗伤的种种药剂提供滋养。\n[color=&quot;silver&quot;]消耗：[/color] [cost]</TooltipHomesteadBranchHerbalGladeRank3>
+  <TooltipHomesteadBranchSacrificialBogRank3>[size=&quot;16&quot;][name] 3级[/size]\n[requirement][i][x] [y] 和 [x1] [y1] 每周[/i]\n供奉用以安抚幽灵、敬奉诸神。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchSacrificialBogRank3>
   
   
   
-  
-  <HomesteadUpgradeBlacksmith>铁匠铺</HomesteadUpgradeBlacksmith>
-  
-  
-  <HomesteadUpgradeBlacksmithDescription>打造武器与盔甲。</HomesteadUpgradeBlacksmithDescription>
+  <TooltipHomesteadBranchHerbalGladeRank1>[size=&quot;16&quot;][name] 1级[/size]\n[requirement][i][x] [y] 和 [x1] [y1] 每周[/i]\n为女巫配制的各种药方提供滋养，助其净化伤势。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchHerbalGladeRank1>
   
   
+  <TooltipHomesteadBranchHerbalGladeRank2>[size=&quot;16&quot;][name] 2级[/size]\n[requirement][i][x] [y] 和 [x1] [y1] 每周[/i]\n为女巫配制的各种药方提供滋养，助其净化伤势。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchHerbalGladeRank2>
   
-  <HomesteadBranchArmourer>制甲铺</HomesteadBranchArmourer>
+  
+  <TooltipHomesteadBranchHerbalGladeRank3>[size=&quot;16&quot;][name] 3级[/size]\n[requirement][i][x] [y] 和 [x1] [y1] 每周[/i]\n为女巫配制的各种药方提供滋养，助其净化伤势。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchHerbalGladeRank3>
   
   
-  <HomesteadBranchArmourerDescription>打造武器与盔甲，专精于盔甲。</HomesteadBranchArmourerDescription>
+  
+  
+  <HomesteadUpgradeBlacksmith>铁匠</HomesteadUpgradeBlacksmith>
+  
+  
+  <HomesteadUpgradeBlacksmithDescription>打造武器和护甲。</HomesteadUpgradeBlacksmithDescription>
+  
+  
+  
+  <HomesteadBranchArmourer>盔甲匠铺</HomesteadBranchArmourer>
+  
+  
+  <HomesteadBranchArmourerDescription>打造武器和护甲。专精于护甲。</HomesteadBranchArmourerDescription>
   
   
   
   <HomesteadBranchCraftsman>工匠铺</HomesteadBranchCraftsman>
   
   
-  <HomesteadBranchCraftsmanDescription>打造武器与盔甲，专精于武器。</HomesteadBranchCraftsmanDescription>
+  <HomesteadBranchCraftsmanDescription>打造武器和护甲。专精于武器。</HomesteadBranchCraftsmanDescription>
   
   
   
@@ -246,27 +246,27 @@
   
   
   
-  <TooltipHomesteadBranchBlacksmithRank0>[size=&quot;16&quot;][name][/size]\n[name]打造武器与盔甲。这间工坊在你的村里延续了数代，如今亟需扩建。</TooltipHomesteadBranchBlacksmithRank0>
+  <TooltipHomesteadBranchBlacksmithRank0>[size=&quot;16&quot;][name][/size]\n这间[name]打造武器和护甲。这座工坊世代都是你村庄里的重要营生，如今却需要扩建了。</TooltipHomesteadBranchBlacksmithRank0>
   
   
   
-  <TooltipHomesteadBranchArmourerRank1>[size=&quot;16&quot;][name] 1级[/size]\n[requirement][i]每三周[x] [y]与[x1] [y1][/i]\n打造更高质量的盔甲。\n[color=&quot;silver&quot;]消耗：[/color] [cost]</TooltipHomesteadBranchArmourerRank1>
+  <TooltipHomesteadBranchArmourerRank1>[size=&quot;16&quot;][name] 1级[/size]\n[requirement][i][x] [y] 与 [x1] [y1] 每三周[/i]\n制作更高质量的护甲。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchArmourerRank1>
   
   
-  <TooltipHomesteadBranchArmourerRank2>[size=&quot;16&quot;][name] 2级[/size]\n[requirement][i]每两周[x] [y]与[x1] [y1][/i]\n打造更高质量的盔甲。\n[color=&quot;silver&quot;]消耗：[/color] [cost]</TooltipHomesteadBranchArmourerRank2>
+  <TooltipHomesteadBranchArmourerRank2>[size=&quot;16&quot;][name] 2级[/size]\n[requirement][i][x] [y] 与 [x1] [y1] 每两周[/i]\n制作更高质量的护甲。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchArmourerRank2>
   
   
-  <TooltipHomesteadBranchArmourerRank3>[size=&quot;16&quot;][name] 等级 3[/size]\n[requirement][i]每周 [x] [y] 和 [x1] [y1][/i]\n能打造最精良的护甲。\n[color=&quot;silver&quot;]花费:[/color] [cost]</TooltipHomesteadBranchArmourerRank3>
+  <TooltipHomesteadBranchArmourerRank3>[size=&quot;16&quot;][name] 3级[/size]\n[requirement][i][x] [y] 与 [x1] [y1] 每周[/i]\n制作最高质量的护甲。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchArmourerRank3>
   
    
   
-  <TooltipHomesteadBranchCraftsmanRank1>[size=&quot;16&quot;][name] 等级 1[/size]\n[requirement][i]每三周 [x] [y] 和 [x1] [y1][/i]\n能打造品质更优良的武器。\n[color=&quot;silver&quot;]花费:[/color] [cost]</TooltipHomesteadBranchCraftsmanRank1>
+  <TooltipHomesteadBranchCraftsmanRank1>[size=&quot;16&quot;][name] 1级[/size]\n[requirement][i][x] [y] 与 [x1] [y1] 每三周[/i]\n制作更高质量的武器。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchCraftsmanRank1>
   
   
-  <TooltipHomesteadBranchCraftsmanRank2>[size=&quot;16&quot;][name] 等级 2[/size]\n[requirement][i]每两周 [x] [y] 和 [x1] [y1][/i]\n能打造品质更优良的武器。\n[color=&quot;silver&quot;]花费:[/color] [cost]</TooltipHomesteadBranchCraftsmanRank2>
+  <TooltipHomesteadBranchCraftsmanRank2>[size=&quot;16&quot;][name] 2级[/size]\n[requirement][i][x] [y] 与 [x1] [y1] 每两周[/i]\n制作更高质量的武器。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchCraftsmanRank2>
   
   
-  <TooltipHomesteadBranchCraftsmanRank3>[size=&quot;16&quot;][name] 等级 3[/size]\n[requirement][i]每周 [x] [y] 和 [x1] [y1][/i]\n能打造最精良的武器。\n[color=&quot;silver&quot;]花费:[/color] [cost]</TooltipHomesteadBranchCraftsmanRank3>
+  <TooltipHomesteadBranchCraftsmanRank3>[size=&quot;16&quot;][name] 3级[/size]\n[requirement][i][x] [y] 与 [x1] [y1] 每周[/i]\n制作最高质量的武器。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchCraftsmanRank3>
   
   
     
@@ -274,7 +274,7 @@
   <HomesteadUpgradeFarms>农场</HomesteadUpgradeFarms>
   
   
-  <HomesteadUpgradeFarmsDescription>更宽敞的圈栏让你能饲养更多牲口。</HomesteadUpgradeFarmsDescription>
+  <HomesteadUpgradeFarmsDescription>更好的围栏，可容纳更多牲畜。</HomesteadUpgradeFarmsDescription>
   
   
   
@@ -282,53 +282,53 @@
   
     
   
-  <TooltipHomesteadBranchFarmsRank0>[size=&quot;16&quot;][name][/size]\n环绕着村庄的圈栏与菜园。</TooltipHomesteadBranchFarmsRank0>
+  <TooltipHomesteadBranchFarmsRank0>[size=&quot;16&quot;][name][/size]\n环绕村庄的围栏与菜园。</TooltipHomesteadBranchFarmsRank0>
   
   
-  <TooltipHomesteadBranchFarmsRank1>[size=&quot;16&quot;][name] 等级 1[/size]\n[requirement][i][x] [y][/i]\n为艾迪丝新添了一道栅栏，引进了几头原牛，牲口圈栏也一并拾掇干净了。\n[color=&quot;silver&quot;]花费:[/color] [cost]</TooltipHomesteadBranchFarmsRank1>
+  <TooltipHomesteadBranchFarmsRank1>[size=&quot;16&quot;][name] 1级[/size]\n[requirement][i][x] [y][/i]\n埃迪丝得到一道新围栏和两头原牛，牲畜栏也清理干净了。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchFarmsRank1>
   
   
-  <TooltipHomesteadBranchFarmsRank2>[size=&quot;16&quot;][name] 等级 2[/size]\n[requirement][i][x] [y][/i]\n建起了新谷仓，猪圈也换了新栅栏，能养更多猪了。\n[color=&quot;silver&quot;]花费:[/color] [cost]</TooltipHomesteadBranchFarmsRank2>
+  <TooltipHomesteadBranchFarmsRank2>[size=&quot;16&quot;][name] 2级[/size]\n[requirement][i][x] [y][/i]\n为猪圈新建谷仓和围栏，可以养更多猪。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchFarmsRank2>
   
   
-  <TooltipHomesteadBranchFarmsRank3>[size=&quot;16&quot;][name] 等级 3[/size]\n[requirement][i][x] [y][/i]\n牛圈全面升级，买下两匹马，安顿在了艾迪丝的马厩里。\n[color=&quot;silver&quot;]花费:[/color] [cost]</TooltipHomesteadBranchFarmsRank3>
+  <TooltipHomesteadBranchFarmsRank3>[size=&quot;16&quot;][name] 3级[/size]\n[requirement][i][x] [y][/i]\n牛圈得到升级，还买了两匹马，养在埃迪丝那里。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchFarmsRank3>
   
   
     
   
-  <HomesteadUpgradePalisades>防御栅墙</HomesteadUpgradePalisades>
+  <HomesteadUpgradePalisades>木栅墙</HomesteadUpgradePalisades>
   
   
-  <HomesteadUpgradePalisadesDescription>更坚固的防御工事能为你氏族的军事力量添砖加瓦。</HomesteadUpgradePalisadesDescription>
+  <HomesteadUpgradePalisadesDescription>更强的防御能增强你氏族的军事实力。</HomesteadUpgradePalisadesDescription>
   
   
   
-  <HomesteadBranchPalisades>防御栅墙</HomesteadBranchPalisades>
+  <HomesteadBranchPalisades>木栅墙</HomesteadBranchPalisades>
   
     
   
-  <TooltipHomesteadBranchPalisadesRank0>[size=&quot;16&quot;][name][/size]\n你父亲留下的那圈破旧的小栅栏。</TooltipHomesteadBranchPalisadesRank0>
+  <TooltipHomesteadBranchPalisadesRank0>[size=&quot;16&quot;][name][/size]\n你父亲留给你的那道破旧小木栅墙。</TooltipHomesteadBranchPalisadesRank0>
   
   
-  <TooltipHomesteadBranchPalisadesRank1>[size=&quot;16&quot;][name] 等级 1[/size]\n[requirement][i][x] [y][/i]\n旧有的周边围栏被一道更坚固的屏障取而代之。\n[color=&quot;silver&quot;]花费:[/color] [cost]</TooltipHomesteadBranchPalisadesRank1>
+  <TooltipHomesteadBranchPalisadesRank1>[size=&quot;16&quot;][name] 1级[/size]\n[requirement][i][x] [y][/i]\n外围旧篱笆换成了更坚固的屏障。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchPalisadesRank1>
   
   
-  <TooltipHomesteadBranchPalisadesRank2>[size=&quot;16&quot;][name] 等级 2[/size]\n[requirement][i][x] [y][/i]\n城墙得到加固，墙上的平台也扩建了。\n[color=&quot;silver&quot;]花费:[/color] [cost]</TooltipHomesteadBranchPalisadesRank2>
+  <TooltipHomesteadBranchPalisadesRank2>[size=&quot;16&quot;][name] 2级[/size]\n[requirement][i][x] [y][/i]\n墙体得到加固，平台也已扩建。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchPalisadesRank2>
   
   
-  <TooltipHomesteadBranchPalisadesRank3>[size=&quot;16&quot;][name] 等级 3[/size]\n[requirement][i][x] [y][/i]\n削尖的木桩深深钉入地面，城门旁也立起了瞭望塔。\n[color=&quot;silver&quot;]花费:[/color] [cost]</TooltipHomesteadBranchPalisadesRank3>
+  <TooltipHomesteadBranchPalisadesRank3>[size=&quot;16&quot;][name] 3级[/size]\n[requirement][i][x] [y][/i]\n尖木桩被扎入地下，城门处也增设了瞭望塔。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchPalisadesRank3>
   
   
   
   
-  <HomesteadUpgradeBanners>旗帜装饰</HomesteadUpgradeBanners>
+  <HomesteadUpgradeBanners>旗帜</HomesteadUpgradeBanners>
   
   
-  <HomesteadUpgradeBannersDescription>装点你的家园，提升氏族声望，招来更多生意。</HomesteadUpgradeBannersDescription>
+  <HomesteadUpgradeBannersDescription>装饰你的家园，提升氏族的声望，带来更多交易。</HomesteadUpgradeBannersDescription>
   
    
   
-  <TooltipHomesteadBranchBannersRank1>[size=&quot;16&quot;][name][/size]\n[requirement][i][x] [y][/i]\n装点你的家园，提升氏族声望，招来更多生意。\n[color=&quot;silver&quot;]花费:[/color] [cost]</TooltipHomesteadBranchBannersRank1>
+  <TooltipHomesteadBranchBannersRank1>[size=&quot;16&quot;][name][/size]\n[requirement][i][x] [y][/i]\n装饰你的家园，提升氏族的声望，带来更多交易。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchBannersRank1>
   
   
   
@@ -336,11 +336,11 @@
   <HomesteadUpgradeRoads>道路</HomesteadUpgradeRoads>
   
   
-  <HomesteadUpgradeRoadsDescription>别再让一双脚在泥巴里走得湿漉漉的。</HomesteadUpgradeRoadsDescription>
+  <HomesteadUpgradeRoadsDescription>避免双脚因走过泥地而湿透。</HomesteadUpgradeRoadsDescription>
   
   
   
-  <TooltipHomesteadBranchRoadsRank1>[size=&quot;16&quot;][name][/size]\n[requirement][i][x] [y][/i]\n别再让一双脚在泥巴里走得湿漉漉的。\n[color=&quot;silver&quot;]花费:[/color] [cost]</TooltipHomesteadBranchRoadsRank1>
+  <TooltipHomesteadBranchRoadsRank1>[size=&quot;16&quot;][name][/size]\n[requirement][i][x] [y][/i]\n避免双脚因走过泥地而湿透。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchRoadsRank1>
   
   
   
@@ -348,11 +348,11 @@
   <HomesteadUpgradeTrainingRing>训练场</HomesteadUpgradeTrainingRing>
   
   
-  <HomesteadUpgradeTrainingRingDescription>让那座老旧的训练场重现昔日的辉煌。</HomesteadUpgradeTrainingRingDescription>
+  <HomesteadUpgradeTrainingRingDescription>将旧训练场恢复昔日的荣光。</HomesteadUpgradeTrainingRingDescription>
   
   
   
-  <TooltipHomesteadBranchTrainingRingRank1>[size=&quot;16&quot;][name][/size]\n[requirement][i][x] [y][/i]\n让那座老旧的训练场重现昔日的辉煌。\n[color=&quot;silver&quot;]花费:[/color] [cost]</TooltipHomesteadBranchTrainingRingRank1>
+  <TooltipHomesteadBranchTrainingRingRank1>[size=&quot;16&quot;][name][/size]\n[requirement][i][x] [y][/i]\n将旧训练场恢复昔日的荣光。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchTrainingRingRank1>
   
   
   
@@ -360,11 +360,11 @@
   <HomesteadUpgradePier>码头</HomesteadUpgradePier>
   
   
-  <HomesteadUpgradePierDescription>扩建码头，好容下更庞大的战船。</HomesteadUpgradePierDescription>
+  <HomesteadUpgradePierDescription>扩建码头，以容纳更大的战舰。</HomesteadUpgradePierDescription>
   
   
   
-  <TooltipHomesteadBranchPierRank1>[size=&quot;16&quot;][name][/size]\n[requirement][i][x] [y][/i]\n扩建码头，好容下更庞大的战船。\n[color=&quot;silver&quot;]花费:[/color] [cost]</TooltipHomesteadBranchPierRank1>
+  <TooltipHomesteadBranchPierRank1>[size=&quot;16&quot;][name][/size]\n[requirement][i][x] [y][/i]\n扩建码头，以容纳更大的战舰。\n[color=&quot;silver&quot;]花费：[/color] [cost]</TooltipHomesteadBranchPierRank1>
   
   
   

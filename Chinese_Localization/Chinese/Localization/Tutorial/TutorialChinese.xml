@@ -3,7 +3,7 @@
   
 
   
-  <TutorialStepCount>[color=&quot;grey&quot;][x] / [y][/color]</TutorialStepCount>
+  <TutorialStepCount>[color=&quot;grey&quot;][x]/[y][/color]</TutorialStepCount>
   
 
   
@@ -16,7 +16,7 @@
   <TutorialHeadlineRepairing>[size=&quot;24&quot;]修理[/size]</TutorialHeadlineRepairing>
   
   
-  <TutorialHeadlineTinkering>[size=&quot;24&quot;]修补[/size]</TutorialHeadlineTinkering>
+  <TutorialHeadlineTinkering>[size=&quot;24&quot;]巧作[/size]</TutorialHeadlineTinkering>
   
   
   <TutorialHeadlineHomestead>[size=&quot;24&quot;]家园[/size]</TutorialHeadlineHomestead>
@@ -30,109 +30,109 @@
 
   
   
-  <ExplorationDialogue1>带有[color=&quot;yellow&quot;]金色铭牌[/color]的角色有话要对你说，点击他们即可交谈。</ExplorationDialogue1>
+  <ExplorationDialogue1>名牌为[color=&quot;yellow&quot;]金色[/color]的角色有话对你说。点击他们即可交谈。</ExplorationDialogue1>
   
   
   <ExplorationDialogue1Rurik>留里克</ExplorationDialogue1Rurik>
   
   
-  <ExplorationDialogue2>你椅子上方的图标就是[color=&quot;yellow&quot;]任务标记[/color]。你可以在游戏设置中将其关闭，以获得更独立的游玩体验。金色任务标记表示强制性目标。</ExplorationDialogue2>
+  <ExplorationDialogue2>你椅子上的图标就是[color=&quot;yellow&quot;]任务标记[/color]。你可以在游戏设置中关闭它们，以获得更独立的游玩体验。金色任务标记表示必须完成的目标。</ExplorationDialogue2>
   
   
-  <ExplorationDialogue3>与其他塞恩交谈并非强制，银色任务标记标示的是可选目标。当你想继续前进时，只需点击自己的椅子坐下即可。</ExplorationDialogue3>
-  
-
-  
-  
-  <ExplorationInventoryOpen1>既然你已经取回武器，就该装备起来了。点击[color=&quot;yellow&quot;]物品栏[/color]图标，打开物品栏并装备你的物品。</ExplorationInventoryOpen1>
+  <ExplorationDialogue3>与其他领主交谈并非必须，银色任务标记表示可选目标。想继续时，点击你的椅子坐下即可。</ExplorationDialogue3>
   
 
   
   
-  <ExplorationInventory1>你身上所有未装备的物品都会显示在这里。使用滚动窗口上方的按钮，即可筛选想查看的物品类型。</ExplorationInventory1>
-  
-  
-  <ExplorationInventory2>把物品拖入这些栏位即可装备，特定物品对应特定栏位。你也可以双击物品，将它自动装备到正确栏位。</ExplorationInventory2>
-  
-  
-  <ExplorationInventory3>每位角色可以携带两组武器，并能在战斗中随时切换。点击此按钮即可选择哪套武器为主武器组。</ExplorationInventory3>
-  
-
-  
-  <ExplorationInventoryCharacter1>物品栏还会显示角色的其他实用信息。在这里，你可以看到角色的主要属性、当前士气，以及是否有任何伤势。</ExplorationInventoryCharacter1>
+  <ExplorationInventoryOpen1>既然你已经拿起了武器，该把它们装备上了。点击[color=&quot;yellow&quot;]物品栏[/color]图标打开物品栏，装备你的物品。</ExplorationInventoryOpen1>
   
 
   
   
-  <ExplorationCharacter1>此界面显示角色的主要属性、衍生属性与技能。当你获得技能点时，便是在此处消耗点数购买技能。</ExplorationCharacter1>
+  <ExplorationInventory1>你身上所有未装备的物品都会显示在这里。使用滚动窗口上方的按钮筛选你想查看的物品类型。</ExplorationInventory1>
   
   
-  <ExplorationCharacter2>所有这些属性都由你的主要属性衍生而来，并受你的技能、装备以及任何持续状态效果修正。将鼠标悬停在各项属性上，即可了解其来源与作用。</ExplorationCharacter2>
+  <ExplorationInventory2>将物品拖入这些槽位即可装备。特定物品对应特定槽位。你也可以双击物品，自动装备到正确的槽位。</ExplorationInventory2>
   
   
-  <ExplorationCharacter3>使用这些按钮来切换五个不同的技能类别。点击某个技能，即可查看其效果以及是否会解锁能力。若未满足技能要求，图标会呈灰色显示。</ExplorationCharacter3>
+  <ExplorationInventory3>每个角色都可以携带两套武器，并在战斗中自由切换。点击此按钮，选择哪套武器是你的主武器组。</ExplorationInventory3>
+  
+
+  
+  <ExplorationInventoryCharacter1>物品栏还会显示每个角色的一些额外有用信息。在这里，你可以看到角色的主要属性，以及当前士气和是否有伤势。</ExplorationInventoryCharacter1>
   
 
   
   
-  <ExplorationCharacterSkill1>要升级技能，点击其图标，如果你有足够的技能点，再按下此按钮。按钮左侧除了你的总技能点外，还会显示你有多少未使用的点数。</ExplorationCharacterSkill1>
+  <ExplorationCharacter1>此界面显示角色的主要属性、衍生属性和技能。当你获得技能点时，就在这里花费点数购买技能。</ExplorationCharacter1>
   
   
-  <ExplorationCharacterSkill2>要将技能升到第3级及以上，你必须总共花费至少100点技能点。升至第4级需要消耗175点，第5级需要250点。部分技能还会根据主要属性或角色国籍，提出进一步要求。</ExplorationCharacterSkill2>
+  <ExplorationCharacter2>这些属性全部由主要属性衍生而来，并受技能、装备和持续状态效果影响。将鼠标悬停在每一项上，可查看其来源和作用。</ExplorationCharacter2>
   
   
-  <ExplorationCharacterSkill3>记得偶尔查看此界面，确认是否已攒够点数，来解锁你想要的新技能。技能点只能通过完成任务和找到石冢获得。</ExplorationCharacterSkill3>
-  
-
-  
-  
-  <ExplorationHomestead1>在此界面，你可以为家园安排升级。向下滚动列表，将鼠标悬停在各个图标上，即可查看该升级项目的作用。</ExplorationHomestead1>
-  
-  
-  <ExplorationHomestead2>有些升级存在多条互斥的发展路线。例如，首次升级长屋时，你必须在蜜酒厅与要塞之间做出抉择。一旦决定，便无法更改。</ExplorationHomestead2>
-  
-  
-  <ExplorationHomestead3>这些图标分别显示你的繁荣度与实力。大部分家园升级都会提升其中一项。你在故事中做出的一些抉择，也会改变这些数值。</ExplorationHomestead3>
-  
-  
-  <ExplorationHomestead4>你的繁荣度与实力终将影响游戏结局，请明智抉择！</ExplorationHomestead4>
+  <ExplorationCharacter3>使用这些按钮在五个技能类别之间切换。点击技能可查看其效果以及是否解锁任何技能。如果你不满足技能要求，图标将呈灰色。</ExplorationCharacter3>
   
 
   
   
-  <ExplorationHomesteadUpgrade1>建造升级耗时。指派奴仆参与升级，可以加快建造速度。你将永远无法收回这些奴仆，但若没有他们的帮助，你恐怕无法在游戏结束前完成所有升级。</ExplorationHomesteadUpgrade1>
+  <ExplorationCharacterSkill1>要升级技能，点击其图标，若技能点足够，再按此按钮。按钮左侧显示你还有多少未使用的点数，以及总点数。</ExplorationCharacterSkill1>
+  
+  
+  <ExplorationCharacterSkill2>要让技能升过2级，你必须总共花费100点技能点或更多。4级的上限是175点技能点，5级是250点。有些技能还有额外要求，取决于主要属性或角色国籍。</ExplorationCharacterSkill2>
+  
+  
+  <ExplorationCharacterSkill3>记得时不时查看这个界面，看看你是否攒够了点数，能解锁想要的新技能。技能点只能通过完成任务和发现石冢获得。</ExplorationCharacterSkill3>
   
 
   
   
-  <ExplorationAreaMap1>点击罗盘玫瑰打开区域地图。地图会展示该区域的布局，标出兴趣点以及你当前的位置。</ExplorationAreaMap1>
+  <ExplorationHomestead1>在这个界面，你可以为家园安排升级。向下滚动列表，将鼠标悬停在每个图标上，查看该升级的作用。</ExplorationHomestead1>
+  
+  
+  <ExplorationHomestead2>有些升级有多种互斥的路线。比如第一次升级长屋时，你必须在蜜酒厅和要塞之间二选一。一旦决定，就永远无法更改。</ExplorationHomestead2>
+  
+  
+  <ExplorationHomestead3>这些图标显示你的声望和势力。大多数家园升级会为其中一项提供加成。你在剧情中做出的一些决定也会改变这些数值。</ExplorationHomestead3>
+  
+  
+  <ExplorationHomestead4>你的声望和势力最终会影响游戏的结局，所以谨慎选择！</ExplorationHomestead4>
   
 
   
   
-  <ExplorationLooting1>在探索世界时，你会遭遇可搜刮或互动的物件。其中一些有时会刻意隐藏。要查看可互动的物件，请按住[color=&quot;yellow&quot;]高亮显示全部[/color]按钮。</ExplorationLooting1>
+  <ExplorationHomesteadUpgrade1>建造升级需要时间。给升级项目指派奴隶可以加快建造速度。你永远不会再拿回这些奴隶，但如果没有他们，你不太可能在游戏结束前完成所有升级。</ExplorationHomesteadUpgrade1>
   
 
   
   
-  <ExplorationCampaignMap1>当你准备离开当前区域时，点击区域地图按钮，找到最近的战役地图过渡点。</ExplorationCampaignMap1>
-  
-  
-  <ExplorationCampaignMap2>此图标代表一个战役地图过渡点。前往那里即可离开当前区域，进入战役地图。</ExplorationCampaignMap2>
+  <ExplorationAreaMap1>点击罗盘玫瑰打开区域地图。地图会显示该区域的布局，并标出兴趣点和你的当前位置。</ExplorationAreaMap1>
   
 
   
   
-  <TutorialHeadlineTrading>贸易</TutorialHeadlineTrading>
+  <ExplorationLooting1>探索世界时，你会遇到可以搜刮或互动的物体。其中有些有时是故意藏起来的。要查看哪些物体可以互动，请按住[color=&quot;yellow&quot;]全部高亮[/color]按钮。</ExplorationLooting1>
+  
+
   
   
-  <ExplorationTrading1>此处就是你交易资源的地方。首先，选择你要卖出的资源与要买入的资源，然后拖动滑块设定数量即可。</ExplorationTrading1>
+  <ExplorationCampaignMap1>当你准备离开该区域时，点击区域地图按钮，找到最近的战役地图切换点。</ExplorationCampaignMap1>
   
   
-  <ExplorationTrading2>资源的需求取决于商人的供应量。出售需求旺盛的资源，你能获得更优价格。</ExplorationTrading2>
+  <ExplorationCampaignMap2>这个图标表示战役地图切换点。前往此处离开该区域，进入战役地图。</ExplorationCampaignMap2>
+  
+
   
   
-  <ExplorationTrading3>价格也取决于商人本身，有些商人的售价更贵，有些则更划算。这还会进一步受到你与该商人所属阵营声望的影响。</ExplorationTrading3>
+  <TutorialHeadlineTrading>交易</TutorialHeadlineTrading>
+  
+  
+  <ExplorationTrading1>你可以在这里交易资源。开始时，只需选择你想卖出的资源和想买入的资源，然后拖动滑块设置数量。</ExplorationTrading1>
+  
+  
+  <ExplorationTrading2>资源的需求取决于商贩的供给。卖出有需求的资源时，你能得到更好的价格。</ExplorationTrading2>
+  
+  
+  <ExplorationTrading3>价格还由商人决定，有的商人开价更高，有的则更实惠。你与该商人所属势力的声望也会进一步影响价格。</ExplorationTrading3>
   
 
   
@@ -140,16 +140,16 @@
   <TutorialHeadlineCampaignMap>战役地图</TutorialHeadlineCampaignMap>
   
   
-  <CampaignMap1>这便是战役地图，你将在已知地点间旅行。新地点在其图标的左下角标有记号，如上图所示。</CampaignMap1>
+  <CampaignMap1>这里是战役地图，你将在地图上已知地点之间旅行。新地点会在其图标左下角标记出来，如上所示。</CampaignMap1>
   
   
-  <CampaignMap2>地点提示信息会显示名称，以及前往那里所需的时间。长途旅行可能需要你在途中扎营，以免疲劳和饥饿。</CampaignMap2>
+  <CampaignMap2>地点提示会告诉你地点名称，以及抵达那里需要多长时间。路程较长时，你可能需要在途中扎营，以免陷入疲劳和饥饿。</CampaignMap2>
   
   
-  <CampaignMap3>悬停在营地上会显示该营地的安全性、庇护程度和食物丰裕度，各有不同的好处。最便利的营地往往已被占据，你需要攻占它们才能扎营。请谨慎选择。</CampaignMap3>
+  <CampaignMap3>将鼠标悬停在营地上，可以看到该营地的安全度、遮蔽条件和猎物丰度，每项都有不同的好处。最便利的营地往往已被占据，你需要夺取它们才能在那里扎营。谨慎选择。</CampaignMap3>
   
   
-  <CampaignMap4>要开始旅程，可以点击一个地点规划路径，并按空格键开始或暂停移动；也可以直接双击地点开始移动。</CampaignMap4>
+  <CampaignMap4>要开始旅程，可以点击一个地点来规划路线，然后按空格键开始/暂停移动，或者直接双击一个地点开始移动。</CampaignMap4>
   
   
   
@@ -157,13 +157,13 @@
   <TutorialHeadlineCampaignMapTravel>旅行</TutorialHeadlineCampaignMapTravel>
   
   
-  <CampaignMapTravel1>你的队伍会自动规划出前往目标地点的最快路径。系统会优先选择道路，因为沿路而行比在其他地形上快50%。旅行途中随时可能触发随机事件，沿路行进时触发概率略高。</CampaignMapTravel1>
+  <CampaignMapTravel1>你的亲兵队会自动规划出前往所选目的地的最快路线。道路会受到极大青睐，因为沿道路行进比其他地形快50%。旅行途中任何地方都可能发生随机事件，但沿道路行进时发生的几率会略高一些。</CampaignMapTravel1>
   
   
-  <CampaignMapTravel2>这些图标会沿路径显示，指示某些事件的发生时机：日落、日出，或某位队员何时会疲劳。将鼠标悬停其上即可查看其含义，每个疲劳图标的提示信息都会说明涉及的角色。</CampaignMapTravel2>
+  <CampaignMapTravel2>这些图标会沿路线出现，提示你某些事情将在何时发生：日落、日出，或某名扈从战士变得疲惫。将鼠标悬停其上可查看含义，每个疲劳图标的提示都会说明它涉及哪名或哪些角色。</CampaignMapTravel2>
   
   
-  <CampaignMapTravel3>一旦有人疲劳或开始挨饿，便会显示在这里。此窗口还会显示队伍的平均士气。务必留意，以判断何时需要扎营。</CampaignMapTravel3>
+  <CampaignMapTravel3>若有人变得疲惫或开始挨饿，会显示在这里。此窗口还会显示你亲卫队成员的平均士气。留意它，以判断何时需要扎营。</CampaignMapTravel3>
   
 
   
@@ -171,49 +171,49 @@
   <TutorialHeadlineCampaignMapTimeline>时间线</TutorialHeadlineCampaignMapTimeline>
   
   
-  <CampaignMapTimeline1>规划行程时，请留意这条时间线。它显示你当前的[color=&quot;red&quot;]最终期限[/color]，并直观地展示已经流逝了多少时间。</CampaignMapTimeline1>
+  <CampaignMapTimeline1>规划旅行时，留意这条时间线。它显示你当前的[color=&quot;red&quot;]期限[/color]，并标明你已用掉多少可用时间。</CampaignMapTimeline1>
   
   
-  <CampaignMapTimeline2>你大约有一个月的时间筹备远征，逾期将功亏一篑——一旦时间耗尽，游戏便会提前落幕。通常，光阴只在旅途或扎营时悄然流逝。每次扎营，便是半日时光逝去（12小时）。仅在极个别情境下，重大剧情抉择或突发事件，才会推动时间之轮。</CampaignMapTimeline2>
+  <CampaignMapTimeline2>你大约有一个月时间为远征做准备，再晚就来不及了；若时间耗尽，游戏会提前结束。时间通常只在你旅行或扎营时流逝。每次扎营会经过12小时。少数情况下，剧情选择或事件也会推进时间。</CampaignMapTimeline2>
   
   
-  <CampaignMapTimeline3>当你扬帆驶向不列颠，光阴将瞬间流转至春天，届时你会得到一个更为宽裕的新时限。在触发这次时间飞跃之前,不妨斟酌在家园中启动一项旷日持久的建设工程。</CampaignMapTimeline3>
-  
-
-  
-  
-  <CampingIntro1>欢迎来到你的营地。此地是疗愈伤势、打造器物与装备之所。当角色有心事欲与你倾诉时，他们便会趁着夜色幽静时前来搭话。</CampingIntro1>
-  
-  
-  <CampingIntro2>这便是你的待办列表。每逢扎营，你必得确保诸事周全：人人得以安歇，人人餐食无忧，破损的器物悉数修复，负伤的侍卫皆受诊治。与此同时，还得确保营地固若金汤，守卫森严。</CampingIntro2>
-  
-  
-  <CampingIntro3>先从为大家分配口粮开始。你的侍卫们无论是吃耐存的口粮还是新鲜的肉食，都同样满心欢喜，但切记：肉类若不及时食用或腌制处理，便会迅速腐坏。倘若角色无食果腹，士气便会陡降。</CampingIntro3>
-  
-  
-  <CampingIntro4>每个长夜划分为四个班次，你可在每个班次为麾下每位侍卫指派一项差事。现在，尝试分派不同的任务吧，新的教学窗口会逐一详解各项任务的门道。注意：某些特定任务仅于特定班次中方可执行。</CampingIntro4>
-  
-  
-  <CampingIntro5>当你对排兵布阵已了然于胸，便点击“扎营”，让众人各司其职，奔赴各自的活计。若你中途变卦，“离开营地”的按钮随时能让你抽身退回战役地图。</CampingIntro5>
+  <CampaignMapTimeline3>当你动身前往不列颠时，时间会推进到春季，你会得到一个新的、更优惠的期限。在触发这次时间跳跃前，可以考虑先在家园开始一项耗时较长的建造工程。</CampaignMapTimeline3>
   
 
   
   
-  <CampingResting1>休憩是预设的默认任务。若想驱散疲乏，你应确保每位侍卫获得两个班次的充足休息，不过，这两个班次不必非得连轴紧挨着。</CampingResting1>
+  <CampingIntro1>欢迎来到你的营地。你可以在这里治疗伤势、制作物品和装备。角色若想与你交谈，会在夜间主动找你搭话。</CampingIntro1>
   
   
-  <CampingResting2>若有侍卫疲惫力竭，其头像上便会有此显示。在诸多能侵蚀角色的负面状态中，疲劳堪称最毒辣的一种。它会巨幅削弱每一项属性，进而在战斗中引发一连串灾难性的连锁反应。</CampingResting2>
+  <CampingIntro2>这是你的待办事项清单。每次扎营，你都要确保所有人得到休息、所有人有饭吃、损坏的物品得到修理、每个受伤的扈从战士得到治疗。同时，你还得保证营地有人好好看守。</CampingIntro2>
+  
+  
+  <CampingIntro3>首先给每个人分配食物。你的亲卫队成员吃口粮和吃肉一样开心，但记住，肉如果不吃掉或不腌制，很快就会腐坏。角色不吃东西会掉士气。</CampingIntro3>
+  
+  
+  <CampingIntro4>每晚分为4个班次，每个班次你可以给每名扈从战士分配一项任务。现在试着分配一下不同任务，新的教程窗口会逐一说明。注意：有些任务只在特定班次可用。</CampingIntro4>
+  
+  
+  <CampingIntro5>安排妥当后，点击扎营，让大家各自去干活。如果改主意了，离开营地按钮会带你返回战役地图。</CampingIntro5>
   
 
   
   
-  <CampingGuard1>营地的安全等级于此处显示。该数字愈高，你受突袭或痛失物资的可能性便愈渺茫。</CampingGuard1>
+  <CampingResting1>休息是默认任务。想避免疲劳，就得确保每名扈从战士有2个班次的休息，不过这两个班次不必连续。</CampingResting1>
   
   
-  <CampingGuard2>整体的“守卫”分值，昭示着你在不安全的险境扎营时，能否成功御敌于外、防贼于内的机会所在。你的目标是，在每个班次中都凑足合计5级的守卫技能。\n\n[i]譬如：在一个班次中，指派出1名守卫技能5级的侍卫，或是安排1名守卫2级与另一名守卫3级的侍卫搭档。[/i]</CampingGuard2>
+  <CampingResting2>如果某名扈从战士疲惫了，会显示在这里，就在其头像上方。疲劳是影响角色最糟糕的状况之一。它会让所有属性大幅下降，在战斗中引发一连串连锁恶果。</CampingResting2>
+  
+
   
   
-  <CampingGuard3>为方便你运筹帷幄，每个班次的独立评分也悉数陈列于此。凭借这些数字，你便可准确判断，究竟是哪个班次拖累了你的整体安全大局。</CampingGuard3>
+  <CampingGuard1>营地的安全度显示在这里。数值越高，你遭到袭击或损失资源的可能性就越小。</CampingGuard1>
+  
+  
+  <CampingGuard2>总守卫值体现你在不安全地点扎营时阻止袭击或盗窃的几率。你的目标是在每个班次分配总计5级的守卫技能。\n\n[i]例如：在一个班次安排1名守卫技能5级的扈从战士，或安排一名守卫技能2级的扈从战士和另一名3级的扈从战士。[/i]</CampingGuard2>
+  
+  
+  <CampingGuard3>这里显示每个班次的单独守卫值，方便你查看。用这些数字判断哪个班次拉低了你的总安全值。</CampingGuard3>
   
 
   
@@ -221,112 +221,112 @@
   <TutorialHeadlineHunting>[size=&quot;24&quot;]狩猎[/size]</TutorialHeadlineHunting>
   
   
-  <CampingHunting1>狩猎分数，代表你指派的猎手在下次扎营前，有望带回足量肉食以满足所有人饱腹之需的概率。</CampingHunting1>
+  <CampingHunting1>狩猎值显示你指派的猎人下次扎营时带回足够肉喂饱所有人的几率。</CampingHunting1>
   
   
-  <CampingHunting2>若要达到最高的成功几率，狩猎一事，只需在全部四个班次中，达到合计5级的狩猎技能即可。</CampingHunting2>
+  <CampingHunting2>狩猎只需要四个班次合计5级狩猎技能，就能把成功几率拉到最高。</CampingHunting2>
   
   
-  <CampingHunting3>狩猎是让众人都能填饱肚子，而无须挪用储备口粮的上佳之策，只是此法会消耗所在地的野生食物存量。</CampingHunting3>
-  
-
-  
-  
-  <CampingScouting1>侦察分值，昭示着在营地周边周遭有何玄机与秘闻被发掘的几率。这些蛛丝马迹，事后皆可在战役地图上探寻。</CampingScouting1>
+  <CampingHunting3>狩猎是让大家吃饱又不必动用口粮的好办法，但会减少该地区的猎物丰度。</CampingHunting3>
   
 
   
   
-  <CampingCooking1>烹饪能为你麾下的每位侍卫博得一个进入“饱食”状态的契机，在随后的十二时辰里，为之带来耐力与感知的双重增益。</CampingCooking1>
-  
-  
-  <CampingCooking2>烹饪这一差事，仅限于头一个班次中进行，且每日仅可委派一名侍卫掌勺。掌勺者的烹饪技能越是精湛，博得额外增益的契机便越大。</CampingCooking2>
+  <CampingScouting1>侦察值显示在营地附近发现兴趣点的几率。随后你可以在战役地图上调查这些地点。</CampingScouting1>
   
 
   
   
-  <CampingPreserving1>腌制，乃是将未曾分配给侍卫的生鲜肉食统统转化为耐存口粮的手段。此法益处颇多，因为与鲜肉殊异的是，口粮可长存永固，万世不腐。</CampingPreserving1>
+  <CampingCooking1>烹饪有一定几率让你的每名亲卫队成员获得饱腹状态，在接下来的12小时内提升耐力和感知。</CampingCooking1>
   
   
-  <CampingPreserving2>这个分值所显示的，是最终可获得的耐存口粮总数。每个班次，一名侍卫皆可凭借其每1级“腌制”技能，将1个单位的鲜肉点化为口粮。</CampingPreserving2>
-  
-
-  
-  
-  <CampingClean1>离开营地前悉心“清洁”，可保该营地安全评级不因你此番叨扰而有所衰减。若你走后徒留一片狼藉，那每次重返故地，营地的守卫难度便会如雪球般愈滚愈大。</CampingClean1>
-  
-  
-  <CampingClean2>原因不言自明，“清洁”这项差事你只可安排在一天中的最末一个班次。而且，只需派出一名侍卫站好这一班清洁岗，便足以规避安全评级的折损。</CampingClean2>
+  <CampingCooking2>烹饪只能在第一班进行，而且每天只能有一名扈从战士下厨。厨师的烹饪技能越高，获得加成的几率就越大。</CampingCooking2>
   
 
   
   
-  <CampingWitchcraft1>所谓巫术，乃化腐朽为神奇之法，能将普普通通的药草炼制成治病救人的药品，用以诊疗受伤的侍卫。药草本身别无大用，派不上旁的用场（当然，若要沏上一壶香茗热茶，那便另当别论了）。</CampingWitchcraft1>
+  <CampingPreserving1>腌制会把未分配给亲卫队成员的肉转化口粮。这很有用，因为与肉不同，口粮可以永久保存。</CampingPreserving1>
   
   
-  <CampingWitchcraft2>这个分值所显示的，是最终可炼得的药品总数。每个班次，一名侍卫皆可凭借其每1级“巫术”技能，将1个单位的药草升华为药品。</CampingWitchcraft2>
-  
-
-  
-  
-  <CampingAutoAssign1>倘若你一时间无所适从，大可随时点击“自动分配”按钮，让一切尽在掌控。自动分配会优先倾力拉升你的守卫与狩猎分值，而后依次是腌制、清洁、烹饪，最终才轮到侦察。</CampingAutoAssign1>
-  
-  
-  <CampingAutoAssign2>自动分配是一个很好的起点，但如果你想锻造、修理、治疗或捣鼓些小玩意儿，就得亲自安排这些任务了。</CampingAutoAssign2>
+  <CampingPreserving2>此数值显示最终可得到的口粮总量。每班中，一名扈从战士每有一级腌制技能，就能把1单位肉转化为口粮。</CampingPreserving2>
   
 
   
   
-  <CampingClose1>任务现已指派给一名角色，将在你“扎营”时执行。若想修改，随时可以点击省略号（...）按钮，重新打开设置界面。</CampingClose1>
+  <CampingClean1>离开营地前进行清扫，可以防止营地的安全度因你的到访而下降。如果不善后清扫，每次使用营地时，营地会变得越来越难以守卫。</CampingClean1>
+  
+  
+  <CampingClean2>显然，你只能在一天中的最后一班安排清扫。只需一名扈从战士值一班清扫，就能防止安全度下降。</CampingClean2>
   
 
   
   
-  <TutorialHeadlineCrafting>[size=&quot;24&quot;]锻造[/size]</TutorialHeadlineCrafting>
+  <CampingWitchcraft1>巫术会把草药转化为药品，药品用于治疗受伤的亲卫队成员。草药本身不能直接派任何用场（当然，泡一杯热茶除外）。</CampingWitchcraft1>
   
   
-  <CampingCrafting1>这是锻造菜单。锻造能将回收物化为武器，或将兽皮制成护甲。</CampingCrafting1>
-  
-  
-  <CampingCrafting2>这些是负责锻造的侍卫的技能。技能等级决定了你可制造物品的最高层级，而层级又决定了每种武器的总资源上限。</CampingCrafting2>
-  
-  
-  <CampingCrafting3>首先，选择你想锻造的物品类型。只有掌握了护甲锻造技能，你才能制造护甲和头盔。</CampingCrafting3>
+  <CampingWitchcraft2>此数值显示最终可得到的药品总量。每班中，一名扈从战士每有一级巫术技能，就能把1单位草药转化为药品。</CampingWitchcraft2>
   
 
   
   
-  <CampingCraftingItemType1>每类物品都有一套属性，可通过投入回收物或兽皮来提升。金色圆环代表基于你技能所能达到的最大值。若资源不足以提升某项属性，圆环将变为红色。</CampingCraftingItemType1>
+  <CampingAutoAssign1>如果你不确定该怎么做，随时可以点击自动分配按钮。自动分配会优先尽量提高你的警戒和狩猎数值，然后是腌制、清扫、烹饪，最后是侦察。</CampingAutoAssign1>
   
   
-  <CampingCraftingItemType2>要在一项属性上投入资源，可使用上下箭头，或直接点击金色圆环。提升一项属性时，其他属性的最大值将相应降低，以确保总消耗不超出你技能等级所限定的总资源上限。</CampingCraftingItemType2>
-  
-
-  
-  
-  <CampingCraftingItemStat1>在这里，你可以预览即将打造的物品——确认后，这件物品便会加入你的物品栏。</CampingCraftingItemStat1>
-  
-  
-  <CampingCraftingItemStat2>物品的耐久度是其整体品质的直观体现。每消耗一单位回收物或兽皮，成品便拥有一点耐久度。</CampingCraftingItemStat2>
-  
-  
-  <CampingCraftingItemStat3>对物品满意后，点击此处确认。若改变主意，只需关闭窗口即可取消。</CampingCraftingItemStat3>
+  <CampingAutoAssign2>自动分配的配置始终是个不错的起点，但如果你想制作、修理、治疗或做巧匠活，就需要自行安排这些任务。</CampingAutoAssign2>
   
 
   
   
-  <CampingRepairing1>这是修理菜单。这大概是整个游戏里唯一一个简洁明了的菜单了——好好珍惜吧。在这里，你可以选择本班次内想要修理的武器。可修理的物品数量，只取决于你手头有多少可用资源。</CampingRepairing1>
+  <CampingClose1>任务现已分配给一名角色，并会在你扎营时执行。如果你想修改任务，随时可以点击省略号（...）按钮重新打开设置界面。</CampingClose1>
   
 
   
   
-  <CampingTinkering1>这是工匠菜单，你的侍卫可以在这里使用制作资源，打造投掷物、消耗品或战斗中使用的陷阱。</CampingTinkering1>
+  <TutorialHeadlineCrafting>[size=&quot;24&quot;]制作[/size]</TutorialHeadlineCrafting>
   
   
-  <CampingTinkering2>工匠技能每提升一级，便会解锁新的物品。想了解某个物品的用途，只需将鼠标悬停在其图标上，阅读提示信息即可。</CampingTinkering2>
+  <CampingCrafting1>这是制作菜单。制作可将回收材料转化为武器，或将兽皮转化为护甲。</CampingCrafting1>
   
   
-  <CampingTinkering3>只要你技能足够，且资源充足，只需点击该物品，然后按下“制造物品”按钮即可。</CampingTinkering3>
+  <CampingCrafting2>这些是负责制作的扈从战士的制作技能。技能等级决定你能打造的最高物品阶，而物品阶又决定每种武器的资源上限。</CampingCrafting2>
+  
+  
+  <CampingCrafting3>先选择你要制作的物品类型。只有具备护甲锻造技能，才能制作护甲和头盔。</CampingCrafting3>
+  
+
+  
+  
+  <CampingCraftingItemType1>每种物品类型都有一组属性，可通过分配回收材料或兽皮来提升。金色圆环显示基于你技能的最高数值。如果某项属性无法再提升，圆环会变红。</CampingCraftingItemType1>
+  
+  
+  <CampingCraftingItemType2>要消耗资源提升某项属性，可使用上下箭头或点击金色圆环。提升一项属性时，其他属性的最高值会相应降低，以符合你技能等级所决定的总体资源上限。</CampingCraftingItemType2>
+  
+
+  
+  
+  <CampingCraftingItemStat1>这里可以预览你即将制作的物品——如果确认，这件物品就会加入你的物品栏。</CampingCraftingItemStat1>
+  
+  
+  <CampingCraftingItemStat2>用物品的耐久度作为其整体品质的指标。制作时每消耗一单位回收材料或兽皮，物品便获得一点耐久度。</CampingCraftingItemStat2>
+  
+  
+  <CampingCraftingItemStat3>满意之后点击此处确认物品。如果改变主意，随时关闭窗口即可取消。</CampingCraftingItemStat3>
+  
+
+  
+  
+  <CampingRepairing1>这是修理菜单。这可能是游戏里唯一简单的菜单了——好好享受吧。在这里，你可以选择一班值守期间要修理的武器。可修理的物品数量只受现有资源限制。</CampingRepairing1>
+  
+
+  
+  
+  <CampingTinkering1>这是巧作菜单，你的亲卫队成员可以在此消耗制作资源，打造投掷物、消耗品或陷阱，以备战斗中使用。</CampingTinkering1>
+  
+  
+  <CampingTinkering2>巧匠技能每提升一个技能等级，都会解锁新物品。将鼠标悬停在图标上并阅读提示，即可了解物品的用途。</CampingTinkering2>
+  
+  
+  <CampingTinkering3>如果你具备制作某件物品的技能，并且拥有所需资源，只需点击该物品，然后按下“制作物品”按钮。</CampingTinkering3>
   
 
   
@@ -334,19 +334,19 @@
   <TutorialHeadlineHealing>[size=&quot;24&quot;]治疗[/size]</TutorialHeadlineHealing>
   
   
-  <CampingHealing1>这是伤检分类菜单，你可以在此治疗你的侍卫们所受的伤。任何掌握治疗技能之人都可进行治疗，但治疗等级越高，所需药物越少。一位治疗者每个班次只能治疗一处伤势。</CampingHealing1>
+  <CampingHealing1>这是伤情处理菜单，你可以在此治疗亲卫队成员所受的伤势。任何具备治疗技能的人都能处理伤势，但治疗技能等级越高，所需的药品越少。一名医者每班只能处理一处伤势。</CampingHealing1>
   
   
-  <CampingHealing2>这里显示了伤员及其伤势的恶化风险，以及该伤势对伤员造成的惩罚。利用这些信息，决定伤员的治疗优先级。</CampingHealing2>
+  <CampingHealing2>这里显示伤员及其伤势的恶化风险，同时显示该伤员所受的惩罚。利用这些信息来安排伤员的优先顺序。</CampingHealing2>
   
   
-  <CampingHealing3>一名伤员可能同时身负数处伤势。此时，请点击你想治疗的那一处伤势。放任伤势不管，它便会恶化。到最后，哪怕是最轻微的伤，也可能严重到足以致命。</CampingHealing3>
+  <CampingHealing3>一名伤员可能同时有多处伤势。若如此，点击具体伤势即可选择要治疗哪一处。未获治疗的伤势可能会恶化。最终，哪怕最轻的伤势也可能严重到致伤员于死地。</CampingHealing3>
   
   
-  <CampingHealing4>每处伤势都清晰列出了所需的治疗药品费用及其造成的惩罚。综合所有这些信息，来决定优先治疗哪些伤势。</CampingHealing4>
+  <CampingHealing4>每处伤势还会显示治疗所需的药品花费，以及该伤势对伤员施加的惩罚。综合这些信息，决定优先治疗哪些伤势。</CampingHealing4>
   
   
-  <CampingHealing5>这是执行你今天安排的所有治疗后所需的总费用。括号中的数字，前者是未经调整的基础费用，后者则是执行治疗的侍卫所具备的治疗技能带来的百分比加成。</CampingHealing5>
+  <CampingHealing5>这是今天已安排的全部治疗所需的总花费。括号内的数字分别显示未修正的花费，以及参与治疗的亲卫队成员的治疗技能所提供的百分比加成。</CampingHealing5>
   
 
   
@@ -354,55 +354,55 @@
   <TutorialHeadlineCombat>[size=&quot;24&quot;]战斗[/size]</TutorialHeadlineCombat>
   
   
-  <CombatEnter1>战斗是游戏的核心环节。战败未必意味着游戏结束，你通常可以继续，而且剧情在某些情况下还会因此发生变化。</CombatEnter1>
+  <CombatEnter1>战斗是游戏的重要部分。失败不一定意味着游戏结束，通常你都能继续，而且故事在某些情况下还会发生变化。</CombatEnter1>
   
   
-  <CombatEnter2>战斗中，盟友脚下会浮现蓝色格子，敌人脚下则是红色格子。你可以直接点击角色本身或其头像，来选中自己及被称为侍卫的战士们。</CombatEnter2>
+  <CombatEnter2>战斗中，友军脚下会出现蓝色六角格，敌人脚下会出现红色六角格。你可以点击角色本身或点击其头像，来选择自己和你的战士——即亲卫队成员。</CombatEnter2>
   
   
-  <CombatEnter3>当光标移至敌人身上变为剑或弓的图标时，点击即可发动默认攻击。</CombatEnter3>
+  <CombatEnter3>当光标变为剑或箭时，点击敌人即可对其发动普通攻击。</CombatEnter3>
   
   
-  <CombatEnter4>除了普通攻击，也别忘了动用角色的技能。当技能的使用条件不满足时，它会显示为灰色。将鼠标悬停在技能图标上，就能看到其用法和效果的详细说明。</CombatEnter4>
-  
-
-  
-  
-  <TutorialHeadlineSurpriseRound>[size=&quot;24&quot;]突袭轮[/size]</TutorialHeadlineSurpriseRound>
-  
-  
-  <CombatSurpriseRound1>在这场遭遇中，敌人抢先一步。但在天下大乱之前，你仍有机会重新部署你的侍卫。利用这个回合寻找掩体以躲避弓箭手，并让你脆弱的角色躲到防御者身后。</CombatSurpriseRound1>
-  
-  
-  
-  
-  <TutorialHeadlineMovement>[size=&quot;24&quot;]行动与移动[/size]</TutorialHeadlineMovement>
-  
-  
-  <CombatMovement1>每个角色脚下的圆环便是他们的行动环，其状态与头像底部的光点相对应。内环表示角色是否仍可进行攻击行动，外环则显示了角色当前可用的移动类型。</CombatMovement1>
-  
-  
-  <CombatMovement2>当行动环的外圈是[color=&quot;green&quot;]绿色[/color]、内圈是[color=&quot;red&quot;]红色[/color]时，意味着你可以在[color=&quot;green&quot;]绿色[/color]区域内移动后，仍有能力发动攻击；或者，你也可以选择消耗本次攻击行动，转而全力移动，直达[color=&quot;yellow&quot;]黄色[/color]区域的边界。</CombatMovement2>
-  
-  
-  <CombatMovement3>当行动环的外圈是[color=&quot;yellow&quot;]黄色[/color]、内圈是[color=&quot;red&quot;]红色[/color]时，意味着你既可选择从原地直接攻击，也可将攻击行动转换为额外的移动力，最远可冲刺至[color=&quot;yellow&quot;]黄色[/color]区域的边界。</CombatMovement3>
-  
-  
-  <CombatMovement4>当外圈为[color=&quot;yellow&quot;]黄色[/color]而内圈为[color=&quot;grey&quot;]灰色[/color]时，意味着你已用尽攻击行动，但仍保留移动力，可以移动到[color=&quot;yellow&quot;]黄色[/color]区域的边界。</CombatMovement4>
-  
-  
-  <CombatMovement5>如果内环和外环皆为[color=&quot;grey&quot;]灰色[/color]，意味着该角色已精疲力竭，既无法攻击也无力移动了。</CombatMovement5>
+  <CombatEnter4>除了普通攻击，别忘了使用角色的技能。当某技能的触发条件未满足时，该技能会变灰。将鼠标悬停在各个技能上，可查看其用法和效果信息。</CombatEnter4>
   
 
   
   
-  <TutorialHeadlineOrderingInformation>[size=&quot;24&quot;]命令与信息[/size]</TutorialHeadlineOrderingInformation>
+  <TutorialHeadlineSurpriseRound>[size=&quot;24&quot;]突袭回合[/size]</TutorialHeadlineSurpriseRound>
   
   
-  <CombatInformation1>战斗中，你可以任意调遣你的角色，没有固定顺序。譬如，你可以让一名远程角色向敌人移动几格，放箭射击，然后再撤回原地。</CombatInformation1>
+  <CombatSurpriseRound1>在这场遭遇战中，敌人先行动。不过，在赫尔彻底撒野之前，你仍可以重新部署亲卫队成员。利用这一回合躲避弓箭手，并把较弱的角色移到防御者身后。</CombatSurpriseRound1>
   
   
-  <CombatInformation2>将鼠标悬停在自己的侍卫或敌人上方，便可查看其基本信息。其中包括他们的伤害值、你将对其造成的伤害、生命值、各项抗性等等。</CombatInformation2>
+  
+  
+  <TutorialHeadlineMovement>[size=&quot;24&quot;]行动与移动力[/size]</TutorialHeadlineMovement>
+  
+  
+  <CombatMovement1>每个角色脚下都有一个行动环。其状态也反映在头像底部的圆点上。内环显示该角色是否还有攻击行动。外环显示该角色可用的移动力类型。</CombatMovement1>
+  
+  
+  <CombatMovement2>[color=&quot;green&quot;]绿色[/color]环加[color=&quot;red&quot;]红色[/color]环，表示你可以在[color=&quot;green&quot;]绿色[/color]区域内移动并仍能攻击，也可以消耗攻击行动，一直移动到[color=&quot;yellow&quot;]黄色[/color]区域边缘。</CombatMovement2>
+  
+  
+  <CombatMovement3>[color=&quot;yellow&quot;]黄色[/color]环加[color=&quot;red&quot;]红色[/color]环，表示你可以从当前位置攻击，也可以将攻击转化为额外移动力，移动到[color=&quot;yellow&quot;]黄色[/color]区域边缘。</CombatMovement3>
+  
+  
+  <CombatMovement4>[color=&quot;yellow&quot;]黄色[/color]环加[color=&quot;grey&quot;]灰色[/color]内环，表示你已没有攻击行动，但仍可移动到[color=&quot;yellow&quot;]黄色[/color]区域边缘。</CombatMovement4>
+  
+  
+  <CombatMovement5>如果两个圆环都是[color=&quot;grey&quot;]灰色[/color]，说明该角色既没有攻击次数，也没有剩余移动力。</CombatMovement5>
+  
+
+  
+  
+  <TutorialHeadlineOrderingInformation>[size=&quot;24&quot;]指令与信息[/size]</TutorialHeadlineOrderingInformation>
+  
+  
+  <CombatInformation1>战斗中，角色的行动顺序可以随意安排。例如：你可以让远程角色朝敌人移动几个六角格，射击，然后再退回来。</CombatInformation1>
+  
+  
+  <CombatInformation2>将鼠标悬停在亲卫队成员和敌人身上，就能看到他们的基本信息。这会显示他们能造成多少伤害、你能对他们造成多少伤害、他们的生命值、抗性等等。</CombatInformation2>
   
 
   
@@ -410,10 +410,10 @@
   <TutorialHeadlineBlocking>[size=&quot;24&quot;]格挡[/size]</TutorialHeadlineBlocking>
   
   
-  <CombatBlock1>刚才的一次攻击被格挡了。这意味着伤害并未作用于目标本身，而是由盾牌接下了这一击。盾牌品质越好，能吸收的近战伤害就越多。吸收量通过[color=&quot;yellow&quot;]黄色[/color]生命条上方的那段[color=&quot;lightblue&quot;]蓝色[/color]指示条来体现。请注意，远程攻击无法损耗盾牌！</CombatBlock1>
+  <CombatBlock1>一次攻击刚刚被格挡了。发生这种情况时，盾牌会吸收这一击，而不是对目标造成伤害。盾牌越好，能吸收的近战伤害就越多。吸收值显示在[color=&quot;yellow&quot;]黄色[/color]生命值条上方的[color=&quot;lightblue&quot;]蓝色[/color]条上。远程攻击无法损伤盾牌！</CombatBlock1>
   
   
-  <CombatBlock2>当盾牌的吸收量归零时，它便再也无法抵挡伤害。不过，与角色的生命值一样，战斗结束后盾牌会自动修复，下一场战斗照用不误。</CombatBlock2>
+  <CombatBlock2>当盾牌的吸收值降到零时，它就不再吸收任何伤害。和角色的生命值一样，盾牌会在战斗结束时自动恢复，下一场战斗可以再次使用。</CombatBlock2>
   
 
   
@@ -421,13 +421,13 @@
   <TutorialHeadlineStatusEffects>[size=&quot;24&quot;]状态效果[/size]</TutorialHeadlineStatusEffects>
   
   
-  <CombatStatusEffect1>角色身上的所有状态效果，都会显示在生命条上方。这些效果持续时间各异，短则几个回合，长则数小时（游戏内时间）——有些甚至会是永久性的。</CombatStatusEffect1>
+  <CombatStatusEffect1>施加在角色身上的任何状态效果都会显示在生命值条上方。状态效果的持续时间从几轮到数个游戏内小时不等——有些甚至是永久的。</CombatStatusEffect1>
   
   
-  <CombatStatusEffect2>&quot;疲劳&quot;是一种颇为严酷的状态效果，只要角色没能歇过气来，它就会如影随形。在露营时休息能驱散疲劳，效果将持续等同于角色体力值所支撑的时间。所以，要是预感将有一战，务必让所有人都休息妥当。</CombatStatusEffect2>
+  <CombatStatusEffect2>“疲惫”是惩罚较重的状态效果之一，只要角色仍然疲倦，它就会一直持续。露营时休息可以将其消除，效果持续到角色的体力耗尽为止，所以如果你觉得可能会打上一场，就确保每个人都休息好。</CombatStatusEffect2>
   
   
-  <CombatStatusEffect3>欲进一步了解状态效果，只需点击信息按钮，再点击你想细察的角色（无论敌友）即可。</CombatStatusEffect3>
+  <CombatStatusEffect3>要获取更多关于状态效果的信息，你可以点击信息按钮，然后点击你想进一步了解的角色，无论敌友。</CombatStatusEffect3>
   
 
   
@@ -435,13 +435,13 @@
   <TutorialHeadlineCover>[size=&quot;24&quot;]掩体[/size]</TutorialHeadlineCover>
   
   
-  <CombatCover1>一名角色刚刚进入了掩体。掩体分为高掩体和低掩体两种，其防护效果通过浮现在相应格子旁的盾牌图标来直观展示。</CombatCover1>
+  <CombatCover1>一个角色刚刚进入了掩体。掩体分为高掩体和低掩体，分别以悬浮在六角格旁的盾牌图标表示。</CombatCover1>
   
   
-  <CombatCover2>掩体的防护机制是绝对的——绝无半吊子的部分掩体：你要么在掩体之后，要么不在。掩体会为你挡下来自它所面对方向的所有远程攻击。</CombatCover2>
+  <CombatCover2>掩体生效时能完全挡住攻击——不存在部分掩体：你要么处于掩体中，要么没有。掩体可以保护你免受来自掩体所在方向的远程攻击。</CombatCover2>
   
   
-  <CombatCover3>蹲在低掩体后的角色会自动起身进行射击，但如果敌人摸到了他们身边，也不得不被迫站起。对于高掩体，即使角色站立，它依然能提供庇护，但你必须移动位置，才能攻击掩体另一侧的敌人。</CombatCover3>
+  <CombatCover3>处于低掩体中的角色会自动站起来射击越过掩体，但如果敌人站在旁边，也会被迫站起来。高掩体在角色站立时仍然有效，但需要消耗移动力才能射击另一侧的敌人。</CombatCover3>
   
 
   
@@ -449,10 +449,10 @@
   <TutorialHeadlineFlanking>[size=&quot;24&quot;]夹击[/size]</TutorialHeadlineFlanking>
   
   
-  <CombatFlanking1>你刚刚对一个敌人形成了夹击。这能让参与夹击的两名角色在对该敌人造成伤害时获得额外加成。请注意，夹击效果仅在两方角色位于敌人完全相对的侧面时才会触发。</CombatFlanking1>
+  <CombatFlanking1>你刚刚夹击了一个敌人。这会让两个角色对遭到夹击的敌人造成额外伤害。只有当2个角色分别位于敌人正相对的两侧时，才会触发夹击。</CombatFlanking1>
   
   
-  <CombatFlanking2>夹击带来的额外伤害，在伤害减免计算之前就已计入，但在伤害减免扣除之后才实际结算。这使其成为对付那些重甲敌人的不二法宝。</CombatFlanking2>
+  <CombatFlanking2>夹击伤害在扣除伤害减免之前计算，但在之后生效。这让夹击对重甲敌人非常有效。</CombatFlanking2>
   
 
   
@@ -460,27 +460,27 @@
   <TutorialHeadlineAttackOfOpportunity>[size=&quot;24&quot;]借机攻击[/size]</TutorialHeadlineAttackOfOpportunity>
   
   
-  <CombatAttackOfOpportunity1>在战场上纵横驰骋时，千万留神你途经或脱离敌人的方式，一不留神，他们就会趁机对你的侍卫狠咬一口。</CombatAttackOfOpportunity1>
+  <CombatAttackOfOpportunity1>在战场上移动时，要注意你绕着敌人移动或远离敌人的方式，以免他们给你的亲卫队成员多来一次攻击。</CombatAttackOfOpportunity1>
   
   
-  <CombatAttackOfOpportunity2>一旦你移动经过敌人紧邻的格子，或是试图离开他们的近战范围，都会立刻触发一次借机攻击。每个角色每回合最多只能发起一次借机攻击。</CombatAttackOfOpportunity2>
+  <CombatAttackOfOpportunity2>如果你穿过与敌人相邻的六角格，或脱离其近战射程，他们就会发动一次借机攻击。每个角色每回合可获得1次这样的攻击。</CombatAttackOfOpportunity2>
   
   
-  <CombatAttackOfOpportunity3>当你将鼠标悬停于角色准备移入的格子之上时，所经之路上将会触发的所有借机攻击，都会通过上方的图示清晰地标记出来。</CombatAttackOfOpportunity3>
+  <CombatAttackOfOpportunity3>当你将鼠标悬停在角色可以移动到的六角格上时，路径上会触发的任何借机攻击都会用上方的图形标示出来。</CombatAttackOfOpportunity3>
   
 
   
   
-  <TutorialHeadlineIncapacitation>[size=&quot;24&quot;]失去行动能力[/size]</TutorialHeadlineIncapacitation>
+  <TutorialHeadlineIncapacitation>[size=&quot;24&quot;]失能[/size]</TutorialHeadlineIncapacitation>
   
   
-  <CombatIncapacitated1>一名敌人刚刚倒下了。这一幕在战场上屡见不鲜，无论是对你还是敌人而言。当侍卫失去行动能力时，可在战斗中设法救起他们，也可让他们暂时倒地，直至整场战斗结束。只要战斗一结束，失去行动能力的侍卫便会自行挣扎起身。</CombatIncapacitated1>
+  <CombatIncapacitated1>一个敌人刚刚倒下了。这种情况很可能会经常发生，无论对你还是对敌人都是如此。亲卫队成员倒地时，可以在战斗中将其救起，也可以让其一直倒地到战斗结束。倒地的亲卫队成员会在战斗结束后自动站起来。</CombatIncapacitated1>
   
   
-  <CombatIncapacitated2>敌人若被杀死，其脚下的红色方格会随之消失；而仅仅失去行动能力的角色，则还会在地上痛苦地扭动。</CombatIncapacitated2>
+  <CombatIncapacitated2>如果敌人被杀死，他们脚下的红色六角格会消失，而倒地的角色则会在地上痛苦地扭动。</CombatIncapacitated2>
   
   
-  <CombatIncapacitated3>如果你任由一名侍卫一直处于失去行动能力的状态，他们就可能受伤。倒下的时间越久，伤势就可能越重。尽力让所有人都能屹立不倒，但也得接受，战斗中受伤是家常便饭。</CombatIncapacitated3>
+  <CombatIncapacitated3>如果你决定让一名扈从战士保持倒地状态，他们就有受伤的风险。倒地的时间越长，伤势可能越严重。尽力让每个人都站着，但也要接受战斗中受伤是难免的。</CombatIncapacitated3>
   
 
   
@@ -488,10 +488,10 @@
   <TutorialHeadlineNonLethal>[size=&quot;24&quot;]非致命模式[/size]</TutorialHeadlineNonLethal>
   
   
-  <CombatNonLethal1>你刚刚启用了非致命模式。在此模式下，敌人只会失去行动能力，而不会死亡，但你的所有侍卫都无法发动暴击。</CombatNonLethal1>
+  <CombatNonLethal1>你刚刚启用了非致命模式。在此模式下，敌人总是会倒地而不是死亡，但你的亲卫队成员都不会打出暴击。</CombatNonLethal1>
   
   
-  <CombatNonLethal2>如果你想确保某个特定敌人活下来，非致命模式就派得上用场。一名角色的生死可能改写故事走向，有些任务也会要求你留活口。</CombatNonLethal2>
+  <CombatNonLethal2>如果你想确保某个敌人活下来，非致命模式就很有用。一个角色的生死可能会改变故事走向，某些任务也可能需要如此。</CombatNonLethal2>
   
 
   
@@ -499,18 +499,18 @@
   <TutorialHeadlineDetailedInformation>[size=&quot;24&quot;]详细信息[/size]</TutorialHeadlineDetailedInformation>
   
   
-  <CombatDetailedInformation1>要查看友方或敌方更详细的信息，请在激活信息按钮后点击该角色。</CombatDetailedInformation1>
+  <CombatDetailedInformation1>要查看关于友方或敌方的更详细信息，请在信息按钮激活时点击一个角色。</CombatDetailedInformation1>
   
 
   
   
-  <CombatDetailedInformationEnter1>详细信息窗口会展示该角色所有可用的技能、拥有的被动技能，以及主要与次要属性。</CombatDetailedInformationEnter1>
+  <CombatDetailedInformationEnter1>详细信息窗口会显示该角色可用的所有技能、拥有的被动技能，以及他们的主要属性和次要属性。</CombatDetailedInformationEnter1>
   
   
-  <CombatDetailedInformationEnter2>选中一名侍卫后，你可以将技能拖放到想要的栏位，来重新排列或更换其技能栏中的技能。</CombatDetailedInformationEnter2>
+  <CombatDetailedInformationEnter2>选中一名扈从战士后，你可以拖动并放下技能，把它们调整到想要的槽位，从而重新排列或重新装备其技能栏中显示的技能。</CombatDetailedInformationEnter2>
   
   
-  <CombatDetailedInformationEnter3>在此处，你可以切换不同的额外技能栏。如果某个角色的技能数量超过了10个栏位的上限，这些额外技能栏就能派上用场。只需切换到另一个技能栏，像平时一样拖放即可。</CombatDetailedInformationEnter3>
+  <CombatDetailedInformationEnter3>在这里你可以切换到额外的技能栏，如果某个角色的技能多到10个槽位放不下，这些栏位就很有用。只要切换到另一个技能栏，像平常一样拖动并放下即可。</CombatDetailedInformationEnter3>
   
 
   
@@ -518,7 +518,7 @@
   <TutorialHeadlineCommander>[size=&quot;24&quot;]敌方指挥官[/size]</TutorialHeadlineCommander>
   
   
-  <CombatCommander1>你已在此次战斗中制伏了敌方指挥官。指挥官可以通过其生命条旁边的特殊图标来识别。只要指挥官还屹立不倒，所有敌人都会获得巨大的士气加成，一旦指挥官倒下，这个加成便会消失。</CombatCommander1>
+  <CombatCommander1>你已经在这一战中制服了敌方指挥官。指挥官由生命值条旁边的特殊图标标识。只要指挥官还站着，所有敌人都会获得大量士气加成；指挥官倒下后，这一加成就消失了。</CombatCommander1>
   
   
   
@@ -526,16 +526,16 @@
   <TutorialHeadlineCombatResults>[size=&quot;24&quot;]战斗结果[/size]</TutorialHeadlineCombatResults>
   
   
-  <CombatResultsEnter1>每当战斗结束，你都会看到这个界面，里面包含几项关键信息。</CombatResultsEnter1>
+  <CombatResultsEnter1>每次战斗结束后，你都会看到这个界面，其中包含几项关键信息。</CombatResultsEnter1>
   
   
-  <CombatResultsEnter2>如果有人在战斗中受伤，所有新增的伤势都会在此列出。这些伤势需要在你下次扎营时进行治疗。</CombatResultsEnter2>
+  <CombatResultsEnter2>如果某个角色在战斗中受伤，任何新出现的伤势都会显示在这里。下次扎营时需要对它们进行处理。</CombatResultsEnter2>
   
   
-  <CombatResultsEnter3>此处会显示你的侍卫们当前装备的所有物品。如果你在战斗中使用了任何物品，也会一并显示在此。</CombatResultsEnter3>
+  <CombatResultsEnter3>这里会显示你的亲卫队成员仍装备着的物品。如果你在战斗中使用了任何物品，也会在这里显示。</CombatResultsEnter3>
   
   
-  <CombatResultsEnter4>此处会列出每个角色装备的所有物品。凡是在战斗中损失了耐久度的物品，都会用红色箭头标示。</CombatResultsEnter4>
+  <CombatResultsEnter4>这里会显示每个角色装备的所有物品。战斗中耐久度有损失的物品会用红色箭头标出。</CombatResultsEnter4>
   
 
 </Root>
