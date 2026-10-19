@@ -1510,7 +1510,7 @@
   <NotificationCharacterLeaveParty>[charactername] 已离开你的亲兵队</NotificationCharacterLeaveParty>
   
   
-  <NotificationCharacterPrompt>按下 [[hotkey]] 查看追随者</NotificationCharacterPrompt>
+  <NotificationCharacterPrompt>按下 [[hotkey]] 查看随从</NotificationCharacterPrompt>
   
 
   

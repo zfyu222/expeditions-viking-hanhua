@@ -1,0 +1,18 @@
+{
+  "report_hash": "16cecb6807d4c8b6f371e1f458637a5cfabff17df2eb83d96296eeee816431b4",
+  "decisions": {
+    "R0004643_becb557068": {
+      "disposition": "contextual",
+      "id": "R0004643_becb557068",
+      "reason": "原文‘absent for his court trial’明确是沃尔西奥夫缺席其受审，而非王廷活动；这里court受trial限定，译作‘法庭’有据，毋须套用‘王廷’。‘Reward: 1100 Valuables alive, 600 dead’给出活捉与死亡两档赏金，现译保留1100、600及贵重物品单位；两档对应关系可由并列结构辨认。故认可此处术语例外，无需返修。"
+    },
+    "R0012694_ad9e6cdee7": {
+      "disposition": "contextual",
+      "id": "R0012694_ad9e6cdee7",
+      "reason": "原文‘ealdormen, soon-to-be ealdormen, gerefas and soon-to-be gerefas’明确并列两种官职及各自的准任者；若将ealdormen和gerefas均译‘郡长’，同一句的四项会重复成两项。现译‘郡长、准郡长、执事、准执事’保留四类、顺序及soon-to-be的区别；‘执事’在这里作为gerefas的语境区分词可接受，属于有原文依据的术语例外，无需返修。"
+    }
+  },
+  "status": "approved",
+  "kind": "final",
+  "round": 3
+}

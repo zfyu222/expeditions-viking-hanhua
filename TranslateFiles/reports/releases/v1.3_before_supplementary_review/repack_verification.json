@@ -1,0 +1,87 @@
+{
+  "assets": {
+    "path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\Game\\Expeditions Viking_Data\\resources.assets",
+    "size": 344633140,
+    "sha256": "0c07814ce8ace8232e1b7fd8be69f2c44eeac58447ed9d29ddb25901efde92d3",
+    "backup_size": 344539620,
+    "backup_sha256": "5ffb6e099860f06e325ffefd1784a074bf50c01074f856272c2d9084c3e9eba8"
+  },
+  "text_assets": {
+    "Dialogue": {
+      "path_id": 9146,
+      "exported_size": 3809951,
+      "xml_size": 3809951,
+      "byte_identical": true,
+      "xml_sha256": "25a4d38b0abb241f176b3731501cb335db66532b8a8756e4db279c968f20f9e8"
+    },
+    "GUI": {
+      "path_id": 9040,
+      "exported_size": 193142,
+      "xml_size": 193142,
+      "byte_identical": true,
+      "xml_sha256": "f2099851b54f03b9b31d321e3bf7d85d5739c1b7e606f69078b65c19ee2df42f"
+    },
+    "Skills": {
+      "path_id": 9165,
+      "exported_size": 101994,
+      "xml_size": 101994,
+      "byte_identical": true,
+      "xml_sha256": "2ed2915a8cdc6f6322a408774cbf2d9d18172465509b1e9fe428ecd52af182b1"
+    },
+    "Items": {
+      "path_id": 9309,
+      "exported_size": 20937,
+      "xml_size": 20937,
+      "byte_identical": true,
+      "xml_sha256": "909cac325493461459aa2496575c259075d82fd5d1777929b74fe7c552826271"
+    },
+    "Tutorial": {
+      "path_id": 9799,
+      "exported_size": 27878,
+      "xml_size": 27878,
+      "byte_identical": true,
+      "xml_sha256": "28b1036324578cfc894740a3d331d921ece15ad43f53e829ba348430888227cb"
+    },
+    "HomesteadUpgrades": {
+      "path_id": 9063,
+      "exported_size": 17144,
+      "xml_size": 17144,
+      "byte_identical": true,
+      "xml_sha256": "1a7a3f9782c2b3955e2b495eb62d526ad4b2fd85663275a12f91e2b6ab5ae593"
+    },
+    "Names": {
+      "path_id": 9804,
+      "exported_size": 152712,
+      "xml_size": 152712,
+      "byte_identical": true,
+      "xml_sha256": "1a9ab3b6cf8b610c932e4f047006fa9d0f567b698fbdda6712218997fdb9abee"
+    },
+    "SceneData": {
+      "path_id": 9795,
+      "exported_size": 47683,
+      "xml_size": 47683,
+      "byte_identical": true,
+      "xml_sha256": "7c61568d8a68a2f61481ab7c8e914f317c3218cc6952aeda96fd9a2315d5a899"
+    },
+    "Input": {
+      "path_id": 9744,
+      "exported_size": 2406,
+      "xml_size": 2406,
+      "byte_identical": true,
+      "xml_sha256": "239bd66022ee4265630ff5d1ce8451185b605de3858a7a6bc24222b54c24fbcd"
+    }
+  },
+  "dialogue": {
+    "localize_nodes": 24606,
+    "nodes_with_cjk": 18332,
+    "english_gender_variants": 0,
+    "english_brace_fragments": 0,
+    "sample": {
+      "00008015": "他那沮丧的神情，明明白白写在这张日渐苍老的脸上。",
+      "hotkey_ok": true,
+      "restored_choice_ok": true
+    }
+  },
+  "all_text_assets_byte_identical": true,
+  "mismatched_assets": []
+}

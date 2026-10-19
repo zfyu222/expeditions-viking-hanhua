@@ -11585,7 +11585,7 @@
   <Localize id="283921ce-1193-4aed-891b-575cc809d7bb" localized="636233736457957797">告诉我们上哪儿能找到财宝！</Localize>
   
   
-  <Localize id="283f08e1-ac68-43f2-8ff7-c1b5d4a782c3" localized="636198197419323110">金纳玛尔哈西夫？</Localize>
+  <Localize id="283f08e1-ac68-43f2-8ff7-c1b5d4a782c3" localized="636198197419323110">您好吗？</Localize>
   
   
   <Localize id="283f790e-145d-40d8-952b-9eaa9a64c41e" localized="635924390739330088">机会就这一次。</Localize>
@@ -12977,7 +12977,7 @@
   <Localize id="2cde6487-3a69-463d-8f92-5685e40b50da" localized="636162007927829008"/>
   
   
-  <Localize id="2ce16a8e-3062-404f-a578-20b4db7a7e73" localized="636041091554824794">{刺向他。} 等待结束了。</Localize>
+  <Localize id="2ce16a8e-3062-404f-a578-20b4db7a7e73" localized="636041091554824794">{刺他。} 等待结束了。</Localize>
   
   
   <Localize id="2ce2e2d9-d8a8-405a-8c13-5807cfe1a92c" localized="636160273312968869"/>
@@ -15611,7 +15611,7 @@
   <Localize id="35e474fd-15aa-4254-9a6d-5de9e8acdba5" localized="635963147582671892">你拼命嚼着，呼吸也变得粗重。眼前这些不久前还看着如此诱人的食物，如今却快要让你反胃。</Localize>
   
   
-  <Localize id="35e838b7-744c-44af-a177-d9e90c894893" localized="636041071990647154">{捅死他。}</Localize>
+  <Localize id="35e838b7-744c-44af-a177-d9e90c894893" localized="636041071990647154">{刺他。}</Localize>
   
   
   <Localize id="35ec16e6-f8f7-4b9c-b14e-b8bc5c115e52" localized="636221689488332881">他是个好人，也是个好国王。我们不得不杀了他，真是可惜。</Localize>
@@ -19052,7 +19052,7 @@
   <Localize id="42092fa0-1702-45a3-a9ba-89f2fc87cc84" localized="636221695718496426">我已经领教了。这确实让事情变得有趣了，不是吗？</Localize>
   
   
-  <Localize id="420a7a23-4a44-4674-8010-2f5aee12defc" localized="636009259608079767">[i]用手引导学识！[/i]</Localize>
+  <Localize id="420a7a23-4a44-4674-8010-2f5aee12defc" localized="636009259608079767">[i]让手接受教导！[/i]</Localize>
   
   
   <Localize id="420bc105-bbcc-4ae7-9350-8d7e554a57a5" localized="635986607551155633"/>
@@ -42362,7 +42362,7 @@
   <Localize id="926a88ad-07fc-40cc-8653-b989d5fbae09" localized="636113495746291089"/>
   
   
-  <Localize id="92708059-2283-4ba4-9950-34d72a00a46f" localized="636166430807761595">{给予500财物。}我收下了。</Localize>
+  <Localize id="92708059-2283-4ba4-9950-34d72a00a46f" localized="636166430807761595">{给予500件贵重物品。}我收下了。</Localize>
   
   
   <Localize id="92724f64-c890-4e1d-979f-d9447efbf9ec" localized="635867390383052802"/>
@@ -42881,7 +42881,7 @@
   <Localize id="9426fe59-b164-47e7-85da-ff806b592ba3" localized="635979573275283982">走投无路的旅人罢了。我们不想要你什么东西。求你，别来烦我们。</Localize>
   
   
-  <Localize id="94280271-ae6e-429f-804e-b9ccff098905" localized="636126562240404204">{攻击。} 你要是想这么玩，那就来吧！</Localize>
+  <Localize id="94280271-ae6e-429f-804e-b9ccff098905" localized="636126562240404204">{攻击。} 你要是想这么玩，好吧，那就这样吧！</Localize>
   
   
   <Localize id="94299265-3117-427b-b22d-b5caedf11e1c" localized="635996221804579778"/>
@@ -43262,7 +43262,7 @@
   <Localize id="9558c400-0a5c-4f11-b7ce-3a1d4eb353f2" localized="636155871057749455">我——什么？你已经把他杀了？</Localize>
   
   
-  <Localize id="95595f87-cbc5-4387-a585-731a25493129" localized="636190431973858502">{灭了他们。} 我们就是来收拾你的！</Localize>
+  <Localize id="95595f87-cbc5-4387-a585-731a25493129" localized="636190431973858502">{灭了他们。} 我们就是来收拾你们的！</Localize>
   
   
   <Localize id="955a870d-9d75-4efb-9567-b677c966eb15" localized="635925587858744833">{把你这具残缺不全的儿子尸体呈给他。}</Localize>
@@ -52205,7 +52205,7 @@
   <Localize id="b574e3c5-4cab-4dd0-a753-cad43fb84e4f" localized="636185643154196554"/>
   
   
-  <Localize id="b577c4df-79d5-488f-949e-22001b3b18ea" localized="635965893435025901">{花费150财宝购买矛。} 我用15厄尔图格银买这柄矛。</Localize>
+  <Localize id="b577c4df-79d5-488f-949e-22001b3b18ea" localized="635965893435025901">{Buy spear for 150 Valuables.} 我用15厄尔图格银买这柄矛。</Localize>
   
   
   <Localize id="b57edf98-b939-4061-ab2f-c5e3a0034d0d" localized="636020233913858883"/>
@@ -62741,7 +62741,7 @@
   <Localize id="da1c0ad8-a6b7-40be-8145-6fea74c5ea59" localized="636040946046080087">在我老家，我们有的是[i]法子[/i]让一个男人开口。</Localize>
   
   
-  <Localize id="da1c6e87-c2ce-4ce1-a8bc-ddb8f4090d5d" localized="636087715021811607">{攻击。}你要是死了，[i]对我可是天大的帮助！[/i]</Localize>
+  <Localize id="da1c6e87-c2ce-4ce1-a8bc-ddb8f4090d5d" localized="636087715021811607">{攻击。}那可真是帮了我大忙——[i]要是你死了！[/i]</Localize>
   
   
   <Localize id="da1e9b68-9d9b-4a0a-8386-d17ba5d13307" localized="636155896760163006">三个男人紧紧聚在村子中央。他们神色惊惶。</Localize>
@@ -62942,7 +62942,7 @@
   <Localize id="dabeac14-48bd-4381-8b21-6663e0cf51ad" localized="635894983243495284">她[i]不是[/i]战士！她是我的小女儿！我纵容她的胡思乱想太久了，但我不会让他们把她从我身边夺走！</Localize>
   
   
-  <Localize id="dac2027d-b9ff-47a6-9fc8-9b32ad2de42f" localized="636208787438487886">A bheil thu gu math?</Localize>
+  <Localize id="dac2027d-b9ff-47a6-9fc8-9b32ad2de42f" localized="636208787438487886">De mar a tha sibh?</Localize>
   
   
   <Localize id="dacb09e2-011e-4687-bfed-8d1ef93d2ed4" localized="635999465397658928">还有别人可能逃出来吗？</Localize>
@@ -63404,7 +63404,7 @@
   <Localize id="dc272fb0-c6cf-489a-9cb7-45356e3ac745" localized="636168321679707745">我们先从远处解决掉哨兵，然后再逼近。</Localize>
   
   
-  <Localize id="dc288c77-f8d5-4d4c-91d6-2ba20d571ccf" localized="635866879561376666">{在角斗场中面对阿斯莱芙尔。}不，我可盼着好好教训阿斯莱夫一顿。</Localize>
+  <Localize id="dc288c77-f8d5-4d4c-91d6-2ba20d571ccf" localized="635866879561376666">{在角斗场中面对阿斯莱夫。}不，我可盼着好好教训阿斯莱夫一顿。</Localize>
   
   
   <Localize id="dc32784a-54d4-4596-8e5f-f87e8bdbccb3" localized="635895023084934083">这事值得查一查。</Localize>
@@ -71768,7 +71768,7 @@
   <Localize id="f8e62dd9-6022-44c3-825f-598ecfd3bcc0" localized="636180214624852257"/>
   
   
-  <Localize id="f8e69af0-36c9-4933-97d0-c9bf646fff50" localized="636192335593453675">{将绳索抛过去。}</Localize>
+  <Localize id="f8e69af0-36c9-4933-97d0-c9bf646fff50" localized="636192335593453675">{投掷绳索。}</Localize>
   
   
   <Localize id="f8e80493-dc3d-48fe-8234-31bdd1467647" localized="636123880658411260">这儿还真够湿的，是吧？</Localize>

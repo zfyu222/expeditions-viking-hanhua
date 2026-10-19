@@ -1,0 +1,3587 @@
+{
+  "official_csv": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\expeditions-viking_text_translated.csv",
+  "official_sha256": "c0c645ab0ab89d15a2467fb55099d4c48f1c8778ae3aa3fd9da189b11be4d62f",
+  "repack_csv": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\repack\\translation_for_repack.csv",
+  "repack_sha256": "a93470b42f274bd101601f7af35829bc478ce83b7c035fb0d0f413c073e7cfea",
+  "restored_count": 100,
+  "restored": [
+    {
+      "index": 135,
+      "category": "dialogue",
+      "key": "020c7a72-3e05-4639-b24a-77a4b6d114b6",
+      "source": "{Attack.}",
+      "restored": "{攻击。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 365,
+      "category": "dialogue",
+      "key": "051e7ade-985c-4254-9aa4-d4e5cf8bd538",
+      "source": "{Examine the tracks.}",
+      "restored": "{查看足迹。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 437,
+      "category": "dialogue",
+      "key": "06240af5-f5db-4268-ac92-274a2506ae60",
+      "source": "[i]Sancta Maria Mater Dei ora pro nobis peccatoribus nunc et in hora mortis nostrae.[/i]",
+      "restored": "[i]圣母玛利亚，天主之母，求你现在和我们临终时，为我们罪人祈求天主。[/i]",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 444,
+      "category": "dialogue",
+      "key": "0646181b-6433-470c-8916-5c868d9b61b3",
+      "source": "{Evaluate your surroundings.}",
+      "restored": "{判断一下周围的情况。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 688,
+      "category": "dialogue",
+      "key": "09922693-1437-482f-a813-96f19ffe6213",
+      "source": "{Evaluate your surroundings.}",
+      "restored": "{评估周遭环境。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 988,
+      "category": "dialogue",
+      "key": "0d53d3dd-74c6-4107-ae50-31c9ba6ed26b",
+      "source": "{Attack.}",
+      "restored": "{攻击。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 1006,
+      "category": "dialogue",
+      "key": "0d8db0ee-63fa-4ee4-b3d5-5cb4225b670b",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 1040,
+      "category": "dialogue",
+      "key": "0e18b318-76f8-4b8f-a80e-a6461f7e4af7",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 1838,
+      "category": "dialogue",
+      "key": "1997ea55-0f99-439d-a73c-77e670087e98",
+      "source": "{Kill him.}",
+      "restored": "{杀了他。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 1878,
+      "category": "dialogue",
+      "key": "1a1b3fdc-e6fa-40b0-a0bc-41923c7982d8",
+      "source": "{Choose a challenger.}",
+      "restored": "{选择一位挑战者。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 1904,
+      "category": "dialogue",
+      "key": "1a676f41-536e-4815-a1e6-663421021f3e",
+      "source": "{Nod politely and leave the way you came.}",
+      "restored": "{礼貌地点头致意，然后顺着来路退出去。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 2517,
+      "category": "dialogue",
+      "key": "2362274e-c06f-42d8-9872-d15045104803",
+      "source": "{Release the boy.}",
+      "restored": "{放了那男孩。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 2866,
+      "category": "dialogue",
+      "key": "283f08e1-ac68-43f2-8ff7-c1b5d4a782c3",
+      "source": "Ciamar a tha sibh?",
+      "restored": "金纳玛尔哈西夫？",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 3274,
+      "category": "dialogue",
+      "key": "2dc8a0f0-f354-4c2b-b348-bde793768248",
+      "source": "{Join Asleifr in the ring.}",
+      "restored": "{与阿斯莱芙一同入场。}",
+      "term_conflicts": [
+        {
+          "term": "Asleifr",
+          "expected": "阿斯莱夫"
+        }
+      ],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 3896,
+      "category": "dialogue",
+      "key": "35e838b7-744c-44af-a177-d9e90c894893",
+      "source": "{Stab him.}",
+      "restored": "{捅死他。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 3926,
+      "category": "dialogue",
+      "key": "3653c735-b721-4083-82f3-322af42fdfb6",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4532,
+      "category": "dialogue",
+      "key": "3f1811c4-173b-471d-9768-c328d04bdd18",
+      "source": "{Try to sneak up on them and kill them silently.}",
+      "restored": "{试图悄悄摸近，无声无息地杀死他们。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4540,
+      "category": "dialogue",
+      "key": "3f2bdf48-b385-41d8-8587-f59eec36e16a",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4541,
+      "category": "dialogue",
+      "key": "3f2e551e-d995-4949-ad4d-6654c07e1286",
+      "source": "{Keep listening.}",
+      "restored": "{接着听。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4619,
+      "category": "dialogue",
+      "key": "403a12a2-f1ed-4761-8979-6121fbe011c2",
+      "source": "{Grab him and throw him to the ground.}",
+      "restored": "{揪住他，狠狠掼在地上。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4626,
+      "category": "dialogue",
+      "key": "404d51ec-863e-4ca4-a3ba-7df20ff4d91e",
+      "source": "{Pass by him in silence.}",
+      "restored": "{一语不发，从他身旁走过。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4676,
+      "category": "dialogue",
+      "key": "40d94f57-93ff-43ee-82fd-9b6476f7e05d",
+      "source": "{Kill him.}",
+      "restored": "{杀了他。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4727,
+      "category": "dialogue",
+      "key": "4191cb16-a277-4e66-b46f-509f8daa5e60",
+      "source": "{Shake his hand.}",
+      "restored": "{握住他的手。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4746,
+      "category": "dialogue",
+      "key": "41e17ba1-1dd4-4366-aa29-49baf9133e88",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4760,
+      "category": "dialogue",
+      "key": "420a7a23-4a44-4674-8010-2f5aee12defc",
+      "source": "[i]Manus duci a doctrina![/i]",
+      "restored": "[i]用手引导学识！[/i]",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4769,
+      "category": "dialogue",
+      "key": "423b71a5-5475-4902-8aa9-b3f51f91f6be",
+      "source": "{Examine them.}",
+      "restored": "{检查它们。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4989,
+      "category": "dialogue",
+      "key": "4575d817-b5a6-4471-af8b-91e11325b437",
+      "source": "{Kill him.}",
+      "restored": "{杀了他。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 5699,
+      "category": "dialogue",
+      "key": "4f5cd8f1-94d5-4f82-97e9-a07806307f9a",
+      "source": "{Goodbye!}",
+      "restored": "{走了啊！}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 5722,
+      "category": "dialogue",
+      "key": "4fad0011-39ca-4269-865c-24a03b34857f",
+      "source": "{Remain silent.}",
+      "restored": "{一言不发。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 5833,
+      "category": "dialogue",
+      "key": "5130ec19-931f-44c8-950c-1a74fa08a0d8",
+      "source": "{Go back to sleep.}",
+      "restored": "{回去接着睡吧。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 5873,
+      "category": "dialogue",
+      "key": "51b10441-2c69-4499-b9d8-dc4a1b7bc3cf",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 6396,
+      "category": "dialogue",
+      "key": "58c1bae2-81b3-40fa-abf2-1947f0afeb87",
+      "source": "{Evaluate your surroundings.}",
+      "restored": "{评估周围环境。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 6726,
+      "category": "dialogue",
+      "key": "5d426d41-9e59-402b-9458-0954827168d0",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 6845,
+      "category": "dialogue",
+      "key": "5eb57e22-b4ad-471a-9719-ad9f528d5251",
+      "source": "{Attack.}",
+      "restored": "{动手。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 7097,
+      "category": "dialogue",
+      "key": "624752d3-e080-4d0c-b578-effe562a809d",
+      "source": "{Enjoy the moment in silence.}",
+      "restored": "{在沉默中品味这一刻。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 7298,
+      "category": "dialogue",
+      "key": "650f9baa-7789-4b17-852f-3007f9389ff5",
+      "source": "{Leave.}",
+      "restored": "{走吧。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 7416,
+      "category": "dialogue",
+      "key": "6667fe87-492c-493f-a13e-a13de3897123",
+      "source": "{Attack.}",
+      "restored": "{攻击。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 7715,
+      "category": "dialogue",
+      "key": "6b219fe8-6d80-423c-ad23-ded231583c0e",
+      "source": "{Crack your knuckles.}",
+      "restored": "{把你的指关节按得咔咔作响。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 7807,
+      "category": "dialogue",
+      "key": "6c8729b6-f134-4e28-82e2-b085a668b35a",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 7990,
+      "category": "dialogue",
+      "key": "6f18b6f8-c9ca-44cc-a12c-fe25e7153d3d",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 8020,
+      "category": "dialogue",
+      "key": "6f62a870-fcf3-4414-9b63-bac337e692a2",
+      "source": "{Climb up.}",
+      "restored": "{爬上去。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 8170,
+      "category": "dialogue",
+      "key": "715ff420-a500-4ad0-8b75-682811b19297",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 8282,
+      "category": "dialogue",
+      "key": "72c8a724-2df5-4a53-ac78-c2d819edb04f",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 8390,
+      "category": "dialogue",
+      "key": "7436d4c7-ecb8-4c17-a895-54a9729d3027",
+      "source": "{Remain silent.}",
+      "restored": "{一言不发。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 8668,
+      "category": "dialogue",
+      "key": "78171689-e9cb-45e7-8fba-ea7ab014ec06",
+      "source": "{Go to sleep.}",
+      "restored": "{睡吧。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 8770,
+      "category": "dialogue",
+      "key": "7993d93a-5c90-46b2-bc04-744fe14734b4",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 9110,
+      "category": "dialogue",
+      "key": "7e5675ae-8245-47fa-b498-cc928e2ca871",
+      "source": "{Attack.}",
+      "restored": "{攻击。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 9365,
+      "category": "dialogue",
+      "key": "81f32649-0837-428b-a1c2-cddeda0e3eea",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 9399,
+      "category": "dialogue",
+      "key": "824e32ec-3dbe-4634-87e5-b5a827468a8c",
+      "source": "[i]Deus, ad me.[/i]",
+      "restored": "[i]天主，降临我身。[/i]",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 9490,
+      "category": "dialogue",
+      "key": "839c3c7e-4eab-4751-9d15-720e636087d3",
+      "source": "{Take the cargo.}",
+      "restored": "{取走货物。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 9581,
+      "category": "dialogue",
+      "key": "84e903b1-3235-4026-bddc-4b3ec806b2f8",
+      "source": "{Kiss him.}",
+      "restored": "{亲吻他。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 9621,
+      "category": "dialogue",
+      "key": "8590f2ca-680f-4466-9a95-1d7d1ebcce79",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 9965,
+      "category": "dialogue",
+      "key": "8a4ba673-8677-4a22-acc0-cc3a59e98320",
+      "source": "{Attack.}",
+      "restored": "{动手。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10017,
+      "category": "dialogue",
+      "key": "8b224ad4-006a-4e92-bd72-b786f19b0fc9",
+      "source": "{Attack.}",
+      "restored": "{攻击。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10068,
+      "category": "dialogue",
+      "key": "8bbbdb46-bcdb-4bbd-bbb9-c38f71bccbad",
+      "source": "Eadig, thec to metenne.",
+      "restored": "埃阿迪格，见到你真好。",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10173,
+      "category": "dialogue",
+      "key": "8d8232e5-8e72-4b28-bbbe-dd5d3bb2bb5a",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10211,
+      "category": "dialogue",
+      "key": "8e2db6b6-ef8f-4e97-ac6f-c53b2a4e4f8c",
+      "source": "{Remain silent.}",
+      "restored": "{保持沉默。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10321,
+      "category": "dialogue",
+      "key": "8fd090db-93b9-4c37-993e-91c4740f241f",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10322,
+      "category": "dialogue",
+      "key": "8fd31a4e-a408-4ff6-9b61-d5623b0f26d9",
+      "source": "{Wait.}",
+      "restored": "{等待。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10333,
+      "category": "dialogue",
+      "key": "90049d56-0773-4a0d-9e9e-afe589ff7a23",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10510,
+      "category": "dialogue",
+      "key": "9225e5c5-9e42-4399-9a15-2b3c6d2de9e3",
+      "source": "Hwær is se feltun, bidde?",
+      "restored": "请问，田庄在何处？",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10578,
+      "category": "dialogue",
+      "key": "92e93eca-02dd-4b23-a49c-2123559d5fb2",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10651,
+      "category": "dialogue",
+      "key": "94031fc8-b580-47b5-a782-c43db7fdc220",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10681,
+      "category": "dialogue",
+      "key": "945662ae-c266-4397-befc-5a676e885e26",
+      "source": "{Scavenge.}",
+      "restored": "{搜刮。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10735,
+      "category": "dialogue",
+      "key": "9515eb99-d133-4c54-b405-023d7a26f294",
+      "source": "{Leave.}",
+      "restored": "{告辞。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 11386,
+      "category": "dialogue",
+      "key": "9e84b1ea-3c23-42b1-9bd9-7a1a78938c20",
+      "source": "{Come to a stop and wait.}",
+      "restored": "{停下脚步，等候。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 11405,
+      "category": "dialogue",
+      "key": "9ec4845c-c2ed-4c02-8933-33f426d6bbda",
+      "source": "{Attack.}",
+      "restored": "{攻击。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 11413,
+      "category": "dialogue",
+      "key": "9edc20bf-8848-4fa8-be19-03464f3ca02c",
+      "source": "{Step back.}",
+      "restored": "{后退。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 11533,
+      "category": "dialogue",
+      "key": "a0a10872-4efd-4e3a-b0e2-f9de6e057f40",
+      "source": "[i]Deus vult![/i]",
+      "restored": "[i]神意如此！[/i]",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 11584,
+      "category": "dialogue",
+      "key": "a160ce45-50de-41cf-abfc-8bd54302a843",
+      "source": "{Search the area.}",
+      "restored": "{搜索这片区域。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 11694,
+      "category": "dialogue",
+      "key": "a2e8b902-9d3d-42df-88ac-3376f1fbcaca",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 11714,
+      "category": "dialogue",
+      "key": "a3406591-78b5-407a-bd05-5df8a3d95c75",
+      "source": "{Use them as a distraction.}",
+      "restored": "{用他们来分散注意。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 11757,
+      "category": "dialogue",
+      "key": "a3e648f1-a11d-4f15-a9c9-d3d65ea3ebf9",
+      "source": "{Leave her alone.}",
+      "restored": "{别去惹她。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 11799,
+      "category": "dialogue",
+      "key": "a45e8e19-0feb-4bf4-ac14-bfb3d1aeed60",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 12173,
+      "category": "dialogue",
+      "key": "a9deccfb-bd08-4dab-b358-f8136a1aa84a",
+      "source": "{Remain silent.}",
+      "restored": "{保持沉默。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 12414,
+      "category": "dialogue",
+      "key": "ad560066-391b-45cb-80e2-e19efe08ddfb",
+      "source": "{Remain silent.}",
+      "restored": "{保持沉默。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 12969,
+      "category": "dialogue",
+      "key": "b55fa725-9f63-4b40-8858-445b4665845e",
+      "source": "{Search the area.}",
+      "restored": "{搜索这片区域。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 13027,
+      "category": "dialogue",
+      "key": "b6661949-961f-4b70-b5dd-be61596483f3",
+      "source": "Tho glad to thee you again, my highly honourable thegn! Are you looking to peruthe our fine thelection of metalth and hideth?",
+      "restored": "再次见到您真是太好啦，我最最尊贵的领主！您是来瞧我们精选的上好金属和皮革吗？",
+      "term_conflicts": [
+        {
+          "term": "Are",
+          "expected": "阿雷"
+        }
+      ],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 13038,
+      "category": "dialogue",
+      "key": "b682e57b-9751-49e2-bd5b-611c47d814f2",
+      "source": "{Shoot the small one.}",
+      "restored": "{射那个小个子。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 13283,
+      "category": "dialogue",
+      "key": "b9e2893e-fccd-4dd6-bdd1-debeda3fac97",
+      "source": "{Leave the dinghy.}",
+      "restored": "{弃了小艇。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 13458,
+      "category": "dialogue",
+      "key": "bc3c4c70-c228-454e-b1bf-7930144d2fce",
+      "source": "{Ignore them.}",
+      "restored": "{无视他们。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 13487,
+      "category": "dialogue",
+      "key": "bcaf282c-a0b7-4721-bc0a-e36a71374417",
+      "source": "{Wait.}",
+      "restored": "{等待。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 13560,
+      "category": "dialogue",
+      "key": "bdc948fa-4833-46a9-99b9-8bf09a7b1f57",
+      "source": "{Go back to your own tent to sleep.}",
+      "restored": "{回自己帐篷里歇息。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 13656,
+      "category": "dialogue",
+      "key": "bf2752c0-6790-487e-986a-b1a5d3ec5a9f",
+      "source": "{Remain silent.}",
+      "restored": "{保持沉默。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 14885,
+      "category": "dialogue",
+      "key": "d000978c-2719-4418-ad67-8d7d5f87e97d",
+      "source": "{Attack.}",
+      "restored": "{攻击。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 15212,
+      "category": "dialogue",
+      "key": "d4c18288-52af-4e24-9512-5b1265a2e2f3",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 15453,
+      "category": "dialogue",
+      "key": "d81b1883-6411-4d1a-b3ab-0c268596c9c7",
+      "source": "{Move out of earshot.}",
+      "restored": "{走到他们听不见的地方。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 15519,
+      "category": "dialogue",
+      "key": "d8fa6121-c90a-4a19-8154-fa2743cc18dd",
+      "source": "{Remain silent.}",
+      "restored": "{保持沉默。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 15646,
+      "category": "dialogue",
+      "key": "dac2027d-b9ff-47a6-9fc8-9b32ad2de42f",
+      "source": "De mar a tha sibh?",
+      "restored": "A bheil thu gu math?",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 16194,
+      "category": "dialogue",
+      "key": "e2122f6f-637d-470c-be59-3ed8d5d1206c",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 16448,
+      "category": "dialogue",
+      "key": "e55a0f4a-6bce-4081-8aa0-6e87ced6d114",
+      "source": "{Evaluate your surroundings.}",
+      "restored": "{好好估量一下你周围的环境。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 16548,
+      "category": "dialogue",
+      "key": "e6cb8f5a-b757-4da9-bef3-8d13a5650dfc",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 16743,
+      "category": "dialogue",
+      "key": "e963ad04-3ae4-45f5-bde6-3a4c2c0d4ff3",
+      "source": "{Ready weapons.}",
+      "restored": "{准备武器。}",
+      "term_conflicts": [
+        {
+          "term": "Ready",
+          "expected": "戒备"
+        }
+      ],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 17464,
+      "category": "dialogue",
+      "key": "f3c6d1a8-3989-487d-80e9-447e82f9cf60",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 17682,
+      "category": "dialogue",
+      "key": "f66939d9-600e-4e1c-a68a-a063fc1a13d8",
+      "source": "{Remain silent.}",
+      "restored": "{保持沉默。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 17844,
+      "category": "dialogue",
+      "key": "f8e69af0-36c9-4933-97d0-c9bf646fff50",
+      "source": "{Throw rope.}",
+      "restored": "{将绳索抛过去。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 17856,
+      "category": "dialogue",
+      "key": "f90320f0-739e-4254-9eb9-5ab62b054fcf",
+      "source": "{Attempt to translate the symbols.}",
+      "restored": "{尝试解读这些符文。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 18255,
+      "category": "dialogue",
+      "key": "feb3539b-b593-4fd3-aed5-a508dd7ac820",
+      "source": "{Leave.}",
+      "restored": "{离开。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 18304,
+      "category": "dialogue",
+      "key": "ff95b0d0-3867-4f72-b40d-ec024cf4134a",
+      "source": "{Throw rope.}",
+      "restored": "{抛绳。}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 18580,
+      "category": "gui",
+      "key": "Root/DialogueStatCheck",
+      "source": "{[color=\"orange\"][x][/color]: [y]}",
+      "restored": "{[color=\"orange\"][x][/color]：[y]}",
+      "term_conflicts": [],
+      "origin": "v1.2_shipped"
+    }
+  ],
+  "brace_fixes_count": 136,
+  "brace_fixes": [
+    {
+      "index": 79,
+      "category": "dialogue",
+      "key": "014ee5d3-cdaf-4538-a646-95a4b340cf91",
+      "source": "{Give 50 Rations.} I wish to give an offering to Heimdallr that he may grant me vigilance.",
+      "before": "{Give 50 Rations.} 我想向海姆达尔献上祭品，愿他赐予我警觉。",
+      "after": "{献上50份口粮。} 我想向海姆达尔献上祭品，愿他赐予我警觉。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 256,
+      "category": "dialogue",
+      "key": "03bb1f4a-14a3-497e-8a1d-d4899f239704",
+      "source": "{Give 4000 Valuables.} Fair enough.",
+      "before": "{Give 4000 Valuables.} 行，公道。",
+      "after": "{交出4000贵重物品。} 行，公道。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 293,
+      "category": "dialogue",
+      "key": "043692d8-d127-41c2-8ad3-5347456e2f4f",
+      "source": "{Kill him.} I sentence you to death.",
+      "before": "{Kill him.} 我判你死刑。",
+      "after": "{杀了他。} 我判你死刑。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 305,
+      "category": "dialogue",
+      "key": "045e4b10-c154-47d8-84af-5a36e8771ea5",
+      "source": "{Leave.} Very well.",
+      "before": "{Leave.} 好吧。",
+      "after": "{离开。} 好吧。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 349,
+      "category": "dialogue",
+      "key": "04e76379-937d-4919-8f27-6a67f7ab995a",
+      "source": "{Attack.} Sorry Dubglas, we're saving your cousin.",
+      "before": "{Attack.} 抱歉，杜布格拉斯，我们得去救你表亲。",
+      "after": "{攻击。} 抱歉，杜布格拉斯，我们得去救你表亲。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 350,
+      "category": "dialogue",
+      "key": "04e877c9-eaf5-4839-b145-2f373c0e1dc1",
+      "source": "{Show Sefa's necklace.} I have a question first. Have you ever seen a necklace like this?",
+      "before": "{Show Sefa's necklace.} 我先问个问题。你见过这样的项链吗？",
+      "after": "{出示塞法的项链。} 我先问个问题。你见过这样的项链吗？",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 404,
+      "category": "dialogue",
+      "key": "05965c37-56c6-4433-8fb9-1ad1598c7071",
+      "source": "{Kill him.} How about I just take everything!",
+      "before": "{Kill him.} 不如我把东西全拿走！",
+      "after": "{杀了他。} 不如我把东西全拿走！",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 576,
+      "category": "dialogue",
+      "key": "0816eb76-c00c-4322-9903-a70ad67c7490",
+      "source": "{Attack.} Caustantin mac Fergusa sends his regards!",
+      "before": "{Attack.}考斯坦丁·马克·费尔古萨向你问好！",
+      "after": "{攻击。}考斯坦丁·马克·费尔古萨向你问好！",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 713,
+      "category": "dialogue",
+      "key": "09d5aa6c-0765-4b85-be9e-442ca1b9e34d",
+      "source": "{Show him the ribbon from Willibrord.} Osred sent me to get a report from you.",
+      "before": "{Show him the ribbon from Willibrord.} 奥斯雷德派我来听你汇报。",
+      "after": "{向他展示威利布罗德给的缎带。} 奥斯雷德派我来听你汇报。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 835,
+      "category": "dialogue",
+      "key": "0b560569-3f6c-4b3e-a53b-df4ed56729c3",
+      "source": "{Kill him.} You're right. I'll grant you a swift death.",
+      "before": "{Kill him.}你说得对。我会赐你一个迅捷的死亡。",
+      "after": "{杀了他。}你说得对。我会赐你一个迅捷的死亡。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 981,
+      "category": "dialogue",
+      "key": "0d4918f0-a6e0-47fc-bda0-521dadf6ae3e",
+      "source": "{Attack.} I'm not falling for this! To arms!",
+      "before": "{Attack.} 我才不会上这个当！拿起武器！",
+      "after": "{攻击。} 我才不会上这个当！拿起武器！",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 1168,
+      "category": "dialogue",
+      "key": "100c2773-5496-49fd-97ce-122d4fdc904e",
+      "source": "{Kill him.} Where is your god now, old man?",
+      "before": "{Kill him.} 老家伙，你的上帝现在在哪儿？",
+      "after": "{杀了他。} 老家伙，你的上帝现在在哪儿？",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 1313,
+      "category": "dialogue",
+      "key": "121c3a14-b6a1-433d-bd2c-b9eba32c5a4a",
+      "source": "{Spare him.} I'm sorry it had to be this way.",
+      "before": "{Spare him.}很抱歉，事情走到了这一步。",
+      "after": "{饶他一命。}很抱歉，事情走到了这一步。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 1454,
+      "category": "dialogue",
+      "key": "1420cfcc-5897-4266-8171-c713e2c1abc2",
+      "source": "{Spare him.} Accept your defeat with dignity.",
+      "before": "{Spare him.} 体面地接受你的失败吧。",
+      "after": "{饶他一命。} 体面地接受你的失败吧。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 1488,
+      "category": "dialogue",
+      "key": "148fd4de-2b6f-4df4-9d5f-ffdf635d849c",
+      "source": "{Attack.} Die, freaks!",
+      "before": "{Attack.} 去死吧，怪物！",
+      "after": "{出击。} 去死吧，怪物！",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 1612,
+      "category": "dialogue",
+      "key": "16582ca8-5485-42ae-80e7-3572c8274b9e",
+      "source": "{Stab him.} Yeah, let's.",
+      "before": "{Stab him.} 好啊，动手吧。",
+      "after": "{攮死他。} 好啊，动手吧。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 1669,
+      "category": "dialogue",
+      "key": "171d2622-ed09-4405-8037-a7c4943487bd",
+      "source": "{Stab him.} It's time you meet your \"saint\" in person.",
+      "before": "{Stab him.} 是时候让你亲眼见见你的“圣”了。",
+      "after": "{捅死他。} 是时候让你亲眼见见你的“圣”了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 1680,
+      "category": "dialogue",
+      "key": "17440334-075a-4717-a5f6-aa8dc5ca82ff",
+      "source": "{Attack.} I'm not here to talk.",
+      "before": "{Attack.} 我不是来谈的。",
+      "after": "{动手。} 我不是来谈的。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 2175,
+      "category": "dialogue",
+      "key": "1e5948df-c4e4-464c-8246-de40800f0e35",
+      "source": "{Kiss him.} Sounds like a win-win situation to me.",
+      "before": "{Kiss him.} 在我看来，这听起来是个双赢的局面。",
+      "after": "{吻他。} 在我看来，这听起来是个双赢的局面。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 2503,
+      "category": "dialogue",
+      "key": "23383c00-db04-4d08-bbcc-8f2064881ed1",
+      "source": "{Attack.} My father always said the best defence is an unexpected attack.",
+      "before": "{Attack.} 我父亲总说，最好的防御就是出人意料的进攻。",
+      "after": "{进攻。} 我父亲总说，最好的防御就是出人意料的进攻。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 3000,
+      "category": "dialogue",
+      "key": "2a36bf8d-1b06-4a0d-81d4-7aeefd430c59",
+      "source": "{Attack.} I see where this is going.",
+      "before": "{Attack.} 我明白这是要往哪去了。",
+      "after": "{攻击。} 我明白这是要往哪去了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 3005,
+      "category": "dialogue",
+      "key": "2a4d8098-52f0-4454-ba44-0301c20b98ae",
+      "source": "{Stab him.} Let me show you.",
+      "before": "{Stab him.} 让我演示给你看。",
+      "after": "{刺他。} 让我演示给你看。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 3207,
+      "category": "dialogue",
+      "key": "2ce16a8e-3062-404f-a578-20b4db7a7e73",
+      "source": "{Stab him.} The wait is over.",
+      "before": "{Stab him.} 等待结束了。",
+      "after": "{刺向他。} 等待结束了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 3268,
+      "category": "dialogue",
+      "key": "2dc10c68-e61e-4b5e-a167-f8286e3821aa",
+      "source": "{Kill him.} Remember how I said I'd kill you last? [i]I lied![/i]",
+      "before": "{Kill him.}还记得我说过要把你留到最后杀吗？[i]我骗你的！[/i]",
+      "after": "{杀了他。}还记得我说过要把你留到最后杀吗？[i]我骗你的！[/i]",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 3554,
+      "category": "dialogue",
+      "key": "31505325-d30c-4270-acfb-e0e6c13131e2",
+      "source": "{Offer 10 Valuables.} We'll give a silver piece.",
+      "before": "{Offer 10 Valuables.} 我们会出一枚银币。",
+      "after": "{奉上10份贵重物品。} 我们会出一枚银币。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 3608,
+      "category": "dialogue",
+      "key": "31e70d3a-e201-4b28-b577-10e440a32872",
+      "source": "{Attack.} I've got some bad news for you...",
+      "before": "{Attack.} 我有个坏消息要告诉你……",
+      "after": "{攻击。} 我有个坏消息要告诉你……",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 3662,
+      "category": "dialogue",
+      "key": "328c680d-2cef-471e-88ec-caf1d5a431bf",
+      "source": "{Kill him.} Thank you, I'll grant you a swift death.",
+      "before": "{Kill him.} 谢谢，我会让你死个痛快。",
+      "after": "{杀了他。} 谢谢，我会让你死个痛快。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 3905,
+      "category": "dialogue",
+      "key": "361bca0b-ef0d-4775-a13d-649d2f022030",
+      "source": "{Examine bones.} They've been eating...",
+      "before": "{Examine bones.}它们一直在啃……",
+      "after": "{检查骸骨。}它们一直在啃……",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 3944,
+      "category": "dialogue",
+      "key": "3698c1ec-8c5a-4501-bad6-67a3f087b8c5",
+      "source": "{Attack.} On second thought...",
+      "before": "{Attack.}再想想……",
+      "after": "{攻击。}再想想……",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 3970,
+      "category": "dialogue",
+      "key": "36e95105-8228-419d-bc75-3995a5b74883",
+      "source": "{Leave.} Perhaps some other time.",
+      "before": "{Leave.} 也许改天吧。",
+      "after": "{离开。} 也许改天吧。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 3975,
+      "category": "dialogue",
+      "key": "36fce3d9-6045-4b45-9199-f2436f1a6dba",
+      "source": "{Spare him.} You're done Æthelred. Be a man about it.",
+      "before": "{Spare him.} 你完了，埃塞尔雷德。拿出点男子汉的样子来。",
+      "after": "{饶了他。} 你完了，埃塞尔雷德。拿出点男子汉的样子来。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4309,
+      "category": "dialogue",
+      "key": "3c2903fa-789f-4357-8381-e104efc55580",
+      "source": "{Leave.} I bid you far vel for now.",
+      "before": "{Leave.} 暂且与你道声再见。",
+      "after": "{离开。} 暂且与你道声再见。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4446,
+      "category": "dialogue",
+      "key": "3df59928-521b-442c-b0d0-709fe7aa2688",
+      "source": "{Abandon quest.} I will tell Caustantin his druid is dead.",
+      "before": "{Abandon quest.}我会去告诉考斯坦丁，他的德鲁伊死了。",
+      "after": "{放弃任务。}我会去告诉考斯坦丁，他的德鲁伊死了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4529,
+      "category": "dialogue",
+      "key": "3f07fb7b-6cc5-49be-83b0-7870cf7f1fca",
+      "source": "{Attack them.} It doesn't matter. You'll be joining him momentarily.",
+      "before": "{Attack them.} 无所谓。你很快就会去陪他。",
+      "after": "{攻击他们。} 无所谓。你很快就会去陪他。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4588,
+      "category": "dialogue",
+      "key": "3fca7e4f-4879-4c32-af5c-5a2fabbe8270",
+      "source": "{Abandon quest.} You kids have fun with your little party. When you finally slink back to Cater, tell him I tried.",
+      "before": "{Abandon quest.} 你们这些小鬼尽管去开你们的派对开心吧。等你们最后灰溜溜地溜回凯特尔那儿，告诉他我尽力了。",
+      "after": "{放弃任务。} 你们这些小鬼尽管去开你们的派对开心吧。等你们最后灰溜溜地溜回凯特尔那儿，告诉他我尽力了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4620,
+      "category": "dialogue",
+      "key": "403ba7b5-5e22-4b8e-bec0-b0fcaa27b9d4",
+      "source": "{Give 4 Rations.} Your road is a tough one. Take this - it will help.",
+      "before": "{Give 4 Rations.} 你这条路不好走。拿着吧——会有用的。",
+      "after": "{给4份口粮。} 你这条路不好走。拿着吧——会有用的。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4733,
+      "category": "dialogue",
+      "key": "41a998ee-8932-4cb3-9446-e9d9b6fd83c2",
+      "source": "{Spare him.} I hope you enjoyed your brief time on the throne. It's mine now.",
+      "before": "{Spare him.} 但愿你在王位上这段时间过得还算满意。现在这王位归我了。",
+      "after": "{饶他一命。} 但愿你在王位上这段时间过得还算满意。现在这王位归我了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4790,
+      "category": "dialogue",
+      "key": "429c7ee3-093e-46b9-8058-674ce36c3c51",
+      "source": "{Show Sefa's necklace.} Have you ever seen a necklace like this?",
+      "before": "{Show Sefa's necklace.} 你见过这样的项链吗？",
+      "after": "{展示塞法的项链。} 你见过这样的项链吗？",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4873,
+      "category": "dialogue",
+      "key": "43cecd77-4e5c-43cc-bd5d-a0a3d995bbf7",
+      "source": "{Give 500 Valuables.} Just take the money.",
+      "before": "{Give 500 Valuables.} 把钱拿去就是了。",
+      "after": "{交出500财宝。} 把钱拿去就是了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4885,
+      "category": "dialogue",
+      "key": "43ff5111-0146-454b-8856-c60f30a55146",
+      "source": "{Give 2000 Valuables.} I accept your offer.",
+      "before": "{Give 2000 Valuables.} 我接受你的条件。",
+      "after": "{交出2000财宝。} 我接受你的条件。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 4950,
+      "category": "dialogue",
+      "key": "44e1f52b-09cc-4aa5-bc92-50756f286d16",
+      "source": "{Attack.} How about we end that stalemate right now?",
+      "before": "{Attack.} 不如我们现在就了结这个僵局吧？",
+      "after": "{攻击。} 不如我们现在就了结这个僵局吧？",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 5141,
+      "category": "dialogue",
+      "key": "47aa55f3-162a-42e1-8b57-d8e10d8efd9b",
+      "source": "{Abandon goal.} He didn't tell me. You'll have to ask him yourselves. Fare well.",
+      "before": "{Abandon goal.} 他没告诉我。你们自己去问他吧。保重。",
+      "after": "{放弃目标。} 他没告诉我。你们自己去问他吧。保重。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 5149,
+      "category": "dialogue",
+      "key": "47b7d383-0786-413a-a143-f27ef3b88ff6",
+      "source": "{Kill Gunnarr.} I cannot accept that.",
+      "before": "{Kill Gunnarr.} 这我不能接受。",
+      "after": "{杀死贡纳尔。} 这我不能接受。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 5158,
+      "category": "dialogue",
+      "key": "47e14595-1bdd-42b5-b637-13a746f8819d",
+      "source": "{Give 200 Valuables.} You've got yourself a deal.",
+      "before": "{Give 200 Valuables.} 这买卖成交了。",
+      "after": "{交付200财物。} 这买卖成交了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 5310,
+      "category": "dialogue",
+      "key": "49fbaaf0-2bc8-45f7-971a-23097cae886e",
+      "source": "{Attack.} This is going to be fun.",
+      "before": "{Attack.} 这会很有趣。",
+      "after": "{出击。} 这会很有趣。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 5393,
+      "category": "dialogue",
+      "key": "4b272271-3a4f-406e-a5a3-8bc13f0b6952",
+      "source": "{Accept it, wrapping your hands around hers as you do so.} Thank you. I promise I'll use it well.",
+      "before": "{Accept it, wrapping your hands around hers as you do so.} 谢谢你。我保证会好好用它。",
+      "after": "{接过它，用你的双手包住她的手。} 谢谢你。我保证会好好用它。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 5401,
+      "category": "dialogue",
+      "key": "4b3aa93e-37a2-4fcb-9f78-d6f08a9a4bde",
+      "source": "{Kill them.} Nothing's more dangerous than a courageous thrall. We'd better kill them.",
+      "before": "{Kill them.} 没什么比一个胆大的奴隶更危险的了。我们最好杀了他们。",
+      "after": "{杀了他们。} 没什么比一个胆大的奴隶更危险的了。我们最好杀了他们。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 5580,
+      "category": "dialogue",
+      "key": "4da67509-c9f7-45c2-85f8-2a0c91ef3aa3",
+      "source": "{Attack.} I just wanted you to admit that so I can justify [i]this[/i].",
+      "before": "{Attack.} 我只是想让你承认这一点，这样我才能为[i]这[/i]找个正当理由。",
+      "after": "{攻击。} 我只是想让你承认这一点，这样我才能为[i]这[/i]找个正当理由。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 5698,
+      "category": "dialogue",
+      "key": "4f57c5a0-ee9d-4e90-88c0-c46ff9ef9566",
+      "source": "{Jokingly.} Took you long enough to get here.",
+      "before": "{Jokingly.}你可算来了。",
+      "after": "{逗你玩的。}你可算来了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 5802,
+      "category": "dialogue",
+      "key": "50daf7e2-e05d-4609-84c8-a8d7cecc3fb9",
+      "source": "{Give her the flowers from the animal pen.} Are these the flowers you said grow near animals?",
+      "before": "{Give her the flowers from the animal pen.}这些就是你说长在牲口附近的花？",
+      "after": "{把从牲口棚附近采来的花递给她。}这些就是你说长在牲口附近的花？",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 5811,
+      "category": "dialogue",
+      "key": "50f22ea9-035d-490b-84bc-a174e143673d",
+      "source": "{Kill him.} I'm sorry it had to be this way.",
+      "before": "{Kill him.}很抱歉，事情非得走到这一步。",
+      "after": "{结果他的性命。}很抱歉，事情非得走到这一步。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 5840,
+      "category": "dialogue",
+      "key": "514ed808-7157-45ab-961e-6cb36b271b0d",
+      "source": "{Let her join.} Point well made. All right, you can come.",
+      "before": "{Let her join.}说得好。行吧，你可以一起来。",
+      "after": "{让她加入。}说得好。行吧，你可以一起来。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 5876,
+      "category": "dialogue",
+      "key": "51b56486-a8cc-40b8-8950-be2ab34d2599",
+      "source": "{Kill Gunnarr.} I lied.",
+      "before": "{Kill Gunnarr.}我骗了你。",
+      "after": "{杀死贡纳。}我骗了你。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 6026,
+      "category": "dialogue",
+      "key": "5398544f-9fe4-4d5c-b01d-1634919a1ecc",
+      "source": "{Lie.} We didn't find anything...",
+      "before": "{Lie.} 我们什么都没找到……",
+      "after": "{撒谎。} 我们什么都没找到……",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 6359,
+      "category": "dialogue",
+      "key": "583f2948-3d7e-4036-ae93-64e5e10eba91",
+      "source": "{Attack.} Quite on the contrary in fact.",
+      "before": "{Attack.} 事实上恰恰相反。",
+      "after": "{攻击。} 事实上恰恰相反。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 6360,
+      "category": "dialogue",
+      "key": "583f7774-f7da-4a02-a1ec-ed7d2f405418",
+      "source": "{Pay him.} Here you go. Don't show your father.",
+      "before": "{Pay him.} 拿去吧。别让你父亲看见。",
+      "after": "{付钱给他。} 拿去吧。别让你父亲看见。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 6547,
+      "category": "dialogue",
+      "key": "5aaf913a-acb5-4b62-8eeb-3c74e84902ae",
+      "source": "{Show Sefa's necklace.} Have you ever seen a necklace like this?",
+      "before": "{Show Sefa's necklace.} 你见过这样的项链吗？",
+      "after": "{亮出塞法的项链。} 你见过这样的项链吗？",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 6847,
+      "category": "dialogue",
+      "key": "5ebc235a-de77-4ef3-ae93-a56dbeaafb54",
+      "source": "{Kill the girl.} Release him, but let this be a lesson to you, thrall, to not run off again.",
+      "before": "{Kill the girl.}放了他，但记住这个教训，奴隶，别再跑了。",
+      "after": "{杀了这丫头。}放了他，但记住这个教训，奴隶，别再跑了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 6850,
+      "category": "dialogue",
+      "key": "5ec406fa-05d0-4e0e-a33c-9fde1f8b4679",
+      "source": "{Ally with Pictavia.} Magnus - Dun Phris belongs to Pictavia.",
+      "before": "{Ally with Pictavia.}马格努斯——邓弗里斯属于皮克特维亚。",
+      "after": "{与皮克塔维亚结盟。}马格努斯——邓弗里斯属于皮克特维亚。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 6852,
+      "category": "dialogue",
+      "key": "5ed02b88-2d8d-48cf-8ea5-8d61a8ba3b68",
+      "source": "{Attack.} Fuck it.",
+      "before": "{Attack.}管他妈的。",
+      "after": "{动手。}管他妈的。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 6910,
+      "category": "dialogue",
+      "key": "5ff84fc6-ad21-4cc3-9404-6ce490c33dda",
+      "source": "{Attack.} I've made my decision.",
+      "before": "{Attack.}我已经下定决心了。",
+      "after": "{动手。}我已经下定决心了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 7051,
+      "category": "dialogue",
+      "key": "61abb3f2-795d-4969-908f-4b53884c000b",
+      "source": "{Attack.} A fight then!",
+      "before": "{Attack.}那就打一场！",
+      "after": "{攻击。}那就打一场！",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 7489,
+      "category": "dialogue",
+      "key": "67a4178c-1bd4-4b74-9808-e395516af536",
+      "source": "Stuck up. Self-righteous. Over-confident, over-eager. {She shrugs.} He's all right.",
+      "before": "傲慢。自以为是。过度自信，急于求成。{She shrugs.} 他还行。",
+      "after": "傲慢。自以为是。过度自信，急于求成。{她耸耸肩。} 他还行。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 7738,
+      "category": "dialogue",
+      "key": "6b55dc30-2023-41e6-abdc-0797e0254929",
+      "source": "{Pull free.} No. I can't.",
+      "before": "{Pull free.}不。我做不到。",
+      "after": "{挣脱开。}不。我做不到。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 7787,
+      "category": "dialogue",
+      "key": "6c413241-65c0-4899-b017-bacb4b5c009b",
+      "source": "{Show evidence.} It's done.",
+      "before": "{Show evidence.}搞定了。",
+      "after": "{展示证据。}搞定了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 7794,
+      "category": "dialogue",
+      "key": "6c4a19ed-58ec-496e-9019-3eb367edd4aa",
+      "source": "{Offer 2 Rations.} A cup of mead to gain Thorr's favour.",
+      "before": "{Offer 2 Rations.}敬一杯蜂蜜酒，以求托尔眷顾。",
+      "after": "{献上2份口粮。}敬一杯蜂蜜酒，以求托尔眷顾。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 8068,
+      "category": "dialogue",
+      "key": "700d26bf-827c-40f9-835d-6cdc1bdbbe07",
+      "source": "{Attack.} We kill the guards now, deal with the consequences later.",
+      "before": "{Attack.} 我们现在就杀了守卫，后果以后再说。",
+      "after": "{动手。} 我们现在就杀了守卫，后果以后再说。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 8663,
+      "category": "dialogue",
+      "key": "780a5203-d224-4aa6-a05f-be13d65cfbe4",
+      "source": "{Attack.} I said we fight!",
+      "before": "{Attack.}我说了，开打！",
+      "after": "{攻击。}我说了，开打！",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 8749,
+      "category": "dialogue",
+      "key": "7942274f-cca2-4740-a983-80bd741cdab7",
+      "source": "{Attack.} You've all brought this on yourselves.",
+      "before": "{Attack.} 这一切都是你们自找的。",
+      "after": "{攻击。} 这一切都是你们自找的。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 8776,
+      "category": "dialogue",
+      "key": "79b9fff0-ec9c-46f5-88b5-76daae4c7eb8",
+      "source": "{Raid the garden.} Finders keepers.",
+      "before": "{Raid the garden.}先到先得。",
+      "after": "{洗劫花园。}先到先得。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 9489,
+      "category": "dialogue",
+      "key": "83973304-ef5c-4135-aeec-027407585c35",
+      "source": "{Give her the Eagle Standard.} It's yours.",
+      "before": "{Give her the Eagle Standard.} 它是你的了。",
+      "after": "{把鹰旗交给她。} 它是你的了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10018,
+      "category": "dialogue",
+      "key": "8b2d059e-1d8c-4913-90e6-066ee46ae0b4",
+      "source": "{Draw your weapon.} Have it your way.",
+      "before": "{Draw your weapon.} 随你便吧。",
+      "after": "{拔出你的武器。} 随你便吧。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10213,
+      "category": "dialogue",
+      "key": "8e35130d-8601-4cc1-b57e-1d089c3a094a",
+      "source": "{Kill the young woman.} Have it your way.",
+      "before": "{Kill the young woman.} 随你便。",
+      "after": "{杀了那年轻女人。} 随你便。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10531,
+      "category": "dialogue",
+      "key": "92708059-2283-4ba4-9950-34d72a00a46f",
+      "source": "{Give 500 Valuables.} I'll take it.",
+      "before": "{Give 500 Valuables.}我收下了。",
+      "after": "{给予500财物。}我收下了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10590,
+      "category": "dialogue",
+      "key": "92fe61c8-1298-4ead-a0b2-6a4accfca5fd",
+      "source": "{Lie.} Your horn was almost empty - I was going to refill it for you.",
+      "before": "{Lie.} 你的号角都快空了——我正打算替你满上。",
+      "after": "{撒谎。} 你的号角都快空了——我正打算替你满上。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10607,
+      "category": "dialogue",
+      "key": "935a8632-fbd0-4102-a416-83a780fe7b18",
+      "source": "{Attack.} Let's put that good fortune to the test.",
+      "before": "{Attack.} 那就来试试这份好运吧。",
+      "after": "{攻击。} 那就来试试这份好运吧。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10666,
+      "category": "dialogue",
+      "key": "94280271-ae6e-429f-804e-b9ccff098905",
+      "source": "{Attack.} If that's the way you want to play this, fine!",
+      "before": "{Attack.} 你要是想这么玩，那就来吧！",
+      "after": "{攻击。} 你要是想这么玩，那就来吧！",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10739,
+      "category": "dialogue",
+      "key": "9524d133-05af-49ef-9c27-8cad435c2622",
+      "source": "{Spare him.} You fought well. I will spare you, if you and your family leave and never return.",
+      "before": "{Spare him.}你打得很好。如果你和你的家人离开、永不回来，我就饶你一命。",
+      "after": "{饶他一命。}你打得很好。如果你和你的家人离开、永不回来，我就饶你一命。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10761,
+      "category": "dialogue",
+      "key": "95595f87-cbc5-4387-a585-731a25493129",
+      "source": "{Kill them.} Well we're here to get rid of you!",
+      "before": "{Kill them.} 我们就是来收拾你的！",
+      "after": "{灭了他们。} 我们就是来收拾你的！",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10977,
+      "category": "dialogue",
+      "key": "985fbdbb-de78-4b99-8eae-89e962d3ab41",
+      "source": "{Show sword.} I hate to be the bearer of bad news, but I found a sword engraved with his name next to some remains not too far from here.",
+      "before": "{Show sword.} 我不想带来坏消息，但我在这儿不远处的一些遗骸旁，发现了刻着他名字的剑。",
+      "after": "{展示长剑。} 我不想带来坏消息，但我在这儿不远处的一些遗骸旁，发现了刻着他名字的剑。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 10994,
+      "category": "dialogue",
+      "key": "98a39aaf-5f6f-4b64-aaac-1215bad5fb71",
+      "source": "{Reject deal.} Perhaps we could work out something else.",
+      "before": "{Reject deal.} 也许我们可以另谈个办法。",
+      "after": "{拒绝交易。} 也许我们可以另谈个办法。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 11066,
+      "category": "dialogue",
+      "key": "99aa0e1e-8004-4706-b44d-64a0946a1d6d",
+      "source": "{Kill him.} You've given me everything I need. Time to die.",
+      "before": "{Kill him.} 你已经给了我需要的一切。该死了。",
+      "after": "{杀了他。} 你已经给了我需要的一切。该死了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 11388,
+      "category": "dialogue",
+      "key": "9e855805-d665-422e-b15f-b5922b188c25",
+      "source": "{Stab him.} No more talk.",
+      "before": "{Stab him.} 没什么好说的了。",
+      "after": "{刺死他。} 没什么好说的了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 11393,
+      "category": "dialogue",
+      "key": "9e94b81e-4989-4b57-80be-a4f9b6a26ecf",
+      "source": "{Recruit her.} Skjern could use a good merchant.",
+      "before": "{Recruit her.} 斯凯恩正缺一个好商人。",
+      "after": "{招募她。} 斯凯恩正缺一个好商人。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 11740,
+      "category": "dialogue",
+      "key": "a39fe8c0-a4d1-4ee6-ad22-40b09b86706c",
+      "source": "{Offer 5000 Valuables.} If you stand aside, not only will I restore the kingdoms of Pictavia to their natural sovereignty, I will reward you richly.",
+      "before": "{Offer 5000 Valuables.} 你若让开，我不仅会让皮克特维亚的诸王国恢复应有的主权，还会重重赏你。",
+      "after": "{献上 5000 财宝。} 你若让开，我不仅会让皮克特维亚的诸王国恢复应有的主权，还会重重赏你。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 11745,
+      "category": "dialogue",
+      "key": "a3ba8ad5-4a41-4e5a-ab81-c205689d9be8",
+      "source": "{Pay 500 Valuables, get 200 wood.} I'll pay you 50 ørtug of silver for the job.",
+      "before": "{Pay 500 Valuables, get 200 wood.} 这活儿我付你五十厄尔图格银币。",
+      "after": "{支付 500 财宝，获得 200 木材。} 这活儿我付你五十厄尔图格银币。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 11756,
+      "category": "dialogue",
+      "key": "a3e3a879-1be9-492b-8eb4-44e57af04bf5",
+      "source": "{Give 5 Poison.} Here - be careful.",
+      "before": "{Give 5 Poison.} 给——小心点。",
+      "after": "{给予 5 份毒药。} 给——小心点。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 11805,
+      "category": "dialogue",
+      "key": "a4696666-bd46-4f73-84a7-f61a7ace0cd8",
+      "source": "{You get 100 wood.} You keep half the wood, ship the rest up to Skjern.",
+      "before": "{You get 100 wood.}你留下半数木材，其余的运往斯凯恩。",
+      "after": "{你获得了100木材。}你留下半数木材，其余的运往斯凯恩。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 11836,
+      "category": "dialogue",
+      "key": "a5027769-ca6a-4c9a-ad80-0c7ed3605625",
+      "source": "{Kill them.} Too bad.",
+      "before": "{Kill them.}真可惜。",
+      "after": "{杀了他们。}真可惜。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 11976,
+      "category": "dialogue",
+      "key": "a6fd22f9-15ed-4ada-bb05-02a221742659",
+      "source": "{Give 10000 Valuables.} I have the silver you asked for. Consider it a deal!",
+      "before": "{Give 10000 Valuables.} 你要的银子我带来了。就当成交吧！",
+      "after": "{献上10000财物。} 你要的银子我带来了。就当成交吧！",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 11979,
+      "category": "dialogue",
+      "key": "a70ee389-704a-4ab7-a60f-afef678073d2",
+      "source": "{Drink.} Skál you... you pussy! Another!",
+      "before": "{Drink.} 干杯，你……你这娘们！再来一杯！",
+      "after": "{喝。} 干杯，你……你这娘们！再来一杯！",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 12287,
+      "category": "dialogue",
+      "key": "aba498ef-d2d5-4f90-a6fd-1a3d19441764",
+      "source": "{Kill him.} We'll help ourselves then.",
+      "before": "{Kill him.}那我们就自己动手。",
+      "after": "{杀了他。}那我们就自己动手。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 12376,
+      "category": "dialogue",
+      "key": "accd6cf9-73e5-43d1-833f-f583cdb774e7",
+      "source": "{Attack} I'm afraid your journey will be much shorter than you anticipated.",
+      "before": "{Attack} 恐怕你的旅程会比你预想的短得多。",
+      "after": "{攻击} 恐怕你的旅程会比你预想的短得多。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 12463,
+      "category": "dialogue",
+      "key": "ae0d530f-7db2-4991-8e28-470f43c4f598",
+      "source": "{Give 50 Rations.} I wish to give an offering to Thorr that I may be granted some of his strength.",
+      "before": "{Give 50 Rations.} 我想向托尔献上祭品，好从他那里求得一些力量。",
+      "after": "{给予50份口粮。} 我想向托尔献上祭品，好从他那里求得一些力量。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 12972,
+      "category": "dialogue",
+      "key": "b577c4df-79d5-488f-949e-22001b3b18ea",
+      "source": "{Buy spear for 150 Valuables.} I'll take the spear for 15 ørtug of silver.",
+      "before": "{Buy spear for 150 Valuables.} 我用15厄尔图格银买这柄矛。",
+      "after": "{花费150财宝购买矛。} 我用15厄尔图格银买这柄矛。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 13030,
+      "category": "dialogue",
+      "key": "b66dbc0d-d229-4606-a256-066036bd5511",
+      "source": "{Show him the ribbon from Willibrord.} Osred sent me to get a report from you.",
+      "before": "{Show him the ribbon from Willibrord.} 奥斯雷德派我来向你要一份报告。",
+      "after": "{给他看威利布罗德给的绶带。} 奥斯雷德派我来向你要一份报告。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 13044,
+      "category": "dialogue",
+      "key": "b690cf31-c858-42ac-8d2b-bc9d9bc9c2b2",
+      "source": "{Attack.} Change of plans...",
+      "before": "{Attack.} 计划有变……",
+      "after": "{攻击。} 计划有变……",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 13084,
+      "category": "dialogue",
+      "key": "b71972ec-e32b-4bd7-a4f3-7a0bf7aa1d22",
+      "source": "{Shake his hand.} [Player:Name].",
+      "before": "{Shake his hand.} [Player:Name]。",
+      "after": "{握住他的手。} [Player:Name]。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 13175,
+      "category": "dialogue",
+      "key": "b84e23eb-0387-466d-92c6-8c4216d8b7a1",
+      "source": "{Kill him.} I'm sorry. No one is to be spared.",
+      "before": "{Kill him.} 对不起。谁也不能幸免。",
+      "after": "{杀了他。} 对不起。谁也不能幸免。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 13472,
+      "category": "dialogue",
+      "key": "bc6e0de0-18dd-4671-90d1-ba20c70e1692",
+      "source": "{Show Sefa's necklace.} Have you ever seen a necklace like this?",
+      "before": "{Show Sefa's necklace.} 你见过这样的项链吗？",
+      "after": "{展示塞法的项链。} 你见过这样的项链吗？",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 13553,
+      "category": "dialogue",
+      "key": "bd9782c0-f5a2-489c-b367-2a5bbd98936b",
+      "source": "{Show Sefa's necklace.} Have you ever seen a necklace like this?",
+      "before": "{Show Sefa's necklace.}你见过这样的项链吗？",
+      "after": "{亮出塞法的项链。}你见过这样的项链吗？",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 13567,
+      "category": "dialogue",
+      "key": "bdd6aefd-577b-4612-8425-100c87f80753",
+      "source": "{Bribe with 200 Valuables.} Fine, here.",
+      "before": "{Bribe with 200 Valuables.}好吧，给你。",
+      "after": "{以二百财帛行贿。}好吧，给你。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 13663,
+      "category": "dialogue",
+      "key": "bf35a62a-c0df-4ee2-845a-a2ea70be9349",
+      "source": "{Attack.} Then we fight!",
+      "before": "{Attack.}那就打吧！",
+      "after": "{攻击。}那就打吧！",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 13796,
+      "category": "dialogue",
+      "key": "c11849b8-50d0-48b4-93a1-c7aeec0f2fa7",
+      "source": "I can barely breathe {COUGH! COUGH!} the smoke...",
+      "before": "我几乎喘不上气{COUGH! COUGH!}这烟……",
+      "after": "我几乎喘不上气{咳！咳！}这烟……",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 13846,
+      "category": "dialogue",
+      "key": "c1bb8701-ea97-4031-b217-3168d40eaba0",
+      "source": "{Stab him.} Your followers will be gone soon, but you will not be coming with them.",
+      "before": "{Stab him.}你的随从很快就要走了，但你不会跟他们一起走。",
+      "after": "{刺死他。}你的随从很快就要走了，但你不会跟他们一起走。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 13964,
+      "category": "dialogue",
+      "key": "c38365fc-9e8a-4acd-a8f2-e7e0610db8af",
+      "source": "{Ignore the firefly.} Sounds like you need to get out of here. You'd be safer in Perth if you come with us.",
+      "before": "{Ignore the firefly.} 听起来你得离开这儿。要是跟我们走，你在珀斯会更安全。",
+      "after": "{懒得理那只萤火虫。} 听起来你得离开这儿。要是跟我们走，你在珀斯会更安全。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 13969,
+      "category": "dialogue",
+      "key": "c3973cb2-1a35-45c4-8611-6ccc19933661",
+      "source": "{Attack.} You won't be here much longer...",
+      "before": "{Attack.} 你在这儿待不久了……",
+      "after": "{动手。} 你在这儿待不久了……",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 14369,
+      "category": "dialogue",
+      "key": "c96b0f93-9145-4db0-bae7-51cb28552f5b",
+      "source": "{Attack.} If a fight is unavoidable today, the village is the weaker foe. You won't need to translate [i]this[/i], Morcant.",
+      "before": "{Attack.} 如果今天这一战避不开，村里的人更好对付。你不用翻译[i]这个[/i]，莫坎特。",
+      "after": "{动手。} 如果今天这一战避不开，村里的人更好对付。你不用翻译[i]这个[/i]，莫坎特。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 15173,
+      "category": "dialogue",
+      "key": "d43c6f6f-80b9-4284-912c-5cdb9fe42203",
+      "source": "{Kill him.} I struck a deal. Your life for the boy's.",
+      "before": "{Kill him.} 我做了笔交易。用你的命换那孩子的命。",
+      "after": "{杀了他。} 我做了笔交易。用你的命换那孩子的命。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 15254,
+      "category": "dialogue",
+      "key": "d55b6d50-d3d5-420e-9bf1-6af05f717fca",
+      "source": "{Leave.} This isn't my problem.",
+      "before": "{Leave.} 这不关我的事。",
+      "after": "{离开。} 这不关我的事。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 15281,
+      "category": "dialogue",
+      "key": "d5eded50-a25f-4854-9c7f-cb99ef5f8d83",
+      "source": "{Leave.} Got turned around. Far vel.",
+      "before": "{Leave.} 走错路了。再见。",
+      "after": "{离开。} 走错路了。再见。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 15448,
+      "category": "dialogue",
+      "key": "d80742c5-a6a4-47e2-bcba-7839eb923d8e",
+      "source": "{Attack.} You dare ask me for alms?! You'll pay for this insolence!",
+      "before": "{Attack.} 你竟敢向我讨施舍？！你会为这无礼付出代价！",
+      "after": "{攻击。} 你竟敢向我讨施舍？！你会为这无礼付出代价！",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 15594,
+      "category": "dialogue",
+      "key": "da1c6e87-c2ce-4ce1-a8bc-ddb8f4090d5d",
+      "source": "{Attack.} It would be a tremendous help to me [i]if you'd die![/i]",
+      "before": "{Attack.}你要是死了，[i]对我可是天大的帮助！[/i]",
+      "after": "{攻击。}你要是死了，[i]对我可是天大的帮助！[/i]",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 15763,
+      "category": "dialogue",
+      "key": "dc288c77-f8d5-4d4c-91d6-2ba20d571ccf",
+      "source": "{Face Asleifr in the ring.} No, I'm looking forward to teaching Asleifr a lesson.",
+      "before": "{Face Asleifr in the ring.}不，我可盼着好好教训阿斯莱夫一顿。",
+      "after": "{在角斗场中面对阿斯莱芙尔。}不，我可盼着好好教训阿斯莱夫一顿。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 15798,
+      "category": "dialogue",
+      "key": "dca3ab5f-e07e-454f-9cb7-5dd4c722b274",
+      "source": "{Leave.} Do what you want with the kid. It's out of my hands.",
+      "before": "{Leave.} 那孩子你想怎么处置就怎么处置。这事我管不着了。",
+      "after": "{离开。} 那孩子你想怎么处置就怎么处置。这事我管不着了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 15897,
+      "category": "dialogue",
+      "key": "ddc3d278-e346-4691-b42d-f29328e098c9",
+      "source": "{Leave.} This is a waste of my time.",
+      "before": "{Leave.} 这纯粹是浪费我的时间。",
+      "after": "{走吧。} 这纯粹是浪费我的时间。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 15999,
+      "category": "dialogue",
+      "key": "df01c450-0e78-4fdf-9def-2d5e1f974d87",
+      "source": "{Kill him.} I'll end the curse with your death.",
+      "before": "{Kill him.}我会用你的死来终结这诅咒。",
+      "after": "{杀了他。}我会用你的死来终结这诅咒。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 16002,
+      "category": "dialogue",
+      "key": "df0671fc-8c66-4333-938d-b05d034266ea",
+      "source": "{Grab the survivor.} Who sent you? Speak!",
+      "before": "{Grab the survivor.}是谁派你来的？说！",
+      "after": "{抓住幸存者。}是谁派你来的？说！",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 16317,
+      "category": "dialogue",
+      "key": "e3c1f297-a4dc-477c-b767-b2ae0c6e4959",
+      "source": "{Lie.} I already have, Hlafdia. The poet is dead.",
+      "before": "{Lie.} 我已经办妥了，女领主。诗人死了。",
+      "after": "{撒谎。} 我已经办妥了，女领主。诗人死了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 16740,
+      "category": "dialogue",
+      "key": "e95ebd42-5363-4e47-beaa-81cfd3c6a26e",
+      "source": "{Show evidence.} It's done.",
+      "before": "{Show evidence.} 办妥了。",
+      "after": "{出示证据。} 办妥了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 16750,
+      "category": "dialogue",
+      "key": "e98fab1b-2493-48a9-924f-af4c8b0755b0",
+      "source": "{Kill him.} No.",
+      "before": "{Kill him.}不。",
+      "after": "{杀了他。}不。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 16772,
+      "category": "dialogue",
+      "key": "e9ff6b81-1de3-474c-a462-d8a793741f4c",
+      "source": "{Let the girl go.} We must be more vigilant in the future.",
+      "before": "{Let the girl go.}今后我们必须更加警觉。",
+      "after": "{放了那女孩。}今后我们必须更加警觉。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 16958,
+      "category": "dialogue",
+      "key": "ec7c0530-269d-4fdc-9da2-4de9d68a4f99",
+      "source": "Use the Elm. {High Cargo / Low Intimidation / Low Speed}",
+      "before": "使用榆树号。{High Cargo / Low Intimidation / Low Speed}",
+      "after": "使用榆树号。{载货量大 / 威慑低 / 航速慢}",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 17505,
+      "category": "dialogue",
+      "key": "f4238c1d-3eb1-49ec-baae-a40f8303e9e2",
+      "source": "{Attack.} I've decided to accept a better offer.",
+      "before": "{Attack.} 我已决定接受一个更好的提议。",
+      "after": "{动手。} 我已决定接受一个更好的提议。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 17506,
+      "category": "dialogue",
+      "key": "f42826a0-3e7c-4786-961d-1c6eb73ad2a9",
+      "source": "{Show sword.} I hate to be the bearer of bad news, but I found a sword engraved with his name next to some remains not too far from here.",
+      "before": "{Show sword.} 我也不想带来坏消息，但我在离这儿不远的一些遗骸旁，找到了一把刻着他名字的剑。",
+      "after": "{亮出剑。} 我也不想带来坏消息，但我在离这儿不远的一些遗骸旁，找到了一把刻着他名字的剑。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 17551,
+      "category": "dialogue",
+      "key": "f4b301db-1466-47ca-a4e4-2d9f9642e6d6",
+      "source": "{Abandon goal.} Never mind, I lost interest.",
+      "before": "{Abandon goal.}算了，我没兴趣了。",
+      "after": "{放弃目标。}算了，我没兴趣了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 17578,
+      "category": "dialogue",
+      "key": "f510d946-328e-4dcf-a6bb-748856cd73fe",
+      "source": "{Kill her.} Can't have any loose ends.",
+      "before": "{Kill her.} 不能留下任何后患。",
+      "after": "{杀了她。} 不能留下任何后患。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 17702,
+      "category": "dialogue",
+      "key": "f6b3caaa-992d-46f8-98dd-a9ce24ce6e4e",
+      "source": "{Challenge him yourself.} And yet you'll be no match for me!",
+      "before": "{Challenge him yourself.} 可你根本不是我的对手！",
+      "after": "{亲自挑战他。} 可你根本不是我的对手！",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 17745,
+      "category": "dialogue",
+      "key": "f756290c-ce47-4b1e-b346-9d41fc211cda",
+      "source": "{Attack.} I have a counter-offer.",
+      "before": "{Attack.}我有个还价。",
+      "after": "{动手。}我有个还价。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 17843,
+      "category": "dialogue",
+      "key": "f8e1bd9a-3f4d-4821-ab4c-83a1fb516795",
+      "source": "{Drink} To a generous and giving host!",
+      "before": "{Drink}敬慷慨大方的主人！",
+      "after": "{喝酒}敬慷慨大方的主人！",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 17918,
+      "category": "dialogue",
+      "key": "f9d08380-8e68-45cb-aa21-f8e0b0189e90",
+      "source": "{Abandon goal.} Forget it, I lost interest.",
+      "before": "{Abandon goal.} 算了，我没兴趣了。",
+      "after": "{放弃目标。} 算了，我没兴趣了。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 17919,
+      "category": "dialogue",
+      "key": "f9d247a5-1134-4460-8a81-98eb39cd3830",
+      "source": "{Chicken out.} This has already gone too far. I want no further part of it.",
+      "before": "{Chicken out.} 这事已经闹得太过了。我不想再掺和下去。",
+      "after": "{临阵退缩。} 这事已经闹得太过了。我不想再掺和下去。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 17936,
+      "category": "dialogue",
+      "key": "fa15fd11-dfbb-4c11-8026-8db5d781e1ca",
+      "source": "{Pick your nails with the point of the knife.} Grant docking permission to the [Shipname], and I will let you keep all your fingers.",
+      "before": "{Pick your nails with the point of the knife.} 准许我的[Shipname]停靠，我就让你保住你的全部手指。",
+      "after": "{用小刀尖剔着指甲。} 准许我的[Shipname]停靠，我就让你保住你的全部手指。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 18070,
+      "category": "dialogue",
+      "key": "fbf80595-67ac-495d-8f32-f81521806a5b",
+      "source": "{Chicken out.} This has already gone too far. I want no further part of it.",
+      "before": "{Chicken out.} 这事已经闹得太过了。我不想再掺和下去。",
+      "after": "{临阵退缩。} 这事已经闹得太过了。我不想再掺和下去。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 18227,
+      "category": "dialogue",
+      "key": "fe24686b-4b62-4b3b-a03b-8214edac9a73",
+      "source": "{Kill him.} Very well.",
+      "before": "{Kill him.}很好。",
+      "after": "{杀了他。}很好。",
+      "origin": "v1.2_shipped"
+    },
+    {
+      "index": 18258,
+      "category": "dialogue",
+      "key": "fec94607-77cf-426a-9541-2a1208ff2596",
+      "source": "{Accept deal.} That seems fair.",
+      "before": "{Accept deal.} 这看起来挺公道。",
+      "after": "{同意交易。} 这看起来挺公道。",
+      "origin": "v1.2_shipped"
+    }
+  ],
+  "overrides": [
+    {
+      "index": 3274,
+      "category": "dialogue",
+      "key": "2dc8a0f0-f354-4c2b-b348-bde793768248",
+      "source": "{Join Asleifr in the ring.}",
+      "before": "{与阿斯莱芙一同入场。}",
+      "after": "{与阿斯莱夫一同入场。}",
+      "reason": "术语统一：Asleifr → 阿斯莱夫"
+    },
+    {
+      "index": 16743,
+      "category": "dialogue",
+      "key": "e963ad04-3ae4-45f5-bde6-3a4c2c0d4ff3",
+      "source": "{Ready weapons.}",
+      "before": "{准备武器。}",
+      "after": "{持械戒备。}",
+      "reason": "术语统一：Ready → 戒备"
+    },
+    {
+      "index": 18812,
+      "category": "gui",
+      "key": "Root/NotificationCharacterPrompt",
+      "source": "Press [[hotkey]] to view followers",
+      "before": "按 [hotkey] 查看随从",
+      "after": "按下 [[hotkey]] 查看追随者",
+      "reason": "恢复源文 [[hotkey]] 双层转义，避免变量插值失效"
+    },
+    {
+      "index": 9277,
+      "category": "dialogue",
+      "key": "80c5e900-fcd0-4ec7-89ae-ffe8a7bbc851",
+      "source": "{Attack.} They look disorganised, this shouldn't be too difficult. Let's just get it over with.",
+      "before": "{Attack.} 他们看起来乱糟糟的，应该不会太难。赶紧了结吧。",
+      "after": "{攻击。} 他们看起来乱糟糟的，应该不会太难。赶紧了结吧。",
+      "reason": "v1.2 此处用全角括号，按其他选项统一改为花括号"
+    }
+  ],
+  "problems": [
+    {
+      "index": 18503,
+      "reason": "legacy_also_untranslated",
+      "source": "HDR"
+    },
+    {
+      "index": 18510,
+      "reason": "legacy_also_untranslated",
+      "source": "[x] x [y] @ [r]Hz"
+    },
+    {
+      "index": 18512,
+      "reason": "legacy_also_untranslated",
+      "source": "[x]x"
+    },
+    {
+      "index": 18513,
+      "reason": "legacy_also_untranslated",
+      "source": "[x]%"
+    },
+    {
+      "index": 18539,
+      "reason": "legacy_also_untranslated",
+      "source": "[x]x"
+    },
+    {
+      "index": 18581,
+      "reason": "legacy_also_untranslated",
+      "source": "{[skill] [value]}"
+    },
+    {
+      "index": 18609,
+      "reason": "legacy_also_untranslated",
+      "source": "[Hunter/Huntress]"
+    },
+    {
+      "index": 18788,
+      "reason": "legacy_also_untranslated",
+      "source": "[olddurability] → [color=\"red\"][newdurability][/color]"
+    },
+    {
+      "index": 18794,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"red\"]-[itemshift][/color]"
+    },
+    {
+      "index": 18906,
+      "reason": "legacy_also_untranslated",
+      "source": "[x] [y]"
+    },
+    {
+      "index": 19032,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"silver\"][x][/color]"
+    },
+    {
+      "index": 19038,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][name][/size]\\n[description][time]"
+    },
+    {
+      "index": 19039,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][name][occupied][/size][stats][time]"
+    },
+    {
+      "index": 19041,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][name][/size][time]"
+    },
+    {
+      "index": 19044,
+      "reason": "legacy_also_untranslated",
+      "source": "+ [nr] [item]"
+    },
+    {
+      "index": 19088,
+      "reason": "legacy_also_untranslated",
+      "source": "[i][x][/i] [color=\"silver\"]([y])[/color]"
+    },
+    {
+      "index": 19139,
+      "reason": "legacy_also_untranslated",
+      "source": "[x][y][z]"
+    },
+    {
+      "index": 19140,
+      "reason": "legacy_also_untranslated",
+      "source": "[x][z]"
+    },
+    {
+      "index": 19141,
+      "reason": "legacy_also_untranslated",
+      "source": "[x]"
+    },
+    {
+      "index": 19142,
+      "reason": "legacy_also_untranslated",
+      "source": "[x][y]"
+    },
+    {
+      "index": 19143,
+      "reason": "legacy_also_untranslated",
+      "source": "[x][y]"
+    },
+    {
+      "index": 19144,
+      "reason": "legacy_also_untranslated",
+      "source": "[y] [x]"
+    },
+    {
+      "index": 19224,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19225,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19226,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19227,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19228,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19229,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19230,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19231,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19232,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19233,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19234,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19235,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19236,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19237,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19238,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19239,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19240,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19241,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19242,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19243,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19244,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19245,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19246,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ResourceName][/size]\\n[ResourceDescription]"
+    },
+    {
+      "index": 19272,
+      "reason": "legacy_also_untranslated",
+      "source": "[x] [y]"
+    },
+    {
+      "index": 19329,
+      "reason": "legacy_also_untranslated",
+      "source": "[x] [resource]"
+    },
+    {
+      "index": 19341,
+      "reason": "legacy_also_untranslated",
+      "source": "[hungry] [statuseffects] [scouting]"
+    },
+    {
+      "index": 19440,
+      "reason": "legacy_also_untranslated",
+      "source": "[taskID]"
+    },
+    {
+      "index": 19441,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"#[c]\"][taskID][/color]"
+    },
+    {
+      "index": 19443,
+      "reason": "legacy_also_untranslated",
+      "source": "\\n\\n[color=\"#[c]\"][error][/color]"
+    },
+    {
+      "index": 19444,
+      "reason": "legacy_also_untranslated",
+      "source": "[x]"
+    },
+    {
+      "index": 19445,
+      "reason": "legacy_also_untranslated",
+      "source": "[x]"
+    },
+    {
+      "index": 19446,
+      "reason": "legacy_also_untranslated",
+      "source": "[x]"
+    },
+    {
+      "index": 19447,
+      "reason": "legacy_also_untranslated",
+      "source": "[x] [y]"
+    },
+    {
+      "index": 19461,
+      "reason": "legacy_also_untranslated",
+      "source": "[x]/[y]"
+    },
+    {
+      "index": 19462,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"red\"][x]/[y][/color]"
+    },
+    {
+      "index": 19590,
+      "reason": "legacy_also_untranslated",
+      "source": "\\n[x]"
+    },
+    {
+      "index": 19591,
+      "reason": "legacy_also_untranslated",
+      "source": "[x]"
+    },
+    {
+      "index": 19592,
+      "reason": "legacy_also_untranslated",
+      "source": "[x]"
+    },
+    {
+      "index": 19610,
+      "reason": "legacy_also_untranslated",
+      "source": "\\n\\n[x]"
+    },
+    {
+      "index": 19611,
+      "reason": "legacy_also_untranslated",
+      "source": "\\n\\n[x]"
+    },
+    {
+      "index": 19612,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"grey\"]([z]x)[/color]"
+    },
+    {
+      "index": 19613,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"grey\"]([z])[/color]"
+    },
+    {
+      "index": 19614,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"grey\"]([z]%)[/color]"
+    },
+    {
+      "index": 19615,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"lime\"]+[x][/color]"
+    },
+    {
+      "index": 19616,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"red\"][x][/color]"
+    },
+    {
+      "index": 19617,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"grey\"]0[/color]"
+    },
+    {
+      "index": 19618,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][name][/size]\\n[color=\"grey\"][class][/color]\\n[durability][description][specialpropdesc][schematicdesc]\\n[damage][ap][crit][drmelee][drranged][absorption][block][physicalresistance][mentalresistance][movement][accuracypenalty][fireres][poisonres][weatherres][specialpropeffect][schematiceffect]"
+    },
+    {
+      "index": 19629,
+      "reason": "legacy_also_untranslated",
+      "source": "[v]"
+    },
+    {
+      "index": 19630,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"orange\"][v1] - [v2][/color]"
+    },
+    {
+      "index": 19631,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"orange\"][v]%[/color]"
+    },
+    {
+      "index": 19632,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"orange\"][v]%[/color]"
+    },
+    {
+      "index": 19633,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"orange\"][v]%[/color]"
+    },
+    {
+      "index": 19634,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"orange\"][v]%[/color]"
+    },
+    {
+      "index": 19635,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"orange\"][v]%[/color]"
+    },
+    {
+      "index": 19636,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"orange\"][v1]/[v2][/color]"
+    },
+    {
+      "index": 19637,
+      "reason": "legacy_also_untranslated",
+      "source": "[v]"
+    },
+    {
+      "index": 19638,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"white\"][v1] ([v2])[/color]"
+    },
+    {
+      "index": 19639,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"orange\"][v][/color]"
+    },
+    {
+      "index": 19640,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"orange\"][v][/color]"
+    },
+    {
+      "index": 19641,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"yellow\"][v][/color]"
+    },
+    {
+      "index": 19642,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"orange\"][v][/color]"
+    },
+    {
+      "index": 19643,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"red\"][v][/color]"
+    },
+    {
+      "index": 19644,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"lime\"]+[v][/color]"
+    },
+    {
+      "index": 19645,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"orange\"][v]%[/color]"
+    },
+    {
+      "index": 19646,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"orange\"][v]%[/color]"
+    },
+    {
+      "index": 19647,
+      "reason": "legacy_also_untranslated",
+      "source": "[v]"
+    },
+    {
+      "index": 19648,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"yellow\"][v][/color]"
+    },
+    {
+      "index": 19649,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"orange\"][v][/color]"
+    },
+    {
+      "index": 19650,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"red\"][v][/color]"
+    },
+    {
+      "index": 19651,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"lime\"][v][/color]"
+    },
+    {
+      "index": 19652,
+      "reason": "legacy_also_untranslated",
+      "source": "[v1] - [v2]"
+    },
+    {
+      "index": 19653,
+      "reason": "legacy_also_untranslated",
+      "source": "[v]x"
+    },
+    {
+      "index": 19654,
+      "reason": "legacy_also_untranslated",
+      "source": "1"
+    },
+    {
+      "index": 19655,
+      "reason": "legacy_also_untranslated",
+      "source": "2"
+    },
+    {
+      "index": 19657,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"lime\"][v][/color]"
+    },
+    {
+      "index": 19658,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"red\"][v][/color]"
+    },
+    {
+      "index": 19659,
+      "reason": "legacy_also_untranslated",
+      "source": "[v]"
+    },
+    {
+      "index": 19660,
+      "reason": "legacy_also_untranslated",
+      "source": "[v]%"
+    },
+    {
+      "index": 19661,
+      "reason": "legacy_also_untranslated",
+      "source": "[v]%"
+    },
+    {
+      "index": 19662,
+      "reason": "legacy_also_untranslated",
+      "source": "[v]"
+    },
+    {
+      "index": 19668,
+      "reason": "legacy_also_untranslated",
+      "source": "[x]"
+    },
+    {
+      "index": 19669,
+      "reason": "legacy_also_untranslated",
+      "source": "[x1]\\n[x2]"
+    },
+    {
+      "index": 19702,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][ItemName][/size][action]\\n[size=\"12\"][color=\"grey\"][ItemType][/color][/size][requirement]\\n[ItemDescription]"
+    },
+    {
+      "index": 19703,
+      "reason": "legacy_also_untranslated",
+      "source": "\\n[color=\"red\"][size=\"12\"][i][x][/i][/size][/color]."
+    },
+    {
+      "index": 19717,
+      "reason": "legacy_also_untranslated",
+      "source": "-[x]%"
+    },
+    {
+      "index": 19722,
+      "reason": "legacy_also_untranslated",
+      "source": "[amount]"
+    },
+    {
+      "index": 19723,
+      "reason": "legacy_also_untranslated",
+      "source": "[amount] [resource]"
+    },
+    {
+      "index": 19761,
+      "reason": "legacy_also_untranslated",
+      "source": "[injuryseverity] [injurytype]"
+    },
+    {
+      "index": 19978,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"red\"][Mod][/color] [Cause]"
+    },
+    {
+      "index": 19979,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"lime\"]+[Mod][/color] [Cause]"
+    },
+    {
+      "index": 20003,
+      "reason": "legacy_also_untranslated",
+      "source": "[y]/[x]"
+    },
+    {
+      "index": 20004,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"red\"][y]/[x][/color]"
+    },
+    {
+      "index": 20006,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"24\"][amount][/size] [resource]"
+    },
+    {
+      "index": 20009,
+      "reason": "legacy_also_untranslated",
+      "source": "[x]%"
+    },
+    {
+      "index": 20011,
+      "reason": "legacy_also_untranslated",
+      "source": "[skillrank]/5"
+    },
+    {
+      "index": 20013,
+      "reason": "legacy_also_untranslated",
+      "source": "[skillrankplus1]/5"
+    },
+    {
+      "index": 20048,
+      "reason": "legacy_also_untranslated",
+      "source": "-"
+    },
+    {
+      "index": 20051,
+      "reason": "legacy_also_untranslated",
+      "source": "[repairskillrank]/5"
+    },
+    {
+      "index": 20053,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"lime\"][x]%[/color]"
+    },
+    {
+      "index": 20054,
+      "reason": "legacy_also_untranslated",
+      "source": "-"
+    },
+    {
+      "index": 20055,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"orange\"][x][/color] [resource]"
+    },
+    {
+      "index": 20057,
+      "reason": "legacy_also_untranslated",
+      "source": "[resourceamount1][resource1][resourceamount2][resource2]"
+    },
+    {
+      "index": 20065,
+      "reason": "legacy_also_untranslated",
+      "source": "[resource]"
+    },
+    {
+      "index": 20066,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][name][/size]\\n[size=\"12\"][color=\"grey\"][type][/color][/size]\\n[description]"
+    },
+    {
+      "index": 20067,
+      "reason": "legacy_also_untranslated",
+      "source": "[current] / [needed]"
+    },
+    {
+      "index": 20068,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"red\"][current][/color] / [needed]"
+    },
+    {
+      "index": 20333,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"lime\"]+[x][/color]"
+    },
+    {
+      "index": 20334,
+      "reason": "legacy_also_untranslated",
+      "source": "[y]"
+    },
+    {
+      "index": 20337,
+      "reason": "legacy_also_untranslated",
+      "source": "[x] [y]"
+    },
+    {
+      "index": 20344,
+      "reason": "legacy_also_untranslated",
+      "source": "[x]"
+    },
+    {
+      "index": 20346,
+      "reason": "legacy_also_untranslated",
+      "source": "[x] [y]"
+    },
+    {
+      "index": 20439,
+      "reason": "legacy_also_untranslated",
+      "source": "..."
+    },
+    {
+      "index": 20592,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"white\"][x][/color]"
+    },
+    {
+      "index": 20593,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"lime\"][x][/color]"
+    },
+    {
+      "index": 20594,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"orange\"][x][/color]"
+    },
+    {
+      "index": 20595,
+      "reason": "legacy_also_untranslated",
+      "source": "[sb][sp][itemname]"
+    },
+    {
+      "index": 20596,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"grey\"][x][/color]"
+    },
+    {
+      "index": 20597,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"lime\"][x][/color]"
+    },
+    {
+      "index": 20598,
+      "reason": "legacy_also_untranslated",
+      "source": "[color=\"red\"][x][/color]"
+    },
+    {
+      "index": 20600,
+      "reason": "legacy_also_untranslated",
+      "source": "([name])\\n"
+    },
+    {
+      "index": 20664,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][SchematicName][/size]\\n[SchematicDescription]"
+    },
+    {
+      "index": 20665,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][SchematicName][/size]\\n[SchematicDescription]"
+    },
+    {
+      "index": 20666,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][SchematicName][/size]\\n[SchematicDescription]"
+    },
+    {
+      "index": 20667,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][SchematicName][/size]\\n[SchematicDescription]"
+    },
+    {
+      "index": 20668,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][SchematicName][/size]\\n[SchematicDescription]"
+    },
+    {
+      "index": 20669,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][SchematicName][/size]\\n[SchematicDescription]"
+    },
+    {
+      "index": 20670,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][name][/size]\\n[description]"
+    },
+    {
+      "index": 22296,
+      "reason": "legacy_also_untranslated",
+      "source": "+[color=\"orange\"][NameAbility][/color]"
+    },
+    {
+      "index": 22330,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action][charges][requirement]\\n\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22331,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22338,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22339,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22340,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22363,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22364,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22365,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22366,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22367,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22386,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22387,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22388,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22407,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22408,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22409,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22428,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22429,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22430,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22449,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22450,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22451,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22470,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22471,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22472,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22491,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22492,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22493,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22508,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22510,
+      "reason": "legacy_also_untranslated",
+      "source": "[DescriptionAbility]"
+    },
+    {
+      "index": 22511,
+      "reason": "legacy_also_untranslated",
+      "source": "[DescriptionAbility]"
+    },
+    {
+      "index": 22512,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement]\\n\\n[color=\"orange\"][NameAbility][/color][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22515,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22517,
+      "reason": "legacy_also_untranslated",
+      "source": "[DescriptionAbility]"
+    },
+    {
+      "index": 22518,
+      "reason": "legacy_also_untranslated",
+      "source": "[DescriptionAbility]"
+    },
+    {
+      "index": 22519,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement]\\n\\n[color=\"orange\"][NameAbility][/color][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22522,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22524,
+      "reason": "legacy_also_untranslated",
+      "source": "[DescriptionAbility]"
+    },
+    {
+      "index": 22525,
+      "reason": "legacy_also_untranslated",
+      "source": "[DescriptionAbility]"
+    },
+    {
+      "index": 22526,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement]\\n\\n[color=\"orange\"][NameAbility][/color][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22533,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22534,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22535,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22550,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22552,
+      "reason": "legacy_also_untranslated",
+      "source": "[DescriptionAbility]"
+    },
+    {
+      "index": 22553,
+      "reason": "legacy_also_untranslated",
+      "source": "[DescriptionAbility]"
+    },
+    {
+      "index": 22554,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement]\\n\\n[color=\"orange\"][NameAbility][/color][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22557,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22559,
+      "reason": "legacy_also_untranslated",
+      "source": "[DescriptionAbility]"
+    },
+    {
+      "index": 22560,
+      "reason": "legacy_also_untranslated",
+      "source": "[DescriptionAbility]"
+    },
+    {
+      "index": 22561,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement]\\n\\n[color=\"orange\"][NameAbility][/color][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22564,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22566,
+      "reason": "legacy_also_untranslated",
+      "source": "[DescriptionAbility]"
+    },
+    {
+      "index": 22567,
+      "reason": "legacy_also_untranslated",
+      "source": "[DescriptionAbility]"
+    },
+    {
+      "index": 22568,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement]\\n\\n[color=\"orange\"][NameAbility][/color][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22571,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22573,
+      "reason": "legacy_also_untranslated",
+      "source": "[DescriptionAbility]"
+    },
+    {
+      "index": 22574,
+      "reason": "legacy_also_untranslated",
+      "source": "[DescriptionAbility]"
+    },
+    {
+      "index": 22575,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement]\\n\\n[color=\"orange\"][NameAbility][/color][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22582,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22583,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22584,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22603,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22604,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22605,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22628,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22629,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22630,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22631,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22632,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22650,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22651,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22652,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22653,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22654,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22664,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22666,
+      "reason": "legacy_also_untranslated",
+      "source": "[DescriptionAbility]"
+    },
+    {
+      "index": 22667,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement]\\n\\n[color=\"orange\"][NameAbility][/color][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22694,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22695,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22696,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22713,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22714,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22723,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22725,
+      "reason": "legacy_also_untranslated",
+      "source": "[DescriptionAbility]"
+    },
+    {
+      "index": 22729,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22731,
+      "reason": "legacy_also_untranslated",
+      "source": "[DescriptionAbility]"
+    },
+    {
+      "index": 22732,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement]\\n\\n[color=\"orange\"][NameAbility][/color][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22743,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22744,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22745,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22746,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22747,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 22780,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22831,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22895,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22899,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22903,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22907,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22911,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22915,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22919,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22927,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22931,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22935,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22939,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22943,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22947,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22951,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22955,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22959,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22963,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22967,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22971,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22975,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22979,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22983,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22987,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22991,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22995,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 22999,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 23003,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 23007,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 23010,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 23027,
+      "reason": "legacy_also_untranslated",
+      "source": "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkill]"
+    },
+    {
+      "index": 23030,
+      "reason": "legacy_also_untranslated",
+      "source": "[NameAbility][action]\\n[DescriptionAbility]"
+    },
+    {
+      "index": 23032,
+      "reason": "legacy_also_untranslated",
+      "source": "[DescriptionAbility]"
+    },
+    {
+      "index": 23033,
+      "reason": "legacy_also_untranslated",
+      "source": "[DescriptionAbility]"
+    }
+  ],
+  "term_conflict_count": 3,
+  "player_variants": {
+    "replaced": 291,
+    "records": 272,
+    "unknown": []
+  }
+}

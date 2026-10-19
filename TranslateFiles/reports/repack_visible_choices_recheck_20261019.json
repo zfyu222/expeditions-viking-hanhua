@@ -1,0 +1,21 @@
+{
+  "record_ids": [
+    "R0003006_7bb46acf72",
+    "R0003208_dd4a0bdf7b",
+    "R0003269_d3bfe87dad",
+    "R0003897_613a7a0004",
+    "R0012973_8b3dc82674",
+    "R0017845_a62c657895"
+  ],
+  "reason": "项目实测机制已确认：这6条的花括号是显示给玩家的动作/交易选项，括号内英语必须译为中文并保留花括号。当前候选将 Stab him/Kill him/Buy spear for 150 Valuables/Throw rope 恢复为英文，造成已修复漏译回退。冻结表中的整句保留原文指令在这些具体可见选项语境不适用；不修改全局冻结表，针对相关t编号给出明确语境例外。仅修选项及其实际含义；Stab不必然导致死亡，不能擅加捅死；150 Valuables与15 ørtug分别按原文保留数量/单位。逐条真实六维审校，先前已正确正文不顺带改写。",
+  "dispatch": {
+    "repair_tasks": [
+      "review-round-ccb7e93e570b41cf",
+      "review-round-ba4f645473f74fc7",
+      "review-round-10066613662344da"
+    ],
+    "repair_records": 6,
+    "needs_attention_ids": [],
+    "preserved_records": 23189
+  }
+}

@@ -59,6 +59,50 @@ def bracket_tokens(text):
     return re.findall(r"\[[^\]]*\]", text)
 
 
+def prepare_reviewed_base(official, review, variants):
+    """Once supplementary review is accepted, never re-import legacy proposals."""
+    official_path = BASE / 'expeditions-viking_text_translated.csv'
+    if review.get('status') != 'accepted' or sha256(official_path) != review['official_sha256']:
+        raise SystemExit('补充审校报告与正式译文不匹配；停止，避免覆盖已审结果。')
+    out = list(official)
+    localized = []
+    replaced = 0
+    if variants:
+        import sys
+        sys.path.insert(0, str(BASE))
+        from localize_player_variants import TAG, VARIANTS
+        unknown = set()
+        for index, text in enumerate(out):
+            def repl(match):
+                nonlocal replaced
+                key = match.group(1)
+                if key not in VARIANTS:
+                    unknown.add(key); return match.group(0)
+                replaced += 1
+                return '[Player:' + VARIANTS[key] + ']'
+            out[index] = TAG.sub(repl, text)
+            if out[index] != text:
+                localized.append({'index': index, 'before': text, 'after': out[index]})
+        if unknown:
+            raise SystemExit('未映射的 Player 分支：' + repr(sorted(unknown)))
+    REPACK_DIR.mkdir(parents=True, exist_ok=True)
+    target = REPACK_DIR / 'translation_for_repack.csv'
+    with target.open('w', encoding='utf-8', newline='') as stream:
+        csv.writer(stream).writerows([[text] for text in out])
+    (REPACK_DIR / 'player_variants_localized.json').write_text(
+        json.dumps(localized, ensure_ascii=False, indent=2), encoding='utf-8')
+    report = {'official_csv': str(official_path), 'official_sha256': sha256(official_path),
+        'repack_csv': str(target), 'repack_sha256': sha256(target),
+        'restored_count': 0, 'restored': [], 'brace_fixes_count': 0, 'brace_fixes': [],
+        'overrides': [], 'problems': [], 'term_conflict_count': 0,
+        'reviewed_repack_records': review['scope_records'],
+        'review_report': 'TranslateFiles/reports/repack_review_acceptance_20261019.json',
+        'player_variants': {'replaced': replaced, 'records': len(localized), 'unknown': []}}
+    (BASE / 'TranslateFiles/reports/repack_translation_prep.json').write_text(
+        json.dumps(report, ensure_ascii=False, indent=2), encoding='utf-8')
+    print(json.dumps({k: report[k] for k in ('official_sha256','repack_sha256','reviewed_repack_records','player_variants')},ensure_ascii=False))
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--variants", action="store_true", help="同时本地化 [Player:x/y] 分支")
@@ -67,6 +111,10 @@ def main():
     rows = list(csv.DictReader(open(BASE / "extracted_strings.csv", encoding="utf-8-sig")))
     source = load_csv(BASE / "expeditions-viking_text.csv")
     official = load_csv(BASE / "expeditions-viking_text_translated.csv")
+    accepted = BASE / 'TranslateFiles/reports/repack_review_acceptance_20261019.json'
+    if accepted.exists():
+        prepare_reviewed_base(official, json.loads(accepted.read_text(encoding='utf-8')), args.variants)
+        return
     legacy = load_csv(BASE / "extracted_for_ainiee_translated.csv")[1:]
     assert len(rows) == len(source) == len(official) == len(legacy) == 23195
 

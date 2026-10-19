@@ -1,0 +1,25 @@
+{
+  "rows": 23195,
+  "source_rows": 23195,
+  "tag_problems": [],
+  "tag_problem_count": 0,
+  "player_tag_with_ascii": [],
+  "player_tag_with_ascii_count": 0,
+  "double_bracket_mismatch": [],
+  "double_bracket_mismatch_count": 0,
+  "equal_to_source": 279,
+  "no_cjk": 300,
+  "changed_vs_official": 510,
+  "changed_indices_sample": [
+    44,
+    79,
+    114,
+    135,
+    222,
+    223,
+    256,
+    293,
+    305,
+    349
+  ]
+}

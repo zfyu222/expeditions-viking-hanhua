@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "archive": "Dispatch\\Expeditions Viking_子非鱼汉化1.4.zip",
+  "sha256": "60622bf984f717f0919bf9f977f808011e0945304855445f20b964e9a32631e4",
+  "size": 1997947,
+  "zip_entries": [
+    {
+      "path": "ZFY_Translation_Patch/resources.assets.hdiff",
+      "sha256": "752ae8cabc57f7e6dff0d856212d993322789d1ffcc917f93cf335c5d75c36eb",
+      "size": 4961093
+    },
+    {
+      "path": "ZFY_Translation_Patch/hpatchz.exe",
+      "sha256": "9703c694b5955c576d9f0e26e98b60941f0bbb53b382b1f1988d75d461e580cb",
+      "size": 515072
+    },
+    {
+      "path": "ZFY_Translation_Patch/应用汉化补丁.bat",
+      "sha256": "3e5b68d6a6af1ebb073c5fdc1b98c7715ad9a83c259a78cebafa6402d8131037",
+      "size": 1364
+    }
+  ],
+  "checksums_verified": true,
+  "changelog_preserved": true,
+  "exact_archive_player_install": true,
+  "installed_assets_sha256": "307cb72ef9b5d1cc34dc2755ec226bdd72e49e154b940354195fd00f2aa3009b",
+  "wrong_version_refused_and_restored": true,
+  "new_in_game_test": false,
+  "user_requested_skip": true
+}

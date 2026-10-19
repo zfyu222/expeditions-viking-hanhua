@@ -1,0 +1,121 @@
+{
+  "deployed_sha256_before": "0c07814ce8ace8232e1b7fd8be69f2c44eeac58447ed9d29ddb25901efde92d3",
+  "official_sha256": "c0c645ab0ab89d15a2467fb55099d4c48f1c8778ae3aa3fd9da189b11be4d62f",
+  "repack_sha256": "a93470b42f274bd101601f7af35829bc478ce83b7c035fb0d0f413c073e7cfea",
+  "original_sha256": "5ffb6e099860f06e325ffefd1784a074bf50c01074f856272c2d9084c3e9eba8",
+  "problems": [],
+  "csv_records": 23195,
+  "changed_records": 510,
+  "semantic_changed_records": 238,
+  "visible_branch_records": 272,
+  "assets": [
+    {
+      "category": "dialogue",
+      "path_id": 9146,
+      "sha256": "25a4d38b0abb241f176b3731501cb335db66532b8a8756e4db279c968f20f9e8",
+      "byte_identical": true
+    },
+    {
+      "category": "gui",
+      "path_id": 9040,
+      "sha256": "f2099851b54f03b9b31d321e3bf7d85d5739c1b7e606f69078b65c19ee2df42f",
+      "byte_identical": true
+    },
+    {
+      "category": "homestead",
+      "path_id": 9063,
+      "sha256": "1a7a3f9782c2b3955e2b495eb62d526ad4b2fd85663275a12f91e2b6ab5ae593",
+      "byte_identical": true
+    },
+    {
+      "category": "input",
+      "path_id": 9744,
+      "sha256": "239bd66022ee4265630ff5d1ce8451185b605de3858a7a6bc24222b54c24fbcd",
+      "byte_identical": true
+    },
+    {
+      "category": "items",
+      "path_id": 9309,
+      "sha256": "909cac325493461459aa2496575c259075d82fd5d1777929b74fe7c552826271",
+      "byte_identical": true
+    },
+    {
+      "category": "names",
+      "path_id": 9804,
+      "sha256": "1a9ab3b6cf8b610c932e4f047006fa9d0f567b698fbdda6712218997fdb9abee",
+      "byte_identical": true
+    },
+    {
+      "category": "scenedata",
+      "path_id": 9795,
+      "sha256": "7c61568d8a68a2f61481ab7c8e914f317c3218cc6952aeda96fd9a2315d5a899",
+      "byte_identical": true
+    },
+    {
+      "category": "skills",
+      "path_id": 9165,
+      "sha256": "2ed2915a8cdc6f6322a408774cbf2d9d18172465509b1e9fe428ecd52af182b1",
+      "byte_identical": true
+    },
+    {
+      "category": "tutorial",
+      "path_id": 9799,
+      "sha256": "28b1036324578cfc894740a3d331d921ece15ad43f53e829ba348430888227cb",
+      "byte_identical": true
+    }
+  ],
+  "checked_records": 23195,
+  "english_visible_branches": 0,
+  "archive_sha256": "bf725a5b67d8d00d918660f81732f7a4cc43010b88e75dd340acfe1d47461e41",
+  "archive_files": [
+    "ZFY_Translation_Patch/resources.assets.hdiff",
+    "ZFY_Translation_Patch/hpatchz.exe",
+    "ZFY_Translation_Patch/应用汉化补丁.bat",
+    "PATCH_MANIFEST.json",
+    "SHA256SUMS.txt",
+    "补丁说明.txt"
+  ],
+  "archive_payload_hashes_verified": true,
+  "reconstructed_sha256": "0c07814ce8ace8232e1b7fd8be69f2c44eeac58447ed9d29ddb25901efde92d3",
+  "in_game_evidence_hashes_verified": true,
+  "in_game_checks": [
+    {
+      "category": "fonts",
+      "status": "pass",
+      "scene": "启动后主界面与对白界面",
+      "notes": "用户实机确认中文字体显示正常，无缺字或方块。"
+    },
+    {
+      "category": "layout",
+      "status": "pass",
+      "scene": "对白与选项文本",
+      "notes": "用户实机确认文本排版正常，选项与对白未出现换行错乱。"
+    },
+    {
+      "category": "ui",
+      "status": "pass",
+      "scene": "游戏内 UI 与技能/物品提示",
+      "notes": "用户实机确认界面文本为中文。"
+    },
+    {
+      "category": "dialogue",
+      "status": "pass",
+      "scene": "对话与玩家选项",
+      "notes": "用户实机确认对话与选项显示中文，未再出现英文选项片段。"
+    },
+    {
+      "category": "quest",
+      "status": "not_applicable",
+      "scene": "",
+      "notes": "本轮实机确认未单独覆盖任务日志界面，按未验证项记录。"
+    }
+  ],
+  "deployed_sha256_after": "0c07814ce8ace8232e1b7fd8be69f2c44eeac58447ed9d29ddb25901efde92d3",
+  "technical_status": "passed",
+  "acceptance_status": "technical_pass_with_review_gap",
+  "limitations": [
+    "238 repack text changes are outside the formal CSV semantic review; existing release provenance is not independent semantic approval.",
+    "Quest journal was not separately exercised in the recorded game test. Its not_applicable label means untested here, not that the game has no quests.",
+    "This run verifies the differential payload reconstruction, not a fresh interactive game session or the complete batch installer UI."
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "status": "passed",
   "source_sha256": "7d05511f1e62468e65b9f379d613789939c9b4bc6100b040310341bab5c60eb8",
-  "translation_sha256": "c0c645ab0ab89d15a2467fb55099d4c48f1c8778ae3aa3fd9da189b11be4d62f",
+  "translation_sha256": "bcb10634df1ac8053408cae6492186a674a808982e4e85f3c05c2257a77f7a9b",
   "records": 23195,
   "semantic_review": "full",
   "polish": false,
@@ -24,7 +24,7 @@
   },
   "path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\expeditions-viking_text_translated.csv",
   "quality_review": {
-    "report_hash": "9fd45b7e96151cd0f55a21269b7d9e08d76f15a810ee52cee5f08a7ae08ddb33",
+    "report_hash": "16cecb6807d4c8b6f371e1f458637a5cfabff17df2eb83d96296eeee816431b4",
     "reviewer": "sol"
   },
   "in_game_check": "pending_repack"

@@ -7,19 +7,19 @@
   "player_tag_with_ascii_count": 0,
   "double_bracket_mismatch": [],
   "double_bracket_mismatch_count": 0,
-  "equal_to_source": 279,
+  "equal_to_source": 280,
   "no_cjk": 300,
-  "changed_vs_official": 510,
+  "changed_vs_official": 272,
   "changed_indices_sample": [
     44,
-    79,
     114,
-    135,
     222,
     223,
-    256,
-    293,
-    305,
-    349
+    357,
+    373,
+    382,
+    441,
+    661,
+    680
   ]
 }

@@ -1,0 +1,219 @@
+{
+  "categories": {
+    "dialogue": {
+      "expected": 18339,
+      "found": 24606,
+      "mismatched": 0,
+      "missing": 0,
+      "english_kept": 7,
+      "english_variants": 0,
+      "mismatched_sample": [],
+      "missing_sample": [],
+      "english_sample": [
+        [
+          "025e2cff-bbbf-4e68-90f2-cfb663989dbf",
+          "[i][Player:Name]！[/i]"
+        ],
+        [
+          "8691c4a2-0feb-4179-b42c-5e88a81da170",
+          "[Player:Name]……"
+        ],
+        [
+          "a1393c26-865b-4c12-b5d9-95c7629471f3",
+          "Ceud mile failte。"
+        ],
+        [
+          "ae7707b3-8765-457c-87a8-a5a7ba520165",
+          "[Player:Name]。"
+        ],
+        [
+          "b9028957-640c-4914-b5cb-ae501467468a",
+          "[Player:Name]。"
+        ]
+      ]
+    },
+    "gui": {
+      "expected": 1994,
+      "found": 1994,
+      "mismatched": 0,
+      "missing": 0,
+      "english_kept": 138,
+      "english_variants": 0,
+      "mismatched_sample": [],
+      "missing_sample": [],
+      "english_sample": [
+        [
+          "Root/SaveLoadSaveGameGrammar",
+          "[prefix][questname]（[firstname]）"
+        ],
+        [
+          "Root/OptionsVideoHDR",
+          "HDR"
+        ],
+        [
+          "Root/OptionsVideoResolutionDropdown",
+          "[x] x [y] @ [r]Hz"
+        ],
+        [
+          "Root/OptionsX",
+          "[x]x"
+        ],
+        [
+          "Root/OptionsPct",
+          "[x]%"
+        ]
+      ]
+    },
+    "homestead": {
+      "expected": 100,
+      "found": 100,
+      "mismatched": 0,
+      "missing": 0,
+      "english_kept": 5,
+      "english_variants": 0,
+      "mismatched_sample": [],
+      "missing_sample": [],
+      "english_sample": [
+        [
+          "Root/XStyle",
+          "[color=\"lime\"]+[x][/color]"
+        ],
+        [
+          "Root/YStyle",
+          "[y]"
+        ],
+        [
+          "Root/HomesteadRequirementResource",
+          "[x] [y]"
+        ],
+        [
+          "Root/HomesteadUpgradeTime",
+          "[x]"
+        ],
+        [
+          "Root/HomesteadUpgradeBonus",
+          "[x] [y]"
+        ]
+      ]
+    },
+    "input": {
+      "expected": 46,
+      "found": 46,
+      "mismatched": 0,
+      "missing": 0,
+      "english_kept": 1,
+      "english_variants": 0,
+      "mismatched_sample": [],
+      "missing_sample": [],
+      "english_sample": [
+        [
+          "Root/WaitingForInput",
+          "..."
+        ]
+      ]
+    },
+    "items": {
+      "expected": 219,
+      "found": 219,
+      "mismatched": 0,
+      "missing": 0,
+      "english_kept": 16,
+      "english_variants": 0,
+      "mismatched_sample": [],
+      "missing_sample": [],
+      "english_sample": [
+        [
+          "Root/StandardItemColor",
+          "[color=\"white\"][x][/color]"
+        ],
+        [
+          "Root/SpecialPropertyItemColor",
+          "[color=\"lime\"][x][/color]"
+        ],
+        [
+          "Root/UniqueItemColor",
+          "[color=\"orange\"][x][/color]"
+        ],
+        [
+          "Root/ItemNameGrammar",
+          "[sb][sp][itemname]"
+        ],
+        [
+          "Root/SpecialPropertyNameGrammarUnknown",
+          "[color=\"grey\"][x][/color]"
+        ]
+      ]
+    },
+    "names": {
+      "expected": 1239,
+      "found": 2531,
+      "mismatched": 0,
+      "missing": 0,
+      "english_kept": 0,
+      "english_variants": 0,
+      "mismatched_sample": [],
+      "missing_sample": [],
+      "english_sample": []
+    },
+    "scenedata": {
+      "expected": 357,
+      "found": 357,
+      "mismatched": 0,
+      "missing": 0,
+      "english_kept": 0,
+      "english_variants": 0,
+      "mismatched_sample": [],
+      "missing_sample": [],
+      "english_sample": []
+    },
+    "skills": {
+      "expected": 752,
+      "found": 752,
+      "mismatched": 0,
+      "missing": 0,
+      "english_kept": 132,
+      "english_variants": 0,
+      "mismatched_sample": [],
+      "missing_sample": [],
+      "english_sample": [
+        [
+          "Root/AbilityStyle",
+          "+[color=\"orange\"][NameAbility][/color]"
+        ],
+        [
+          "Root/TooltipCombatAbility",
+          "[NameAbility][action][charges][requirement]\\n\\n[DescriptionA"
+        ],
+        [
+          "Root/TooltipSkillSelection",
+          "[size=\"16\"][NameSkill][/size]\\n[requirement][DescriptionSkil"
+        ],
+        [
+          "Root/TooltipCombatAxeShieldHook",
+          "[NameAbility][action]\\n[DescriptionAbility]"
+        ],
+        [
+          "Root/TooltipCombatAxeCleave",
+          "[NameAbility][action]\\n[DescriptionAbility]"
+        ]
+      ]
+    },
+    "tutorial": {
+      "expected": 147,
+      "found": 147,
+      "mismatched": 0,
+      "missing": 0,
+      "english_kept": 1,
+      "english_variants": 0,
+      "mismatched_sample": [],
+      "missing_sample": [],
+      "english_sample": [
+        [
+          "Root/TutorialStepCount",
+          "[color=\"grey\"][x]/[y][/color]"
+        ]
+      ]
+    }
+  },
+  "problems": []
+}

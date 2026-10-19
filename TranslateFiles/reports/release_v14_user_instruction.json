@@ -1,0 +1,8 @@
+{
+  "version": "1.4",
+  "skip_new_in_game_test": true,
+  "user_instruction": "不用进入游戏测试，好了就直接打包发布",
+  "game_version": "Steam 当前版本（Unity 5.6.4f1，原始 resources.assets 344,539,620 字节）",
+  "platform": "Steam（Windows）",
+  "policy": "本项目一次性遵从用户明确指令；保留正式语义验收、源文绑定、资源回读、差分及安装校验；未创建或声称新的实机通过记录。"
+}

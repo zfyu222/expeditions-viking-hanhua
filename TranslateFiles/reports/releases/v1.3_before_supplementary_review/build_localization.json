@@ -1,0 +1,54 @@
+{
+  "translated_csv": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\repack\\translation_for_repack.csv",
+  "output_dir": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\Chinese_Localization",
+  "keys": 23193,
+  "translations": 23193,
+  "total_written": 23195,
+  "categories": {
+    "dialogue": {
+      "written": 18339,
+      "source": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\output\\full-project\\ExportedProject\\Assets\\Resources\\localization\\dialogue\\DialogueEnglish.txt",
+      "output": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\Chinese_Localization\\Chinese\\Localization\\Dialogue\\DialogueChinese.xml"
+    },
+    "gui": {
+      "written": 1994,
+      "source": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\output\\full-project\\ExportedProject\\Assets\\Resources\\localization\\gui\\GUIEnglish.txt",
+      "output": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\Chinese_Localization\\Chinese\\Localization\\GUI\\GUIChinese.xml"
+    },
+    "homestead": {
+      "written": 100,
+      "source": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\output\\full-project\\ExportedProject\\Assets\\Resources\\localization\\homesteadupgrades\\HomesteadUpgradesEnglish.txt",
+      "output": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\Chinese_Localization\\Chinese\\Localization\\HomesteadUpgrades\\HomesteadUpgradesChinese.xml"
+    },
+    "input": {
+      "written": 46,
+      "source": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\output\\full-project\\ExportedProject\\Assets\\Resources\\localization\\input\\InputEnglish.txt",
+      "output": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\Chinese_Localization\\Chinese\\Localization\\Input\\InputChinese.xml"
+    },
+    "items": {
+      "written": 219,
+      "source": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\output\\full-project\\ExportedProject\\Assets\\Resources\\localization\\items\\ItemsEnglish.txt",
+      "output": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\Chinese_Localization\\Chinese\\Localization\\Items\\ItemsChinese.xml"
+    },
+    "names": {
+      "written": 1241,
+      "source": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\output\\full-project\\ExportedProject\\Assets\\Resources\\localization\\names\\CharacterNamesEnglish.txt",
+      "output": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\Chinese_Localization\\Chinese\\Localization\\Names\\NamesChinese.xml"
+    },
+    "scenedata": {
+      "written": 357,
+      "source": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\output\\full-project\\ExportedProject\\Assets\\Resources\\localization\\scenedata\\SceneDataEnglish.txt",
+      "output": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\Chinese_Localization\\Chinese\\Localization\\SceneData\\SceneDataChinese.xml"
+    },
+    "skills": {
+      "written": 752,
+      "source": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\output\\full-project\\ExportedProject\\Assets\\Resources\\localization\\skills\\SkillsEnglish.txt",
+      "output": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\Chinese_Localization\\Chinese\\Localization\\Skills\\SkillsChinese.xml"
+    },
+    "tutorial": {
+      "written": 147,
+      "source": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\output\\full-project\\ExportedProject\\Assets\\Resources\\localization\\tutorial\\TutorialEnglish.txt",
+      "output": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\Chinese_Localization\\Chinese\\Localization\\Tutorial\\TutorialChinese.xml"
+    }
+  }
+}

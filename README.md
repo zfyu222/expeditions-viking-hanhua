@@ -168,6 +168,16 @@ python TranslateFiles\scripts\verify_deployed_assets.py
 - 验证：从部署后的资源重新导出 9 个 TextAsset，与生成的 XML 逐字节一致（9/9）；对白中 `{…}` 英文片段 0，英文性别分支 0，`[[hotkey]]` 与 `{攻击。}` 均已就位。报告见 `TranslateFiles/reports/repack_verification.json`、`repack_translation_prep.json`、`build_xml_verification.json`。
 - 实机结果：用户在部署后实机确认字体、排版、UI 与对白/选项正常；任务日志界面未单独检查。可发布。
 
+### 2026-10-19：v1.4 补充审校与重新打包
+
+- 针对 v1.3 回填副本中的 238 条改动完成逐条独立语义审校，六维证据和真实审校者保存在 `TranslateFiles/reports/repack_review_evidence_20261019.json`。整轮统一验收，失败项定向修复，最终 Sol 质量轮 3 已批准。
+- 相比 v1.3 回填候选共修正 13 条；另对 6 条因整句禁翻项回退为英文的玩家选项定向复核，保留冻结表，通过具体语境例外确认其为玩家可见文本。
+- 已审 238 条纳入正式译文，SHA-256 `bcb10634df1ac8053408cae6492186a674a808982e4e85f3c05c2257a77f7a9b`。回填脚本优先使用绑定该哈希的补充验收报告，禁止再从旧版译文覆盖已审正文；回填副本只另作 291 处、272 条记录的性别分支本地化。
+- 23,195 条文本与部署资源逐条一致，9/9 TextAsset 与生成 XML 逐字节一致；新版 `resources.assets` SHA-256 `307cb72ef9b5d1cc34dc2755ec226bdd72e49e154b940354195fd00f2aa3009b`。
+- v1.4 ZIP 校验和、累计更新日志及压缩包实际安装通过；安装后资源哈希一致，备份、重复安装拒绝与错误版本拒绝/恢复均通过。报告见 `release_v14_static_validation.json`、`release_v14_archive_validation.json`。
+- 用户明确要求“不用进入游戏测试，好了就直接打包发布”。本版未启动游戏、不新增实机通过记录；项目专用发布入口保留正式语义验收、源文/载荷哈希及静态安装校验，以记录的用户指令取代本版新实机测试门槛，未修改共享发布程序。v1.3 的实机证据保留为历史，不能视作 v1.4 的实机结论。
+- 下方旧版独立打包复核中指出的 238 条审校缺口已由本节闭环；任务日志界面仍未单独实测。
+
 ### 2026-10-19：独立打包复核
 
 - 重新从当前游戏资源导出 9 个 TextAsset，全部与生成 XML 逐字节一致；按类别及 key 对齐核对回填副本的 23,195 条文本，缺失或不一致为 0。
@@ -253,7 +263,7 @@ python TranslateFiles\scripts\verify_deployed_assets.py
 ## 已知问题
 
 - 2026-10-19 载荷已实机验证字体、排版、UI、对白/选项；任务日志界面未单独检查，记录为 `not_applicable`。
-- 本轮回填副本有 238 条记录未经正式审校流程（100 条整体回补 + 136 条花括号片段回补 + 4 处定向修订），来源为 v1.2 已发布译文与 r8 术语表；如后续重跑导出，需重新应用 `repack_prepare.py`。
+- v1.3 回填副本的 238 条补译已在 v1.4 完成独立审校并纳入正式译文；后续回填从已审正式 CSV 生成，仅继续本地化可见性别分支。
 - `expeditions-viking_text_translated.csv` 仍是正式审校产物；回填副本 `TranslateFiles/repack/translation_for_repack.csv` 与它存在上述差异，`final_validation.json` 只对正式 CSV 有效。
 - 纯占位模板与拉丁语／古英语／盖尔语风味台词保持原样（279 条），属预期保留。
 - 对白中 `[Player:甲/乙]` 分支必须保持 `[Player:…/…]` 形式；若后续译文重新保护该标签，需再次运行 `repack_prepare.py --variants`。
@@ -263,6 +273,7 @@ python TranslateFiles\scripts\verify_deployed_assets.py
 
 | 日期 | 操作 | 说明 |
 |------|------|------|
+| 2026-10-19 | 准备发布 v1.4 | 238 条回填补译独立审校通过，修订 13 条，正式译文与资源重建并通过实际安装校验；用户要求跳过新的实机测试 |
 | 2026-10-19 | 发布 v1.3 | 基于新译文生成 HDiffPatch 差分补丁并发布；实机确认字体/排版/UI/对白正常，临时目录按玩家流程安装后哈希与载荷一致 |
 | 2026-10-19 | 新译文回填 | 用正式译文重建 9 个 TextAsset 并部署；修订 238 条记录（整体回补 100 + 花括号片段 136 + 定向 4，2 处重合），291 处性别分支本地化；资源导出 9/9 逐字节一致 |
 | 2026-07-19 | 首次回填 | `build_localization.py` + `batch_replace_uabea.py`，9 个 TextAsset 替换 |
@@ -274,7 +285,18 @@ python TranslateFiles\scripts\verify_deployed_assets.py
 
 ## 对外发布
 
-- 当前版本：**v1.3**（2026-10-19），线上最新。
+### v1.4
+
+- 补丁：`Dispatch/Expeditions Viking_子非鱼汉化1.4.zip`（1,997,947 bytes），SHA-256 `60622bf984f717f0919bf9f977f808011e0945304855445f20b964e9a32631e4`。
+- 载荷：`ZFY_Translation_Patch/resources.assets.hdiff`、`hpatchz.exe` 和一键安装脚本；不含原始游戏资源、凭据或开发日志。
+- 支持 Steam Windows / Unity 5.6.4f1 的原始资源（344,539,620 bytes，SHA-256 `5ffb6e09…c3e9eba8`）。
+- GitHub Release 发布目标：`https://github.com/zfyu222/expeditions-viking-hanhua/releases/tag/v1.4`；下载资产名 `Expeditions.Viking_ChinesePatch_.1.4.zip`。
+- 验证：238 条补充语义审校通过；全文与资源、差分、压缩包完整性及实际一键安装校验通过。按用户明确指令跳过本版新的游戏内测试，任务日志未单独实测。
+- 百度网盘：当前会话未提供上传 MCP，尚未镜像；不会以本地文件代称已上传。
+
+### v1.3 历史发布
+
+- 本地新版：**v1.4**（2026-10-19），已校验、准备发布；此前线上版本 v1.3。
 - 补丁：`Dispatch/Expeditions Viking_子非鱼汉化1.3.zip`（1,459,964 bytes）
 - 支持版本/平台：Steam Windows 版，Unity 5.6.4f1；仅支持原始 `resources.assets` 为 344,539,620 bytes 的安装。
 - 载荷：`ZFY_Translation_Patch/` 下的 `resources.assets.hdiff`（1,186,334 bytes）、HDiffPatch 应用器 `hpatchz.exe`（v5.1.3）与一键安装脚本；不含游戏本体或原始资源文件。

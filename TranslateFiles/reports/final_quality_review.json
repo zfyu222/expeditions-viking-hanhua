@@ -8,7 +8,7 @@
     "path": "glossary\\r8\\freeze_731eced6\\built\\glossary_reviewed.json",
     "revision": 8
   },
-  "snapshot_hash": "beb8bb15d76723eba94474a2ff87597ee85a3752cccd9e517d9c0371398a2905",
+  "snapshot_hash": "8c4dce54d32fad8abd01ef8a999f3fb5d5c017bce31c06cbef711b658c6269e9",
   "coverage": {
     "records": 23195,
     "text_types": {
@@ -17,7 +17,7 @@
     "missing_context": 23195,
     "risk_records": 16791,
     "ordinary_sample": 0,
-    "sol_records": 40
+    "sol_records": 38
   },
   "risk_detection": "Heuristic candidates plus reviewer findings; absence of flags is not proof of correctness.",
   "records_to_check": [
@@ -190,7 +190,6 @@
     "R0001487_e5ded18005": "b9bc09ef23abea2a041c68b5e195a8080dcf617f20fcb5a4363b122086be3e28",
     "R0003848_2262390e84": "039548f7d582399cd25a7d4a8791a9eaa0cf256c8c54a7856cb3d4cb7f9da40f",
     "R0004643_becb557068": "f627e11bff614a5f6336f8a5b9bb48e67941712349a335604ee741d7edfdb198",
-    "R0004677_ea60874368": "d2904dd0f66bbd9f80fb04c219bed6d897d6b9e316dc43274d39f4f9aa7e43ba",
     "R0005703_f4f73c4560": "a08bbe09b954e6937956c308c12abd886a4ea1c381f61402d66690d6f1a10aa8",
     "R0005902_8fd933e0fb": "d8478ab98cb6f6fbe04540c522dd355578faa93cb1c7547273919217e52f1d7b",
     "R0006400_2533c8720f": "3c141d638326f748a0d961ed89223616efa8023a418dd01660204b90cfbf7310",
@@ -202,7 +201,6 @@
     "R0009268_47cc7afb19": "c6607016df855bf1834548efbbe08f9a9f48f6a3619ecff346bff02903e60794",
     "R0009500_e39a91385a": "33ff6a06f962572ae55891e2a50c824d89089615bd57d0ce5ffc1e3c93ff6feb",
     "R0009526_053bc51d1d": "4c3e9d6b826b44b0ff331217c0b3ca9cbc0d37040b38419a65f6219857397c08",
-    "R0010069_78d9858523": "e70b8c4858b4d70906c7308fb0d1b61d6684b40f581a42348d48e077c790e916",
     "R0010388_223c3329ff": "1e9ec298cc55519d4e2944adefc7a2d3f0858a6dc84dcaeed3971547b6f72f3b",
     "R0012271_76693f773d": "8e26c7ba509fbdecbc4e378228d42485955273e0b245640c7b4d38b083b32274",
     "R0012694_ad9e6cdee7": "fecf44a2e9829ab8e0f132d389863aabeb914a264a70d25a5d05f4cd4fbd16a6",
@@ -319,15 +317,6 @@
       "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
       "signature": "039548f7d582399cd25a7d4a8791a9eaa0cf256c8c54a7856cb3d4cb7f9da40f"
     },
-    "R0004677_ea60874368": {
-      "decision": {
-        "disposition": "pass",
-        "id": "R0004677_ea60874368",
-        "reason": "原文保护标记为 {Kill him.}；当前译文逐字保留，先前译成中文的问题已修正。"
-      },
-      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
-      "signature": "d2904dd0f66bbd9f80fb04c219bed6d897d6b9e316dc43274d39f4f9aa7e43ba"
-    },
     "R0005703_f4f73c4560": {
       "decision": {
         "disposition": "pass",
@@ -426,15 +415,6 @@
       },
       "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
       "signature": "4c3e9d6b826b44b0ff331217c0b3ca9cbc0d37040b38419a65f6219857397c08"
-    },
-    "R0010069_78d9858523": {
-      "decision": {
-        "disposition": "contextual",
-        "id": "R0010069_78d9858523",
-        "reason": "Eadig, thec to metenne. 是异于常规英语的古语式短句；本包没有游戏内字幕、对白或仪式语境证据来判定它是否应保留原文。当前完整保留该异语，暂按语境例外接受，不据猜测强制意译。"
-      },
-      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
-      "signature": "e70b8c4858b4d70906c7308fb0d1b61d6684b40f581a42348d48e077c790e916"
     },
     "R0010388_223c3329ff": {
       "decision": {
@@ -570,7 +550,7 @@
   "sol_scope_policy": "disputes_only_v1",
   "carried_findings": {},
   "selection_explanation": "Only explicit unresolved reviewer issues need Sol adjudication. Risk flags, corrections, ordinary samples, duplicate-source groups and speaker groups do not trigger Sol. Known Sol repair findings are carried to standard repair without re-reading; exhausted or regressing repairs use the existing targeted Sol escalation route.",
-  "report_hash": "9fd45b7e96151cd0f55a21269b7d9e08d76f15a810ee52cee5f08a7ae08ddb33",
+  "report_hash": "16cecb6807d4c8b6f371e1f458637a5cfabff17df2eb83d96296eeee816431b4",
   "round_scope": [
     "R0004643_becb557068",
     "R0012694_ad9e6cdee7"

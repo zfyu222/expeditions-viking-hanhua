@@ -1,0 +1,93 @@
+{
+  "status": "passed",
+  "version": "1.4",
+  "in_game_test": "not_performed_by_explicit_user_instruction",
+  "official_sha256": "bcb10634df1ac8053408cae6492186a674a808982e4e85f3c05c2257a77f7a9b",
+  "repack_sha256": "cc6b6b089d987b58235a09e3fc39dfd2006a10c4469726e12945740ddb0523e0",
+  "assets_sha256": "307cb72ef9b5d1cc34dc2755ec226bdd72e49e154b940354195fd00f2aa3009b",
+  "original_sha256": "5ffb6e099860f06e325ffefd1784a074bf50c01074f856272c2d9084c3e9eba8",
+  "assets": [
+    {
+      "category": "dialogue",
+      "path_id": 9146,
+      "xml_sha256": "2d409fb2c758176387a300ba4c7f4232177e7b30e6bf2f0b9e12d6c2900a8642",
+      "byte_identical": true
+    },
+    {
+      "category": "gui",
+      "path_id": 9040,
+      "xml_sha256": "9274aed2ccbaf82b542421973ba0fe52adc3484c031a31cb228f8f0456f227df",
+      "byte_identical": true
+    },
+    {
+      "category": "homestead",
+      "path_id": 9063,
+      "xml_sha256": "1a7a3f9782c2b3955e2b495eb62d526ad4b2fd85663275a12f91e2b6ab5ae593",
+      "byte_identical": true
+    },
+    {
+      "category": "input",
+      "path_id": 9744,
+      "xml_sha256": "239bd66022ee4265630ff5d1ce8451185b605de3858a7a6bc24222b54c24fbcd",
+      "byte_identical": true
+    },
+    {
+      "category": "items",
+      "path_id": 9309,
+      "xml_sha256": "909cac325493461459aa2496575c259075d82fd5d1777929b74fe7c552826271",
+      "byte_identical": true
+    },
+    {
+      "category": "names",
+      "path_id": 9804,
+      "xml_sha256": "1a9ab3b6cf8b610c932e4f047006fa9d0f567b698fbdda6712218997fdb9abee",
+      "byte_identical": true
+    },
+    {
+      "category": "scenedata",
+      "path_id": 9795,
+      "xml_sha256": "7c61568d8a68a2f61481ab7c8e914f317c3218cc6952aeda96fd9a2315d5a899",
+      "byte_identical": true
+    },
+    {
+      "category": "skills",
+      "path_id": 9165,
+      "xml_sha256": "2ed2915a8cdc6f6322a408774cbf2d9d18172465509b1e9fe428ecd52af182b1",
+      "byte_identical": true
+    },
+    {
+      "category": "tutorial",
+      "path_id": 9799,
+      "xml_sha256": "28b1036324578cfc894740a3d331d921ece15ad43f53e829ba348430888227cb",
+      "byte_identical": true
+    }
+  ],
+  "records_checked": 23195,
+  "player_install": {
+    "passed": true,
+    "repeat_install_refused": true,
+    "backup_hash_verified": true,
+    "output_sha256": "307cb72ef9b5d1cc34dc2755ec226bdd72e49e154b940354195fd00f2aa3009b"
+  },
+  "payload_files": [
+    {
+      "path": "ReleasePayload/hpatchz.exe",
+      "game_path": "ZFY_Translation_Patch/hpatchz.exe",
+      "sha256": "9703c694b5955c576d9f0e26e98b60941f0bbb53b382b1f1988d75d461e580cb",
+      "size": 515072
+    },
+    {
+      "path": "ReleasePayload/resources.assets.hdiff",
+      "game_path": "ZFY_Translation_Patch/resources.assets.hdiff",
+      "sha256": "752ae8cabc57f7e6dff0d856212d993322789d1ffcc917f93cf335c5d75c36eb",
+      "size": 4961093
+    },
+    {
+      "path": "ReleasePayload/应用汉化补丁.bat",
+      "game_path": "ZFY_Translation_Patch/应用汉化补丁.bat",
+      "sha256": "3e5b68d6a6af1ebb073c5fdc1b98c7715ad9a83c259a78cebafa6402d8131037",
+      "size": 1364
+    }
+  ],
+  "evidence_folder": "TranslateFiles\\cache\\release_v14\\341c14678a384da0bf3995adfeff668c"
+}
