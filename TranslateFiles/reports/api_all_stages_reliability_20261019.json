@@ -1,0 +1,428 @@
+{
+  "status": "completed",
+  "scope": "Shared custom localization API: all active stages, repair and resume",
+  "scheduled_job": "02-30-api deleted at user request; development completed now",
+  "changes": [
+    "lossless bound integer refs for e/f/t namespaces; unknown/read-only/duplicate refs remain rejected",
+    "stage-specific format feedback; translation/extraction no longer told to return keep",
+    "exact reference boundaries and JSON parser-aligned diagnostic coordinates",
+    "resume preserves parsed output and known/unknown metadata, including legacy DB without session_id",
+    "invalid saved output reissue carries resume diagnostic within unchanged attempts and input budgets",
+    "request finish_reason and returned model also logged in performance profile"
+  ],
+  "coverage": [
+    {
+      "stage": "extract",
+      "real_requests": 1,
+      "stage_clean": false,
+      "format_feedback": "stage_specific_shared_retry",
+      "diagnostics": "shared_metadata_and_profile"
+    },
+    {
+      "stage": "glossary_review",
+      "real_requests": 1,
+      "stage_clean": false,
+      "format_feedback": "stage_specific_shared_retry",
+      "diagnostics": "shared_metadata_and_profile"
+    },
+    {
+      "stage": "pilot_translate",
+      "real_requests": 1,
+      "stage_clean": false,
+      "format_feedback": "stage_specific_shared_retry",
+      "diagnostics": "shared_metadata_and_profile"
+    },
+    {
+      "stage": "translate",
+      "real_requests": 1,
+      "stage_clean": false,
+      "format_feedback": "stage_specific_shared_retry",
+      "diagnostics": "shared_metadata_and_profile"
+    },
+    {
+      "stage": "draft_check",
+      "real_requests": 0,
+      "stage_clean": true,
+      "format_feedback": "stage_specific_shared_retry",
+      "diagnostics": "shared_metadata_and_profile"
+    },
+    {
+      "stage": "review",
+      "real_requests": 2,
+      "stage_clean": true,
+      "format_feedback": "stage_specific_shared_retry",
+      "diagnostics": "shared_metadata_and_profile"
+    },
+    {
+      "stage": "polish",
+      "real_requests": 1,
+      "stage_clean": false,
+      "format_feedback": "stage_specific_shared_retry",
+      "diagnostics": "shared_metadata_and_profile"
+    },
+    {
+      "stage": "final_review",
+      "real_requests": 3,
+      "stage_clean": true,
+      "format_feedback": "stage_specific_shared_retry",
+      "diagnostics": "shared_metadata_and_profile"
+    }
+  ],
+  "normalization_not_applicable": {
+    "extract": "analysis has no record IDs; evidence ordinals and semantic text remain unchanged"
+  },
+  "offline_validation": {
+    "contract_and_boundary_cases": 36,
+    "runner_transport_concurrency_parity_cases": 56,
+    "additional_resume_parity_check": 1,
+    "all_passed": true
+  },
+  "live_validation": {
+    "normal_stage_chain": {
+      "request_limit": 12,
+      "requests": [
+        {
+          "number": 1,
+          "usage": {
+            "prompt_tokens": 355,
+            "completion_tokens": 18,
+            "usage_reported": true,
+            "finish_reason": "stop",
+            "response_model": "deepseek-flash",
+            "total_tokens": 373,
+            "prompt_tokens_details": {
+              "audio_tokens": null,
+              "cache_write_tokens": null,
+              "cached_tokens": 0
+            }
+          }
+        },
+        {
+          "number": 2,
+          "usage": {
+            "prompt_tokens": 925,
+            "completion_tokens": 89,
+            "usage_reported": true,
+            "finish_reason": "stop",
+            "response_model": "deepseek-flash",
+            "total_tokens": 1014,
+            "prompt_tokens_details": {
+              "audio_tokens": null,
+              "cache_write_tokens": null,
+              "cached_tokens": 0
+            }
+          }
+        },
+        {
+          "number": 3,
+          "usage": {
+            "prompt_tokens": 840,
+            "completion_tokens": 53,
+            "usage_reported": true,
+            "finish_reason": "stop",
+            "response_model": "deepseek-flash",
+            "total_tokens": 893,
+            "prompt_tokens_details": {
+              "audio_tokens": null,
+              "cache_write_tokens": null,
+              "cached_tokens": 0
+            }
+          }
+        },
+        {
+          "number": 4,
+          "usage": {
+            "prompt_tokens": 966,
+            "completion_tokens": 68,
+            "usage_reported": true,
+            "finish_reason": "stop",
+            "response_model": "deepseek-flash",
+            "total_tokens": 1034,
+            "prompt_tokens_details": {
+              "audio_tokens": null,
+              "cache_write_tokens": null,
+              "cached_tokens": 128
+            }
+          }
+        },
+        {
+          "number": 5,
+          "usage": {
+            "prompt_tokens": 1353,
+            "completion_tokens": 597,
+            "usage_reported": true,
+            "finish_reason": "stop",
+            "response_model": "deepseek-flash",
+            "total_tokens": 1950,
+            "prompt_tokens_details": {
+              "audio_tokens": null,
+              "cache_write_tokens": null,
+              "cached_tokens": 768
+            }
+          }
+        },
+        {
+          "number": 6,
+          "usage": {
+            "prompt_tokens": 2260,
+            "completion_tokens": 438,
+            "usage_reported": true,
+            "finish_reason": "stop",
+            "response_model": "deepseek-flash",
+            "total_tokens": 2698,
+            "prompt_tokens_details": {
+              "audio_tokens": null,
+              "cache_write_tokens": null,
+              "cached_tokens": 768
+            }
+          }
+        },
+        {
+          "number": 7,
+          "usage": {
+            "prompt_tokens": 744,
+            "completion_tokens": 90,
+            "usage_reported": true,
+            "finish_reason": "stop",
+            "response_model": "deepseek-flash",
+            "total_tokens": 834,
+            "prompt_tokens_details": {
+              "audio_tokens": null,
+              "cache_write_tokens": null,
+              "cached_tokens": 0
+            }
+          }
+        },
+        {
+          "number": 8,
+          "usage": {
+            "prompt_tokens": 1345,
+            "completion_tokens": 613,
+            "usage_reported": true,
+            "finish_reason": "stop",
+            "response_model": "deepseek-flash",
+            "total_tokens": 1958,
+            "prompt_tokens_details": {
+              "audio_tokens": null,
+              "cache_write_tokens": null,
+              "cached_tokens": 0
+            }
+          }
+        },
+        {
+          "number": 9,
+          "usage": {
+            "prompt_tokens": 1630,
+            "completion_tokens": 202,
+            "usage_reported": true,
+            "finish_reason": "stop",
+            "response_model": "deepseek-flash",
+            "total_tokens": 1832,
+            "prompt_tokens_details": {
+              "audio_tokens": null,
+              "cache_write_tokens": null,
+              "cached_tokens": 768
+            }
+          }
+        },
+        {
+          "number": 10,
+          "usage": {
+            "prompt_tokens": 1637,
+            "completion_tokens": 232,
+            "usage_reported": true,
+            "finish_reason": "stop",
+            "response_model": "deepseek-flash",
+            "total_tokens": 1869,
+            "prompt_tokens_details": {
+              "audio_tokens": null,
+              "cache_write_tokens": null,
+              "cached_tokens": 768
+            }
+          }
+        }
+      ],
+      "stages": [
+        {
+          "accepted": 1,
+          "failed": 0,
+          "stage_clean": false,
+          "next_action": "main_workflow",
+          "needs_attention": [],
+          "pending_handoffs": [],
+          "stage": "extract",
+          "requests": 1
+        },
+        {
+          "accepted": 1,
+          "failed": 0,
+          "stage_clean": false,
+          "next_action": "main_workflow",
+          "needs_attention": [],
+          "pending_handoffs": [],
+          "stage": "glossary_review",
+          "requests": 1
+        },
+        {
+          "accepted": 1,
+          "failed": 0,
+          "stage_clean": false,
+          "next_action": "pilot-decide",
+          "needs_attention": [],
+          "pending_handoffs": [],
+          "stage": "pilot_translate",
+          "requests": 1
+        },
+        {
+          "accepted": 1,
+          "failed": 0,
+          "stage_clean": false,
+          "next_action": "draft_check",
+          "needs_attention": [],
+          "pending_handoffs": [],
+          "stage": "translate",
+          "requests": 1
+        },
+        {
+          "accepted": 0,
+          "failed": 0,
+          "stage_clean": true,
+          "next_action": "stage_complete",
+          "needs_attention": [],
+          "pending_handoffs": [],
+          "stage": "draft_check",
+          "requests": 0
+        },
+        {
+          "accepted": 2,
+          "failed": 0,
+          "stage_clean": true,
+          "next_action": "stage_complete",
+          "needs_attention": [],
+          "pending_handoffs": [],
+          "stage": "review",
+          "requests": 2
+        },
+        {
+          "accepted": 1,
+          "failed": 0,
+          "stage_clean": false,
+          "next_action": "main_workflow",
+          "needs_attention": [],
+          "pending_handoffs": [],
+          "stage": "polish",
+          "requests": 1
+        },
+        {
+          "accepted": 3,
+          "failed": 0,
+          "stage_clean": true,
+          "next_action": "stage_complete",
+          "needs_attention": [],
+          "pending_handoffs": [],
+          "stage": "final_review",
+          "requests": 3
+        }
+      ],
+      "frozen_glossary": {
+        "status": "frozen",
+        "glossary": {
+          "path": "glossary\\r1\\freeze_7658ac56\\built\\glossary_reviewed.json",
+          "hash": "5444871ab2d88e7b8fe0fbca7789061f5736563dafa6d64ddcbf40f90d9be74d",
+          "revision": 1
+        }
+      },
+      "pilot_report": {
+        "status": "awaiting_main",
+        "report_file": "D:\\StaticHanHua\\Tools\\localization\\verification\\api_reliability_all_stages_20261019\\Sample\\TranslateFiles\\reports\\pilot_calibration.json",
+        "report_hash": "89db1cee7c37bef74eb979b037e2e08e1f16d988182976fd8d3d4ad7abd0d021",
+        "assessment_template": "D:\\StaticHanHua\\Tools\\localization\\verification\\api_reliability_all_stages_20261019\\Sample\\TranslateFiles\\reports\\pilot_assessment.template.json",
+        "statistics": {
+          "sample_records": 3,
+          "translated_records": 3,
+          "mechanical_failed_records": 0,
+          "task_statuses": {
+            "done": 1
+          },
+          "api_request_statuses_cumulative": {
+            "received": 1
+          }
+        },
+        "next_action": "main_assessment",
+        "repair_tasks": []
+      },
+      "status": "completed",
+      "actual_usage": {
+        "prompt_tokens": 12055,
+        "completion_tokens": 2400,
+        "total_tokens": 14455,
+        "cached_prompt_tokens": 3200,
+        "reasoning_tokens": 0,
+        "reported_requests": 10,
+        "unknown_requests": 0
+      },
+      "production_project_unchanged": true
+    },
+    "resume_reissue": {
+      "status": "passed",
+      "source_session": "6d35f3547ad34784a9c35010e0b4d7ba",
+      "source_raw_sha256": "7168bccb05d75d47ea1163a4178b2764612e9c9c3ee8972f8ad9b41999adfdb9",
+      "fixture": "D:\\StaticHanHua\\Tools\\localization\\verification\\api_reliability_all_stages_20261019\\ResumeSampleWithPilotArchive",
+      "new_session": "e01eb600835f4a52a3555f0fdefc92d2",
+      "requests": 1,
+      "request_limit": 2,
+      "actual_usage": {
+        "prompt_tokens": 3691,
+        "completion_tokens": 4166,
+        "total_tokens": 7857,
+        "cached_prompt_tokens": 3328,
+        "reasoning_tokens": 0,
+        "reported_requests": 1,
+        "unknown_requests": 0
+      },
+      "feedback_present": true,
+      "original_raw_unchanged": true,
+      "accepted_batches": 1,
+      "failed_attempts": 0,
+      "semantic_scope": "candidate saved only; no full-round semantic acceptance",
+      "production_unchanged": true
+    },
+    "total_requests": 11,
+    "combined_reported_usage": {
+      "prompt_tokens": 15746,
+      "completion_tokens": 6566,
+      "total_tokens": 22312,
+      "cached_prompt_tokens": 6528,
+      "reasoning_tokens": 0,
+      "reported_requests": 11,
+      "unknown_requests": 0
+    }
+  },
+  "production": {
+    "revision": 17,
+    "review_tasks": {
+      "done": 146,
+      "pending": 1335
+    },
+    "saved_candidates": 2230,
+    "active_requests": 0,
+    "glossary_sha256": "8b1369e804c5c7f66803e0961da266077ff087a5ecc849b9e6806ece5c8b31a4",
+    "unchanged": true
+  },
+  "limits": [
+    "Small representative fixture validation does not guarantee models never violate schema or semantic evidence.",
+    "JSON object mode is verified for the configured service; unsupported providers still require explicit capability validation.",
+    "Semantic checks and round completion gates remain in force; resume validation saved a candidate, not a full semantic review."
+  ],
+  "code_sha256": {
+    "workflow_api_reliability.py": "0b9fffe3dba6b9075d7dde567d244dd198a41774a987f1c28d0dd18fd9364efd",
+    "workflow_api_transport.py": "2484ebf00381eb1f64c8425d7271f7c1c82ee5ae70d23e45f0bb4cafc0d71e11",
+    "workflow_task_contract.py": "361191aae65eab992ba7a56bac0f89756997a099dcaea0d6d22cef782d797579",
+    "workflow_batches.py": "3327f0aa4c1a2ab82193d11f6bf6f2a15438df4283782e5b4437b246d2cbdb4d",
+    "workflow_profile.py": "85b52f166b6c87443426941a38ca89b31b645d7b3626983c8ef3e3fe7417dd87",
+    "translation_workflow.py": "e9166e5ff16785029150e712ee6d56917b24d1c3ddd3a637a9965fc815909a00",
+    "ainiee_bridge.py": "78f38efea8f858f2c29f10e6d5efb52778389307d27ff7fabf694456a5b40726",
+    "verify_api_stage_reliability.py": "a4553f1da03d03177bf87bf516d968bafe8fb5727d8fa7accc4f05d4da58633e",
+    "test_api_reliability.py": "44246b2971b3cb228846897d2fa5fa935cf0f0c4d6bf6c4e9283ae5d50f6d9f0"
+  }
+}
