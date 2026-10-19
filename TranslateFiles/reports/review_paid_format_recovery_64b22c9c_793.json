@@ -1,0 +1,168 @@
+{
+  "status": "collected",
+  "backup": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\backups\\review_format_recovery_ec1548185f94461482a0b56118bba932",
+  "entries": [
+    {
+      "task_id": "review-r17-00793-fcb7508b",
+      "session_id": "77545a051d4a4523938d4e97a183cb26",
+      "actual_author": "api-review-70c9dfde98d342a792407e053ae4f03b",
+      "audit": {
+        "task_id": "review-r17-00793-fcb7508b",
+        "source_session_id": "77545a051d4a4523938d4e97a183cb26",
+        "source_instance_binding": "original API response from this exact session; no reassignment",
+        "actual_author": "api-review-70c9dfde98d342a792407e053ae4f03b",
+        "latest_session_id": "6760e70beef449189209e43ed4d388a0",
+        "selected_latest_session": false,
+        "selection_reason": "older paid response covers all 19 records and six redundant source fields exactly match record-bound term_refs; latest retry covers only 7 of 19 records and lacks keep/translation on one record",
+        "source_raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00793-fcb7508b\\handoffs\\77545a051d4a4523938d4e97a183cb26\\response.raw.txt",
+        "source_raw_sha256": "94965f23654a189fe1de840f179f967869af0812550acc9bfc138d3eb2d397e7",
+        "source_input_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00793-fcb7508b\\handoffs\\77545a051d4a4523938d4e97a183cb26\\input.md",
+        "source_input_sha256": "8917dd74444849bcd19b02b8971c1deb6020f39f747bcbf6677380555e8910e3",
+        "source_transport_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00793-fcb7508b\\handoffs\\77545a051d4a4523938d4e97a183cb26\\api_id_transport.v2.json",
+        "source_transport_sha256": "40cc78699e029b5f30b5bc6f8a10b470a3efa366d5016778d0362230445fb1c0",
+        "task_input_hash": "7d9f8da75f1556b4413cd903aeba98bb0ca0254fc84b84aade4d782220b94c6b",
+        "record_count": 19,
+        "short_ids": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19"
+        ],
+        "edits": [
+          {
+            "record_short_id": "7",
+            "record_id": "R0011866_97faab4f40",
+            "field": "exceptions",
+            "entry_index": 0,
+            "term_ref": "t5",
+            "removed_field": "source",
+            "removed_value": "His",
+            "bound_source": "His",
+            "reason": "source exactly duplicates this record's bound term_ref source; canonical transport restores the same source"
+          },
+          {
+            "record_short_id": "8",
+            "record_id": "R0011867_cb91cdf68e",
+            "field": "exceptions",
+            "entry_index": 0,
+            "term_ref": "t7",
+            "removed_field": "source",
+            "removed_value": "torch",
+            "bound_source": "torch",
+            "reason": "source exactly duplicates this record's bound term_ref source; canonical transport restores the same source"
+          },
+          {
+            "record_short_id": "11",
+            "record_id": "R0011870_d8dc0c2daf",
+            "field": "exceptions",
+            "entry_index": 0,
+            "term_ref": "t9",
+            "removed_field": "source",
+            "removed_value": "ready",
+            "bound_source": "ready",
+            "reason": "source exactly duplicates this record's bound term_ref source; canonical transport restores the same source"
+          },
+          {
+            "record_short_id": "14",
+            "record_id": "R0011873_a0effee1e2",
+            "field": "exceptions",
+            "entry_index": 0,
+            "term_ref": "t13",
+            "removed_field": "source",
+            "removed_value": "rest",
+            "bound_source": "rest",
+            "reason": "source exactly duplicates this record's bound term_ref source; canonical transport restores the same source"
+          },
+          {
+            "record_short_id": "15",
+            "record_id": "R0011874_e94f01ca64",
+            "field": "exceptions",
+            "entry_index": 0,
+            "term_ref": "t14",
+            "removed_field": "source",
+            "removed_value": "are",
+            "bound_source": "are",
+            "reason": "source exactly duplicates this record's bound term_ref source; canonical transport restores the same source"
+          },
+          {
+            "record_short_id": "15",
+            "record_id": "R0011874_e94f01ca64",
+            "field": "exceptions",
+            "entry_index": 1,
+            "term_ref": "t15",
+            "removed_field": "source",
+            "removed_value": "thing",
+            "bound_source": "thing",
+            "reason": "source exactly duplicates this record's bound term_ref source; canonical transport restores the same source"
+          }
+        ],
+        "validation": [
+          "JSON parsed",
+          "same task, lease token, input hash and scope across old and latest sessions",
+          "all 19 assigned short IDs covered once",
+          "all 19 records have explicit keep:true or translation and six nonempty checks",
+          "each removed source exactly equals its record-bound term_ref source",
+          "restoring only the six removed fields reproduces the original parsed response",
+          "canonical_api_result accepted original session binding and scope",
+          "no semantic fields synthesized"
+        ],
+        "recovered_sha256": "65dfb1ded1a55d31e6b455be4bd0604527f7b04ce8fb936e5660f6d05f1f1b7f"
+      },
+      "canonical_result": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00793-fcb7508b\\handoffs\\77545a051d4a4523938d4e97a183cb26\\result.format_recovered.canonical.json",
+      "prior_session_status": "superseded",
+      "prior_session_receipt": "{\"format_error\":true,\"reason\":\"invalid_model_result\",\"retry_session\":\"6760e70beef449189209e43ed4d388a0\",\"status\":\"superseded\"}",
+      "prior_lease_until": 1792380677.644888,
+      "preserved_attempt": 2
+    }
+  ],
+  "receipts": [
+    {
+      "status": "submitted",
+      "session_id": "77545a051d4a4523938d4e97a183cb26",
+      "task_id": "review-r17-00793-fcb7508b",
+      "records": 19,
+      "summary": {
+        "records": {
+          "translate": 23195
+        },
+        "tasks": {
+          "done": 1531,
+          "obsolete": 56,
+          "pending": 641
+        }
+      },
+      "quality": "review_saved; wait for the whole round before review-scan",
+      "remaining_round_batches": 641,
+      "next_action": "finish_current_round"
+    }
+  ],
+  "recovered_records": 19,
+  "api_history_unchanged": true,
+  "formal_records_unchanged": true,
+  "quality": "candidates_saved; not_semantic_acceptance",
+  "summary": {
+    "records": {
+      "translate": 23195
+    },
+    "tasks": {
+      "done": 1531,
+      "obsolete": 56,
+      "pending": 641
+    }
+  }
+}

@@ -1,0 +1,2 @@
+# Preserve exported delivery bytes and the SHA-256 recorded by the workflow.
+/expeditions-viking_text_translated.csv -text

@@ -1,0 +1,1425 @@
+{
+  "status": "collected",
+  "backup": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\backups\\review_format_recovery_1ecb7fae37ab4e308ed0b4dfb5f43ce5",
+  "entries": [
+    {
+      "task_id": "review-r17-01208-57d0d852",
+      "session_id": "9ecc3f78675149f4aba186f7f03ec290",
+      "actual_author": "api-review-ec374ca43b8c4400ac97645322f63782",
+      "audit": {
+        "task_id": "review-r17-01208-57d0d852",
+        "source_session_id": "9ecc3f78675149f4aba186f7f03ec290",
+        "source_instance_binding": "original API response from this exact session; no reassignment",
+        "latest_session_id": "9ecc3f78675149f4aba186f7f03ec290",
+        "selected_latest_session": true,
+        "selection_reason": "latest paid complete response; insert only missing JSON object closers; all original field values preserved",
+        "source_raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-01208-57d0d852\\handoffs\\9ecc3f78675149f4aba186f7f03ec290\\response.raw.txt",
+        "source_raw_sha256": "bf76095096eb475a73387514458f05780b5816fc3eea373c1c7e14742018352b",
+        "source_input_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-01208-57d0d852\\handoffs\\9ecc3f78675149f4aba186f7f03ec290\\input.md",
+        "source_input_sha256": "e6951f7b801b0d71c9152e213124ae28f7f031ae20701a9e86b1b4659e95acf2",
+        "source_transport_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-01208-57d0d852\\handoffs\\9ecc3f78675149f4aba186f7f03ec290\\api_id_transport.v2.json",
+        "source_transport_sha256": "3095d6a86146c5b10b0c5637cb129c7929613ee282f64189c824ab00c7ad563f",
+        "task_input_hash": "ed9ca7e50dda47ba615a48a66afc659ffb3285c547771967d58e76eaa41165e8",
+        "source_finish_reason": "stop",
+        "source_worker": "api-review-ec374ca43b8c4400ac97645322f63782",
+        "record_count": 22,
+        "short_ids": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "22"
+        ],
+        "recovered_sha256": "cda2adfc64bfea07d714dc4c41f5611f3a7f65ca0936de29f004f513e30f1c4c",
+        "edits": [
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 177,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 247,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 322,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 386,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 447,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 830,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 905,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 970,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 1037,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 1112,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 1477,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 1544,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 1632,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 1682,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 1757,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2044,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2102,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2168,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2220,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2273,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2658,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2719,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2785,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2838,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2891,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 3319,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 3382,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 3465,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 3515,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 3582,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 3896,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 3963,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4029,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4088,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4144,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4486,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4594,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4685,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4737,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4811,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5114,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5165,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5231,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5279,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5334,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5671,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5744,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5831,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5895,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5946,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 6604,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 6668,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 6757,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 6819,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 6895,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 7448,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 7519,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 7651,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 7710,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 7792,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 8231,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 8298,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 8360,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 8407,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 8465,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 8739,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 8794,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 8860,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 8907,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 8953,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 9313,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 9370,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 9435,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 9485,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 9547,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 9846,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 9900,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 9964,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 10009,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 10057,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 10384,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 10444,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 10510,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 10561,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 10623,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 11045,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 11107,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 11192,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 11250,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 11316,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 11772,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 11832,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 11930,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 11982,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 12045,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 12444,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 12503,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 12565,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 12613,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 12668,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 13037,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 13096,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 13162,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 13207,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 13278,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 13580,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 13639,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 13705,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 13755,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 13811,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          }
+        ]
+      },
+      "canonical_result": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-01208-57d0d852\\handoffs\\9ecc3f78675149f4aba186f7f03ec290\\result.format_recovered.canonical.json",
+      "prior_session_status": "waiting",
+      "prior_session_receipt": null,
+      "prior_lease_until": 1792383980.1311398,
+      "preserved_attempt": 2
+    },
+    {
+      "task_id": "review-r17-01314-2d960106-s7e0cbbe7",
+      "session_id": "30a264eda70648e29d27f4f07ae34448",
+      "actual_author": "api-review-d533516011a74fb09894922df42a983d",
+      "audit": {
+        "task_id": "review-r17-01314-2d960106-s7e0cbbe7",
+        "source_session_id": "30a264eda70648e29d27f4f07ae34448",
+        "source_instance_binding": "original API response from this exact session; no reassignment",
+        "latest_session_id": "30a264eda70648e29d27f4f07ae34448",
+        "selected_latest_session": true,
+        "selection_reason": "latest paid complete response; insert only missing JSON object closers; all original field values preserved",
+        "source_raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-01314-2d960106-s7e0cbbe7\\handoffs\\30a264eda70648e29d27f4f07ae34448\\response.raw.txt",
+        "source_raw_sha256": "27dc3bdf933c424026d2fae18ea92dba7fe67373e1d633b24a0f58fff303667f",
+        "source_input_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-01314-2d960106-s7e0cbbe7\\handoffs\\30a264eda70648e29d27f4f07ae34448\\input.md",
+        "source_input_sha256": "2be979f2a92d583ccb5382e9128ddf08c26f1c74c50120f673a8366cf4185f20",
+        "source_transport_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-01314-2d960106-s7e0cbbe7\\handoffs\\30a264eda70648e29d27f4f07ae34448\\api_id_transport.v2.json",
+        "source_transport_sha256": "d93bc9677bc94950feb8903322ac80dc1273c952c882a4e5caa503524acdb3e0",
+        "task_input_hash": "0ed25fc6cf2979ba63ca964b69361ab90660ccf53c1b541beadf03fc998f8d72",
+        "source_finish_reason": "stop",
+        "source_worker": "api-review-d533516011a74fb09894922df42a983d",
+        "record_count": 14,
+        "short_ids": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14"
+        ],
+        "recovered_sha256": "480c63dc75b890325f8de40016f7b4bb7d8dd62f885c59bffe9f4fae9d9bcbfc",
+        "edits": [
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2648,
+            "before": "",
+            "after": "}",
+            "reason": "Close checks object before changes"
+          }
+        ]
+      },
+      "canonical_result": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-01314-2d960106-s7e0cbbe7\\handoffs\\30a264eda70648e29d27f4f07ae34448\\result.format_recovered.canonical.json",
+      "prior_session_status": "waiting",
+      "prior_session_receipt": null,
+      "prior_lease_until": 1792384436.397954,
+      "preserved_attempt": 2
+    },
+    {
+      "task_id": "review-r17-01325-d3431c78-s91fb6310",
+      "session_id": "1d3564e04e0446a8a1ad7949c705073a",
+      "actual_author": "api-review-a4167f32efe54bd48391e6261ba96d02",
+      "audit": {
+        "task_id": "review-r17-01325-d3431c78-s91fb6310",
+        "source_session_id": "1d3564e04e0446a8a1ad7949c705073a",
+        "source_instance_binding": "original API response from this exact session; no reassignment",
+        "latest_session_id": "1d3564e04e0446a8a1ad7949c705073a",
+        "selected_latest_session": true,
+        "selection_reason": "latest paid complete response; insert only missing JSON object closers; all original field values preserved",
+        "source_raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-01325-d3431c78-s91fb6310\\handoffs\\1d3564e04e0446a8a1ad7949c705073a\\response.raw.txt",
+        "source_raw_sha256": "c8f579ddf42fba5abe21a8620e73d1239be8c96369d438fdf04c72de2874cc47",
+        "source_input_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-01325-d3431c78-s91fb6310\\handoffs\\1d3564e04e0446a8a1ad7949c705073a\\input.md",
+        "source_input_sha256": "de763b55b28394293fb7b047958837c7535fe390a0c9d37c0dd31fbd8b90a399",
+        "source_transport_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-01325-d3431c78-s91fb6310\\handoffs\\1d3564e04e0446a8a1ad7949c705073a\\api_id_transport.v2.json",
+        "source_transport_sha256": "3efe5095239e637fbecb16a9755056f8640d3a2654bcbb5c95c173e110771ede",
+        "task_input_hash": "123fb9110791775c34da6ade541e043c8d1416565df44461ae29ec46591ec002",
+        "source_finish_reason": "stop",
+        "source_worker": "api-review-a4167f32efe54bd48391e6261ba96d02",
+        "record_count": 10,
+        "short_ids": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "recovered_sha256": "dca968e2c7a104c0056081556bb276fa38f15eefe7805426bf26cc917c41310c",
+        "edits": [
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 455,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 556,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 672,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 735,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 806,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 925,
+            "before": "",
+            "after": "}",
+            "reason": "Close checks object before changes"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 1150,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 1211,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 1276,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 1326,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 1380,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 1448,
+            "before": "",
+            "after": "}",
+            "reason": "Close checks object before changes"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 1787,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 1860,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 1935,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 1985,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2085,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2153,
+            "before": "",
+            "after": "}",
+            "reason": "Close checks object before changes"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2365,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2420,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2505,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2561,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2610,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2695,
+            "before": "",
+            "after": "}",
+            "reason": "Close checks object before changes"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2872,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2931,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 2988,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 3044,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 3089,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 3144,
+            "before": "",
+            "after": "}",
+            "reason": "Close checks object before changes"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 3412,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 3473,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 3575,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 3625,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 3677,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 3792,
+            "before": "",
+            "after": "}",
+            "reason": "Close checks object before changes"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4001,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4064,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4131,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4180,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4225,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4284,
+            "before": "",
+            "after": "}",
+            "reason": "Close checks object before changes"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4465,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4525,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4586,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4642,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4691,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4751,
+            "before": "",
+            "after": "}",
+            "reason": "Close checks object before changes"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 4965,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5018,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5072,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5124,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5169,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5233,
+            "before": "",
+            "after": "}",
+            "reason": "Close checks object before changes"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5547,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5620,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5723,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5773,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5836,
+            "before": "",
+            "after": "}",
+            "reason": "Close prior check dimension before next check key"
+          },
+          {
+            "kind": "insert",
+            "character_offset_before_edit": 5935,
+            "before": "",
+            "after": "}",
+            "reason": "Close checks object before changes"
+          }
+        ]
+      },
+      "canonical_result": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-01325-d3431c78-s91fb6310\\handoffs\\1d3564e04e0446a8a1ad7949c705073a\\result.format_recovered.canonical.json",
+      "prior_session_status": "waiting",
+      "prior_session_receipt": null,
+      "prior_lease_until": 1792384515.6381974,
+      "preserved_attempt": 2
+    }
+  ],
+  "receipts": [
+    {
+      "status": "submitted",
+      "session_id": "9ecc3f78675149f4aba186f7f03ec290",
+      "task_id": "review-r17-01208-57d0d852",
+      "records": 22,
+      "summary": {
+        "records": {
+          "translate": 23195
+        },
+        "tasks": {
+          "done": 2019,
+          "obsolete": 56,
+          "pending": 149,
+          "running": 4
+        }
+      },
+      "quality": "review_saved; wait for the whole round before review-scan",
+      "remaining_round_batches": 153,
+      "next_action": "finish_current_round"
+    },
+    {
+      "status": "submitted",
+      "session_id": "30a264eda70648e29d27f4f07ae34448",
+      "task_id": "review-r17-01314-2d960106-s7e0cbbe7",
+      "records": 14,
+      "summary": {
+        "records": {
+          "translate": 23195
+        },
+        "tasks": {
+          "done": 2020,
+          "obsolete": 56,
+          "pending": 149,
+          "running": 3
+        }
+      },
+      "quality": "review_saved; wait for the whole round before review-scan",
+      "remaining_round_batches": 152,
+      "next_action": "finish_current_round"
+    },
+    {
+      "status": "submitted",
+      "session_id": "1d3564e04e0446a8a1ad7949c705073a",
+      "task_id": "review-r17-01325-d3431c78-s91fb6310",
+      "records": 10,
+      "summary": {
+        "records": {
+          "translate": 23195
+        },
+        "tasks": {
+          "done": 2021,
+          "obsolete": 56,
+          "pending": 149,
+          "running": 2
+        }
+      },
+      "quality": "review_saved; wait for the whole round before review-scan",
+      "remaining_round_batches": 151,
+      "next_action": "finish_current_round"
+    }
+  ],
+  "recovered_records": 46,
+  "api_history_unchanged": true,
+  "formal_records_unchanged": true,
+  "quality": "candidates_saved; not_semantic_acceptance",
+  "summary": {
+    "records": {
+      "translate": 23195
+    },
+    "tasks": {
+      "done": 2021,
+      "obsolete": 56,
+      "pending": 149,
+      "running": 2
+    }
+  }
+}

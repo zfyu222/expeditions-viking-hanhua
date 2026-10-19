@@ -1,0 +1,574 @@
+{
+  "schema": 2,
+  "kind": "final",
+  "pilot_key": "ce9124d76590faa808cfe31909887d4e8a69877e3d03ad72587e0e4973628fca",
+  "source_sha256": "7d05511f1e62468e65b9f379d613789939c9b4bc6100b040310341bab5c60eb8",
+  "glossary": {
+    "hash": "8b1369e804c5c7f66803e0961da266077ff087a5ecc849b9e6806ece5c8b31a4",
+    "path": "glossary\\r8\\freeze_731eced6\\built\\glossary_reviewed.json",
+    "revision": 8
+  },
+  "snapshot_hash": "beb8bb15d76723eba94474a2ff87597ee85a3752cccd9e517d9c0371398a2905",
+  "coverage": {
+    "records": 23195,
+    "text_types": {
+      "unknown": 23195
+    },
+    "missing_context": 23195,
+    "risk_records": 16791,
+    "ordinary_sample": 0,
+    "sol_records": 40
+  },
+  "risk_detection": "Heuristic candidates plus reviewer findings; absence of flags is not proof of correctness.",
+  "records_to_check": [
+    {
+      "id": "R0004643_becb557068",
+      "ordinal": 4643,
+      "source": "Waltheof, tax collector, absent for his court trial. Last seen in Scarborough. Reward: 1100 Valuables alive, 600 dead.",
+      "translation": "沃尔西奥夫，税吏，缺席了自己的法庭审判。最后现身于斯卡伯勒。赏金：活捉1100贵重物品，死亡600贵重物品。",
+      "metadata": {},
+      "risk_reasons": [
+        "numbers",
+        "term_exception",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-round-b27bae2958b24077",
+        "instance": "api-review-81405bf4207d458f96b8235e68de3970",
+        "stage": "review",
+        "before": "沃尔西奥夫，税吏，因法庭审判缺席。最后现身于斯卡伯勒。赏金：活捉1100贵重物品，死者600。",
+        "translation": "沃尔西奥夫，税吏，缺席了自己的法庭审判。最后现身于斯卡伯勒。赏金：活捉1100贵重物品，死亡600贵重物品。",
+        "changes": [
+          {
+            "after": "沃尔西奥夫，税吏，缺席了自己的法庭审判。最后现身于斯卡伯勒。赏金：活捉1100贵重物品，死亡600贵重物品。",
+            "before": "沃尔西奥夫，税吏，因法庭审判缺席。最后现身于斯卡伯勒。赏金：活捉1100贵重物品，死者600。",
+            "category": "accuracy",
+            "reason": "原译“因法庭审判缺席”把缺席原因误作审判；改为“缺席自己的法庭审判”，明确其未出席审判。",
+            "severity": "major",
+            "source_excerpt": "absent for his court trial"
+          },
+          {
+            "after": "沃尔西奥夫，税吏，缺席了自己的法庭审判。最后现身于斯卡伯勒。赏金：活捉1100贵重物品，死亡600贵重物品。",
+            "before": "沃尔西奥夫，税吏，因法庭审判缺席。最后现身于斯卡伯勒。赏金：活捉1100贵重物品，死者600。",
+            "category": "logic",
+            "reason": "明确活捉奖励1100贵重物品、死亡状态奖励600贵重物品，修正对象与单位关系。",
+            "severity": "major",
+            "source_excerpt": "Reward: 1100 Valuables alive, 600 dead."
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "原文 absent for his court trial 意为缺席自己的法庭审判，原译“因法庭审判缺席”因果颠倒；现改为“缺席自己的法庭审判”。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "原文四类信息（姓名职业、缺席审判、最后地点、赏金）均已译出；赏金两档现明确为活捉1100、死亡600贵重物品。",
+            "status": "corrected"
+          },
+          "logic": {
+            "evidence": "原译“赏金：活捉1100贵重物品，死者600”使贵重物品成活捉对象且第二档缺单位；现明确活捉奖励1100贵重物品、死亡状态奖励600贵重物品，两档数额与单位一一对应。",
+            "status": "corrected"
+          },
+          "placeholders": {
+            "evidence": "原文无占位符、变量或标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "Waltheof 译沃尔西奥夫、Scarborough 译斯卡伯勒、Valuables 译贵重物品；court 本句为普通法律名词“法庭”，不套术语“王廷”。",
+            "status": "corrected"
+          },
+          "tone": {
+            "evidence": "通缉告示式短句，现代简体清楚，符合原文简练口气。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "原句 absent for his court trial 指缺席自己的法庭审判，court 为普通法律名词而非王室王廷，故保留“法庭”译法。",
+            "source": "court"
+          }
+        ],
+        "id": "R0004643_becb557068",
+        "issues": [
+          {
+            "reason": "court 在本句为普通法律名词“法庭/审判”，不套术语 t2“王廷”。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "诊断指出的两处问题确实存在：一是“因法庭审判缺席”把缺席原因误写成审判，原文是缺席自己的法庭审判；二是赏金结构不清，应明确活捉与死亡两档各为1100与600贵重物品。已按此修正，保留沃尔西奥夫、税吏、斯卡伯勒译名，court 在此为普通法律名词“法庭”，不套“王廷”。",
+        "reviewed": true,
+        "source_excerpt": "Waltheof, tax collector, absent for his court trial. Last seen in Scarborough. Reward: 1100 Valuables alive, 600 dead."
+      }
+    },
+    {
+      "id": "R0012694_ad9e6cdee7",
+      "ordinal": 12694,
+      "source": "There is another outbreak of cheers and applause. Presently, Æthelred starts down his list of allies, laying out with great praise the contributions of ealdormen, soon-to-be ealdormen, gerefas and soon-to-be gerefas, until at last he reaches you.",
+      "translation": "又是一阵欢呼和掌声。随后，埃塞尔雷德开始念他的盟友名单，盛赞郡长、准郡长、执事、准执事的功绩，最后终于轮到了你。",
+      "metadata": {},
+      "risk_reasons": [
+        "conditions",
+        "term_exception",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-round-b27bae2958b24077",
+        "instance": "api-review-81405bf4207d458f96b8235e68de3970",
+        "stage": "review",
+        "before": "又是一阵欢呼和掌声。随后，埃塞尔雷德开始念他的盟友名单，盛赞郡长、准郡长、郡长、准郡长的功绩，最后终于轮到了你。",
+        "translation": "又是一阵欢呼和掌声。随后，埃塞尔雷德开始念他的盟友名单，盛赞郡长、准郡长、执事、准执事的功绩，最后终于轮到了你。",
+        "changes": [
+          {
+            "after": "又是一阵欢呼和掌声。随后，埃塞尔雷德开始念他的盟友名单，盛赞郡长、准郡长、执事、准执事的功绩，最后终于轮到了你。",
+            "before": "又是一阵欢呼和掌声。随后，埃塞尔雷德开始念他的盟友名单，盛赞郡长、准郡长、郡长、准郡长的功绩，最后终于轮到了你。",
+            "category": "terminology",
+            "reason": "gerefas 与 ealdormen 术语均作“郡长”，同句并列重复致指称混淆；gerefas 组改用语境词“执事/准执事”以区分，不新增全局术语。",
+            "severity": "major",
+            "source_excerpt": "ealdormen, soon-to-be ealdormen, gerefas and soon-to-be gerefas"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "原文并列 ealdormen、soon-to-be ealdormen、gerefas、soon-to-be gerefas 四类；现分别译“郡长、准郡长、执事、准执事”，四类可区分。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "四类称谓及各自的“准任”状态全部译出，顺序与原文一致，均作“盛赞其功绩”的宾语。",
+            "status": "corrected"
+          },
+          "logic": {
+            "evidence": "修正后四类人并列关系清楚，不再因两个名称相同而压缩成两类。",
+            "status": "corrected"
+          },
+          "placeholders": {
+            "evidence": "原文无占位符、变量或标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "Æthelred 译埃塞尔雷德；ealdormen 用术语“郡长”；gerefas 术语亦作“郡长”，同句连列会重复，故用语境区分词“执事”，并返回术语例外说明。",
+            "status": "corrected"
+          },
+          "tone": {
+            "evidence": "叙述庄重、列举节奏保留，符合宫廷仪式口吻。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "原句 gerefas 与 ealdormen 并列列举，若都用“郡长”会使四类称谓压缩为重复两类；此处 gerefas 按职能语境译“执事”，以保留可区分指称，故不套用“郡长”。",
+            "source": "gerefas"
+          }
+        ],
+        "id": "R0012694_ad9e6cdee7",
+        "issues": [
+          {
+            "reason": "术语表 t7 与 t8 译名相同，同句并列列举时无法区分四类人，已用语境区分词处理并登记例外。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "诊断指出四类称谓被压缩成“郡长、准郡长”重复两次，无法区分 ealdormen 与 gerefas。术语表将两者都定为“郡长”，同句并列须保留可区分指称；在不新增全局术语的前提下，将 gerefas 一组用其职能语境词“执事”区分，保留 ealdormen=郡长、soon-to-be=准，并维持原文顺序与“盛赞功绩”关系。",
+        "reviewed": true,
+        "source_excerpt": "laying out with great praise the contributions of ealdormen, soon-to-be ealdormen, gerefas and soon-to-be gerefas"
+      }
+    }
+  ],
+  "consistency": [],
+  "glossary_checks": [],
+  "pilot_batch_summaries": {},
+  "check_signatures": {
+    "R0000043_4fcf8a0ccd": "f896c670bedd41cc8af35ea2340cff895300e191379dd674485417b23a60b87e",
+    "R0000056_96a1786785": "97363c930283db7e7ac78e289ce24e378cbbde72b497b56c80594fa493af6c43",
+    "R0000256_22d6702e5e": "778887808a32508c2b2ff836626fb317f2564572f52f7ad9462ca9ea6a6c95bf",
+    "R0000381_99faa4445e": "aee2b702ff564d72e670b96820d78839d41705e32e5bb964614e3d5da1ef38c0",
+    "R0000644_b07ce61af5": "a8b261ef620d214b1be3acec33b9da2696801780cd4a816db9efe38d3e718773",
+    "R0001135_ca4af7e742": "a3b029fc317c37d23840ef53466f58b234666526ae4379fe41d8c51c58e7c341",
+    "R0001151_b5988fa053": "43ccca7953d6cf279d7d9fe55d1ca4d8d6a16b14d2f469ca594195065222be68",
+    "R0001408_2f3eab1e64": "44bb8b83cc1ddd5e4a5e797421d370e893aec8a3a9711da82718633495cfb7ef",
+    "R0001483_5f005efd01": "86e4291c7cb1e02164714396996741547ce8ae670b7f58b4361d6a6bfe1e1a8c",
+    "R0001487_e5ded18005": "b9bc09ef23abea2a041c68b5e195a8080dcf617f20fcb5a4363b122086be3e28",
+    "R0003848_2262390e84": "039548f7d582399cd25a7d4a8791a9eaa0cf256c8c54a7856cb3d4cb7f9da40f",
+    "R0004643_becb557068": "f627e11bff614a5f6336f8a5b9bb48e67941712349a335604ee741d7edfdb198",
+    "R0004677_ea60874368": "d2904dd0f66bbd9f80fb04c219bed6d897d6b9e316dc43274d39f4f9aa7e43ba",
+    "R0005703_f4f73c4560": "a08bbe09b954e6937956c308c12abd886a4ea1c381f61402d66690d6f1a10aa8",
+    "R0005902_8fd933e0fb": "d8478ab98cb6f6fbe04540c522dd355578faa93cb1c7547273919217e52f1d7b",
+    "R0006400_2533c8720f": "3c141d638326f748a0d961ed89223616efa8023a418dd01660204b90cfbf7310",
+    "R0007231_3bd83f42c9": "2ce02081538517d36120f75c9747d41f52648adbde03d2432c912b3b1ecdd8cf",
+    "R0007232_27094d479b": "5b9ebd4f16c9448496182b72e2168d484da148eaa31bca0241f7427f5a374b9b",
+    "R0007630_34828bea04": "c636d21ca0e461ff6d641374609c0b4c4513d9df0686349f1c6c5b9a94ec2924",
+    "R0008955_19a574564f": "4570ce61082c101f1933b9b5d726e0ac908af0007a511c686d2aad1f6785597c",
+    "R0009244_a019c6a5be": "a1ac0af9fb50c3857ff6b77863d4709938dd457bddfd3a131b2af8ee8da85381",
+    "R0009268_47cc7afb19": "c6607016df855bf1834548efbbe08f9a9f48f6a3619ecff346bff02903e60794",
+    "R0009500_e39a91385a": "33ff6a06f962572ae55891e2a50c824d89089615bd57d0ce5ffc1e3c93ff6feb",
+    "R0009526_053bc51d1d": "4c3e9d6b826b44b0ff331217c0b3ca9cbc0d37040b38419a65f6219857397c08",
+    "R0010069_78d9858523": "e70b8c4858b4d70906c7308fb0d1b61d6684b40f581a42348d48e077c790e916",
+    "R0010388_223c3329ff": "1e9ec298cc55519d4e2944adefc7a2d3f0858a6dc84dcaeed3971547b6f72f3b",
+    "R0012271_76693f773d": "8e26c7ba509fbdecbc4e378228d42485955273e0b245640c7b4d38b083b32274",
+    "R0012694_ad9e6cdee7": "fecf44a2e9829ab8e0f132d389863aabeb914a264a70d25a5d05f4cd4fbd16a6",
+    "R0013303_b2b177841e": "655d598b44990fc68f6fe061033624c30b80a9339ad294f8d5302e074f1935a8",
+    "R0013811_7eb542abd4": "a1e3ef52d8061fe1e72332ea7550652774f834af7893f96599e4643a81abd1df",
+    "R0015107_0414ce3dab": "60d38b19c53fc7e92bf9dc2d41fb08f14ea6e3868d5fa2f757abd1f1a1a0eb8d",
+    "R0015808_52e5e5160a": "7de1290fd2bff8baa8fe66d4e658b92e598d493a9f94c2c15257efb2a2fe9523",
+    "R0016690_82e037486d": "315e6fa8e46fab8e10ef9a3de47398ee5be1f75c0d7fb128940bdb3b2b920357",
+    "R0017147_2de23cba76": "eadd687624a4689b554d9b6bbaeef9a8a0e886aa0cccad2980de6b48dd4a6292",
+    "R0017558_d7f333455b": "087f64793b6186c7af63b7a4fd1ca3e6da910b34cc89d433e8faa7791b0232cb",
+    "R0018264_fc0cead31c": "bd966c260c164ac9dbedb5673cfb044d27871174cb96b7a794b42580b5a026ce",
+    "R0019826_f831a06b4f": "f0463d80ef5eb66847d4dafa67b97dd37862b1245aa74537fea469afb3b55d81",
+    "R0020516_88d0ad16f2": "397e4f209627d4c7f122ee3a44463b0a77268b5a8867b359ee6632639aa00f92",
+    "R0022222_75a692785f": "351575940a51a6e083dde055222cf2bd40d2980bc43c07bb672b7228c1f9a721",
+    "R0022778_23101f060f": "48e0057f062f24edc844e5fcca2f944ef943047d72f8837db0e18e2e05d89567"
+  },
+  "reused_decisions": {
+    "R0000043_4fcf8a0ccd": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0000043_4fcf8a0ccd",
+        "reason": "原文 just fine 表示‘照样/顺利’，不是人名；当前译文已删除无依据的‘芬妮’，条件关系和回程含义完整。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "f896c670bedd41cc8af35ea2340cff895300e191379dd674485417b23a60b87e"
+    },
+    "R0000056_96a1786785": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0000056_96a1786785",
+        "reason": "原文 him and his 指他及其所属的人，未限定为同伴；当前‘他和他的那些人’已保留模糊指代，吃喝的否定也完整。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "97363c930283db7e7ac78e289ce24e378cbbde72b497b56c80594fa493af6c43"
+    },
+    "R0000256_22d6702e5e": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0000256_22d6702e5e",
+        "reason": "Cured 修饰 Armour，是护甲材料的处理语境；当前‘鞣制护甲’已消除‘已治愈护甲’的误读，并记录术语例外。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "778887808a32508c2b2ff836626fb317f2564572f52f7ad9462ca9ea6a6c95bf"
+    },
+    "R0000381_99faa4445e": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0000381_99faa4445e",
+        "reason": "句首 Fine. 是独立感叹词；当前‘好吧’已消除误作人名‘芬妮’的问题，后句含义完整。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "aee2b702ff564d72e670b96820d78839d41705e32e5bb964614e3d5da1ef38c0"
+    },
+    "R0000644_b07ce61af5": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0000644_b07ce61af5",
+        "reason": "原文 enlisting your help 指争取对方帮助；当前译文已译为‘争取到你们的帮助’，没有遗留英文或漏译。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "a8b261ef620d214b1be3acec33b9da2696801780cd4a816db9efe38d3e718773"
+    },
+    "R0001135_ca4af7e742": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0001135_ca4af7e742",
+        "reason": "Tomb Raider 作为标题须体现 Tomb；当前‘盗墓者’已完整表达组合词义，Raider 的单词术语不应机械套入。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "a3b029fc317c37d23840ef53466f58b234666526ae4379fe41d8c51c58e7c341"
+    },
+    "R0001151_b5988fa053": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0001151_b5988fa053",
+        "reason": "原文 This spruce 及 Its wood 明示树木和木材；当前‘这棵云杉’已纠正误套船名‘云杉号’的问题。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "43ccca7953d6cf279d7d9fe55d1ca4d8d6a16b14d2f469ca594195065222be68"
+    },
+    "R0001408_2f3eab1e64": {
+      "decision": {
+        "disposition": "contextual",
+        "id": "R0001408_2f3eab1e64",
+        "reason": "I really don't. 省略承接上文的动词；本包未提供前句，无法断定省略的是 know、have 等何种动作。当前‘我真的不知道’是可能的口语承接，但需在取得直接前文后才可裁定是否改动，不能仅凭孤句返修。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "44bb8b83cc1ddd5e4a5e797421d370e893aec8a3a9711da82718633495cfb7ef"
+    },
+    "R0001483_5f005efd01": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0001483_5f005efd01",
+        "reason": "Morcant's gaze turns inwards 中 turns 是动词；当前‘目光转向内心’已消除误套‘回合’的错误。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "86e4291c7cb1e02164714396996741547ce8ae670b7f58b4361d6a6bfe1e1a8c"
+    },
+    "R0001487_e5ded18005": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0001487_e5ded18005",
+        "reason": "my father 明确是亲属称谓；当前‘我父亲’已纠正误译为‘神父’的人物关系错误，旧 review 的‘仍保留错误’描述与当前译文不符。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "b9bc09ef23abea2a041c68b5e195a8080dcf617f20fcb5a4363b122086be3e28"
+    },
+    "R0003848_2262390e84": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0003848_2262390e84",
+        "reason": "当前译文已有‘国王西居尔德·环王’，原 issue 所指缺少‘国王’造成的歧义已消除；本轮不因领主称谓的偏好再返修。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "039548f7d582399cd25a7d4a8791a9eaa0cf256c8c54a7856cb3d4cb7f9da40f"
+    },
+    "R0004677_ea60874368": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0004677_ea60874368",
+        "reason": "原文保护标记为 {Kill him.}；当前译文逐字保留，先前译成中文的问题已修正。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "d2904dd0f66bbd9f80fb04c219bed6d897d6b9e316dc43274d39f4f9aa7e43ba"
+    },
+    "R0005703_f4f73c4560": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0005703_f4f73c4560",
+        "reason": "the last of your kind who came to us 已由‘上一个来我们这儿的你那类人’表达，raiders 也已译出；措辞稍拗口但没有明确指代或数量错误，不以同义偏好返修。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "a08bbe09b954e6937956c308c12abd886a4ea1c381f61402d66690d6f1a10aa8"
+    },
+    "R0005902_8fd933e0fb": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0005902_8fd933e0fb",
+        "reason": "it's a lighter material 明示 spruce 是造船材料；当前‘云杉木’已消除误作船名的问题，术语例外亦有说明。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "d8478ab98cb6f6fbe04540c522dd355578faa93cb1c7547273919217e52f1d7b"
+    },
+    "R0006400_2533c8720f": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0006400_2533c8720f",
+        "reason": "strong connections 和 always be more goods 的要义已保留；‘联系紧密’与‘来源总会有更多货物’仅是可读性偏好，无明确语义错误，不返修。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "3c141d638326f748a0d961ed89223616efa8023a418dd01660204b90cfbf7310"
+    },
+    "R0007231_3bd83f42c9": {
+      "decision": {
+        "disposition": "contextual",
+        "id": "R0007231_3bd83f42c9",
+        "reason": "his apprentice 中 his 是普通领属代词，当前‘他的学徒’准确；冻结术语 His 的‘保留原文’不适用于此句。review 建议补充例外说明，但没有译文错误或需要改写的文本；记录语境判断即可。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "2ce02081538517d36120f75c9747d41f52648adbde03d2432c912b3b1ecdd8cf"
+    },
+    "R0007232_27094d479b": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0007232_27094d479b",
+        "reason": "原 issue 是 review 的 source_excerpt 曾误引他句；当前摘录已对应本条 mead 与 spit 原文，译文无需因元数据旧错返修。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "5b9ebd4f16c9448496182b72e2168d484da148eaa31bca0241f7427f5a374b9b"
+    },
+    "R0007630_34828bea04": {
+      "decision": {
+        "disposition": "contextual",
+        "id": "R0007630_34828bea04",
+        "reason": "源文先说 Let us gather our things，随后说 let us know who to follow，本身在两个 us 的施事和受事之间切换。现译保留了收拾物品及告知跟随对象两项信息；仅凭本句不能认定需把第二个 us 改为其他人称。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "c636d21ca0e461ff6d641374609c0b4c4513d9df0686349f1c6c5b9a94ec2924"
+    },
+    "R0008955_19a574564f": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0008955_19a574564f",
+        "reason": "Father would be furious if I let anyone in 中 Father 是说话人的父亲；当前译文已由旧译‘神父’改为‘父亲’，亲属关系问题已消除。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "4570ce61082c101f1933b9b5d726e0ac908af0007a511c686d2aad1f6785597c"
+    },
+    "R0009244_a019c6a5be": {
+      "decision": {
+        "disposition": "contextual",
+        "id": "R0009244_a019c6a5be",
+        "reason": "源文 if the village 位于 young men and women 与 a thing or two about combat 之间，语法不通，按 in the village 的显然笔误理解为‘村里的’合理；当前译文传达教村中青年战斗本事，无需因原文拼写返修。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "a1ac0af9fb50c3857ff6b77863d4709938dd457bddfd3a131b2af8ee8da85381"
+    },
+    "R0009268_47cc7afb19": {
+      "decision": {
+        "disposition": "contextual",
+        "id": "R0009268_47cc7afb19",
+        "reason": "Your have our word 语法异常，按 You have our word 理解为作出承诺合理；当前译文‘那我们就说定了，别来烦我们’保留了承诺和 leave us be 的要求，原文疑似拼写错误不构成译文返修。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "c6607016df855bf1834548efbbe08f9a9f48f6a3619ecff346bff02903e60794"
+    },
+    "R0009500_e39a91385a": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0009500_e39a91385a",
+        "reason": "break into any local home 与 rich bounty of offer 指屋内可能取得的丰厚财物，当前译文已将旧译‘赏金任务’改为‘一笔丰厚的财物’，语境例外已正确落实。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "33ff6a06f962572ae55891e2a50c824d89089615bd57d0ce5ffc1e3c93ff6feb"
+    },
+    "R0009526_053bc51d1d": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0009526_053bc51d1d",
+        "reason": "源文 it 为单数且指代略有歧义；当前译文已将旧译‘它’改为‘这东西’，保留单件物品的指向，不再机械承接前句复数财物。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "4c3e9d6b826b44b0ff331217c0b3ca9cbc0d37040b38419a65f6219857397c08"
+    },
+    "R0010069_78d9858523": {
+      "decision": {
+        "disposition": "contextual",
+        "id": "R0010069_78d9858523",
+        "reason": "Eadig, thec to metenne. 是异于常规英语的古语式短句；本包没有游戏内字幕、对白或仪式语境证据来判定它是否应保留原文。当前完整保留该异语，暂按语境例外接受，不据猜测强制意译。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "e70b8c4858b4d70906c7308fb0d1b61d6684b40f581a42348d48e077c790e916"
+    },
+    "R0010388_223c3329ff": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0010388_223c3329ff",
+        "reason": "his court 中 his 是指 Caustantin 的普通物主代词；当前译文已把旧译残留的 His 改成‘他的’，未译代词问题已消除。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "1e9ec298cc55519d4e2944adefc7a2d3f0858a6dc84dcaeed3971547b6f72f3b"
+    },
+    "R0012271_76693f773d": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0012271_76693f773d",
+        "reason": "His eyes never leave you 中 His 是普通物主代词；当前‘他的目光始终没有离开你’准确表达，不适用保留原文的标记术语。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "8e26c7ba509fbdecbc4e378228d42485955273e0b245640c7b4d38b083b32274"
+    },
+    "R0013303_b2b177841e": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0013303_b2b177841e",
+        "reason": "Pine is not the most obvious choice for a longship 后续用 strong and flexible 描述造船材料；当前‘松木’正确，旧译船名‘松木号’已消除，此处应按材料语境例外处理。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "655d598b44990fc68f6fe061033624c30b80a9339ad294f8d5302e074f1935a8"
+    },
+    "R0013811_7eb542abd4": {
+      "decision": {
+        "disposition": "contextual",
+        "id": "R0013811_7eb542abd4",
+        "reason": "源文 the lofty high pasture of both horns 是晦涩的比喻性名词片段，未明示移动到双角之间；当前译文已移除旧译所增‘跃向’动作，并保留片段性意象。缺少诗歌上下文，不以同义润色继续返修。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "a1e3ef52d8061fe1e72332ea7550652774f834af7893f96599e4643a81abd1df"
+    },
+    "R0015107_0414ce3dab": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0015107_0414ce3dab",
+        "reason": "源文并列 ealdormen 与 gerefas 两种头衔；当前译文已由重复‘郡长、郡长’改为‘郡长、地方官’，读者能够区分，旧问题已解决。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "60d38b19c53fc7e92bf9dc2d41fb08f14ea6e3868d5fa2f757abd1f1a1a0eb8d"
+    },
+    "R0015808_52e5e5160a": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0015808_52e5e5160a",
+        "reason": "Your father、his father 及 Your father never used it 均为亲属称谓；当前相关位置已由‘神父’改为‘父亲’或‘父辈’，继承链和否定信息正确。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "7de1290fd2bff8baa8fe66d4e658b92e598d493a9f94c2c15257efb2a2fe9523"
+    },
+    "R0016690_82e037486d": {
+      "decision": {
+        "disposition": "contextual",
+        "id": "R0016690_82e037486d",
+        "reason": "less experiences swimmers 显然是 less experienced swimmers 的原文形态错误；当前‘经验较少的游泳者’传达既定意思，且保留未耗尽空气的结果，原文错误不需向译文传递。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "315e6fa8e46fab8e10ef9a3de47398ee5be1f75c0d7fb128940bdb3b2b920357"
+    },
+    "R0017147_2de23cba76": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0017147_2de23cba76",
+        "reason": "Your sister 未标明长幼；当前译文已把旧译‘姐姐’改为不指定长幼的‘姐妹’，原先无依据添加年龄关系的问题已消除。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "eadd687624a4689b554d9b6bbaeef9a8a0e886aa0cccad2980de6b48dd4a6292"
+    },
+    "R0017558_d7f333455b": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0017558_d7f333455b",
+        "reason": "liability 指负担或累赘；当前译文已由旧译‘靠不住’改为‘累赘’，并与‘没有他，事情会简单得多’形成原文因果，词义争议已消除。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "087f64793b6186c7af63b7a4fd1ca3e6da910b34cc89d433e8faa7791b0232cb"
+    },
+    "R0018264_fc0cead31c": {
+      "decision": {
+        "disposition": "contextual",
+        "id": "R0018264_fc0cead31c",
+        "reason": "原文 spilling sick 中 sick 是普通名词‘呕吐物’，不是人名；现译‘吐出一滩恶臭的胆汁和残渣’已呈现呕吐动作和污物画面。原文重复 and 属笔误；现译未遗漏必须单列的语义。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "bd966c260c164ac9dbedb5673cfb044d27871174cb96b7a794b42580b5a026ce"
+    },
+    "R0019826_f831a06b4f": {
+      "decision": {
+        "disposition": "contextual",
+        "id": "R0019826_f831a06b4f",
+        "reason": "本条 Arms 据审校提供的 Torso、Legs 并列语境指身体部位；当前‘手臂’已消除原译‘武器’的词义错误。武器栏术语在此不适用。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "f0463d80ef5eb66847d4dafa67b97dd37862b1245aa74537fea469afb3b55d81"
+    },
+    "R0020516_88d0ad16f2": {
+      "decision": {
+        "disposition": "contextual",
+        "id": "R0020516_88d0ad16f2",
+        "reason": "原文 This fine bow 中 fine 修饰 bow，意为精良；the wood of an elm tree 指榆木。当前译文‘精良的弓’‘榆木’均准确，原译‘芬妮弓’的误认已修正，专名术语不适用。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "397e4f209627d4c7f122ee3a44463b0a77268b5a8867b359ee6632639aa00f92"
+    },
+    "R0022222_75a692785f": {
+      "decision": {
+        "disposition": "contextual",
+        "id": "R0022222_75a692785f",
+        "reason": "原文 Sicga's bounty for the pagan 表示西格加针对异教徒设下的赏金；当前译文保留出资者、悬赏对象及领取动作。‘悬赏异教徒的赏金’稍绕，但不足以认定关系颠倒或要求同义改写；bounty 在此按赏金语境处理。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "351575940a51a6e083dde055222cf2bd40d2980bc43c07bb672b7228c1f9a721"
+    },
+    "R0022778_23101f060f": {
+      "decision": {
+        "disposition": "pass",
+        "id": "R0022778_23101f060f",
+        "reason": "当前译文已将 add Special Property 改为‘附加特殊属性’，并保留 Rank 3 的等级、[x]% 的概率以及原样标签和转义换行；原译‘获得’及空格问题均已修正。"
+      },
+      "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+      "signature": "48e0057f062f24edc844e5fcca2f944ef943047d72f8837db0e18e2e05d89567"
+    }
+  },
+  "required_decisions": [
+    "R0004643_becb557068",
+    "R0012694_ad9e6cdee7"
+  ],
+  "sol_scope_policy": "disputes_only_v1",
+  "carried_findings": {},
+  "selection_explanation": "Only explicit unresolved reviewer issues need Sol adjudication. Risk flags, corrections, ordinary samples, duplicate-source groups and speaker groups do not trigger Sol. Known Sol repair findings are carried to standard repair without re-reading; exhausted or regressing repairs use the existing targeted Sol escalation route.",
+  "report_hash": "9fd45b7e96151cd0f55a21269b7d9e08d76f15a810ee52cee5f08a7ae08ddb33"
+}

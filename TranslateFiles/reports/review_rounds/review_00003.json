@@ -1,0 +1,851 @@
+{
+  "stage": "review",
+  "phase": "round_checked",
+  "scope": "review_round",
+  "checked_records": 57,
+  "checks": [
+    {
+      "id": "R0012257_d534e0131e",
+      "instance": "api-review-d358727d7ec24863a304c0492f341422",
+      "task_id": "review-round-0d37a96e05424b45",
+      "result": "failed",
+      "diagnostic": "R0012257_d534e0131e: terminology mismatch ['food']",
+      "diagnostic_detail": {
+        "category": "terminology_gate",
+        "code": "validation_error",
+        "message": "R0012257_d534e0131e: terminology mismatch ['food']"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0016753_b986b0a4ba",
+      "instance": "api-review-4ec9fbbc8199435daa85f90e93b6f5ae",
+      "task_id": "review-round-17bceada2aeb4279",
+      "result": "failed",
+      "diagnostic": "R0016753_b986b0a4ba: terminology mismatch ['wolf']",
+      "diagnostic_detail": {
+        "category": "terminology_gate",
+        "code": "validation_error",
+        "message": "R0016753_b986b0a4ba: terminology mismatch ['wolf']"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0019185_4da45c8808",
+      "instance": "api-review-4ec9fbbc8199435daa85f90e93b6f5ae",
+      "task_id": "review-round-17bceada2aeb4279",
+      "result": "failed",
+      "diagnostic": "R0019185_4da45c8808: terminology mismatch ['valuable']",
+      "diagnostic_detail": {
+        "category": "terminology_gate",
+        "code": "validation_error",
+        "message": "R0019185_4da45c8808: terminology mismatch ['valuable']"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0018087_478126f0c2",
+      "instance": "api-review-3e49c1e416564903a9a0198f1488d0c3",
+      "task_id": "review-round-9f7fa42f9d4a476b-s3c1b2b0d",
+      "result": "failed",
+      "diagnostic": "R0018087_478126f0c2: terminology mismatch ['Fine', 'end']",
+      "diagnostic_detail": {
+        "category": "terminology_gate",
+        "code": "validation_error",
+        "message": "R0018087_478126f0c2: terminology mismatch ['Fine', 'end']"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0022120_d9cdda1889",
+      "instance": "api-review-3e49c1e416564903a9a0198f1488d0c3",
+      "task_id": "review-round-9f7fa42f9d4a476b-s3c1b2b0d",
+      "result": "failed",
+      "diagnostic": "R0022120_d9cdda1889: terminology mismatch ['bounty']",
+      "diagnostic_detail": {
+        "category": "terminology_gate",
+        "code": "validation_error",
+        "message": "R0022120_d9cdda1889: terminology mismatch ['bounty']"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0011189_2a56ac36ea",
+      "instance": "api-review-3e49c1e416564903a9a0198f1488d0c3",
+      "task_id": "review-round-9f7fa42f9d4a476b-s3c1b2b0d",
+      "result": "failed",
+      "diagnostic": "Unresolved blocking semantic issue",
+      "diagnostic_detail": {
+        "category": "reported_blocking_semantic_issue",
+        "code": "validation_error",
+        "message": "Unresolved blocking semantic issue"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0022410_4b60f22d4d",
+      "instance": "api-review-3e49c1e416564903a9a0198f1488d0c3",
+      "task_id": "review-round-9f7fa42f9d4a476b-s3c1b2b0d",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0022450_4b60f22d4d",
+      "instance": "api-review-3e49c1e416564903a9a0198f1488d0c3",
+      "task_id": "review-round-9f7fa42f9d4a476b-s3c1b2b0d",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0022451_4b60f22d4d",
+      "instance": "api-review-3e49c1e416564903a9a0198f1488d0c3",
+      "task_id": "review-round-9f7fa42f9d4a476b-s3c1b2b0d",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0022452_4b60f22d4d",
+      "instance": "api-review-3e49c1e416564903a9a0198f1488d0c3",
+      "task_id": "review-round-9f7fa42f9d4a476b-s3c1b2b0d",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0014473_cc89620070",
+      "instance": "api-review-ca5cbcdb2f3e40edbcf98b3c623b7aaf",
+      "task_id": "review-round-5e522ae21b074792-sa14b1089",
+      "result": "failed",
+      "diagnostic": "R0014473_cc89620070: structural mismatch ['square_bracket']",
+      "diagnostic_detail": {
+        "category": "structure_gate",
+        "code": "validation_error",
+        "message": "R0014473_cc89620070: structural mismatch ['square_bracket']"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0014589_6f78b96f7f",
+      "instance": "api-review-ca5cbcdb2f3e40edbcf98b3c623b7aaf",
+      "task_id": "review-round-5e522ae21b074792-sa14b1089",
+      "result": "failed",
+      "diagnostic": "R0014589_6f78b96f7f: terminology mismatch ['guard']",
+      "diagnostic_detail": {
+        "category": "terminology_gate",
+        "code": "validation_error",
+        "message": "R0014589_6f78b96f7f: terminology mismatch ['guard']"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0014905_3fb09f5a49",
+      "instance": "api-review-ca5cbcdb2f3e40edbcf98b3c623b7aaf",
+      "task_id": "review-round-5e522ae21b074792-sa14b1089",
+      "result": "failed",
+      "diagnostic": "Unresolved blocking semantic issue",
+      "diagnostic_detail": {
+        "category": "reported_blocking_semantic_issue",
+        "code": "validation_error",
+        "message": "Unresolved blocking semantic issue"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0000412_a40fd240df",
+      "instance": "api-review-efd0b9b20d464084876f1e82c97988bb",
+      "task_id": "review-round-5e522ae21b074792-sd4742cf0",
+      "result": "failed",
+      "diagnostic": "R0000412_a40fd240df: terminology mismatch ['health']",
+      "diagnostic_detail": {
+        "category": "terminology_gate",
+        "code": "validation_error",
+        "message": "R0000412_a40fd240df: terminology mismatch ['health']"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0003721_9006152c23",
+      "instance": "api-review-efd0b9b20d464084876f1e82c97988bb",
+      "task_id": "review-round-5e522ae21b074792-sd4742cf0",
+      "result": "failed",
+      "diagnostic": "R0003721_9006152c23: terminology mismatch ['bounty']",
+      "diagnostic_detail": {
+        "category": "terminology_gate",
+        "code": "validation_error",
+        "message": "R0003721_9006152c23: terminology mismatch ['bounty']"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0004402_342f29cfbb",
+      "instance": "api-review-efd0b9b20d464084876f1e82c97988bb",
+      "task_id": "review-round-5e522ae21b074792-sd4742cf0",
+      "result": "failed",
+      "diagnostic": "R0004402_342f29cfbb: terminology mismatch ['food']",
+      "diagnostic_detail": {
+        "category": "terminology_gate",
+        "code": "validation_error",
+        "message": "R0004402_342f29cfbb: terminology mismatch ['food']"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0004489_35ea6f5e9e",
+      "instance": "api-review-efd0b9b20d464084876f1e82c97988bb",
+      "task_id": "review-round-5e522ae21b074792-sd4742cf0",
+      "result": "failed",
+      "diagnostic": "Invalid review change evidence; Use complete task translation for before and complete revised translation for after; each change source_excerpt must cite this assigned source; different changes may cite different excerpts. Use a valid category, severity and specific reason; unchanged translations require changes=[]. Fields: []",
+      "diagnostic_detail": {
+        "category": "review_record_contract",
+        "code": "invalid_change_evidence",
+        "fields": [],
+        "repair": "Use complete task translation for before and complete revised translation for after; each change source_excerpt must cite this assigned source; different changes may cite different excerpts. Use a valid category, severity and specific reason; unchanged translations require changes=[]."
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0015808_52e5e5160a",
+      "instance": "api-review-22bb19c0e14a4ba5bd0f5c9d8394907e",
+      "task_id": "review-round-b9921e8b01754716-s39521140",
+      "result": "failed",
+      "diagnostic": "R0015808_52e5e5160a: terminology mismatch ['father']",
+      "diagnostic_detail": {
+        "category": "terminology_gate",
+        "code": "validation_error",
+        "message": "R0015808_52e5e5160a: terminology mismatch ['father']"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0011403_4929f09c66",
+      "instance": "api-review-22bb19c0e14a4ba5bd0f5c9d8394907e",
+      "task_id": "review-round-b9921e8b01754716-s39521140",
+      "result": "failed",
+      "diagnostic": "R0011403_4929f09c66: terminology mismatch ['son']",
+      "diagnostic_detail": {
+        "category": "terminology_gate",
+        "code": "validation_error",
+        "message": "R0011403_4929f09c66: terminology mismatch ['son']"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0011483_a4d26a0cb9",
+      "instance": "api-review-22bb19c0e14a4ba5bd0f5c9d8394907e",
+      "task_id": "review-round-b9921e8b01754716-s39521140",
+      "result": "failed",
+      "diagnostic": "Unresolved blocking semantic issue",
+      "diagnostic_detail": {
+        "category": "reported_blocking_semantic_issue",
+        "code": "validation_error",
+        "message": "Unresolved blocking semantic issue"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0008869_cb21b42839",
+      "instance": "api-review-22bb19c0e14a4ba5bd0f5c9d8394907e",
+      "task_id": "review-round-b9921e8b01754716-s39521140",
+      "result": "failed",
+      "diagnostic": "Unresolved blocking semantic issue",
+      "diagnostic_detail": {
+        "category": "reported_blocking_semantic_issue",
+        "code": "validation_error",
+        "message": "Unresolved blocking semantic issue"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0015211_f6d854f44a",
+      "instance": "api-review-22bb19c0e14a4ba5bd0f5c9d8394907e",
+      "task_id": "review-round-b9921e8b01754716-s39521140",
+      "result": "failed",
+      "diagnostic": "R0015211_f6d854f44a: structural mismatch ['square_bracket']",
+      "diagnostic_detail": {
+        "category": "structure_gate",
+        "code": "validation_error",
+        "message": "R0015211_f6d854f44a: structural mismatch ['square_bracket']"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0015280_39bd2c6907",
+      "instance": "api-review-22bb19c0e14a4ba5bd0f5c9d8394907e",
+      "task_id": "review-round-b9921e8b01754716-s39521140",
+      "result": "failed",
+      "diagnostic": "Unresolved blocking semantic issue",
+      "diagnostic_detail": {
+        "category": "reported_blocking_semantic_issue",
+        "code": "validation_error",
+        "message": "Unresolved blocking semantic issue"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0015507_c8b943a595",
+      "instance": "api-review-22bb19c0e14a4ba5bd0f5c9d8394907e",
+      "task_id": "review-round-b9921e8b01754716-s39521140",
+      "result": "failed",
+      "diagnostic": "R0015507_c8b943a595: terminology mismatch ['Fine']",
+      "diagnostic_detail": {
+        "category": "terminology_gate",
+        "code": "validation_error",
+        "message": "R0015507_c8b943a595: terminology mismatch ['Fine']"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0020564_ce30faf84c",
+      "instance": "api-review-c39663b905bd4b2b87d8564d5efb42b4",
+      "task_id": "review-round-9f7fa42f9d4a476b-sda8a5230",
+      "result": "failed",
+      "diagnostic": "R0020564_ce30faf84c: terminology mismatch ['power']",
+      "diagnostic_detail": {
+        "category": "terminology_gate",
+        "code": "validation_error",
+        "message": "R0020564_ce30faf84c: terminology mismatch ['power']"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0010809_720ea83637",
+      "instance": "api-review-c39663b905bd4b2b87d8564d5efb42b4",
+      "task_id": "review-round-9f7fa42f9d4a476b-sda8a5230",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0010519_bc074afd64",
+      "instance": "api-review-c39663b905bd4b2b87d8564d5efb42b4",
+      "task_id": "review-round-9f7fa42f9d4a476b-sda8a5230",
+      "result": "failed",
+      "diagnostic": "R0010519_bc074afd64: terminology mismatch ['chance']",
+      "diagnostic_detail": {
+        "category": "terminology_gate",
+        "code": "validation_error",
+        "message": "R0010519_bc074afd64: terminology mismatch ['chance']"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0000425_7e7ba562e6",
+      "instance": "api-review-c39663b905bd4b2b87d8564d5efb42b4",
+      "task_id": "review-round-9f7fa42f9d4a476b-sda8a5230",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0000945_cd635cd55c",
+      "instance": "api-review-c39663b905bd4b2b87d8564d5efb42b4",
+      "task_id": "review-round-9f7fa42f9d4a476b-sda8a5230",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0000979_3774bf5574",
+      "instance": "api-review-c39663b905bd4b2b87d8564d5efb42b4",
+      "task_id": "review-round-9f7fa42f9d4a476b-sda8a5230",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0000987_313a7c15cd",
+      "instance": "api-review-c39663b905bd4b2b87d8564d5efb42b4",
+      "task_id": "review-round-9f7fa42f9d4a476b-sda8a5230",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001487_e5ded18005",
+      "instance": "api-review-da00d5f6f4ac49888da150a75434f3f8",
+      "task_id": "review-round-bfb076b6e1a34061-s22680beb",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001760_9435281e77",
+      "instance": "api-review-da00d5f6f4ac49888da150a75434f3f8",
+      "task_id": "review-round-bfb076b6e1a34061-s22680beb",
+      "result": "failed",
+      "diagnostic": "Unresolved blocking semantic issue",
+      "diagnostic_detail": {
+        "category": "reported_blocking_semantic_issue",
+        "code": "validation_error",
+        "message": "Unresolved blocking semantic issue"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001839_ea60874368",
+      "instance": "api-review-da00d5f6f4ac49888da150a75434f3f8",
+      "task_id": "review-round-bfb076b6e1a34061-s22680beb",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0002007_60672e2dfc",
+      "instance": "api-review-da00d5f6f4ac49888da150a75434f3f8",
+      "task_id": "review-round-bfb076b6e1a34061-s22680beb",
+      "result": "failed",
+      "diagnostic": "Unresolved blocking semantic issue",
+      "diagnostic_detail": {
+        "category": "reported_blocking_semantic_issue",
+        "code": "validation_error",
+        "message": "Unresolved blocking semantic issue"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0015513_6331c18659",
+      "instance": "api-review-22df2823c6044620b5581cdb57bd3502",
+      "task_id": "review-round-b9921e8b01754716-sf0ba838b",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0006996_a801de6413",
+      "instance": "api-review-22df2823c6044620b5581cdb57bd3502",
+      "task_id": "review-round-b9921e8b01754716-sf0ba838b",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0007970_3a48acad36",
+      "instance": "api-review-22df2823c6044620b5581cdb57bd3502",
+      "task_id": "review-round-b9921e8b01754716-sf0ba838b",
+      "result": "failed",
+      "diagnostic": "Unresolved blocking semantic issue",
+      "diagnostic_detail": {
+        "category": "reported_blocking_semantic_issue",
+        "code": "validation_error",
+        "message": "Unresolved blocking semantic issue"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0012255_65c0469d3e",
+      "instance": "api-review-22df2823c6044620b5581cdb57bd3502",
+      "task_id": "review-round-b9921e8b01754716-sf0ba838b",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0016834_9bf22dd778",
+      "instance": "api-review-22df2823c6044620b5581cdb57bd3502",
+      "task_id": "review-round-b9921e8b01754716-sf0ba838b",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0004306_1dc1cfac3f",
+      "instance": "api-review-22df2823c6044620b5581cdb57bd3502",
+      "task_id": "review-round-b9921e8b01754716-sf0ba838b",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0004294_8ed197123f",
+      "instance": "api-review-22df2823c6044620b5581cdb57bd3502",
+      "task_id": "review-round-b9921e8b01754716-sf0ba838b",
+      "result": "failed",
+      "diagnostic": "Context exception refers to an unrelated term",
+      "diagnostic_detail": {
+        "category": "review_record_contract",
+        "code": "validation_error",
+        "message": "Context exception refers to an unrelated term"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0004460_64f29072e7",
+      "instance": "api-review-ce249db7b7434a288c32b29a6e2133ca",
+      "task_id": "review-round-bfb076b6e1a34061-s45d10a21",
+      "result": "failed",
+      "diagnostic": "Review source_excerpt must cite the assigned original text",
+      "diagnostic_detail": {
+        "category": "review_record_contract",
+        "code": "validation_error",
+        "message": "Review source_excerpt must cite the assigned original text"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0009780_52d037d4eb",
+      "instance": "api-review-ce249db7b7434a288c32b29a6e2133ca",
+      "task_id": "review-round-bfb076b6e1a34061-s45d10a21",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0007739_3c4584511f",
+      "instance": "api-review-ce249db7b7434a288c32b29a6e2133ca",
+      "task_id": "review-round-bfb076b6e1a34061-s45d10a21",
+      "result": "failed",
+      "diagnostic": "R0007739_3c4584511f: terminology mismatch ['Pull']",
+      "diagnostic_detail": {
+        "category": "terminology_gate",
+        "code": "validation_error",
+        "message": "R0007739_3c4584511f: terminology mismatch ['Pull']"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001273_9d06a6f194",
+      "instance": "api-review-ce249db7b7434a288c32b29a6e2133ca",
+      "task_id": "review-round-bfb076b6e1a34061-s45d10a21",
+      "result": "failed",
+      "diagnostic": "R0001273_9d06a6f194: terminology mismatch ['King Osred']",
+      "diagnostic_detail": {
+        "category": "terminology_gate",
+        "code": "validation_error",
+        "message": "R0001273_9d06a6f194: terminology mismatch ['King Osred']"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0008370_1003cbb5c6",
+      "instance": "api-review-cccfe5828576441fbe7c555378702219",
+      "task_id": "review-round-366f1398abd94849",
+      "result": "failed",
+      "diagnostic": "Invalid review change evidence; Use complete task translation for before and complete revised translation for after; each change source_excerpt must cite this assigned source; different changes may cite different excerpts. Use a valid category, severity and specific reason; unchanged translations require changes=[]. Fields: [{\"path\": \"changes[2].source_excerpt\", \"actual\": \"His face\", \"expected\": \"A continuous excerpt from this assigned source\"}]",
+      "diagnostic_detail": {
+        "category": "review_record_contract",
+        "code": "invalid_change_evidence",
+        "fields": [
+          {
+            "path": "changes[2].source_excerpt",
+            "actual": "His face",
+            "expected": "A continuous excerpt from this assigned source"
+          }
+        ],
+        "repair": "Use complete task translation for before and complete revised translation for after; each change source_excerpt must cite this assigned source; different changes may cite different excerpts. Use a valid category, severity and specific reason; unchanged translations require changes=[]."
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0017273_37364569e2",
+      "instance": "api-review-cccfe5828576441fbe7c555378702219",
+      "task_id": "review-round-366f1398abd94849",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0017555_57c0f12836",
+      "instance": "api-review-cccfe5828576441fbe7c555378702219",
+      "task_id": "review-round-366f1398abd94849",
+      "result": "failed",
+      "diagnostic": "Unresolved blocking semantic issue",
+      "diagnostic_detail": {
+        "category": "reported_blocking_semantic_issue",
+        "code": "validation_error",
+        "message": "Unresolved blocking semantic issue"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0003274_adf62387da",
+      "instance": "api-review-cccfe5828576441fbe7c555378702219",
+      "task_id": "review-round-366f1398abd94849",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0003596_82a13209aa",
+      "instance": "api-review-cccfe5828576441fbe7c555378702219",
+      "task_id": "review-round-366f1398abd94849",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0009371_033543ca73",
+      "instance": "api-review-cccfe5828576441fbe7c555378702219",
+      "task_id": "review-round-366f1398abd94849",
+      "result": "failed",
+      "diagnostic": "Unresolved blocking semantic issue",
+      "diagnostic_detail": {
+        "category": "reported_blocking_semantic_issue",
+        "code": "validation_error",
+        "message": "Unresolved blocking semantic issue"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0009429_29609d6d7b",
+      "instance": "api-review-cccfe5828576441fbe7c555378702219",
+      "task_id": "review-round-366f1398abd94849",
+      "result": "failed",
+      "diagnostic": "Unresolved blocking semantic issue",
+      "diagnostic_detail": {
+        "category": "reported_blocking_semantic_issue",
+        "code": "validation_error",
+        "message": "Unresolved blocking semantic issue"
+      },
+      "regressed_terms": []
+    },
+    {
+      "id": "R0003863_2659eb6166",
+      "instance": "api-review-cccfe5828576441fbe7c555378702219",
+      "task_id": "review-round-366f1398abd94849",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0003903_2b42fcdc7b",
+      "instance": "api-review-cccfe5828576441fbe7c555378702219",
+      "task_id": "review-round-366f1398abd94849",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0015620_764858dc32",
+      "instance": "api-review-cccfe5828576441fbe7c555378702219",
+      "task_id": "review-round-366f1398abd94849",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0001025_93b18c81d2",
+      "instance": "/root/review_sol_round3",
+      "task_id": "review-round-ed1225d98c704360",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    }
+  ],
+  "passed_ids": [
+    "R0022410_4b60f22d4d",
+    "R0022450_4b60f22d4d",
+    "R0022451_4b60f22d4d",
+    "R0022452_4b60f22d4d",
+    "R0010809_720ea83637",
+    "R0000425_7e7ba562e6",
+    "R0000945_cd635cd55c",
+    "R0000979_3774bf5574",
+    "R0000987_313a7c15cd",
+    "R0001487_e5ded18005",
+    "R0001839_ea60874368",
+    "R0015513_6331c18659",
+    "R0006996_a801de6413",
+    "R0012255_65c0469d3e",
+    "R0016834_9bf22dd778",
+    "R0004306_1dc1cfac3f",
+    "R0009780_52d037d4eb",
+    "R0017273_37364569e2",
+    "R0003274_adf62387da",
+    "R0003596_82a13209aa",
+    "R0003863_2659eb6166",
+    "R0003903_2b42fcdc7b",
+    "R0015620_764858dc32",
+    "R0001025_93b18c81d2"
+  ],
+  "failure_summary": {
+    "basis": "first_failing_gate_in_this_scan; later checks may be blocked; not translation accuracy",
+    "checked_failures": {
+      "terminology_gate": 16,
+      "reported_blocking_semantic_issue": 11,
+      "structure_gate": 2,
+      "review_record_contract": 4
+    },
+    "outstanding_failures": {
+      "terminology_gate": 16,
+      "reported_blocking_semantic_issue": 11,
+      "structure_gate": 2,
+      "review_record_contract": 4
+    },
+    "regression_overlap": 0
+  },
+  "failed_records": 33,
+  "problems": {
+    "R0012257_d534e0131e": "R0012257_d534e0131e: terminology mismatch ['food']",
+    "R0016753_b986b0a4ba": "R0016753_b986b0a4ba: terminology mismatch ['wolf']",
+    "R0019185_4da45c8808": "R0019185_4da45c8808: terminology mismatch ['valuable']",
+    "R0018087_478126f0c2": "R0018087_478126f0c2: terminology mismatch ['Fine', 'end']",
+    "R0022120_d9cdda1889": "R0022120_d9cdda1889: terminology mismatch ['bounty']",
+    "R0011189_2a56ac36ea": "Unresolved blocking semantic issue",
+    "R0014473_cc89620070": "R0014473_cc89620070: structural mismatch ['square_bracket']",
+    "R0014589_6f78b96f7f": "R0014589_6f78b96f7f: terminology mismatch ['guard']",
+    "R0014905_3fb09f5a49": "Unresolved blocking semantic issue",
+    "R0000412_a40fd240df": "R0000412_a40fd240df: terminology mismatch ['health']",
+    "R0003721_9006152c23": "R0003721_9006152c23: terminology mismatch ['bounty']",
+    "R0004402_342f29cfbb": "R0004402_342f29cfbb: terminology mismatch ['food']",
+    "R0004489_35ea6f5e9e": "Invalid review change evidence; Use complete task translation for before and complete revised translation for after; each change source_excerpt must cite this assigned source; different changes may cite different excerpts. Use a valid category, severity and specific reason; unchanged translations require changes=[]. Fields: []",
+    "R0015808_52e5e5160a": "R0015808_52e5e5160a: terminology mismatch ['father']",
+    "R0011403_4929f09c66": "R0011403_4929f09c66: terminology mismatch ['son']",
+    "R0011483_a4d26a0cb9": "Unresolved blocking semantic issue",
+    "R0008869_cb21b42839": "Unresolved blocking semantic issue",
+    "R0015211_f6d854f44a": "R0015211_f6d854f44a: structural mismatch ['square_bracket']",
+    "R0015280_39bd2c6907": "Unresolved blocking semantic issue",
+    "R0015507_c8b943a595": "R0015507_c8b943a595: terminology mismatch ['Fine']",
+    "R0020564_ce30faf84c": "R0020564_ce30faf84c: terminology mismatch ['power']",
+    "R0010519_bc074afd64": "R0010519_bc074afd64: terminology mismatch ['chance']",
+    "R0001760_9435281e77": "Unresolved blocking semantic issue",
+    "R0002007_60672e2dfc": "Unresolved blocking semantic issue",
+    "R0007970_3a48acad36": "Unresolved blocking semantic issue",
+    "R0004294_8ed197123f": "Context exception refers to an unrelated term",
+    "R0004460_64f29072e7": "Review source_excerpt must cite the assigned original text",
+    "R0007739_3c4584511f": "R0007739_3c4584511f: terminology mismatch ['Pull']",
+    "R0001273_9d06a6f194": "R0001273_9d06a6f194: terminology mismatch ['King Osred']",
+    "R0008370_1003cbb5c6": "Invalid review change evidence; Use complete task translation for before and complete revised translation for after; each change source_excerpt must cite this assigned source; different changes may cite different excerpts. Use a valid category, severity and specific reason; unchanged translations require changes=[]. Fields: [{\"path\": \"changes[2].source_excerpt\", \"actual\": \"His face\", \"expected\": \"A continuous excerpt from this assigned source\"}]",
+    "R0017555_57c0f12836": "Unresolved blocking semantic issue",
+    "R0009371_033543ca73": "Unresolved blocking semantic issue",
+    "R0009429_29609d6d7b": "Unresolved blocking semantic issue"
+  },
+  "repair_tasks": [
+    "review-round-9f514efe0c5145a1-s18c66226",
+    "review-round-9f514efe0c5145a1-s12017dd4",
+    "review-round-2f45afcdef9c4f49",
+    "review-round-e414def4906442fd-sfb755f9d",
+    "review-round-e414def4906442fd-scb4a4004",
+    "review-round-bda036d9f25c4f68",
+    "review-round-2b2e1bfb700a49bf"
+  ],
+  "repair_dispatch": [
+    {
+      "task_id": "review-round-9f514efe0c5145a1-s18c66226",
+      "backend": "api",
+      "repair_tier": "standard",
+      "required_model": null,
+      "repair_counts": {
+        "R0008869_cb21b42839": 3,
+        "R0011189_2a56ac36ea": 3,
+        "R0011403_4929f09c66": 3,
+        "R0011483_a4d26a0cb9": 3,
+        "R0015808_52e5e5160a": 3,
+        "R0018087_478126f0c2": 3,
+        "R0022120_d9cdda1889": 3
+      },
+      "automatic_escalation": false
+    },
+    {
+      "task_id": "review-round-9f514efe0c5145a1-s12017dd4",
+      "backend": "api",
+      "repair_tier": "standard",
+      "required_model": null,
+      "repair_counts": {
+        "R0001760_9435281e77": 3,
+        "R0002007_60672e2dfc": 3,
+        "R0007970_3a48acad36": 3,
+        "R0010519_bc074afd64": 3,
+        "R0015211_f6d854f44a": 3,
+        "R0015280_39bd2c6907": 3,
+        "R0015507_c8b943a595": 3,
+        "R0020564_ce30faf84c": 3
+      },
+      "automatic_escalation": false
+    },
+    {
+      "task_id": "review-round-2f45afcdef9c4f49",
+      "backend": "api",
+      "repair_tier": "standard",
+      "required_model": null,
+      "repair_counts": {
+        "R0001273_9d06a6f194": 3,
+        "R0004294_8ed197123f": 3,
+        "R0004460_64f29072e7": 3,
+        "R0007739_3c4584511f": 3,
+        "R0008370_1003cbb5c6": 3,
+        "R0009371_033543ca73": 3,
+        "R0009429_29609d6d7b": 3,
+        "R0017555_57c0f12836": 3
+      },
+      "automatic_escalation": false
+    },
+    {
+      "task_id": "review-round-e414def4906442fd-sfb755f9d",
+      "backend": "api",
+      "repair_tier": "standard",
+      "required_model": null,
+      "repair_counts": {
+        "R0014473_cc89620070": 4,
+        "R0014589_6f78b96f7f": 4,
+        "R0016753_b986b0a4ba": 4,
+        "R0019185_4da45c8808": 4
+      },
+      "automatic_escalation": false
+    },
+    {
+      "task_id": "review-round-e414def4906442fd-scb4a4004",
+      "backend": "api",
+      "repair_tier": "standard",
+      "required_model": null,
+      "repair_counts": {
+        "R0000412_a40fd240df": 4,
+        "R0003721_9006152c23": 4,
+        "R0004402_342f29cfbb": 4,
+        "R0014905_3fb09f5a49": 4
+      },
+      "automatic_escalation": false
+    },
+    {
+      "task_id": "review-round-bda036d9f25c4f68",
+      "backend": "api",
+      "repair_tier": "standard",
+      "required_model": null,
+      "repair_counts": {
+        "R0004489_35ea6f5e9e": 4
+      },
+      "automatic_escalation": false
+    },
+    {
+      "task_id": "review-round-2b2e1bfb700a49bf",
+      "backend": "api",
+      "repair_tier": "standard",
+      "required_model": null,
+      "repair_counts": {
+        "R0012257_d534e0131e": 5
+      },
+      "automatic_escalation": false
+    }
+  ],
+  "needs_attention_ids": [],
+  "clean": false,
+  "repair_stop_reasons": {},
+  "status": "needs_repair",
+  "round": 3
+}

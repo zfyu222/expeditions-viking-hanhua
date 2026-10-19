@@ -1,0 +1,97 @@
+{
+  "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+  "reviewer": "sol",
+  "summary": "18项：pass 10项，contextual 6项，repair 2项。仅对仍可由本句证据确认的官职区分和角色发音特征派发修订；已修正的旧问题不重复返修。",
+  "decisions": [
+    {
+      "id": "R0007630_34828bea04",
+      "disposition": "contextual",
+      "reason": "源文先说 Let us gather our things，随后说 let us know who to follow，本身在两个 us 的施事和受事之间切换。现译保留了收拾物品及告知跟随对象两项信息；仅凭本句不能认定需把第二个 us 改为其他人称。"
+    },
+    {
+      "id": "R0008955_19a574564f",
+      "disposition": "pass",
+      "reason": "Father would be furious if I let anyone in 中 Father 是说话人的父亲；当前译文已由旧译‘神父’改为‘父亲’，亲属关系问题已消除。"
+    },
+    {
+      "id": "R0009244_a019c6a5be",
+      "disposition": "contextual",
+      "reason": "源文 if the village 位于 young men and women 与 a thing or two about combat 之间，语法不通，按 in the village 的显然笔误理解为‘村里的’合理；当前译文传达教村中青年战斗本事，无需因原文拼写返修。"
+    },
+    {
+      "id": "R0009268_47cc7afb19",
+      "disposition": "contextual",
+      "reason": "Your have our word 语法异常，按 You have our word 理解为作出承诺合理；当前译文‘那我们就说定了，别来烦我们’保留了承诺和 leave us be 的要求，原文疑似拼写错误不构成译文返修。"
+    },
+    {
+      "id": "R0009500_e39a91385a",
+      "disposition": "pass",
+      "reason": "break into any local home 与 rich bounty of offer 指屋内可能取得的丰厚财物，当前译文已将旧译‘赏金任务’改为‘一笔丰厚的财物’，语境例外已正确落实。"
+    },
+    {
+      "id": "R0009526_053bc51d1d",
+      "disposition": "pass",
+      "reason": "源文 it 为单数且指代略有歧义；当前译文已将旧译‘它’改为‘这东西’，保留单件物品的指向，不再机械承接前句复数财物。"
+    },
+    {
+      "id": "R0010069_78d9858523",
+      "disposition": "contextual",
+      "reason": "Eadig, thec to metenne. 是异于常规英语的古语式短句；本包没有游戏内字幕、对白或仪式语境证据来判定它是否应保留原文。当前完整保留该异语，暂按语境例外接受，不据猜测强制意译。"
+    },
+    {
+      "id": "R0010388_223c3329ff",
+      "disposition": "pass",
+      "reason": "his court 中 his 是指 Caustantin 的普通物主代词；当前译文已把旧译残留的 His 改成‘他的’，未译代词问题已消除。"
+    },
+    {
+      "id": "R0012271_76693f773d",
+      "disposition": "pass",
+      "reason": "His eyes never leave you 中 His 是普通物主代词；当前‘他的目光始终没有离开你’准确表达，不适用保留原文的标记术语。"
+    },
+    {
+      "id": "R0012694_ad9e6cdee7",
+      "disposition": "repair",
+      "reason": "源文逐项列出 ealdormen、soon-to-be ealdormen、gerefas、soon-to-be gerefas 四种不同称谓；当前译文两次重复‘郡长、准郡长’，使前后两组无法区分。受影响 record_ids: [\"R0012694_ad9e6cdee7\"]。验收要求：四类称谓及其准任状态各有可区分的中文指称，维持原顺序和‘盛赞其功绩’的关系；沿用本包已有的 ealdormen 与 gerefas 语境区分，不擅自增设全局术语。"
+    },
+    {
+      "id": "R0012955_812b14a23e",
+      "disposition": "repair",
+      "reason": "源文 ethteemed 对 esteemed、therve 对 serve 连续以 th 代 s，连占位符 [Player:warrior/thieldmaiden] 也含 thieldmaiden，显示说话者有刻意的发音特征；当前正文全按正常说话翻译，人物口吻信息消失。受影响 record_ids: [\"R0012955_812b14a23e\"]。验收要求：在可见中文对白中以自然、可读的方式体现同一人物的口齿特征，同时保留敬称和招待语气；所有 [Player:...] 占位符逐字保持原样，不翻译或改写其中分支。"
+    },
+    {
+      "id": "R0013303_b2b177841e",
+      "disposition": "pass",
+      "reason": "Pine is not the most obvious choice for a longship 后续用 strong and flexible 描述造船材料；当前‘松木’正确，旧译船名‘松木号’已消除，此处应按材料语境例外处理。"
+    },
+    {
+      "id": "R0013811_7eb542abd4",
+      "disposition": "contextual",
+      "reason": "源文 the lofty high pasture of both horns 是晦涩的比喻性名词片段，未明示移动到双角之间；当前译文已移除旧译所增‘跃向’动作，并保留片段性意象。缺少诗歌上下文，不以同义润色继续返修。"
+    },
+    {
+      "id": "R0015107_0414ce3dab",
+      "disposition": "pass",
+      "reason": "源文并列 ealdormen 与 gerefas 两种头衔；当前译文已由重复‘郡长、郡长’改为‘郡长、地方官’，读者能够区分，旧问题已解决。"
+    },
+    {
+      "id": "R0015808_52e5e5160a",
+      "disposition": "pass",
+      "reason": "Your father、his father 及 Your father never used it 均为亲属称谓；当前相关位置已由‘神父’改为‘父亲’或‘父辈’，继承链和否定信息正确。"
+    },
+    {
+      "id": "R0016690_82e037486d",
+      "disposition": "contextual",
+      "reason": "less experiences swimmers 显然是 less experienced swimmers 的原文形态错误；当前‘经验较少的游泳者’传达既定意思，且保留未耗尽空气的结果，原文错误不需向译文传递。"
+    },
+    {
+      "id": "R0017147_2de23cba76",
+      "disposition": "pass",
+      "reason": "Your sister 未标明长幼；当前译文已把旧译‘姐姐’改为不指定长幼的‘姐妹’，原先无依据添加年龄关系的问题已消除。"
+    },
+    {
+      "id": "R0017558_d7f333455b",
+      "disposition": "pass",
+      "reason": "liability 指负担或累赘；当前译文已由旧译‘靠不住’改为‘累赘’，并与‘没有他，事情会简单得多’形成原文因果，词义争议已消除。"
+    }
+  ]
+}

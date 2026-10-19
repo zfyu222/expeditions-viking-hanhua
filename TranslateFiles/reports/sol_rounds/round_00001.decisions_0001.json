@@ -1,0 +1,97 @@
+{
+  "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+  "reviewer": "sol",
+  "summary": "18项裁决：pass 15项，contextual 2项，repair 1项。已修正的误译不重复返修；只将仍影响悬赏公告含义的一项交修订。",
+  "decisions": [
+    {
+      "id": "R0000043_4fcf8a0ccd",
+      "disposition": "pass",
+      "reason": "原文 just fine 表示‘照样/顺利’，不是人名；当前译文已删除无依据的‘芬妮’，条件关系和回程含义完整。"
+    },
+    {
+      "id": "R0000056_96a1786785",
+      "disposition": "pass",
+      "reason": "原文 him and his 指他及其所属的人，未限定为同伴；当前‘他和他的那些人’已保留模糊指代，吃喝的否定也完整。"
+    },
+    {
+      "id": "R0000256_22d6702e5e",
+      "disposition": "pass",
+      "reason": "Cured 修饰 Armour，是护甲材料的处理语境；当前‘鞣制护甲’已消除‘已治愈护甲’的误读，并记录术语例外。"
+    },
+    {
+      "id": "R0000381_99faa4445e",
+      "disposition": "pass",
+      "reason": "句首 Fine. 是独立感叹词；当前‘好吧’已消除误作人名‘芬妮’的问题，后句含义完整。"
+    },
+    {
+      "id": "R0000644_b07ce61af5",
+      "disposition": "pass",
+      "reason": "原文 enlisting your help 指争取对方帮助；当前译文已译为‘争取到你们的帮助’，没有遗留英文或漏译。"
+    },
+    {
+      "id": "R0001135_ca4af7e742",
+      "disposition": "pass",
+      "reason": "Tomb Raider 作为标题须体现 Tomb；当前‘盗墓者’已完整表达组合词义，Raider 的单词术语不应机械套入。"
+    },
+    {
+      "id": "R0001151_b5988fa053",
+      "disposition": "pass",
+      "reason": "原文 This spruce 及 Its wood 明示树木和木材；当前‘这棵云杉’已纠正误套船名‘云杉号’的问题。"
+    },
+    {
+      "id": "R0001408_2f3eab1e64",
+      "disposition": "contextual",
+      "reason": "I really don't. 省略承接上文的动词；本包未提供前句，无法断定省略的是 know、have 等何种动作。当前‘我真的不知道’是可能的口语承接，但需在取得直接前文后才可裁定是否改动，不能仅凭孤句返修。"
+    },
+    {
+      "id": "R0001483_5f005efd01",
+      "disposition": "pass",
+      "reason": "Morcant's gaze turns inwards 中 turns 是动词；当前‘目光转向内心’已消除误套‘回合’的错误。"
+    },
+    {
+      "id": "R0001487_e5ded18005",
+      "disposition": "pass",
+      "reason": "my father 明确是亲属称谓；当前‘我父亲’已纠正误译为‘神父’的人物关系错误，旧 review 的‘仍保留错误’描述与当前译文不符。"
+    },
+    {
+      "id": "R0003848_2262390e84",
+      "disposition": "pass",
+      "reason": "当前译文已有‘国王西居尔德·环王’，原 issue 所指缺少‘国王’造成的歧义已消除；本轮不因领主称谓的偏好再返修。"
+    },
+    {
+      "id": "R0004643_becb557068",
+      "disposition": "repair",
+      "reason": "受影响 record_ids：[R0004643_becb557068]。原文 ‘absent for his court trial’ 表示此人缺席自己的法庭审判，当前‘因法庭审判缺席’把缺席原因误写成审判；原文 ‘Reward: 1100 Valuables alive, 600 dead’ 按活捉与死亡两种交付状态列出贵重物品赏金，当前‘活捉1100贵重物品，死者600’使贵重物品成为活捉对象且第二档单位不明。验收要求：明确此人缺席审判；明确活捉奖励1100贵重物品、死亡状态奖励600贵重物品，两档数额与单位一一对应；保留沃尔西奥夫、税吏、斯卡伯勒及 court 为法庭的语义，不增添原文没有的情节。"
+    },
+    {
+      "id": "R0004677_ea60874368",
+      "disposition": "pass",
+      "reason": "原文保护标记为 {Kill him.}；当前译文逐字保留，先前译成中文的问题已修正。"
+    },
+    {
+      "id": "R0005703_f4f73c4560",
+      "disposition": "pass",
+      "reason": "the last of your kind who came to us 已由‘上一个来我们这儿的你那类人’表达，raiders 也已译出；措辞稍拗口但没有明确指代或数量错误，不以同义偏好返修。"
+    },
+    {
+      "id": "R0005902_8fd933e0fb",
+      "disposition": "pass",
+      "reason": "it's a lighter material 明示 spruce 是造船材料；当前‘云杉木’已消除误作船名的问题，术语例外亦有说明。"
+    },
+    {
+      "id": "R0006400_2533c8720f",
+      "disposition": "pass",
+      "reason": "strong connections 和 always be more goods 的要义已保留；‘联系紧密’与‘来源总会有更多货物’仅是可读性偏好，无明确语义错误，不返修。"
+    },
+    {
+      "id": "R0007231_3bd83f42c9",
+      "disposition": "contextual",
+      "reason": "his apprentice 中 his 是普通领属代词，当前‘他的学徒’准确；冻结术语 His 的‘保留原文’不适用于此句。review 建议补充例外说明，但没有译文错误或需要改写的文本；记录语境判断即可。"
+    },
+    {
+      "id": "R0007232_27094d479b",
+      "disposition": "pass",
+      "reason": "原 issue 是 review 的 source_excerpt 曾误引他句；当前摘录已对应本条 mead 与 spit 原文，译文无需因元数据旧错返修。"
+    }
+  ]
+}

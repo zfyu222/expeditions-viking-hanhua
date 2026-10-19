@@ -1,0 +1,78 @@
+{
+  "stage": "review",
+  "phase": "round_checked",
+  "scope": "review_round",
+  "checked_records": 3,
+  "checks": [
+    {
+      "id": "R0004643_becb557068",
+      "instance": "api-review-81405bf4207d458f96b8235e68de3970",
+      "task_id": "review-round-b27bae2958b24077",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0012694_ad9e6cdee7",
+      "instance": "api-review-81405bf4207d458f96b8235e68de3970",
+      "task_id": "review-round-b27bae2958b24077",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0012955_812b14a23e",
+      "instance": "api-review-81405bf4207d458f96b8235e68de3970",
+      "task_id": "review-round-b27bae2958b24077",
+      "result": "failed",
+      "diagnostic": "Invalid review change evidence; Use complete task translation for before and complete revised translation for after; each change source_excerpt must cite this assigned source; different changes may cite different excerpts. Use a valid category, severity and specific reason; unchanged translations require changes=[]. Fields: []",
+      "diagnostic_detail": {
+        "category": "review_record_contract",
+        "code": "invalid_change_evidence",
+        "fields": [],
+        "repair": "Use complete task translation for before and complete revised translation for after; each change source_excerpt must cite this assigned source; different changes may cite different excerpts. Use a valid category, severity and specific reason; unchanged translations require changes=[]."
+      },
+      "regressed_terms": []
+    }
+  ],
+  "passed_ids": [
+    "R0004643_becb557068",
+    "R0012694_ad9e6cdee7"
+  ],
+  "failure_summary": {
+    "basis": "first_failing_gate_in_this_scan; later checks may be blocked; not translation accuracy",
+    "checked_failures": {
+      "review_record_contract": 1
+    },
+    "outstanding_failures": {
+      "review_record_contract": 1
+    },
+    "regression_overlap": 0
+  },
+  "failed_records": 1,
+  "problems": {
+    "R0012955_812b14a23e": "Invalid review change evidence; Use complete task translation for before and complete revised translation for after; each change source_excerpt must cite this assigned source; different changes may cite different excerpts. Use a valid category, severity and specific reason; unchanged translations require changes=[]. Fields: []"
+  },
+  "repair_tasks": [
+    "review-round-d949fb4a2c534ad9"
+  ],
+  "repair_dispatch": [
+    {
+      "task_id": "review-round-d949fb4a2c534ad9",
+      "backend": "api",
+      "repair_tier": "standard",
+      "required_model": null,
+      "repair_counts": {
+        "R0012955_812b14a23e": 2
+      },
+      "automatic_escalation": false
+    }
+  ],
+  "needs_attention_ids": [],
+  "clean": false,
+  "repair_stop_reasons": {},
+  "status": "needs_repair",
+  "round": 9
+}

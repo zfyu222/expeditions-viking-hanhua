@@ -1,0 +1,2888 @@
+{
+  "schema": 2,
+  "kind": "final",
+  "pilot_key": "ce9124d76590faa808cfe31909887d4e8a69877e3d03ad72587e0e4973628fca",
+  "source_sha256": "7d05511f1e62468e65b9f379d613789939c9b4bc6100b040310341bab5c60eb8",
+  "glossary": {
+    "hash": "8b1369e804c5c7f66803e0961da266077ff087a5ecc849b9e6806ece5c8b31a4",
+    "path": "glossary\\r8\\freeze_731eced6\\built\\glossary_reviewed.json",
+    "revision": 8
+  },
+  "snapshot_hash": "7e2ea7e9ab1921e3a0599aca2c52e3059d219d6680330ebdd750b6d541f979c8",
+  "coverage": {
+    "records": 23195,
+    "text_types": {
+      "unknown": 23195
+    },
+    "missing_context": 23195,
+    "risk_records": 16791,
+    "ordinary_sample": 0,
+    "sol_records": 41
+  },
+  "risk_detection": "Heuristic candidates plus reviewer findings; absence of flags is not proof of correctness.",
+  "records_to_check": [
+    {
+      "id": "R0000043_4fcf8a0ccd",
+      "ordinal": 43,
+      "source": "All right, we'll take the deal. We figure: if this is some trick, we're good at running. We'll find our way back here just fine.",
+      "translation": "行，这买卖我们接了。我们想的是：这要是圈套，我们跑得快。我们照样能找到路回来。",
+      "metadata": {},
+      "risk_reasons": [
+        "conditions",
+        "term_exception",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-round-46109a965cc243f6-se7a88faf",
+        "instance": "api-review-57c517ba0a514c04917950a510bf0f05",
+        "stage": "review",
+        "before": "行，这买卖我们接了。我们想的是：这要是圈套，我们跑得快。我们照样能找到路回来，芬妮。",
+        "translation": "行，这买卖我们接了。我们想的是：这要是圈套，我们跑得快。我们照样能找到路回来。",
+        "changes": [
+          {
+            "after": "行，这买卖我们接了。我们想的是：这要是圈套，我们跑得快。我们照样能找到路回来。",
+            "before": "行，这买卖我们接了。我们想的是：这要是圈套，我们跑得快。我们照样能找到路回来，芬妮。",
+            "category": "completeness",
+            "reason": "原文句末没有称呼或人名，译文却添加“芬妮”，属无依据增译；删除后保留“just fine”的“照样/没事”含义。",
+            "severity": "major",
+            "source_excerpt": "We'll find our way back here just fine."
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "take the deal 译为“接这买卖”，if this is some trick 译为“这要是圈套”，we're good at running 译为“我们跑得快”，均准确对应动作与主体。",
+            "status": "pass"
+          },
+          "completeness": {
+            "evidence": "原译句末多出“芬妮”，原文无对应称呼，属无依据增译；已删除，其余内容无漏译。",
+            "status": "corrected"
+          },
+          "logic": {
+            "evidence": "if 条件句与应对关系保持：若是圈套则能跑掉，并照样找路回来，未改变条件或推测。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "原文无变量、标签或占位符。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "fine 在此为 just fine“照样/没事”的副词用法，不是人名芬妮，不套用术语 t1 正确。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "“行，这买卖我们接了”“这要是圈套，我们跑得快”口语自然，保留自信直接的口吻。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "本句 We'll find our way back here just fine. 中 fine 是 just fine“照样/没事”的副词用法，并非人名 fine，故译“照样能找到路回来”正确，不套用术语译名“芬妮”。",
+            "source": "fine"
+          }
+        ],
+        "id": "R0000043_4fcf8a0ccd",
+        "issues": [
+          {
+            "reason": "原译末尾“芬妮”在原文中无对应词，属增译；fine 是 just fine 的普通词义，不是人名。已删除并改为“我们照样能找到路回来”。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "原译末尾“芬妮”无原文依据，属增译；source 中 fine 是 just fine 的副词用法，意为“照样/没事”，不是人名芬妮，不应套用术语 t1。已删除该增译，其余含义准确。",
+        "reviewed": true,
+        "source_excerpt": "All right, we'll take the deal. We figure: if this is some trick, we're good at running. We'll find our way back here just fine."
+      }
+    },
+    {
+      "id": "R0000056_96a1786785",
+      "ordinal": 56,
+      "source": "He's a pale fellow. No wonder, when him and his didn't want to eat or drink.",
+      "translation": "他是个脸色苍白的小子。也不奇怪，他和他的那些人都不想吃也不想喝。",
+      "metadata": {},
+      "risk_reasons": [
+        "negation",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00003-69726c4d",
+        "instance": "api-review-e4c41311b79543ba8a04961b3caa9720",
+        "stage": "review",
+        "before": "他是个脸色苍白的小子。也不奇怪，他和他的同伴都不想吃也不想喝。",
+        "translation": "他是个脸色苍白的小子。也不奇怪，他和他的那些人都不想吃也不想喝。",
+        "changes": [
+          {
+            "after": "他是个脸色苍白的小子。也不奇怪，他和他的那些人都不想吃也不想喝。",
+            "before": "他是个脸色苍白的小子。也不奇怪，他和他的同伴都不想吃也不想喝。",
+            "category": "accuracy",
+            "reason": "him and his指“他和他的那些人”，原文未明确为“同伴”；译文增补“同伴”具体化了指代，改为“他和他的那些人”以保留原意。",
+            "severity": "major",
+            "source_excerpt": "No wonder, when him and his didn't want to eat or drink."
+          },
+          {
+            "after": "他是个脸色苍白的小子。也不奇怪，他和他的那些人都不想吃也不想喝。",
+            "before": "他是个脸色苍白的小子。也不奇怪，他和他的同伴都不想吃也不想喝。",
+            "category": "logic",
+            "reason": "原因从句中的群体指代被具体化，改为保持模糊的“他和他的那些人”，不改变否定和因果关系。",
+            "severity": "major",
+            "source_excerpt": "when him and his didn't want to eat or drink"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "pale fellow译为脸色苍白的小子，No wonder译为也不奇怪，均准确；但him and his指“他和他的（人）”，译文“他和他的同伴”添加了原文未明说的“同伴”。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "原意须保留him and his的模糊指代；译文增补“同伴”改变了指代范围，已改为“他和他的那些人”。",
+            "status": "corrected"
+          },
+          "logic": {
+            "evidence": "when him and his didn't want to eat or drink说明原因；him and his的群体指代须保持模糊，不能具体化为“同伴”而改变关系。",
+            "status": "corrected"
+          },
+          "placeholders": {
+            "evidence": "原文无变量或标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "His指代词“他的”，术语表标记为保留原文，不应套作人名；译文用“他的”并补出指代对象，处理方向正确但原稿“同伴”过实。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "口语叙述自然。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [],
+        "id": "R0000056_96a1786785",
+        "issues": [
+          {
+            "reason": "“他和他的同伴”中“同伴”为原文未明说的增补，him and his应保持模糊指代；已改为“他和他的那些人”。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "原文His为代词“他的”，译文“他的同伴”引入原文没有的“同伴”概念，且未处理术语t14的“保留原文”指代词判断，需修正。",
+        "reviewed": true,
+        "source_excerpt": "He's a pale fellow. No wonder, when him and his didn't want to eat or drink."
+      }
+    },
+    {
+      "id": "R0000256_22d6702e5e",
+      "ordinal": 256,
+      "source": "Kveldulfr's Cured Armour",
+      "translation": "克维尔杜尔夫的鞣制护甲",
+      "metadata": {},
+      "risk_reasons": [
+        "short_without_context",
+        "term_exception",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-round-46109a965cc243f6-s87cbef5a",
+        "instance": "api-review-9e4521be0c934e0881d95f0352bf9a6d",
+        "stage": "review",
+        "before": "克维尔杜尔夫的已治愈护甲",
+        "translation": "克维尔杜尔夫的鞣制护甲",
+        "changes": [
+          {
+            "after": "克维尔杜尔夫的鞣制护甲",
+            "before": "克维尔杜尔夫的已治愈护甲",
+            "category": "terminology",
+            "reason": "Cured 此处指皮革鞣制工艺，原译“已治愈”会造成医疗状态误解，改为“鞣制护甲”。",
+            "severity": "major",
+            "source_excerpt": "Cured Armour"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "Cured 在此修饰 Armour，指皮革鞣制处理工艺，原译“已治愈”语义错误，改为“鞣制”准确。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "Kveldulfr's、Cured、Armour 三部分均已译出，无增删。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "名词所有格修饰关系保持，装备名称结构未变。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "无变量、标签或占位符。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "Kveldulfr 用“克维尔杜尔夫”、Armour 用“护甲”均符合术语表；Cured 按装备语境应为“鞣制”，不套用“已治愈”。",
+            "status": "corrected"
+          },
+          "tone": {
+            "evidence": "装备名称简洁，符合 UI 短名称口吻。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "本句 Cured 修饰 Armour，指皮革鞣制处理，并非术语表所指“已治愈”状态，故按装备语境译“鞣制”。",
+            "source": "Cured"
+          }
+        ],
+        "id": "R0000256_22d6702e5e",
+        "issues": [
+          {
+            "reason": "Cured 在护甲名称中非“治愈”，原译会误导玩家；已改为“鞣制护甲”，不套用术语表字面译“已治愈”。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "Cured Armour 指经鞣制处理的皮革护甲，“已治愈护甲”会被误解为医疗状态，采纳候选改为“鞣制护甲”；Kveldulfr、Armour 术语正确。",
+        "reviewed": true,
+        "source_excerpt": "Kveldulfr's Cured Armour"
+      }
+    },
+    {
+      "id": "R0000381_99faa4445e",
+      "ordinal": 381,
+      "source": "Fine. I'll find out what happened to him, one way or another.",
+      "translation": "好吧。我会查清楚他出了什么事，不管用什么办法。",
+      "metadata": {},
+      "risk_reasons": [
+        "term_exception",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00025-bea82190",
+        "instance": "api-review-b6ff7e669d4e41728e0e28c354efa112",
+        "stage": "review",
+        "before": "芬妮。我会查清楚他出了什么事，不管用什么办法。",
+        "translation": "好吧。我会查清楚他出了什么事，不管用什么办法。",
+        "changes": [
+          {
+            "after": "好吧。我会查清楚他出了什么事，不管用什么办法。",
+            "before": "芬妮。我会查清楚他出了什么事，不管用什么办法。",
+            "category": "accuracy",
+            "reason": "Fine 是独立感叹词“好吧”，原译“芬妮。”误作人名，改变了句首语义与语气。",
+            "severity": "major",
+            "source_excerpt": "Fine. I'll find out what happened to him, one way or another."
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "Fine 在此为接受/让步的感叹词，应译“好吧”；原译误作人名“芬妮”，现改为“好吧。”",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "I'll find out what happened to him 与 one way or another 均已译出。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "one way or another 译为“不管用什么办法”，不确定性保留。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "原文无变量、标签或占位符。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "Fine 与术语表 t5“芬妮”同形，但本句为普通词“好吧”，不适用人名译名。",
+            "status": "corrected"
+          },
+          "tone": {
+            "evidence": "“好吧。我会查清楚……不管用什么办法”口语自然，保留让步与决心。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "原句 Fine 独立成句，表示接受或让步（“好吧”），并非称呼人名“芬妮”；译作“好吧”符合真实词义。",
+            "source": "Fine"
+          }
+        ],
+        "id": "R0000381_99faa4445e",
+        "issues": [
+          {
+            "reason": "原文 Fine 与冻结术语 t5“芬妮”同形，本句实为感叹词“好吧”；已改为“好吧”并在此记录语境判断。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "已纠正：原文 Fine 为独立感叹词“好吧”，不是人名“芬妮”。",
+        "reviewed": true,
+        "source_excerpt": "Fine. I'll find out what happened to him, one way or another."
+      }
+    },
+    {
+      "id": "R0000644_b07ce61af5",
+      "ordinal": 644,
+      "source": "Why would I have? You seem like capable people. I have nothing to lose and everything to gain by enlisting your help!",
+      "translation": "我为什么要那么做？你们看起来是些能干的人。争取到你们的帮助，我没什么可失去的，却能收获一切！",
+      "metadata": {},
+      "risk_reasons": [
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00042-933e6d7e",
+        "instance": "api-review-095725c703b94c98a8633a726f811425",
+        "stage": "review",
+        "before": "我为什么要那么做？你们看起来是些能干的人。 enlist你们的帮助，我没什么可失去的，却能收获一切！",
+        "translation": "我为什么要那么做？你们看起来是些能干的人。争取到你们的帮助，我没什么可失去的，却能收获一切！",
+        "changes": [
+          {
+            "after": "我为什么要那么做？你们看起来是些能干的人。争取到你们的帮助，我没什么可失去的，却能收获一切！",
+            "before": "我为什么要那么做？你们看起来是些能干的人。 enlist你们的帮助，我没什么可失去的，却能收获一切！",
+            "category": "completeness",
+            "reason": "“enlist”为英文原词未翻译，导致中文句子夹杂英文，补全为“争取你们的帮助”。",
+            "severity": "major",
+            "source_excerpt": "enlisting your help"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "原文 by enlisting your help 意为“通过争取你们的帮助”，现译残留“enlist”，未完整表达动作。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "“enlist”未译为中文，属漏译；其余部分完整。",
+            "status": "corrected"
+          },
+          "logic": {
+            "evidence": "nothing to lose and everything to gain 的对比关系保留。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "无占位符或标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "无 term_refs，未涉及术语。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "前半句反问与自信口吻自然。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [],
+        "id": "R0000644_b07ce61af5",
+        "issues": [
+          {
+            "reason": "原句“enlisting your help”中 enlist 未译，译文残留英文单词，需补全。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "译文在“enlist”处残留英文未译，属明确漏译，需修正为自然中文。",
+        "reviewed": true,
+        "source_excerpt": "I have nothing to lose and everything to gain by enlisting your help!"
+      }
+    },
+    {
+      "id": "R0001135_ca4af7e742",
+      "ordinal": 1135,
+      "source": "Preparations: Tomb Raider",
+      "translation": "准备工作：盗墓者",
+      "metadata": {},
+      "risk_reasons": [
+        "short_without_context",
+        "term_exception",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-round-eff7938d6c154c70",
+        "instance": "api-review-24933ba598874fe5892bef2004b9c631",
+        "stage": "review",
+        "before": "准备工作：劫掠者",
+        "translation": "准备工作：盗墓者",
+        "changes": [
+          {
+            "after": "准备工作：盗墓者",
+            "before": "准备工作：劫掠者",
+            "category": "completeness",
+            "reason": "原译仅体现 Raider，漏掉 Tomb；改为“盗墓者”以完整传达标题含义。",
+            "severity": "major",
+            "source_excerpt": "Tomb Raider"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "Tomb Raider 指盗墓者/古墓劫掠者，原译“劫掠者”漏掉 Tomb，标题含义不完整；改为“盗墓者”。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "原文两个词，原译仅体现 Raider，漏译 Tomb；修正后两词含义俱全。",
+            "status": "corrected"
+          },
+          "logic": {
+            "evidence": "标题无否定、条件或数量关系，译文未改变此类关系。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "原文无变量或标签，译文未新增。",
+            "status": "pass"
+          },
+          "terminology": {
+            "evidence": "Raider 在术语表中为“劫掠者”，但此处与 Tomb 组合成任务标题专名，直套“劫掠者”会丢失 Tomb 且语义偏移，故按标题整体译为“盗墓者”。",
+            "status": "corrected"
+          },
+          "tone": {
+            "evidence": "“准备工作：盗墓者”保持标题短而清楚。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "本句 Tomb Raider 是任务标题整体，Tomb 与 Raider 组合成“盗墓者”这一专名；若按术语表将 Raider 单独译“劫掠者”会丢失 Tomb 含义，故此处不套用字面译名。",
+            "source": "Raider"
+          }
+        ],
+        "id": "R0001135_ca4af7e742",
+        "issues": [
+          {
+            "reason": "Raider 字面对应“劫掠者”，但本句为任务标题 Tomb Raider，整体应译“盗墓者”，不按单词字面拆译。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "原文 Tomb Raider 是任务标题，含“古墓”与“劫掠者”两层含义；原译漏掉 Tomb，保留候选修正“准备工作：盗墓者”。",
+        "reviewed": true,
+        "source_excerpt": "Preparations: Tomb Raider"
+      }
+    },
+    {
+      "id": "R0001151_b5988fa053",
+      "ordinal": 1151,
+      "source": "Good find. This spruce looks young despite its size. Its wood will be light, allowing your ship to go faster.",
+      "translation": "找到好东西了。这棵云杉看着虽大，树龄却还轻。它的木材会轻一些，能让你的船跑得更快。",
+      "metadata": {},
+      "risk_reasons": [
+        "term_exception",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-round-eff7938d6c154c70",
+        "instance": "api-review-24933ba598874fe5892bef2004b9c631",
+        "stage": "review",
+        "before": "找到好东西了。这棵云杉号看着虽大，树龄却还轻。它的木材会轻一些，能让你的船跑得更快。",
+        "translation": "找到好东西了。这棵云杉看着虽大，树龄却还轻。它的木材会轻一些，能让你的船跑得更快。",
+        "changes": [
+          {
+            "after": "找到好东西了。这棵云杉看着虽大，树龄却还轻。它的木材会轻一些，能让你的船跑得更快。",
+            "before": "找到好东西了。这棵云杉号看着虽大，树龄却还轻。它的木材会轻一些，能让你的船跑得更快。",
+            "category": "terminology",
+            "reason": "spruce 指云杉树，原译套用船名“云杉号”导致含义错误，改为“这棵云杉”。",
+            "severity": "major",
+            "source_excerpt": "This spruce looks young despite its size."
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "This spruce looks young despite its size 指这棵云杉树虽大却年轻；原译“这棵云杉号”把树误作船名，语义错误。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "三句信息在修正后完整保留，无漏译。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "despite its size 转折关系保留；its wood 与 allowing your ship 的因果关系保留。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "原文无变量或标签，译文未新增。",
+            "status": "pass"
+          },
+          "terminology": {
+            "evidence": "spruce 此处为普通树木名词“云杉”，不能套用船名“云杉号”；wood→木材符合 t6。",
+            "status": "corrected"
+          },
+          "tone": {
+            "evidence": "“找到好东西了”“树龄却还轻”口语自然，符合人物口吻。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "本句 This spruce 指眼前这棵云杉树，其 wood 可用于造船；术语表“云杉号”是船名，套用会歪曲句意，故此处按普通树木名词译“云杉”。",
+            "source": "spruce"
+          }
+        ],
+        "id": "R0001151_b5988fa053",
+        "issues": [
+          {
+            "reason": "spruce 为普通树木名词“云杉”，非船名“云杉号”；需按本句真实词义翻译。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "spruce 在此指云杉树而非船名，原译误套“云杉号”；修正为“这棵云杉”，wood 保留“木材”。",
+        "reviewed": true,
+        "source_excerpt": "Good find. This spruce looks young despite its size. Its wood will be light, allowing your ship to go faster."
+      }
+    },
+    {
+      "id": "R0001408_2f3eab1e64",
+      "ordinal": 1408,
+      "source": "I really don't.",
+      "translation": "我真的不知道。",
+      "metadata": {},
+      "risk_reasons": [
+        "negation",
+        "short_without_context",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00091-218c831f",
+        "instance": "api-review-c245011338e341ae8450392ea1195e9d",
+        "stage": "review",
+        "before": "我真的不知道。",
+        "translation": "我真的不知道。",
+        "changes": [],
+        "checks": {
+          "accuracy": {
+            "evidence": "省略句\"I really don't\"通常承接前文动词；译文\"我真的不知道\"是常见自然补全，但原文未点明\"知道\"。",
+            "status": "pass"
+          },
+          "completeness": {
+            "evidence": "短句无遗漏成分。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "否定语气保留。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "无占位符。",
+            "status": "pass"
+          },
+          "terminology": {
+            "evidence": "无 term_refs。",
+            "status": "not_applicable"
+          },
+          "tone": {
+            "evidence": "口语自然。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [],
+        "id": "R0001408_2f3eab1e64",
+        "issues": [
+          {
+            "reason": "\"I really don't\"省略的动词未在原文出现，译为\"我真的不知道\"补出了\"知道\"；若前文非\"知道\"类动词则可能有偏差，建议对照上下文确认。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "\"I really don't\"是省略回答\"我真的不知道/我真的没有\"，译文\"我真的不知道\"在无上下文时属合理常见处理，但原文未明确\"知道\"，含义存在小偏差；结合批内独立文本难以确定。",
+        "reviewed": true,
+        "source_excerpt": "I really don't."
+      }
+    },
+    {
+      "id": "R0001483_5f005efd01",
+      "ordinal": 1483,
+      "source": "Morcant's gaze turns inwards as he no doubt pictures the world around him as he knows it.",
+      "translation": "莫坎特的目光转向内心，他无疑正在想象他所熟知的那个世界。",
+      "metadata": {},
+      "risk_reasons": [
+        "negation",
+        "term_exception",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-round-fe721ca59ad64f0b-s03decf63",
+        "instance": "api-review-b807c3b364a1405d808c01a1e0a6c50c",
+        "stage": "review",
+        "before": "莫坎特的回合转向了内心，他无疑正在想象他所熟知的那个世界。",
+        "translation": "莫坎特的目光转向内心，他无疑正在想象他所熟知的那个世界。",
+        "changes": [
+          {
+            "after": "莫坎特的目光转向内心，他无疑正在想象他所熟知的那个世界。",
+            "before": "莫坎特的回合转向了内心，他无疑正在想象他所熟知的那个世界。",
+            "category": "accuracy",
+            "reason": "原译误将 turns 作名词“回合”，主谓搭配错误，改为“目光转向内心”。",
+            "severity": "major",
+            "source_excerpt": "Morcant's gaze turns inwards"
+          },
+          {
+            "after": "莫坎特的目光转向内心，他无疑正在想象他所熟知的那个世界。",
+            "before": "莫坎特的回合转向了内心，他无疑正在想象他所熟知的那个世界。",
+            "category": "terminology",
+            "reason": "turns 在句中为动词“转向”，不套用术语“回合”。",
+            "severity": "major",
+            "source_excerpt": "turns"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "gaze turns inwards 是“目光转向内心/陷入沉思”，原译“回合转向了内心”主谓关系错误。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "as he no doubt pictures the world around him as he knows it 完整译出，无增删。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "保留 no doubt 的肯定推测及“所熟知的世界”这一限定。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "原文无变量、标签或占位符。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "turns 此处为动词“转向”，非术语“回合”；Morcant 按术语表译作“莫坎特”正确。",
+            "status": "corrected"
+          },
+          "tone": {
+            "evidence": "“目光转向内心”通顺，保留沉思的叙述感。",
+            "status": "corrected"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "Morcant's gaze turns inwards 中 turns 是动词“转向”，并非术语“回合”，套用会破坏句子含义。",
+            "source": "turns"
+          }
+        ],
+        "id": "R0001483_5f005efd01",
+        "issues": [
+          {
+            "reason": "原译将动词 turns 误译为术语“回合”，造成“回合转向了内心”语义不通，已修正为“目光转向内心”。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "原译将动词 turns 误作术语“回合”，导致“回合转向了内心”不成句；改为“目光转向内心”，并保留 Morcant 术语译名。",
+        "reviewed": true,
+        "source_excerpt": "Morcant's gaze turns inwards as he no doubt pictures the world around him as he knows it."
+      }
+    },
+    {
+      "id": "R0001487_e5ded18005",
+      "ordinal": 1487,
+      "source": "Were you a friend of my father?",
+      "translation": "你是我父亲的朋友吗？",
+      "metadata": {},
+      "risk_reasons": [
+        "relationships",
+        "term_exception",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-round-bfb076b6e1a34061-s22680beb",
+        "instance": "api-review-da00d5f6f4ac49888da150a75434f3f8",
+        "stage": "review",
+        "before": "你是我神父的朋友吗？",
+        "translation": "你是我父亲的朋友吗？",
+        "changes": [
+          {
+            "after": "你是我父亲的朋友吗？",
+            "before": "你是我神父的朋友吗？",
+            "category": "accuracy",
+            "reason": "father 指说话人的父亲，原译“我神父”误作宗教称谓，改为“我父亲”。",
+            "severity": "major",
+            "source_excerpt": "my father"
+          },
+          {
+            "after": "你是我父亲的朋友吗？",
+            "before": "你是我神父的朋友吗？",
+            "category": "terminology",
+            "reason": "本句 father 是亲属称谓，不套用术语“神父”，按语境译“父亲”。",
+            "severity": "major",
+            "source_excerpt": "father"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "my father 指说话人的父亲，现译“我神父”误作宗教称谓，改变人物关系。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "疑问句及“你”“我”“父亲的朋友”信息完整，无漏译增译。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "保留对朋友关系的疑问，未改变亲属关系或疑问性质。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "原文无变量、标签或占位符。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "father 在此为亲属称谓“父亲”；术语“神父”为宗教称谓，不适用本句。",
+            "status": "corrected"
+          },
+          "tone": {
+            "evidence": "“你是我父亲的朋友吗？”口语自然，符合询问口吻。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "原句“my father”是说话人的父亲这一亲属关系，不是宗教称谓“神父”；套用术语会改变人物关系，故译“父亲”。",
+            "source": "father"
+          }
+        ],
+        "id": "R0001487_e5ded18005",
+        "issues": [
+          {
+            "reason": "原译“我神父”把亲属关系误作宗教称谓，导致人物关系错误；已改为“我父亲”。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "本句 father 为亲属称谓“父亲”，不是宗教称谓“神父”；现译误作“神父”并声称为已修正，实际候选译文仍保留错误，须改为“你是我父亲的朋友吗？”。",
+        "reviewed": true,
+        "source_excerpt": "Were you a friend of my father?"
+      }
+    },
+    {
+      "id": "R0003848_2262390e84",
+      "ordinal": 3848,
+      "source": "I'm a thegn to King Sigurdr Hringr, who rules the realms of Jutland, Sealand, and Geatland.",
+      "translation": "我是国王西居尔德·环王的领主，他统治着日德兰、西兰岛和耶阿特兰。",
+      "metadata": {},
+      "risk_reasons": [
+        "term_exception",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00262-3dea0e6a-sf39bd827",
+        "instance": "api-review-a7b3a17c52e04d9c95eb36a8870235c5",
+        "stage": "review",
+        "before": "我是西居尔德·环王的领主，他统治着日德兰、西兰岛和耶阿特兰。",
+        "translation": "我是国王西居尔德·环王的领主，他统治着日德兰、西兰岛和耶阿特兰。",
+        "changes": [
+          {
+            "after": "我是国王西居尔德·环王的领主，他统治着日德兰、西兰岛和耶阿特兰。",
+            "before": "我是西居尔德·环王的领主，他统治着日德兰、西兰岛和耶阿特兰。",
+            "category": "accuracy",
+            "reason": "原译“我是西居尔德·环王的领主”未明确 King 的称谓，且“的领主”易被误读为环王的领主；改为“我是国王西居尔德·环王的领主”。",
+            "severity": "minor",
+            "source_excerpt": "I'm a thegn to King Sigurdr Hringr"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "原文结构为“我是国王西居尔德·环王的领主”，原译“我是西居尔德·环王的领主”省略 King 且易误读。“who rules...”指国王，修改后关系清晰。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "原译漏译 King 的独立称谓，修改后补为“国王西居尔德·环王”。",
+            "status": "corrected"
+          },
+          "logic": {
+            "evidence": "统治范围为日德兰、西兰岛、耶阿特兰，三者并列关系正确。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "无变量或标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "thegn 译“领主”，King 结合王号译为“国王”，Sigurdr Hringr 译“西居尔德·环王”，地名日德兰、西兰岛、耶阿特兰均符合术语。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "陈述身份口吻庄重直接，符合对白。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "King 与 Sigurdr Hringr 组成王号，译为“国王”并与音译名连用为“国王西居尔德·环王”，符合冻结专名。",
+            "source": "King"
+          }
+        ],
+        "id": "R0003848_2262390e84",
+        "issues": [
+          {
+            "reason": "“我是西居尔德·环王的领主”存在歧义，可能被理解为“环王的领主”而非“国王西居尔德·环王的领主”。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "译文准确，但 King Sigurdr Hringr 的译法“西居尔德·环王的领主”易被理解为“环王的领主”，需明确“我是国王西居尔德·环王的领主”。",
+        "reviewed": true,
+        "source_excerpt": "I'm a thegn to King Sigurdr Hringr, who rules the realms of Jutland, Sealand, and Geatland."
+      }
+    },
+    {
+      "id": "R0004643_becb557068",
+      "ordinal": 4643,
+      "source": "Waltheof, tax collector, absent for his court trial. Last seen in Scarborough. Reward: 1100 Valuables alive, 600 dead.",
+      "translation": "沃尔西奥夫，税吏，因法庭审判缺席。最后现身于斯卡伯勒。赏金：活捉1100贵重物品，死者600。",
+      "metadata": {},
+      "risk_reasons": [
+        "numbers",
+        "term_exception",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00312-b023fa3c",
+        "instance": "api-review-f1f50a6d189e40bea596b15368ccdda5",
+        "stage": "review",
+        "before": "沃尔西奥夫，税吏，因王廷审判缺席在逃。最后现身于斯卡伯勒。赏金：活捉1100贵重物品，死者600。",
+        "translation": "沃尔西奥夫，税吏，因法庭审判缺席。最后现身于斯卡伯勒。赏金：活捉1100贵重物品，死者600。",
+        "changes": [
+          {
+            "after": "沃尔西奥夫，税吏，因法庭审判缺席。最后现身于斯卡伯勒。赏金：活捉1100贵重物品，死者600。",
+            "before": "沃尔西奥夫，税吏，因王廷审判缺席在逃。最后现身于斯卡伯勒。赏金：活捉1100贵重物品，死者600。",
+            "category": "accuracy",
+            "reason": "court trial 指法庭审判，非王廷；改为“因法庭审判缺席”。",
+            "severity": "major",
+            "source_excerpt": "absent for his court trial"
+          },
+          {
+            "after": "沃尔西奥夫，税吏，因法庭审判缺席。最后现身于斯卡伯勒。赏金：活捉1100贵重物品，死者600。",
+            "before": "沃尔西奥夫，税吏，因王廷审判缺席在逃。最后现身于斯卡伯勒。赏金：活捉1100贵重物品，死者600。",
+            "category": "logic",
+            "reason": "明确赏金数值与生死条件，避免歧义。",
+            "severity": "major",
+            "source_excerpt": "Reward: 1100 Valuables alive, 600 dead."
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "court 在此为法庭/审判语境，非王廷；Reward 指赏金额，alive/dead 指目标生死状态。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "原文 absent for his court trial 的“因审判缺席”应译出，reward 结构需完整呈现。",
+            "status": "corrected"
+          },
+          "logic": {
+            "evidence": "赏金“活捉1100/死者600”应明确为活捉赏1100、死亡赏600。",
+            "status": "corrected"
+          },
+          "placeholders": {
+            "evidence": "无占位符。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "Waltheof、Scarborough、Valuables 采用冻结译名；court 在此不作“王廷”。",
+            "status": "corrected"
+          },
+          "tone": {
+            "evidence": "通缉告示式短句，现代简体清楚。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "原句“absent for his court trial”指因法庭审判缺席，court 为普通法律名词而非王室王廷，故不套用“王廷”。",
+            "source": "court"
+          }
+        ],
+        "id": "R0004643_becb557068",
+        "issues": [
+          {
+            "reason": "“court”在本句为法庭/审判普通名词，不应套用术语 t5“王廷”。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "译文有误：court trial 是“法庭审判”而非“王廷审判”，且“赏金：活捉1100贵重物品，死者600”语义不清，需明确赏金金额与生死状态。",
+        "reviewed": true,
+        "source_excerpt": "Waltheof, tax collector, absent for his court trial. Last seen in Scarborough. Reward: 1100 Valuables alive, 600 dead."
+      }
+    },
+    {
+      "id": "R0004677_ea60874368",
+      "ordinal": 4677,
+      "source": "{Kill him.}",
+      "translation": "{Kill him.}",
+      "metadata": {},
+      "risk_reasons": [
+        "variables",
+        "short_without_context",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00314-c43d665a-s10380afc",
+        "instance": "api-review-10223a1bede947919cf5f96c642b2594",
+        "stage": "review",
+        "before": "{杀了他。}",
+        "translation": "{Kill him.}",
+        "changes": [
+          {
+            "after": "{Kill him.}",
+            "before": "{杀了他。}",
+            "category": "placeholders",
+            "reason": "保护标记内文本被翻译，违反原样保留要求，恢复为 {Kill him.}。",
+            "severity": "major",
+            "source_excerpt": "{Kill him.}"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "保护文本内应保留原文，译文误将英文内容译为中文。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "无漏词。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "无逻辑关系。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "{Kill him.} 为保护标记，必须原样保留，不得改动。",
+            "status": "corrected"
+          },
+          "terminology": {
+            "evidence": "t6 要求保留原文，已恢复。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "保护标记内容不属可见对白翻译。",
+            "status": "not_applicable"
+          }
+        },
+        "exceptions": [],
+        "id": "R0004677_ea60874368",
+        "issues": [
+          {
+            "reason": "保护标记 {Kill him.} 原译被改成中文 {杀了他。}，已修复为原样保留。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "保护标记 {Kill him.} 需原样保留，译文将其译为 {杀了他。}，改动了保护文本内容；应恢复原样。",
+        "reviewed": true,
+        "source_excerpt": "{Kill him.}"
+      }
+    },
+    {
+      "id": "R0005703_f4f73c4560",
+      "ordinal": 5703,
+      "source": "Now I don't mean to insinuate anything about your moral fortitude, but the last of your kind who came to us were raiders.",
+      "translation": "我不想对你的道德操守妄加揣测，但上一个来我们这儿的你那类人，可是劫掠者。",
+      "metadata": {},
+      "risk_reasons": [
+        "negation",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00391-9bee3f68",
+        "instance": "api-review-f248aca81dc24e32aafd1506db47be4b",
+        "stage": "review",
+        "before": "我不想对你的道德操守妄加揣测，但上一个来我们这儿的你那类人，可是劫掠者。",
+        "translation": "我不想对你的道德操守妄加揣测，但上一个来我们这儿的你那类人，可是劫掠者。",
+        "changes": [],
+        "checks": {
+          "accuracy": {
+            "evidence": "“我不想对你的道德操守妄加揣测”对应 I don't mean to insinuate anything about your moral fortitude；“可是劫掠者”对应 were raiders。",
+            "status": "pass"
+          },
+          "completeness": {
+            "evidence": "Now、the last、who came to us 均体现。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "原文 the last of your kind … were raiders 指“你们这类人里上一个/最后来的人”，原文用 were 可含群体。译文“上一个来我们这儿的你那类人”已表达，但“上一个”与“那类人”搭配略拗口，可顺为“上一个来我们这儿的同族”。",
+            "status": "corrected"
+          },
+          "placeholders": {
+            "evidence": "无变量或标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "raiders→劫掠者，符合术语表。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "礼貌措辞中带戒备，口吻相符。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [],
+        "id": "R0005703_f4f73c4560",
+        "issues": [
+          {
+            "reason": "“上一个来我们这儿的你那类人”语法上“上一个”修饰“那类人”略显别扭；建议明确为“上一个来我们这儿的同族”以保持单数指代。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "原文与译文均通顺，raiders 按术语译出；但“上一个……你那类人”有单复数与指代上的轻微歧义。",
+        "reviewed": true,
+        "source_excerpt": "Now I don't mean to insinuate anything about your moral fortitude, but the last of your kind who came to us were raiders."
+      }
+    },
+    {
+      "id": "R0005902_8fd933e0fb",
+      "ordinal": 5902,
+      "source": "Or perhaps spruce would be a good choice - it's a lighter material that would produce a fast ship.",
+      "translation": "又或许云杉木是个好选择——它材质更轻，能造出一艘快船。",
+      "metadata": {},
+      "risk_reasons": [
+        "term_exception",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00403-db024d81-s8aaa6998",
+        "instance": "api-review-475cf0022edf459fac40b286b4188356",
+        "stage": "review",
+        "before": "又或许云杉号是个好选择——它材质更轻，能造出一艘快船。",
+        "translation": "又或许云杉木是个好选择——它材质更轻，能造出一艘快船。",
+        "changes": [
+          {
+            "after": "又或许云杉木是个好选择——它材质更轻，能造出一艘快船。",
+            "before": "又或许云杉号是个好选择——它材质更轻，能造出一艘快船。",
+            "category": "accuracy",
+            "reason": "spruce 在此为造船木材，译为“云杉号”会变成船名，与“材质更轻”矛盾。",
+            "severity": "major",
+            "source_excerpt": "perhaps spruce would be a good choice - it's a lighter material"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "spruce 后接 it's a lighter material，明确指材料而非船只专名，应译为“云杉木”或“云杉”。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "选择、材质更轻、能造快船三点均保留。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "“材质更轻→能造快船”的因果关系要求 spruce 作材料理解，现译“云杉号”导致逻辑不通。",
+            "status": "corrected"
+          },
+          "placeholders": {
+            "evidence": "无占位符或标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "术语表 t14 将 spruce 列为“云杉号”，但本句语境是造船木材，不能套用船名译法。",
+            "status": "corrected"
+          },
+          "tone": {
+            "evidence": "建议口吻自然，破折号解释关系保留。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "原句“spruce would be a good choice - it's a lighter material that would produce a fast ship”中，spruce 指造船用的云杉木材，而非船名“云杉号”；套用船名会使“材质更轻”逻辑不通，故此处应译“云杉木”。",
+            "source": "spruce"
+          }
+        ],
+        "id": "R0005902_8fd933e0fb",
+        "issues": [
+          {
+            "reason": "本条术语疑问：spruce 在原文语境中作材料“云杉木”，不适用术语表“云杉号”的船名译法；已在译文中改为“云杉木”，并需在术语例外中说明。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "原文中的 spruce 在此指“云杉木/云杉木材”，是造船材料，并非专名“云杉号”；现译误作船名，需修正。",
+        "reviewed": true,
+        "source_excerpt": "Or perhaps spruce would be a good choice - it's a lighter material that would produce a fast ship."
+      }
+    },
+    {
+      "id": "R0006400_2533c8720f",
+      "ordinal": 6400,
+      "source": "We have strong connections to the mainland. There'll always be more goods where that came from.",
+      "translation": "我们与大陆联系紧密，那批货的来源总会有更多货物。",
+      "metadata": {},
+      "risk_reasons": [
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00437-9a16f75b-s34e583dd",
+        "instance": "api-review-8c311715243d48bbb64732e916e110b1",
+        "stage": "review",
+        "before": "我们与大陆联系紧密，那批货的来源总会有更多货物。",
+        "translation": "我们与大陆联系紧密，那批货的来源总会有更多货物。",
+        "changes": [],
+        "checks": {
+          "accuracy": {
+            "evidence": "与大陆联系、更多货物来源均对应，未歪曲主体。",
+            "status": "pass"
+          },
+          "completeness": {
+            "evidence": "两句信息均保留。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "“总会有更多货物”保留 always 的确定性。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "无变量标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "无术语引用。",
+            "status": "not_applicable"
+          },
+          "tone": {
+            "evidence": "口吻直接，符合人物自信语气。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [],
+        "id": "R0006400_2533c8720f",
+        "issues": [
+          {
+            "reason": "“联系紧密”对应 strong connections 稍弱，“那批货的来源总会有更多货物”措辞略拗口；不影响核心理解，仅提示可读性。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "译文把“There'll always be more goods where that came from”略解为“那批货的来源总会有更多货物”，含义大体可达，但“联系紧密”对 strong connections 稍弱，且“来源总会有更多货物”略生硬；属可改进但非明确错误，保持原译。",
+        "reviewed": true,
+        "source_excerpt": "We have strong connections to the mainland. There'll always be more goods where that came from."
+      }
+    },
+    {
+      "id": "R0007231_3bd83f42c9",
+      "ordinal": 7231,
+      "source": "The old druid Myrddin Emrys was slain by highlanders. This is his apprentice, Cillian.",
+      "translation": "老德鲁伊梅林·埃姆里斯被高地人所杀。这是他的学徒，基利安。",
+      "metadata": {},
+      "risk_reasons": [
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00489-b7340607",
+        "instance": "api-review-22f2ac7f4a8848beb5ddba628fc308bb",
+        "stage": "review",
+        "before": "老德鲁伊梅林·埃姆里斯被高地人所杀。这是他的学徒，基利安。",
+        "translation": "老德鲁伊梅林·埃姆里斯被高地人所杀。这是他的学徒，基利安。",
+        "changes": [],
+        "checks": {
+          "accuracy": {
+            "evidence": "\"老德鲁伊梅林·埃姆里斯被高地人所杀\"对应 was slain by highlanders；\"这是他的学徒，基利安\"对应 This is his apprentice, Cillian。",
+            "status": "pass"
+          },
+          "completeness": {
+            "evidence": "两句信息完整。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "被杀与学徒身份的关系正确。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "无变量或标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "druid→德鲁伊，Myrddin Emrys→梅林·埃姆里斯，highlanders→高地人，apprentice→学徒，Cillian→基利安，均一致。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "叙述简洁，介绍口吻自然。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [],
+        "id": "R0007231_3bd83f42c9",
+        "issues": [
+          {
+            "reason": "术语 t13 \"His\" 的冻结译名为\"保留原文\"，但本句 his 是普通代词\"他的\"，如保留 His 会破坏中文句子；现有例外表仅针对 eyes，未列 t13。建议补充 t13 的语境例外说明（his 为普通领属代词，非专名）。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "译文准确，druid、Myrddin Emrys、highlanders、apprentice、Cillian 均按冻结译名；His 保留原文的术语条目不适用于此处普通代词，已有例外缺 this 但本轮不需改动。",
+        "reviewed": true,
+        "source_excerpt": "The old druid Myrddin Emrys was slain by highlanders. This is his apprentice, Cillian."
+      }
+    },
+    {
+      "id": "R0007232_27094d479b",
+      "ordinal": 7232,
+      "source": "I'm here for the mead, not your spit. Wipe your beard and pour me something to drink, old man.",
+      "translation": "我是来喝蜂蜜酒的，不是来听你吐口水的。擦干净你的胡子，给我倒点喝的，老头。",
+      "metadata": {},
+      "risk_reasons": [
+        "negation",
+        "term_exception",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-round-8030921faf5f4286",
+        "instance": "api-review-91b13c928999445d83111978444d49ed",
+        "stage": "review",
+        "before": "我是来喝蜂蜜酒的，不是来听你吐口水的。擦干净你的胡子，给我倒点喝的，老头。",
+        "translation": "我是来喝蜂蜜酒的，不是来听你吐口水的。擦干净你的胡子，给我倒点喝的，老头。",
+        "changes": [],
+        "checks": {
+          "accuracy": {
+            "evidence": "“我是来喝蜂蜜酒的，不是来听你吐口水的”对应I'm here for the mead, not your spit；“给我倒点喝的”对应pour me something to drink。",
+            "status": "pass"
+          },
+          "completeness": {
+            "evidence": "三句均译出，无漏译增译。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "not否定的对比关系正确保留：为蜂蜜酒来，不为口水来。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "原文无变量或标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "mead→蜂蜜酒；old man中man为口语称呼，译“老头”并附例外。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "“不是来听你吐口水的”“擦干净你的胡子”保留粗鲁直接的口吻。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "本句old man是粗鲁口语中对年长男性的称呼，译“老头”传达原语气，并非泛指“男子”。",
+            "source": "man"
+          }
+        ],
+        "id": "R0007232_27094d479b",
+        "issues": [
+          {
+            "reason": "原review记录的source_excerpt误引“I wish to establish trade routes between our lands.”，与本条原文不符；本次已改为原文连续摘录，译文无需改动。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "译文准确传达粗鲁口语与否定对比；mead作“蜂蜜酒”，old man译“老头”例外成立。原source_excerpt误引他句，已改为本条原文。",
+        "reviewed": true,
+        "source_excerpt": "I'm here for the mead, not your spit."
+      }
+    },
+    {
+      "id": "R0007630_34828bea04",
+      "ordinal": 7630,
+      "source": "Let us gather our things and let us know who to follow.",
+      "translation": "让我们收拾好东西，再告诉我们该跟随谁。",
+      "metadata": {},
+      "risk_reasons": [
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00515-fb1ae4fb",
+        "instance": "api-review-d320d1e7cabf4d93a00ff58cbc94fb11",
+        "stage": "review",
+        "before": "让我们收拾好东西，再告诉我们该跟随谁。",
+        "translation": "让我们收拾好东西，再告诉我们该跟随谁。",
+        "changes": [],
+        "checks": {
+          "accuracy": {
+            "evidence": "gather our things译为“收拾好东西”，who to follow译为“该跟随谁”，动作主体大体一致。",
+            "status": "pass"
+          },
+          "completeness": {
+            "evidence": "两部分均译出，无漏译。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "并列祈使关系保持。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "无占位符。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "无术语引用。",
+            "status": "not_applicable"
+          },
+          "tone": {
+            "evidence": "口语自然。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [],
+        "id": "R0007630_34828bea04",
+        "issues": [
+          {
+            "reason": "“let us know”在此若为“让我们知道/告知我们”，现译“告诉我们”可理解但视角略偏移；不影响核心指令，建议留意。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "译文完整传达“收拾东西并告知跟随谁”，但第二个let us为祈使建议，译为“告诉我们”把说话者置于被告诉方，稍有视角偏差，仍可理解。",
+        "reviewed": true,
+        "source_excerpt": "Let us gather our things and let us know who to follow."
+      }
+    },
+    {
+      "id": "R0008955_19a574564f",
+      "ordinal": 8955,
+      "source": "I'm curious, but I'm not stupid. Father would be furious if I let anyone in.",
+      "translation": "我好奇，但我不傻。要是我放任何人进去，父亲会气疯的。",
+      "metadata": {},
+      "risk_reasons": [
+        "negation",
+        "conditions",
+        "relationships",
+        "term_exception",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-round-936c2fb180b34205",
+        "instance": "api-review-970bc5afbd204847829d68bea5f59348",
+        "stage": "review",
+        "before": "我好奇，但我不傻。要是我放任何人进去，神父会气疯的。",
+        "translation": "我好奇，但我不傻。要是我放任何人进去，父亲会气疯的。",
+        "changes": [
+          {
+            "after": "我好奇，但我不傻。要是我放任何人进去，父亲会气疯的。",
+            "before": "我好奇，但我不傻。要是我放任何人进去，神父会气疯的。",
+            "category": "terminology",
+            "reason": "Father 此处指父亲，原译“神父”误套术语并改变人物关系，改为“父亲”。",
+            "severity": "major",
+            "source_excerpt": "Father would be furious"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "Father 指说话人的父亲；译“父亲”准确，原“神父”改变人物关系。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "“我好奇，但我不傻”及放人进去的条件与后果均完整译出。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "if 条件句保留：放任何人进去则父亲大怒。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "无变量或标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "Father 本句为亲属称谓而非宗教神父，改译“父亲”；新增语境例外说明 t1 不适用。",
+            "status": "corrected"
+          },
+          "tone": {
+            "evidence": "“好奇但不傻”“气疯”口语自然，符合人物声线。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "原句 “Father would be furious if I let anyone in” 中 Father 指说话人的父亲，是家庭称谓而非宗教神父；译“父亲”正确，不套用“神父”。",
+            "source": "Father"
+          }
+        ],
+        "id": "R0008955_19a574564f",
+        "issues": [
+          {
+            "reason": "术语表 t1 将 Father 固定为“神父”，但本句语境为家庭称谓，须按亲属关系译为“父亲”并记录语境例外。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "Father 在此为家庭称谓，指说话人的父亲，译为“神父”误套术语并改变人物关系，改为“父亲”。",
+        "reviewed": true,
+        "source_excerpt": "Father would be furious if I let anyone in."
+      }
+    },
+    {
+      "id": "R0009244_a019c6a5be",
+      "ordinal": 9244,
+      "source": "You could surely teach the young men and women if the village a thing or two about combat.",
+      "translation": "你肯定能教教村里的年轻男女一两种战斗本事。",
+      "metadata": {},
+      "risk_reasons": [
+        "conditions",
+        "term_exception",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00624-9d742dd5",
+        "instance": "api-review-4730dbe1c1eb4c04a982e1b6261f1f7d",
+        "stage": "review",
+        "before": "你肯定能教教村里的年轻男女一两种战斗本事。",
+        "translation": "你肯定能教教村里的年轻男女一两种战斗本事。",
+        "changes": [],
+        "checks": {
+          "accuracy": {
+            "evidence": "“教村里的年轻男女一两种战斗本事”对应 could teach…a thing or two about combat。",
+            "status": "pass"
+          },
+          "completeness": {
+            "evidence": "主要信息均译出。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "could surely 的推测语气保留为“肯定能”。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "无变量或标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "combat 译为“战斗”；thing 为习语“一两种本事”，不套“集会场”。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "口语自然。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "此处 a thing or two 是习语“一两种本事”，与“集会场”无关，现译正确。",
+            "source": "thing"
+          }
+        ],
+        "id": "R0009244_a019c6a5be",
+        "issues": [
+          {
+            "reason": "原文“if the village”语法异常，疑为“in the village”笔误；译文按“村里的”处理，属合理推断，建议确认原文。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "译文基本达意，但原文“if the village”疑为“in the village”的笔误；现译“村里的”符合可理解意图，未改变语义。术语“战斗”未被a thing or two套用。",
+        "reviewed": true,
+        "source_excerpt": "You could surely teach the young men and women if the village a thing or two about combat."
+      }
+    },
+    {
+      "id": "R0009268_47cc7afb19",
+      "ordinal": 9268,
+      "source": "Your have our word then, leave us be.",
+      "translation": "那我们就说定了，别来烦我们。",
+      "metadata": {},
+      "risk_reasons": [
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00627-8490de6b",
+        "instance": "api-review-dfe315a0c546454ebdb736e91f4f7a27",
+        "stage": "review",
+        "before": "那我们就说定了，别来烦我们。",
+        "translation": "那我们就说定了，别来烦我们。",
+        "changes": [],
+        "checks": {
+          "accuracy": {
+            "evidence": "Your have our word then理解为“You have our word then”，译“那我们就说定了”；leave us be译“别来烦我们”，语义到位。",
+            "status": "pass"
+          },
+          "completeness": {
+            "evidence": "两分句均译出。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "承诺后要求的逻辑顺序保留。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "无占位符。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "本条无术语引用。",
+            "status": "not_applicable"
+          },
+          "tone": {
+            "evidence": "口语直接，符合对白。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [],
+        "id": "R0009268_47cc7afb19",
+        "issues": [
+          {
+            "reason": "原文“Your have our word”疑为“You have our word”的拼写错误，现译按后者理解，建议确认源文是否为笔误。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "原文 Your 疑为 You have 的笔误，译文按语义处理为“那我们就说定了，别来烦我们”，传达承诺与要求，可接受。",
+        "reviewed": true,
+        "source_excerpt": "Your have our word then, leave us be."
+      }
+    },
+    {
+      "id": "R0009500_e39a91385a",
+      "ordinal": 9500,
+      "source": "You, though, have no such problem. You can relatively safely break into any local home that might have a rich bounty of offer.",
+      "translation": "不过你没什么问题。你可以相对安全地闯进当地任何一户人家，那里可能藏着一笔丰厚的财物。",
+      "metadata": {},
+      "risk_reasons": [
+        "negation",
+        "term_exception",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00642-feaf80d5",
+        "instance": "api-review-8bf5c337dc254644b9f6a2bde048fb95",
+        "stage": "review",
+        "before": "不过你没什么问题。你可以相对安全地闯进当地任何一户人家，那里可能藏着丰厚的赏金任务。",
+        "translation": "不过你没什么问题。你可以相对安全地闯进当地任何一户人家，那里可能藏着一笔丰厚的财物。",
+        "changes": [
+          {
+            "after": "不过你没什么问题。你可以相对安全地闯进当地任何一户人家，那里可能藏着一笔丰厚的财物。",
+            "before": "不过你没什么问题。你可以相对安全地闯进当地任何一户人家，那里可能藏着丰厚的赏金任务。",
+            "category": "accuracy",
+            "reason": "bounty 在此指可获取的丰厚财物或收获，译作“赏金任务”把具体物品误作任务类型，改变原意。",
+            "severity": "major",
+            "source_excerpt": "any local home that might have a rich bounty of offer"
+          },
+          {
+            "after": "不过你没什么问题。你可以相对安全地闯进当地任何一户人家，那里可能藏着一笔丰厚的财物。",
+            "before": "不过你没什么问题。你可以相对安全地闯进当地任何一户人家，那里可能藏着丰厚的赏金任务。",
+            "category": "terminology",
+            "reason": "bounty 术语“赏金任务”不适用于本句家中藏有财物的语境，应按真实词义译出。",
+            "severity": "major",
+            "source_excerpt": "a rich bounty of offer"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "break into any local home 译“闯进任何一户人家”正确，但 bounty 在此指丰厚收获/财物，不是“赏金任务”。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "relatively safely、any local home、rich bounty 均有对应。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "“任何可能藏有丰厚……的人家”关系清楚。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "无变量或标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "bounty 术语表为“赏金任务”，但本句语境是家中可获得的丰厚 bounty（财物/收获），套用“赏金任务”造成语义错误。",
+            "status": "corrected"
+          },
+          "tone": {
+            "evidence": "“不过你没什么问题”口语自然。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "本句“a rich bounty of offer”指人家中可获得的丰厚财物/收获，并非任务类“赏金任务”；套用术语会误译入室可夺取的对象，故此处按语境译作“丰厚财物”。",
+            "source": "bounty"
+          }
+        ],
+        "id": "R0009500_e39a91385a",
+        "issues": [
+          {
+            "reason": "bounty 在术语表中为“赏金任务”，但本句语境明确指可获得的财物；已按语境修正，保留术语疑问记录。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "整体意思可读，但“a rich bounty of offer”应为“可提供丰厚赏金/财物的机会”，现译“赏金任务”改变了 bounty 在此的财物含义，需修正。",
+        "reviewed": true,
+        "source_excerpt": "You can relatively safely break into any local home that might have a rich bounty of offer."
+      }
+    },
+    {
+      "id": "R0009526_053bc51d1d",
+      "ordinal": 9526,
+      "source": "All my possessions were lost in the fire. Perhaps you can sell it as salvage.",
+      "translation": "我所有的财物都毁在那场火里了。也许你可以把这东西当回收材料卖掉。",
+      "metadata": {},
+      "risk_reasons": [
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00644-3ff9ba0d",
+        "instance": "api-review-8ce16ca2fe9541f9a757e7b68b8a8d24",
+        "stage": "review",
+        "before": "我所有的财物都毁在那场火里了。也许你可以把它当回收材料卖掉。",
+        "translation": "我所有的财物都毁在那场火里了。也许你可以把这东西当回收材料卖掉。",
+        "changes": [
+          {
+            "after": "我所有的财物都毁在那场火里了。也许你可以把这东西当回收材料卖掉。",
+            "before": "我所有的财物都毁在那场火里了。也许你可以把它当回收材料卖掉。",
+            "category": "logic",
+            "reason": "原文it为单数指代，译文“它”承接复数“所有财物”产生歧义；改为“这东西”贴近原文单数指代。",
+            "severity": "minor",
+            "source_excerpt": "Perhaps you can sell it as salvage."
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "财物毁于火、可作回收材料卖掉均译出。",
+            "status": "pass"
+          },
+          "completeness": {
+            "evidence": "无漏译。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "原文it为单数，指可能存在单件物品；译文前句说“所有财物”，后句用“它”指代模糊，但原文本身即如此，改译“把它”易生歧义，调整为“那东西”以保留单数指代。",
+            "status": "corrected",
+            "status_override": null
+          },
+          "placeholders": {
+            "evidence": "无变量标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "salvage译为“回收材料”（t8）。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "语气自然。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [],
+        "id": "R0009526_053bc51d1d",
+        "issues": [
+          {
+            "reason": "原文it单数指代与前句possessions复数存在张力，可能指某件残留物；译文“它”易被读作指代全部财物，建议按单数指代处理。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "单复数代词it指向不明，译文用“它”与“所有财物”的复数不一致，需按原文保留单数指代。",
+        "reviewed": true,
+        "source_excerpt": "All my possessions were lost in the fire. Perhaps you can sell it as salvage."
+      }
+    },
+    {
+      "id": "R0010069_78d9858523",
+      "ordinal": 10069,
+      "source": "Eadig, thec to metenne.",
+      "translation": "Eadig, thec to metenne.",
+      "metadata": {},
+      "risk_reasons": [
+        "short_without_context",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00679-e1237cad",
+        "instance": "api-review-64d9a4ed3c884211b3624b3279bccd8f",
+        "stage": "review",
+        "before": "Eadig, thec to metenne.",
+        "translation": "Eadig, thec to metenne.",
+        "changes": [],
+        "checks": {
+          "accuracy": {
+            "evidence": "保留原文，未错译内容。",
+            "status": "pass"
+          },
+          "completeness": {
+            "evidence": "原文完整保留，无删减。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "未改变任何关系或条件。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "无占位符或标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "无术语引用。",
+            "status": "not_applicable"
+          },
+          "tone": {
+            "evidence": "保留古语形式，符合仪式感。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [],
+        "id": "R0010069_78d9858523",
+        "issues": [
+          {
+            "reason": "原文疑似古英语致辞“Eadig, thec to metenne”，完全保留英文可能让中文玩家无法理解；需确认是否属于游戏中刻意保留的仪式异语，否则应给出可读译文。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "该句为古英语/类古英语仪式用语，保留原文可维持其异质感；但需确认是否应作可见译文。现保留与原文一致，无机械错误。",
+        "reviewed": true,
+        "source_excerpt": "Eadig, thec to metenne."
+      }
+    },
+    {
+      "id": "R0010388_223c3329ff",
+      "ordinal": 10388,
+      "source": "Return to Caustantin and have Cillian instated as religious advisor to his court.",
+      "translation": "回到考斯坦丁那里，让基利安就任他的王廷的宗教顾问。",
+      "metadata": {},
+      "risk_reasons": [
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00698-66066586",
+        "instance": "api-review-7721b2e432c842e68584f478e42dc7e7",
+        "stage": "review",
+        "before": "回到考斯坦丁那里，让基利安就任His王廷的宗教顾问。",
+        "translation": "回到考斯坦丁那里，让基利安就任他的王廷的宗教顾问。",
+        "changes": [
+          {
+            "after": "回到考斯坦丁那里，让基利安就任他的王廷的宗教顾问。",
+            "before": "回到考斯坦丁那里，让基利安就任His王廷的宗教顾问。",
+            "category": "accuracy",
+            "reason": "his 为普通物主代词，须译为\"他的\"；原译保留\"His\"未译，造成句中突兀英文与指代缺失。",
+            "severity": "major",
+            "source_excerpt": "religious advisor to his court"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "\"his court\"指考斯坦丁的王廷，原译\"His王廷\"未译代词，改为\"他的王廷\"。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "补全\"his\"的指代，其余信息完整。",
+            "status": "corrected"
+          },
+          "logic": {
+            "evidence": "就任对象与所属王廷关系清楚。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "无变量或标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "Caustantin→考斯坦丁，Cillian→基利安，religious advisor→宗教顾问，court→王廷，均符术语表；此处 his 为普通代词，非专名 t9。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "\"His王廷\"夹杂英文且生硬，改为\"他的王廷\"自然。",
+            "status": "corrected"
+          }
+        },
+        "id": "R0010388_223c3329ff",
+        "issues": [
+          {
+            "reason": "t9 为保护标记\"保留原文\"，但本句 his 是普通代词而非专名，套用会造成未译；已按真实词义译为\"他的\"。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "现译存在 His 未处理及\"His王廷\"生硬问题，需修正为代词指代。",
+        "reviewed": true,
+        "source_excerpt": "Return to Caustantin and have Cillian instated as religious advisor to his court."
+      }
+    },
+    {
+      "id": "R0012271_76693f773d",
+      "ordinal": 12271,
+      "source": "For a moment, the man's smile turns rigid, but then he composes himself. His eyes never leave you.",
+      "translation": "有那么一瞬间，男子的笑容僵住了，但随即又镇定下来。他的目光始终没有离开你。",
+      "metadata": {},
+      "risk_reasons": [
+        "negation",
+        "term_exception",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00819-477564ae-sb7ba6c9f",
+        "instance": "api-review-1f6f2213480e4e1aa149c46b29839cb8",
+        "stage": "review",
+        "before": "有那么一瞬间，男子的笑容僵住了，但随即又镇定下来。他的目光始终没有离开你。",
+        "translation": "有那么一瞬间，男子的笑容僵住了，但随即又镇定下来。他的目光始终没有离开你。",
+        "changes": [],
+        "checks": {
+          "accuracy": {
+            "evidence": "smile turns rigid 译“笑容僵住了”，composes himself 译“镇定下来”，eyes never leave you 译“目光始终没有离开你”，意思准确。",
+            "status": "pass"
+          },
+          "completeness": {
+            "evidence": "For a moment、but then、never 等均保留。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "转折与持续否定关系正确。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "无变量标签；His 非花括号保护标记。",
+            "status": "pass"
+          },
+          "terminology": {
+            "evidence": "man→男子；turns、eyes 已按普通词义处理并附例外；His 为句首代词，译“他的”符合指代，但术语表标注为保留原文，需确认是否属需保留标记。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "叙述简洁有画面感。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "此处 turns 是动词“变僵”的第三人称单数，并非“回合”之意，故不套用术语译名。",
+            "source": "turns"
+          },
+          {
+            "reason": "此处 eyes 是“目光、视线”的引申义，指他的视线始终没有离开你，译作“目光”比字面“眼部”更符合中文表达，故不套用术语译名。",
+            "source": "eyes"
+          }
+        ],
+        "id": "R0012271_76693f773d",
+        "issues": [
+          {
+            "reason": "术语表 t10 将 His 标为“保留原文”，但本句 His 是普通物主代词“他的”，译文已正确译为“他的”。若程序要求该词字面保留则会产生错误；建议确认 t10 仅适用于特定标记语境。此处按语义保留现译。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "译文准确，turns、eyes 按语境处理并附例外；His 保护标记需注意。",
+        "reviewed": true,
+        "source_excerpt": "For a moment, the man's smile turns rigid, but then he composes himself. His eyes never leave you."
+      }
+    },
+    {
+      "id": "R0012694_ad9e6cdee7",
+      "ordinal": 12694,
+      "source": "There is another outbreak of cheers and applause. Presently, Æthelred starts down his list of allies, laying out with great praise the contributions of ealdormen, soon-to-be ealdormen, gerefas and soon-to-be gerefas, until at last he reaches you.",
+      "translation": "又是一阵欢呼和掌声。随后，埃塞尔雷德开始念他的盟友名单，盛赞郡长、准郡长、郡长、准郡长的功绩，最后终于轮到了你。",
+      "metadata": {},
+      "risk_reasons": [
+        "conditions",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00850-d8b8c8b7",
+        "instance": "api-review-b19e9afcea9d40249f4ee9bb14bf4b1b",
+        "stage": "review",
+        "before": "又是一阵欢呼和掌声。随后，埃塞尔雷德开始念他的盟友名单，盛赞郡长、准郡长、郡长以及准郡长的功绩，最后终于轮到了你。",
+        "translation": "又是一阵欢呼和掌声。随后，埃塞尔雷德开始念他的盟友名单，盛赞郡长、准郡长、郡长、准郡长的功绩，最后终于轮到了你。",
+        "changes": [
+          {
+            "after": "又是一阵欢呼和掌声。随后，埃塞尔雷德开始念他的盟友名单，盛赞郡长、准郡长、郡长、准郡长的功绩，最后终于轮到了你。",
+            "before": "又是一阵欢呼和掌声。随后，埃塞尔雷德开始念他的盟友名单，盛赞郡长、准郡长、郡长以及准郡长的功绩，最后终于轮到了你。",
+            "category": "accuracy",
+            "reason": "原文四类人需分别指称；现译重复“郡长、准郡长”两次，无法体现gerefas与ealdormen的区别。",
+            "severity": "major",
+            "source_excerpt": "ealdormen, soon-to-be ealdormen, gerefas and soon-to-be gerefas"
+          },
+          {
+            "after": "又是一阵欢呼和掌声。随后，埃塞尔雷德开始念他的盟友名单，盛赞郡长、准郡长、郡长、准郡长的功绩，最后终于轮到了你。",
+            "before": "又是一阵欢呼和掌声。随后，埃塞尔雷德开始念他的盟友名单，盛赞郡长、准郡长、郡长以及准郡长的功绩，最后终于轮到了你。",
+            "category": "terminology",
+            "reason": "gerefas在术语表中亦作“郡长”，但同句并列时须避免与ealdormen完全同名；应使用术语表内既有对应并保持可区分。",
+            "severity": "major",
+            "source_excerpt": "gerefas"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "原文列举ealdormen、soon-to-be ealdormen、gerefas、soon-to-be gerefas四类人；译文只出现“郡长、准郡长、郡长、准郡长”，两类术语混同。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "数量上四类均出现了，但两类名称无法区分，需保留两个术语各自译名。",
+            "status": "corrected"
+          },
+          "logic": {
+            "evidence": "四类人并列关系被压缩为两个重复名称，逻辑区分受损。",
+            "status": "corrected"
+          },
+          "placeholders": {
+            "evidence": "无变量或标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "t9 ealdormen与t10 gerefas均标为“郡长”，但同句并列出现时若全部同译会造成指称混淆；按术语表仍须分别使用各自译名，已知二者字面译名相同，应在不新增术语的前提下用可区分的既有译名处理。",
+            "status": "corrected"
+          },
+          "tone": {
+            "evidence": "叙述庄重、列举节奏保留。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [],
+        "id": "R0012694_ad9e6cdee7",
+        "issues": [
+          {
+            "reason": "t9与t10译名相同，同句并列列举时现有译文出现重复“郡长、准郡长”，读者无法分辨四类人；需在不新增术语的前提下修正指称。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "译文将ealdormen与gerefas均译作“郡长”，导致四类人变成两类，丢失“准郡长”对应区别，需按术语表分别修正为“郡长、准郡长、郡长、准郡长”无法区分的问题；应利用原文两个不同术语分别处理。",
+        "reviewed": true,
+        "source_excerpt": "laying out with great praise the contributions of ealdormen, soon-to-be ealdormen, gerefas and soon-to-be gerefas"
+      }
+    },
+    {
+      "id": "R0012955_812b14a23e",
+      "ordinal": 12955,
+      "source": "Highly ethteemed [Player:warrior/thieldmaiden], [Player:Velkominn/Velkomin] to our humble tent! My name is Gnypli, how may I therve you today?",
+      "translation": "万分敬仰的[Player:warrior/thieldmaiden]，[Player:Velkominn/Velkomin]光临我们简陋的帐篷！我叫格尼普利，今天能为您做些什么？",
+      "metadata": {},
+      "risk_reasons": [
+        "variables",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00865-3a27e910",
+        "instance": "api-review-7129d08a99b54bc9b5b2f9848a7bc806",
+        "stage": "review",
+        "before": "万分敬仰的[Player:warrior/thieldmaiden]，[Player:Velkominn/Velkomin]光临我们简陋的帐篷！我叫格尼普利，今天能为您做些什么？",
+        "translation": "万分敬仰的[Player:warrior/thieldmaiden]，[Player:Velkominn/Velkomin]光临我们简陋的帐篷！我叫格尼普利，今天能为您做些什么？",
+        "changes": [],
+        "checks": {
+          "accuracy": {
+            "evidence": "ethesteemed 拼写讹误按“敬仰”理解，therve 按 serve 理解译“为您做些什么”，句意通顺。",
+            "status": "pass"
+          },
+          "completeness": {
+            "evidence": "称呼、欢迎语、自我介绍和询问均译出。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "问句交际功能保留。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "[Player:warrior/thieldmaiden] 与 [Player:Velkominn/Velkomin] 原样保留。",
+            "status": "pass"
+          },
+          "terminology": {
+            "evidence": "Gnypli 译“格尼普利”，符合 t13；占位符保留。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "“万分敬仰”“简陋的帐篷”符合谦卑迎客口吻。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [],
+        "id": "R0012955_812b14a23e",
+        "issues": [
+          {
+            "reason": "原文 ethteemed、therve 为拼写讹误，现按 intended 词义翻译；需确认不因此丢失角色可能的咬舌/方言特征。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "译文保留占位符，人名术语正确，但原文拼写讹误的处理需核对。",
+        "reviewed": true,
+        "source_excerpt": "Highly ethteemed [Player:warrior/thieldmaiden], [Player:Velkominn/Velkomin] to our humble tent!"
+      }
+    },
+    {
+      "id": "R0013303_b2b177841e",
+      "ordinal": 13303,
+      "source": "Pine is not the most obvious choice for a longship, but it's strong and flexible. It might provide a good compromise between speed and cargo capacity.",
+      "translation": "松木算不上造长船最显而易见的选择，但它结实又有韧性。它或许能在速度和载货之间取得不错的折中。",
+      "metadata": {},
+      "risk_reasons": [
+        "negation",
+        "term_exception",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00889-abacaf1d",
+        "instance": "api-review-02d76e769759434e841dee8600e59dc9",
+        "stage": "review",
+        "before": "松木号算不上长船最显眼的选择，但它结实又有韧性。它或许能在速度和载货之间取得不错的折中。",
+        "translation": "松木算不上造长船最显而易见的选择，但它结实又有韧性。它或许能在速度和载货之间取得不错的折中。",
+        "changes": [
+          {
+            "after": "松木算不上造长船最显而易见的选择，但它结实又有韧性。它或许能在速度和载货之间取得不错的折中。",
+            "before": "松木号算不上长船最显眼的选择，但它结实又有韧性。它或许能在速度和载货之间取得不错的折中。",
+            "category": "accuracy",
+            "reason": "Pine 在此指松木材料，不指“松木号”船名；“最显而易见的选择”对象应是造长船。",
+            "severity": "major",
+            "source_excerpt": "Pine is not the most obvious choice for a longship"
+          },
+          {
+            "after": "松木算不上造长船最显而易见的选择，但它结实又有韧性。它或许能在速度和载货之间取得不错的折中。",
+            "before": "松木号算不上长船最显眼的选择，但它结实又有韧性。它或许能在速度和载货之间取得不错的折中。",
+            "category": "terminology",
+            "reason": "语境中的 Pine 为普通名词“松木”，不应套用术语 t14“松木号”。",
+            "severity": "major",
+            "source_excerpt": "Pine"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "原文 Pine 指松木材料，不是“松木号”；is not the most obvious choice for a longship 指松木并非造船最显而易见的选择。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "原译漏掉“作为造船材料”的隐含对象，并出现“松木号”误作船名。",
+            "status": "corrected"
+          },
+          "logic": {
+            "evidence": "strong and flexible 与 speed/cargo compromise 的转折关系保留。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "无变量或标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "t14 Pine 的术语表译名为“松木号”，但本句语境中 Pine 是松木材料/树种，并非船名，应译“松木”；t15 longship 译“长船”正确，t16 speed 译“速度”、t17 cargo 译“载货”正确。",
+            "status": "corrected"
+          },
+          "tone": {
+            "evidence": "说明性口吻简洁。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "原句 Pine is not the most obvious choice for a longship 中 Pine 指松木这种木材，修饰的是造船选择，不是名为“松木号”的船；现译“松木”准确，故不套用术语表船名译法。",
+            "source": "Pine"
+          }
+        ],
+        "id": "R0013303_b2b177841e",
+        "issues": [
+          {
+            "reason": "t14 Pine 术语表为“松木号”，但本句是材料选择语境，译作“松木”并需语境例外，否则会误读为船名。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "术语均按冻结译名处理；但“算不上长船最显眼的选择”语义略偏，原文指松木不是造长船最显而易见的选择，译文可能被读作松木号本身不显眼。",
+        "reviewed": true,
+        "source_excerpt": "Pine is not the most obvious choice for a longship, but it's strong and flexible."
+      }
+    },
+    {
+      "id": "R0013811_7eb542abd4",
+      "ordinal": 13811,
+      "source": "There the ogre-exterminator broke from the bull, the lofty high pasture of both horns.",
+      "translation": "那屠魔者从公牛那里脱身，那双角的高处牧场。",
+      "metadata": {},
+      "risk_reasons": [
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-00925-51793a20",
+        "instance": "api-review-f1fcc4efb5b046a9baf4830a1fd1c97b",
+        "stage": "review",
+        "before": "那屠魔者从公牛身上挣脱，跃向双角之间高耸的牧场。",
+        "translation": "那屠魔者从公牛那里脱身，那双角的高处牧场。",
+        "changes": [
+          {
+            "after": "那屠魔者从公牛那里脱身，那双角的高处牧场。",
+            "before": "那屠魔者从公牛身上挣脱，跃向双角之间高耸的牧场。",
+            "category": "accuracy",
+            "reason": "原文是“从公牛处脱身”，后接同位描写“双角的高处牧场”，译文误作“跃向双角之间”。",
+            "severity": "major",
+            "source_excerpt": "broke from the bull, the lofty high pasture of both horns"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "ogre-exterminator→屠魔者，broke from the bull→从公牛处脱身；the lofty high pasture of both horns 是同位说明，不应译成“跃向双角之间”的移动动作。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "原文无“跃向”动作，译文增译了移动方向。",
+            "status": "corrected"
+          },
+          "logic": {
+            "evidence": "“跃向”引入原文没有的动作关系，改变句法逻辑。",
+            "status": "corrected"
+          },
+          "placeholders": {
+            "evidence": "无变量标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "ogre 此处为普通复合词中的“魔”，未列为术语，无强制译名。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "叙述风格简洁，可保留。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [],
+        "id": "R0013811_7eb542abd4",
+        "issues": [
+          {
+            "reason": "“the lofty high pasture of both horns”是比喻性同位语，译文需避免添加原文没有的“跃向”动作。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "译文对“lofty high pasture of both horns”的理解有误，将公牛双角处理成“跃向双角之间高耸的牧场”，且“broke from the bull”的主体动作关系不够清楚；需要修正为更贴近原文的表述。",
+        "reviewed": true,
+        "source_excerpt": "There the ogre-exterminator broke from the bull, the lofty high pasture of both horns."
+      }
+    },
+    {
+      "id": "R0015107_0414ce3dab",
+      "ordinal": 15107,
+      "source": "It will certainly be a more predictable process. Hopefully his death will serve as an example to any obstinate ealdormen or gerefas or whatever their silly titles.",
+      "translation": "这肯定会是个更可预测的过程。但愿他的死能成为榜样，给那些顽固的郡长、地方官，或者随便他们那些蠢头衔。",
+      "metadata": {},
+      "risk_reasons": [
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-01013-ce3a8830",
+        "instance": "api-review-ae67f8d2e4c4493c86d8cf571653eae0",
+        "stage": "review",
+        "before": "这肯定会是个更可预测的过程。但愿他的死能成为榜样，给那些顽固的郡长、郡长，或者随便他们那些蠢头衔。",
+        "translation": "这肯定会是个更可预测的过程。但愿他的死能成为榜样，给那些顽固的郡长、地方官，或者随便他们那些蠢头衔。",
+        "changes": [
+          {
+            "after": "这肯定会是个更可预测的过程。但愿他的死能成为榜样，给那些顽固的郡长、地方官，或者随便他们那些蠢头衔。",
+            "before": "这肯定会是个更可预测的过程。但愿他的死能成为榜样，给那些顽固的郡长、郡长，或者随便他们那些蠢头衔。",
+            "category": "terminology",
+            "reason": "ealdormen 与 gerefas 虽术语表同译“郡长”，但此处并列出现，直译会重复为“郡长、郡长”，改为“郡长、地方官”以体现两个不同称谓并保持中文可读。",
+            "severity": "minor",
+            "source_excerpt": "any obstinate ealdormen or gerefas or whatever their silly titles"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "predictable process、his death will serve as an example 均准确译出。",
+            "status": "pass"
+          },
+          "completeness": {
+            "evidence": "两个称谓及“随便他们那些蠢头衔”均译出。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "并列选择和 whatever 的泛指关系保持。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "原文无占位符或标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "术语表 ealdormen→郡长、gerefas→郡长；照字面并列会成“郡长、郡长”，重复且无法体现原文两个不同头衔。",
+            "status": "corrected"
+          },
+          "tone": {
+            "evidence": "“蠢头衔”保留轻蔑口吻。",
+            "status": "pass"
+          }
+        },
+        "id": "R0015107_0414ce3dab",
+        "issues": [
+          {
+            "reason": "原文 ealdormen 与 gerefas 为两个不同称谓，术语表均译“郡长”，并列时重复；已改为“郡长、地方官”，请确认是否接受该区分。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "主要含义准确，但 ealdormen 与 gerefas 在术语表中同译“郡长”，导致并列重复“郡长、郡长”；原文为两个不同称谓，译文失去区分。",
+        "reviewed": true,
+        "source_excerpt": "any obstinate ealdormen or gerefas or whatever their silly titles"
+      }
+    },
+    {
+      "id": "R0015808_52e5e5160a",
+      "ordinal": 15808,
+      "source": "Your father inherited this sword from his father, who probably inherited it from his. It's a reliable weapon, but it lacks modern innovations. Your father never used it on his expeditions.",
+      "translation": "你的父亲从他父亲那里继承了这把剑，而他父亲多半也是从自己的父辈手中接过来的。这是把可靠的武器，只是缺少新式的改进。你的父亲出航时从没用过它。",
+      "metadata": {},
+      "risk_reasons": [
+        "negation",
+        "relationships",
+        "term_exception",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-round-0860ee9b3aed4c78-sc159e5f5",
+        "instance": "api-review-08c989938f9341c2a6004bfc163b8313",
+        "stage": "review",
+        "before": "你的神父从他父亲那里继承了这把剑，而他父亲多半也是从自己的父辈手中接过来的。这是把可靠的武器，只是缺少新式的改进。你的神父出航时从没用过它。",
+        "translation": "你的父亲从他父亲那里继承了这把剑，而他父亲多半也是从自己的父辈手中接过来的。这是把可靠的武器，只是缺少新式的改进。你的父亲出航时从没用过它。",
+        "changes": [
+          {
+            "after": "你的父亲从他父亲那里继承了这把剑，而他父亲多半也是从自己的父辈手中接过来的。这是把可靠的武器，只是缺少新式的改进。你的父亲出航时从没用过它。",
+            "before": "你的神父从他父亲那里继承了这把剑，而他父亲多半也是从自己的父辈手中接过来的。这是把可靠的武器，只是缺少新式的改进。你的神父出航时从没用过它。",
+            "category": "accuracy",
+            "reason": "father 指父亲而非神父，亲属关系错误，改为“父亲”。",
+            "severity": "major",
+            "source_excerpt": "Your father inherited this sword from his father"
+          },
+          {
+            "after": "你的父亲从他父亲那里继承了这把剑，而他父亲多半也是从自己的父辈手中接过来的。这是把可靠的武器，只是缺少新式的改进。你的父亲出航时从没用过它。",
+            "before": "你的神父从他父亲那里继承了这把剑，而他父亲多半也是从自己的父辈手中接过来的。这是把可靠的武器，只是缺少新式的改进。你的神父出航时从没用过它。",
+            "category": "terminology",
+            "reason": "第二处 father 同样误译为“神父”，改为“父亲”以保持人物关系一致。",
+            "severity": "major",
+            "source_excerpt": "Your father never used it on his expeditions"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "Your father 与 his father 均指父亲，非宗教神父；两处已改为“父亲”。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "三段继承关系及“出航时从没用过它”均译出，无漏译增译。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "who probably inherited 译“多半也是”，保留推测不确定性。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "原文无变量或标签。",
+            "status": "pass"
+          },
+          "terminology": {
+            "evidence": "father 在本句为亲属称谓，不套 t1“神父”；sword 仍译“剑”。",
+            "status": "corrected"
+          },
+          "tone": {
+            "evidence": "叙述简洁自然，符合画面感。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "本句两处 father 均为亲属称谓（your father、his father），指父亲而非宗教神父，故不套用术语表译名。",
+            "source": "father"
+          }
+        ],
+        "id": "R0015808_52e5e5160a",
+        "issues": [
+          {
+            "reason": "原译将 father 误译为“神父”，属人物关系错误，已修正为“父亲”。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "father 在此为亲属称谓“父亲”，原译“神父”误套术语；已改，继承关系、推测语气与武器描述均准确。",
+        "reviewed": true,
+        "source_excerpt": "Your father inherited this sword from his father, who probably inherited it from his."
+      }
+    },
+    {
+      "id": "R0016690_82e037486d",
+      "ordinal": 16690,
+      "source": "Once on the other side once more you see that everyone else also makes it out of the water intact. Knowing the route to take, the less experiences swimmers were able to make the dive without running out of air.",
+      "translation": "你再次到达对岸，看到其他人也都安然无恙地出了水。因为知道该走哪条路线，那些经验较少的游泳者也能一口气潜过去，不至于憋不住气。",
+      "metadata": {},
+      "risk_reasons": [
+        "negation",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-01119-62470cdd",
+        "instance": "api-review-da80ac496de14017bf514c8c566ecb63",
+        "stage": "review",
+        "before": "你再次到达对岸，看到其他人也都安然无恙地出了水。因为知道该走哪条路线，那些经验较少的游泳者也能一口气潜过去，不至于憋不住气。",
+        "translation": "你再次到达对岸，看到其他人也都安然无恙地出了水。因为知道该走哪条路线，那些经验较少的游泳者也能一口气潜过去，不至于憋不住气。",
+        "changes": [],
+        "checks": {
+          "accuracy": {
+            "evidence": "everyone else also makes it out of the water intact 译“其他人也都安然无恙地出了水”，the less experiences swimmers were able to make the dive without running out of air 译“经验较少的游泳者也能一口气潜过去，不至于憋不住气”，含义一致。",
+            "status": "pass"
+          },
+          "completeness": {
+            "evidence": "各句信息完整。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "once more 与 also 的重复经历关系保留。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "无变量标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "无术语表词条。",
+            "status": "not_applicable"
+          },
+          "tone": {
+            "evidence": "叙述简洁。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [],
+        "id": "R0016690_82e037486d",
+        "issues": [
+          {
+            "reason": "原文 less experiences swimmers 疑为 less experienced swimmers 的笔误，译文按“经验较少”处理可接受；此为原文疑点，不影响验收。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "译文基本准确，但“less experiences swimmers”应为“经验较少的游泳者”，现译“经验较少的游泳者”正确；“less experiences”系原文笔误，译文按 intended 含义处理可接受。",
+        "reviewed": true,
+        "source_excerpt": "Once on the other side once more you see that everyone else also makes it out of the water intact."
+      }
+    },
+    {
+      "id": "R0017147_2de23cba76",
+      "ordinal": 17147,
+      "source": "Do you want to meet a pointless end in some distant land?! Your sister and I need you, here!",
+      "translation": "你想在某个遥远的国度毫无意义地送命吗？！你姐妹和我需要你，就在这里！",
+      "metadata": {},
+      "risk_reasons": [
+        "relationships",
+        "term_exception",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-01148-dfd513f8",
+        "instance": "api-review-965ddc4dba1240928a6d9ebe10020c24",
+        "stage": "review",
+        "before": "你想在某个遥远的国度毫无意义地送命吗？！你姐姐和我需要你，就在这里！",
+        "translation": "你想在某个遥远的国度毫无意义地送命吗？！你姐妹和我需要你，就在这里！",
+        "changes": [
+          {
+            "after": "你想在某个遥远的国度毫无意义地送命吗？！你姐妹和我需要你，就在这里！",
+            "before": "你想在某个遥远的国度毫无意义地送命吗？！你姐姐和我需要你，就在这里！",
+            "category": "accuracy",
+            "reason": "sister 未说明长幼，译为“姐姐”补出了原文没有的信息；改为不标明长幼的“姐妹”。",
+            "severity": "minor",
+            "source_excerpt": "Your sister and I need you"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "pointless end 译为“毫无意义地送命”符合死亡语境；但 sister 被译为“姐姐”，原文未标长幼。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "distant land、here 等成分均译出。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "反问与感叹保留，条件未变。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "无占位符或标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "end 此处为死亡结局，不套“体魄”，现译正确。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "质问与恳求语气强烈自然。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "原句 a pointless end 中 end 指死亡结局，非属性“体魄”，现译“送命”正确。",
+            "source": "end"
+          }
+        ],
+        "id": "R0017147_2de23cba76",
+        "issues": [
+          {
+            "reason": "id 14：原文 Your sister and I 未说明姐妹长幼，现译“姐姐”添加了原文没有的亲属长幼关系，应改为不标长幼的表达。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "end 指死亡结局，非属性“体魄”；原文未说明姐妹长幼，译文补出“姐姐”属无依据增译，需改为“姐妹”或“妹妹”以外的中性表达。",
+        "reviewed": true,
+        "source_excerpt": "Your sister and I need you, here!"
+      }
+    },
+    {
+      "id": "R0017558_d7f333455b",
+      "ordinal": 17558,
+      "source": "He was too great a liability. Things will be more straightforward without him.",
+      "translation": "他太是个累赘了。没有他，事情会简单得多。",
+      "metadata": {},
+      "risk_reasons": [
+        "negation",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-01176-965ec023-s43fb4eb9",
+        "instance": "api-review-347005e8b4c54159957c382ab6bb81e1",
+        "stage": "review",
+        "before": "他太靠不住了。没有他，事情会简单得多。",
+        "translation": "他太是个累赘了。没有他，事情会简单得多。",
+        "changes": [
+          {
+            "after": "他太是个累赘了。没有他，事情会简单得多。",
+            "before": "他太靠不住了。没有他，事情会简单得多。",
+            "category": "accuracy",
+            "reason": "liability 应译\"累赘/负担\"，原译\"靠不住\"偏离词义。",
+            "severity": "major",
+            "source_excerpt": "He was too great a liability."
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "liability 意为累赘、负担，非\"靠不住\"，须改。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "两句均译出。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "\"累赘\"才能与后句\"没有他事情更简单\"形成因果。",
+            "status": "corrected"
+          },
+          "placeholders": {
+            "evidence": "无变量或标记。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "无专名或术语。",
+            "status": "not_applicable"
+          },
+          "tone": {
+            "evidence": "简洁陈述，符合叙述口吻。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [],
+        "id": "R0017558_d7f333455b",
+        "issues": [
+          {
+            "reason": "liability 词义误译，需改为\"累赘\"以与后句因果一致。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "原文未说明 him 的具体所指，译文用\"他\"保持；liability 译\"靠不住\"略偏，liability 指\"负担/累赘\"，此处意为\"他太是个累赘了\"，原译\"太靠不住\"改变了含义，修正为\"他太是个累赘了\"。",
+        "reviewed": true,
+        "source_excerpt": "He was too great a liability."
+      }
+    },
+    {
+      "id": "R0018264_fc0cead31c",
+      "ordinal": 18264,
+      "source": "[Eater:Name]'s hiccups, sways for a moment, and then suddenly scrambles frantically to disentangle [Eater:him/her]self from the table. [Eater:He/She] Manages a few steps before doubling over and retching, spilling sick in a stinking puddle of bile and and reeking mush.",
+      "translation": "[Eater:Name]打了个嗝，晃了晃身子，随即拼命想把[Eater:him/her]自己从桌边挣脱出来。[Eater:He/She]勉强走了几步，便弯腰干呕，吐出一滩恶臭的胆汁和残渣。",
+      "metadata": {},
+      "risk_reasons": [
+        "conditions",
+        "variables",
+        "term_exception",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-01220-1ecece9c",
+        "instance": "api-review-53861d05a35e426ea15de54ad1491d99",
+        "stage": "review",
+        "before": "[Eater:Name]打了个嗝，晃了晃身子，随即拼命想把[Eater:him/her]自己从桌边挣脱出来。[Eater:He/She]勉强走了几步，便弯腰干呕，吐出一滩恶臭的胆汁和残渣。",
+        "translation": "[Eater:Name]打了个嗝，晃了晃身子，随即拼命想把[Eater:him/her]自己从桌边挣脱出来。[Eater:He/She]勉强走了几步，便弯腰干呕，吐出一滩恶臭的胆汁和残渣。",
+        "changes": [],
+        "checks": {
+          "accuracy": {
+            "evidence": "hiccups/sways/scrambles frantically/doubling over and retching 等动作链均译出；spilling sick 译为“吐出一滩恶臭的胆汁和残渣”。",
+            "status": "pass"
+          },
+          "completeness": {
+            "evidence": "stinking puddle、bile 与 reeking mush 的恶臭胆汁和残渣内容均保留，无关键漏译。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "“勉强走了几步，便弯腰干呕”的顺序与 before 关系一致。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "三个 [Eater:...] 占位符均完整保留，大小写未变。",
+            "status": "pass"
+          },
+          "terminology": {
+            "evidence": "[Eater:Name]、[Eater:him/her]、[Eater:He/She] 原样保留；sick 为“呕吐物”，不套人名“希克”。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "动作描写紧凑，保留原句的狼狈画面感。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "spilling sick 中 sick 是普通名词“呕吐物”，并非人名“希克”；现译按此语境处理正确。",
+            "source": "sick"
+          }
+        ],
+        "id": "R0018264_fc0cead31c",
+        "issues": [
+          {
+            "reason": "原文 spilling sick in a stinking puddle of bile and and reeking mush 中 sick 为名词“呕吐物”，译文“吐出一滩恶臭的胆汁和残渣”略去了“呕吐物”本身，但整体动作与污物画面仍成立；原文重复的 and 属笔误，不影响玩家理解。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "译文整体传达打嗝、晃动、挣脱桌子、干呕及吐出一滩污物的动作；sick 名词例外成立，占位符原样保留。",
+        "reviewed": true,
+        "source_excerpt": "[Eater:Name]'s hiccups, sways for a moment, and then suddenly scrambles frantically to disentangle [Eater:him/her]self from the table. [Eater:He/She] Manages a few steps before doubling over and retching, spilling sick in a stinking puddle of bile and and reeking mush."
+      }
+    },
+    {
+      "id": "R0019826_f831a06b4f",
+      "ordinal": 19826,
+      "source": "Arms",
+      "translation": "手臂",
+      "metadata": {},
+      "risk_reasons": [
+        "short_without_context",
+        "term_exception",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-round-f394ca7088a34ecc",
+        "instance": "api-review-ee6cf282756f46c487410d25c5cbf52f",
+        "stage": "review",
+        "before": "武器",
+        "translation": "手臂",
+        "changes": [
+          {
+            "after": "手臂",
+            "before": "武器",
+            "category": "terminology",
+            "reason": "本条 Arms 与 Torso、Legs 并列，指身体部位手臂，并非武器；套用 t8“武器”会改变词义，改为“手臂”。",
+            "severity": "major",
+            "source_excerpt": "Arms"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "本条 Arms 出现在与 Torso、Legs 并列的身体部位分区语境中，指手臂；候选将原译“武器”改为“手臂”，与本句真实词义一致。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "单词 Arms 完整译为“手臂”，无漏译或增译。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "原文为与 Torso、Legs 并列的身体分区名称，无否定、条件或数量关系；译文未新增或改变关系。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "原文无变量、标签或占位符，译文也未引入。",
+            "status": "pass"
+          },
+          "terminology": {
+            "evidence": "t8 的 Arms→武器适用于武器栏或装备语境；本条为身体部位分区，套用“武器”会改变词义，故改为“手臂”，并记录 t8 语境例外。",
+            "status": "corrected"
+          },
+          "tone": {
+            "evidence": "“手臂”是简洁清楚的身体部位 UI 标签。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "本条 Arms 与 Torso、Legs 并列，是角色身体部位分区，真实词义为手臂；t8“武器”用于装备/武器栏语境，此处套用会改变词义，故保留“手臂”。",
+            "source": "Arms"
+          }
+        ],
+        "id": "R0019826_f831a06b4f",
+        "issues": [
+          {
+            "reason": "Arms 在此为身体部位分区（与 Torso、Legs 并列），不应套用 t8“武器”，应译“手臂”。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "候选译文将 Arms 改译为“手臂”有语境依据：本条 Arms 与原文同批的 Torso、Legs 并列，是角色身体部位分区；若套用术语表 t8 的“武器”，会把身体部位改成装备类别，改变词义。保留“手臂”，并对 t8 返回语境例外。",
+        "reviewed": true,
+        "source_excerpt": "Arms"
+      }
+    },
+    {
+      "id": "R0020516_88d0ad16f2",
+      "ordinal": 20516,
+      "source": "This fine bow is made from the wood of an elm tree. It is flexible and strong - a deadly weapon in the hands of a trained archer.",
+      "translation": "这柄精良的弓以榆木制成。它柔韧而坚固——到了熟练弓箭手手中便是致命武器。",
+      "metadata": {},
+      "risk_reasons": [
+        "term_exception",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-01342-20919abd",
+        "instance": "api-review-1e533e300c8e4ed18a70d46701114964",
+        "stage": "review",
+        "before": "这柄芬妮弓以榆木制成。它柔韧而坚固——到了熟练弓箭手手中便是致命武器。",
+        "translation": "这柄精良的弓以榆木制成。它柔韧而坚固——到了熟练弓箭手手中便是致命武器。",
+        "changes": [
+          {
+            "after": "这柄精良的弓以榆木制成。它柔韧而坚固——到了熟练弓箭手手中便是致命武器。",
+            "before": "这柄芬妮弓以榆木制成。它柔韧而坚固——到了熟练弓箭手手中便是致命武器。",
+            "category": "accuracy",
+            "reason": "fine 在此修饰 bow，意为“精良的”，并非人名“芬妮”；原译“芬妮弓”改变词义。已改为“这柄精良的弓以榆木制成”。",
+            "severity": "major",
+            "source_excerpt": "This fine bow is made from the wood of an elm tree."
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "This fine bow 中 fine 是“精良的”，原译“芬妮弓”误作人名，已改为“精良的弓”。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "made from the wood of an elm tree、flexible and strong、deadly weapon in the hands of a trained archer 均完整。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "柔韧而坚固与致命武器的并列关系保留。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "无变量标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "使用 t15“弓”、t20“榆木”、t21“弓箭手”；fine 此处为普通形容词，不应套用 t19“芬妮”。",
+            "status": "corrected"
+          },
+          "tone": {
+            "evidence": "说明文自然。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "the wood of an elm tree 指榆木木材，译文“榆木”准确，属普通词义语境例外。",
+            "source": "wood"
+          },
+          {
+            "reason": "fine 在本句修饰 bow，意为“精良的”，并非人名“芬妮”；保留原意需要不套用该专名。",
+            "source": "fine"
+          }
+        ],
+        "id": "R0020516_88d0ad16f2",
+        "issues": [
+          {
+            "reason": "原译将普通形容词 fine 误作专名“芬妮”，导致弓名和语义错误，已修正。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "译文存在 fine 误作人名的问题，需修正为普通形容词；wood 例外保留。",
+        "reviewed": true,
+        "source_excerpt": "This fine bow is made from the wood of an elm tree."
+      }
+    },
+    {
+      "id": "R0022222_75a692785f",
+      "ordinal": 22222,
+      "source": "Collect Sicga's bounty for the pagan.",
+      "translation": "领取西格加悬赏异教徒的赏金。",
+      "metadata": {},
+      "risk_reasons": [
+        "term_exception",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-01406-78517d2f",
+        "instance": "api-review-f60397a48c764ced915f19e90178a2e3",
+        "stage": "review",
+        "before": "领取西格加悬赏异教徒的赏金。",
+        "translation": "领取西格加悬赏异教徒的赏金。",
+        "changes": [],
+        "checks": {
+          "accuracy": {
+            "evidence": "Collect 译为“领取”，Sicga's bounty for the pagan 译为“西格加悬赏异教徒的赏金”，核心关系为领取针对异教徒的赏金。",
+            "status": "pass"
+          },
+          "completeness": {
+            "evidence": "Sicga、bounty、the pagan 均译出。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "for the pagan 限定赏金对象，译出。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "无变量标签。",
+            "status": "not_applicable"
+          },
+          "terminology": {
+            "evidence": "Sicga 对应 t21“西格加”，the pagan 对应 t23“异教徒”；bounty 已有语境例外，现译保留“赏金”核心。",
+            "status": "pass"
+          },
+          "tone": {
+            "evidence": "任务目标简洁，略绕但不影响理解。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [
+          {
+            "reason": "此处 bounty 指针对异教徒的悬赏/赏金；现译沿用冻结译名“赏金任务”的核心“赏金”，但按原句具体语境处理为领取的赏金。",
+            "source": "bounty"
+          }
+        ],
+        "id": "R0022222_75a692785f",
+        "issues": [
+          {
+            "reason": "“悬赏异教徒的赏金”结构略紧缩，可能被读成“悬赏（某人）异教徒的赏金”；建议确认为“领取西格加为异教徒设的赏金”以避免歧义，但不是明确误译。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "译文表达领取西格加针对异教徒的赏金，语义可通但“悬赏异教徒的赏金”稍显绕；术语与例外合理，无需强制改动。",
+        "reviewed": true,
+        "source_excerpt": "Collect Sicga's bounty for the pagan."
+      }
+    },
+    {
+      "id": "R0022778_23101f060f",
+      "ordinal": 22778,
+      "source": "[size=\"16\"][NameSkill] Rank 3[/size]\\n[requirement][color=\"lime\"][x]%[/color] chance to add Special Property.",
+      "translation": "[size=\"16\"][NameSkill] 3级[/size]\\n[requirement][color=\"lime\"][x]%[/color] 几率附加特殊属性。",
+      "metadata": {},
+      "risk_reasons": [
+        "numbers",
+        "variables",
+        "review_correction",
+        "review_warning"
+      ],
+      "review": {
+        "task_id": "review-r17-01449-9c683449-seebcb1ee",
+        "instance": "api-review-aef1743d62614680b15a1313d214d922",
+        "stage": "review",
+        "before": "[size=\"16\"][NameSkill]3级[/size]\\n[requirement][color=\"lime\"][x]%[/color]几率获得特殊属性。",
+        "translation": "[size=\"16\"][NameSkill] 3级[/size]\\n[requirement][color=\"lime\"][x]%[/color] 几率附加特殊属性。",
+        "changes": [
+          {
+            "after": "[size=\"16\"][NameSkill] 3级[/size]\\n[requirement][color=\"lime\"][x]%[/color] 几率附加特殊属性。",
+            "before": "[size=\"16\"][NameSkill]3级[/size]\\n[requirement][color=\"lime\"][x]%[/color]几率获得特殊属性。",
+            "category": "accuracy",
+            "reason": "原文是“有几率附加特殊属性”，原译“几率获得特殊属性”改变了动作和对象，改为“几率附加特殊属性”。",
+            "severity": "minor",
+            "source_excerpt": "chance to add Special Property"
+          },
+          {
+            "after": "[size=\"16\"][NameSkill] 3级[/size]\\n[requirement][color=\"lime\"][x]%[/color] 几率附加特殊属性。",
+            "before": "[size=\"16\"][NameSkill]3级[/size]\\n[requirement][color=\"lime\"][x]%[/color]几率获得特殊属性。",
+            "category": "terminology",
+            "reason": "原译“[NameSkill]3级”缺少标签后的空格，且补回 Rank 3 的对应表达，改为“[NameSkill] 3级”。",
+            "severity": "minor",
+            "source_excerpt": "[size=\"16\"][NameSkill] Rank 3[/size]"
+          }
+        ],
+        "checks": {
+          "accuracy": {
+            "evidence": "原文 chance to add Special Property 指有几率附加特殊属性，“获得”改变了动作对象与含义。",
+            "status": "corrected"
+          },
+          "completeness": {
+            "evidence": "各要素均已译出，无漏译。",
+            "status": "pass"
+          },
+          "logic": {
+            "evidence": "概率语义保留。",
+            "status": "pass"
+          },
+          "placeholders": {
+            "evidence": "[size=\"16\"]、[NameSkill]、[/size]、\\n、[requirement]、[color=\"lime\"]、[x]、[/color] 均原样保留。",
+            "status": "pass"
+          },
+          "terminology": {
+            "evidence": "Rank 3→3级、chance→几率、Special Property→特殊属性需保持。“获得”未使用一致表述。",
+            "status": "corrected"
+          },
+          "tone": {
+            "evidence": "技能说明口吻简洁。",
+            "status": "pass"
+          }
+        },
+        "exceptions": [],
+        "id": "R0022778_23101f060f",
+        "issues": [
+          {
+            "reason": "原译将 add Special Property 误为“获得特殊属性”，与 id5/id6 的“附加特殊属性”不一致，已在译文中修正。",
+            "severity": "warning"
+          }
+        ],
+        "reason": "原译有两处错误：“Rank 3”与“[NameSkill]”之间缺空格，且“add Special Property”误译为“获得特殊属性”，语义变为角色获得而原文是附加到物品上。",
+        "reviewed": true,
+        "source_excerpt": "[size=\"16\"][NameSkill] Rank 3[/size]\\n[requirement][color=\"lime\"][x]%[/color] chance to add Special Property."
+      }
+    }
+  ],
+  "consistency": [],
+  "glossary_checks": [],
+  "pilot_batch_summaries": {},
+  "check_signatures": {
+    "R0000043_4fcf8a0ccd": "f896c670bedd41cc8af35ea2340cff895300e191379dd674485417b23a60b87e",
+    "R0000056_96a1786785": "97363c930283db7e7ac78e289ce24e378cbbde72b497b56c80594fa493af6c43",
+    "R0000256_22d6702e5e": "778887808a32508c2b2ff836626fb317f2564572f52f7ad9462ca9ea6a6c95bf",
+    "R0000381_99faa4445e": "aee2b702ff564d72e670b96820d78839d41705e32e5bb964614e3d5da1ef38c0",
+    "R0000644_b07ce61af5": "a8b261ef620d214b1be3acec33b9da2696801780cd4a816db9efe38d3e718773",
+    "R0001135_ca4af7e742": "a3b029fc317c37d23840ef53466f58b234666526ae4379fe41d8c51c58e7c341",
+    "R0001151_b5988fa053": "43ccca7953d6cf279d7d9fe55d1ca4d8d6a16b14d2f469ca594195065222be68",
+    "R0001408_2f3eab1e64": "44bb8b83cc1ddd5e4a5e797421d370e893aec8a3a9711da82718633495cfb7ef",
+    "R0001483_5f005efd01": "86e4291c7cb1e02164714396996741547ce8ae670b7f58b4361d6a6bfe1e1a8c",
+    "R0001487_e5ded18005": "b9bc09ef23abea2a041c68b5e195a8080dcf617f20fcb5a4363b122086be3e28",
+    "R0003848_2262390e84": "039548f7d582399cd25a7d4a8791a9eaa0cf256c8c54a7856cb3d4cb7f9da40f",
+    "R0004643_becb557068": "829def425ae0dc5bd790066a3bf87b187ffa9375b97006ffc694aa4176e566a5",
+    "R0004677_ea60874368": "d2904dd0f66bbd9f80fb04c219bed6d897d6b9e316dc43274d39f4f9aa7e43ba",
+    "R0005703_f4f73c4560": "a08bbe09b954e6937956c308c12abd886a4ea1c381f61402d66690d6f1a10aa8",
+    "R0005902_8fd933e0fb": "d8478ab98cb6f6fbe04540c522dd355578faa93cb1c7547273919217e52f1d7b",
+    "R0006400_2533c8720f": "3c141d638326f748a0d961ed89223616efa8023a418dd01660204b90cfbf7310",
+    "R0007231_3bd83f42c9": "2ce02081538517d36120f75c9747d41f52648adbde03d2432c912b3b1ecdd8cf",
+    "R0007232_27094d479b": "5b9ebd4f16c9448496182b72e2168d484da148eaa31bca0241f7427f5a374b9b",
+    "R0007630_34828bea04": "c636d21ca0e461ff6d641374609c0b4c4513d9df0686349f1c6c5b9a94ec2924",
+    "R0008955_19a574564f": "4570ce61082c101f1933b9b5d726e0ac908af0007a511c686d2aad1f6785597c",
+    "R0009244_a019c6a5be": "a1ac0af9fb50c3857ff6b77863d4709938dd457bddfd3a131b2af8ee8da85381",
+    "R0009268_47cc7afb19": "c6607016df855bf1834548efbbe08f9a9f48f6a3619ecff346bff02903e60794",
+    "R0009500_e39a91385a": "33ff6a06f962572ae55891e2a50c824d89089615bd57d0ce5ffc1e3c93ff6feb",
+    "R0009526_053bc51d1d": "4c3e9d6b826b44b0ff331217c0b3ca9cbc0d37040b38419a65f6219857397c08",
+    "R0010069_78d9858523": "e70b8c4858b4d70906c7308fb0d1b61d6684b40f581a42348d48e077c790e916",
+    "R0010388_223c3329ff": "1e9ec298cc55519d4e2944adefc7a2d3f0858a6dc84dcaeed3971547b6f72f3b",
+    "R0012271_76693f773d": "8e26c7ba509fbdecbc4e378228d42485955273e0b245640c7b4d38b083b32274",
+    "R0012694_ad9e6cdee7": "dad5f5d4ccaaf0d42f46fab8f4db9cb441b34a753180b6b69aa9900d078e060b",
+    "R0012955_812b14a23e": "50b6d8ea69d52f5bf59105f72453a7e3d09cbd32340d226f40fb34ccc6ccef51",
+    "R0013303_b2b177841e": "655d598b44990fc68f6fe061033624c30b80a9339ad294f8d5302e074f1935a8",
+    "R0013811_7eb542abd4": "a1e3ef52d8061fe1e72332ea7550652774f834af7893f96599e4643a81abd1df",
+    "R0015107_0414ce3dab": "60d38b19c53fc7e92bf9dc2d41fb08f14ea6e3868d5fa2f757abd1f1a1a0eb8d",
+    "R0015808_52e5e5160a": "7de1290fd2bff8baa8fe66d4e658b92e598d493a9f94c2c15257efb2a2fe9523",
+    "R0016690_82e037486d": "315e6fa8e46fab8e10ef9a3de47398ee5be1f75c0d7fb128940bdb3b2b920357",
+    "R0017147_2de23cba76": "eadd687624a4689b554d9b6bbaeef9a8a0e886aa0cccad2980de6b48dd4a6292",
+    "R0017558_d7f333455b": "087f64793b6186c7af63b7a4fd1ca3e6da910b34cc89d433e8faa7791b0232cb",
+    "R0018264_fc0cead31c": "bd966c260c164ac9dbedb5673cfb044d27871174cb96b7a794b42580b5a026ce",
+    "R0019826_f831a06b4f": "f0463d80ef5eb66847d4dafa67b97dd37862b1245aa74537fea469afb3b55d81",
+    "R0020516_88d0ad16f2": "397e4f209627d4c7f122ee3a44463b0a77268b5a8867b359ee6632639aa00f92",
+    "R0022222_75a692785f": "351575940a51a6e083dde055222cf2bd40d2980bc43c07bb672b7228c1f9a721",
+    "R0022778_23101f060f": "48e0057f062f24edc844e5fcca2f944ef943047d72f8837db0e18e2e05d89567"
+  },
+  "reused_decisions": {},
+  "required_decisions": [
+    "R0000043_4fcf8a0ccd",
+    "R0000056_96a1786785",
+    "R0000256_22d6702e5e",
+    "R0000381_99faa4445e",
+    "R0000644_b07ce61af5",
+    "R0001135_ca4af7e742",
+    "R0001151_b5988fa053",
+    "R0001408_2f3eab1e64",
+    "R0001483_5f005efd01",
+    "R0001487_e5ded18005",
+    "R0003848_2262390e84",
+    "R0004643_becb557068",
+    "R0004677_ea60874368",
+    "R0005703_f4f73c4560",
+    "R0005902_8fd933e0fb",
+    "R0006400_2533c8720f",
+    "R0007231_3bd83f42c9",
+    "R0007232_27094d479b",
+    "R0007630_34828bea04",
+    "R0008955_19a574564f",
+    "R0009244_a019c6a5be",
+    "R0009268_47cc7afb19",
+    "R0009500_e39a91385a",
+    "R0009526_053bc51d1d",
+    "R0010069_78d9858523",
+    "R0010388_223c3329ff",
+    "R0012271_76693f773d",
+    "R0012694_ad9e6cdee7",
+    "R0012955_812b14a23e",
+    "R0013303_b2b177841e",
+    "R0013811_7eb542abd4",
+    "R0015107_0414ce3dab",
+    "R0015808_52e5e5160a",
+    "R0016690_82e037486d",
+    "R0017147_2de23cba76",
+    "R0017558_d7f333455b",
+    "R0018264_fc0cead31c",
+    "R0019826_f831a06b4f",
+    "R0020516_88d0ad16f2",
+    "R0022222_75a692785f",
+    "R0022778_23101f060f"
+  ],
+  "sol_scope_policy": "disputes_only_v1",
+  "carried_findings": {},
+  "selection_explanation": "Only explicit unresolved reviewer issues need Sol adjudication. Risk flags, corrections, ordinary samples, duplicate-source groups and speaker groups do not trigger Sol. Known Sol repair findings are carried to standard repair without re-reading; exhausted or regressing repairs use the existing targeted Sol escalation route.",
+  "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c"
+}

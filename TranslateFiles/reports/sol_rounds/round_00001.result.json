@@ -1,0 +1,242 @@
+{
+  "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+  "decisions": {
+    "R0000043_4fcf8a0ccd": {
+      "disposition": "pass",
+      "id": "R0000043_4fcf8a0ccd",
+      "reason": "原文 just fine 表示‘照样/顺利’，不是人名；当前译文已删除无依据的‘芬妮’，条件关系和回程含义完整。"
+    },
+    "R0000056_96a1786785": {
+      "disposition": "pass",
+      "id": "R0000056_96a1786785",
+      "reason": "原文 him and his 指他及其所属的人，未限定为同伴；当前‘他和他的那些人’已保留模糊指代，吃喝的否定也完整。"
+    },
+    "R0000256_22d6702e5e": {
+      "disposition": "pass",
+      "id": "R0000256_22d6702e5e",
+      "reason": "Cured 修饰 Armour，是护甲材料的处理语境；当前‘鞣制护甲’已消除‘已治愈护甲’的误读，并记录术语例外。"
+    },
+    "R0000381_99faa4445e": {
+      "disposition": "pass",
+      "id": "R0000381_99faa4445e",
+      "reason": "句首 Fine. 是独立感叹词；当前‘好吧’已消除误作人名‘芬妮’的问题，后句含义完整。"
+    },
+    "R0000644_b07ce61af5": {
+      "disposition": "pass",
+      "id": "R0000644_b07ce61af5",
+      "reason": "原文 enlisting your help 指争取对方帮助；当前译文已译为‘争取到你们的帮助’，没有遗留英文或漏译。"
+    },
+    "R0001135_ca4af7e742": {
+      "disposition": "pass",
+      "id": "R0001135_ca4af7e742",
+      "reason": "Tomb Raider 作为标题须体现 Tomb；当前‘盗墓者’已完整表达组合词义，Raider 的单词术语不应机械套入。"
+    },
+    "R0001151_b5988fa053": {
+      "disposition": "pass",
+      "id": "R0001151_b5988fa053",
+      "reason": "原文 This spruce 及 Its wood 明示树木和木材；当前‘这棵云杉’已纠正误套船名‘云杉号’的问题。"
+    },
+    "R0001408_2f3eab1e64": {
+      "disposition": "contextual",
+      "id": "R0001408_2f3eab1e64",
+      "reason": "I really don't. 省略承接上文的动词；本包未提供前句，无法断定省略的是 know、have 等何种动作。当前‘我真的不知道’是可能的口语承接，但需在取得直接前文后才可裁定是否改动，不能仅凭孤句返修。"
+    },
+    "R0001483_5f005efd01": {
+      "disposition": "pass",
+      "id": "R0001483_5f005efd01",
+      "reason": "Morcant's gaze turns inwards 中 turns 是动词；当前‘目光转向内心’已消除误套‘回合’的错误。"
+    },
+    "R0001487_e5ded18005": {
+      "disposition": "pass",
+      "id": "R0001487_e5ded18005",
+      "reason": "my father 明确是亲属称谓；当前‘我父亲’已纠正误译为‘神父’的人物关系错误，旧 review 的‘仍保留错误’描述与当前译文不符。"
+    },
+    "R0003848_2262390e84": {
+      "disposition": "pass",
+      "id": "R0003848_2262390e84",
+      "reason": "当前译文已有‘国王西居尔德·环王’，原 issue 所指缺少‘国王’造成的歧义已消除；本轮不因领主称谓的偏好再返修。"
+    },
+    "R0004643_becb557068": {
+      "disposition": "repair",
+      "id": "R0004643_becb557068",
+      "reason": "受影响 record_ids：[R0004643_becb557068]。原文 ‘absent for his court trial’ 表示此人缺席自己的法庭审判，当前‘因法庭审判缺席’把缺席原因误写成审判；原文 ‘Reward: 1100 Valuables alive, 600 dead’ 按活捉与死亡两种交付状态列出贵重物品赏金，当前‘活捉1100贵重物品，死者600’使贵重物品成为活捉对象且第二档单位不明。验收要求：明确此人缺席审判；明确活捉奖励1100贵重物品、死亡状态奖励600贵重物品，两档数额与单位一一对应；保留沃尔西奥夫、税吏、斯卡伯勒及 court 为法庭的语义，不增添原文没有的情节。",
+      "record_ids": [
+        "R0004643_becb557068"
+      ]
+    },
+    "R0004677_ea60874368": {
+      "disposition": "pass",
+      "id": "R0004677_ea60874368",
+      "reason": "原文保护标记为 {Kill him.}；当前译文逐字保留，先前译成中文的问题已修正。"
+    },
+    "R0005703_f4f73c4560": {
+      "disposition": "pass",
+      "id": "R0005703_f4f73c4560",
+      "reason": "the last of your kind who came to us 已由‘上一个来我们这儿的你那类人’表达，raiders 也已译出；措辞稍拗口但没有明确指代或数量错误，不以同义偏好返修。"
+    },
+    "R0005902_8fd933e0fb": {
+      "disposition": "pass",
+      "id": "R0005902_8fd933e0fb",
+      "reason": "it's a lighter material 明示 spruce 是造船材料；当前‘云杉木’已消除误作船名的问题，术语例外亦有说明。"
+    },
+    "R0006400_2533c8720f": {
+      "disposition": "pass",
+      "id": "R0006400_2533c8720f",
+      "reason": "strong connections 和 always be more goods 的要义已保留；‘联系紧密’与‘来源总会有更多货物’仅是可读性偏好，无明确语义错误，不返修。"
+    },
+    "R0007231_3bd83f42c9": {
+      "disposition": "contextual",
+      "id": "R0007231_3bd83f42c9",
+      "reason": "his apprentice 中 his 是普通领属代词，当前‘他的学徒’准确；冻结术语 His 的‘保留原文’不适用于此句。review 建议补充例外说明，但没有译文错误或需要改写的文本；记录语境判断即可。"
+    },
+    "R0007232_27094d479b": {
+      "disposition": "pass",
+      "id": "R0007232_27094d479b",
+      "reason": "原 issue 是 review 的 source_excerpt 曾误引他句；当前摘录已对应本条 mead 与 spit 原文，译文无需因元数据旧错返修。"
+    },
+    "R0007630_34828bea04": {
+      "disposition": "contextual",
+      "id": "R0007630_34828bea04",
+      "reason": "源文先说 Let us gather our things，随后说 let us know who to follow，本身在两个 us 的施事和受事之间切换。现译保留了收拾物品及告知跟随对象两项信息；仅凭本句不能认定需把第二个 us 改为其他人称。"
+    },
+    "R0008955_19a574564f": {
+      "disposition": "pass",
+      "id": "R0008955_19a574564f",
+      "reason": "Father would be furious if I let anyone in 中 Father 是说话人的父亲；当前译文已由旧译‘神父’改为‘父亲’，亲属关系问题已消除。"
+    },
+    "R0009244_a019c6a5be": {
+      "disposition": "contextual",
+      "id": "R0009244_a019c6a5be",
+      "reason": "源文 if the village 位于 young men and women 与 a thing or two about combat 之间，语法不通，按 in the village 的显然笔误理解为‘村里的’合理；当前译文传达教村中青年战斗本事，无需因原文拼写返修。"
+    },
+    "R0009268_47cc7afb19": {
+      "disposition": "contextual",
+      "id": "R0009268_47cc7afb19",
+      "reason": "Your have our word 语法异常，按 You have our word 理解为作出承诺合理；当前译文‘那我们就说定了，别来烦我们’保留了承诺和 leave us be 的要求，原文疑似拼写错误不构成译文返修。"
+    },
+    "R0009500_e39a91385a": {
+      "disposition": "pass",
+      "id": "R0009500_e39a91385a",
+      "reason": "break into any local home 与 rich bounty of offer 指屋内可能取得的丰厚财物，当前译文已将旧译‘赏金任务’改为‘一笔丰厚的财物’，语境例外已正确落实。"
+    },
+    "R0009526_053bc51d1d": {
+      "disposition": "pass",
+      "id": "R0009526_053bc51d1d",
+      "reason": "源文 it 为单数且指代略有歧义；当前译文已将旧译‘它’改为‘这东西’，保留单件物品的指向，不再机械承接前句复数财物。"
+    },
+    "R0010069_78d9858523": {
+      "disposition": "contextual",
+      "id": "R0010069_78d9858523",
+      "reason": "Eadig, thec to metenne. 是异于常规英语的古语式短句；本包没有游戏内字幕、对白或仪式语境证据来判定它是否应保留原文。当前完整保留该异语，暂按语境例外接受，不据猜测强制意译。"
+    },
+    "R0010388_223c3329ff": {
+      "disposition": "pass",
+      "id": "R0010388_223c3329ff",
+      "reason": "his court 中 his 是指 Caustantin 的普通物主代词；当前译文已把旧译残留的 His 改成‘他的’，未译代词问题已消除。"
+    },
+    "R0012271_76693f773d": {
+      "disposition": "pass",
+      "id": "R0012271_76693f773d",
+      "reason": "His eyes never leave you 中 His 是普通物主代词；当前‘他的目光始终没有离开你’准确表达，不适用保留原文的标记术语。"
+    },
+    "R0012694_ad9e6cdee7": {
+      "disposition": "repair",
+      "id": "R0012694_ad9e6cdee7",
+      "reason": "源文逐项列出 ealdormen、soon-to-be ealdormen、gerefas、soon-to-be gerefas 四种不同称谓；当前译文两次重复‘郡长、准郡长’，使前后两组无法区分。受影响 record_ids: [\"R0012694_ad9e6cdee7\"]。验收要求：四类称谓及其准任状态各有可区分的中文指称，维持原顺序和‘盛赞其功绩’的关系；沿用本包已有的 ealdormen 与 gerefas 语境区分，不擅自增设全局术语。",
+      "record_ids": [
+        "R0012694_ad9e6cdee7"
+      ]
+    },
+    "R0012955_812b14a23e": {
+      "disposition": "repair",
+      "id": "R0012955_812b14a23e",
+      "reason": "源文 ethteemed 对 esteemed、therve 对 serve 连续以 th 代 s，连占位符 [Player:warrior/thieldmaiden] 也含 thieldmaiden，显示说话者有刻意的发音特征；当前正文全按正常说话翻译，人物口吻信息消失。受影响 record_ids: [\"R0012955_812b14a23e\"]。验收要求：在可见中文对白中以自然、可读的方式体现同一人物的口齿特征，同时保留敬称和招待语气；所有 [Player:...] 占位符逐字保持原样，不翻译或改写其中分支。",
+      "record_ids": [
+        "R0012955_812b14a23e"
+      ]
+    },
+    "R0013303_b2b177841e": {
+      "disposition": "pass",
+      "id": "R0013303_b2b177841e",
+      "reason": "Pine is not the most obvious choice for a longship 后续用 strong and flexible 描述造船材料；当前‘松木’正确，旧译船名‘松木号’已消除，此处应按材料语境例外处理。"
+    },
+    "R0013811_7eb542abd4": {
+      "disposition": "contextual",
+      "id": "R0013811_7eb542abd4",
+      "reason": "源文 the lofty high pasture of both horns 是晦涩的比喻性名词片段，未明示移动到双角之间；当前译文已移除旧译所增‘跃向’动作，并保留片段性意象。缺少诗歌上下文，不以同义润色继续返修。"
+    },
+    "R0015107_0414ce3dab": {
+      "disposition": "pass",
+      "id": "R0015107_0414ce3dab",
+      "reason": "源文并列 ealdormen 与 gerefas 两种头衔；当前译文已由重复‘郡长、郡长’改为‘郡长、地方官’，读者能够区分，旧问题已解决。"
+    },
+    "R0015808_52e5e5160a": {
+      "disposition": "pass",
+      "id": "R0015808_52e5e5160a",
+      "reason": "Your father、his father 及 Your father never used it 均为亲属称谓；当前相关位置已由‘神父’改为‘父亲’或‘父辈’，继承链和否定信息正确。"
+    },
+    "R0016690_82e037486d": {
+      "disposition": "contextual",
+      "id": "R0016690_82e037486d",
+      "reason": "less experiences swimmers 显然是 less experienced swimmers 的原文形态错误；当前‘经验较少的游泳者’传达既定意思，且保留未耗尽空气的结果，原文错误不需向译文传递。"
+    },
+    "R0017147_2de23cba76": {
+      "disposition": "pass",
+      "id": "R0017147_2de23cba76",
+      "reason": "Your sister 未标明长幼；当前译文已把旧译‘姐姐’改为不指定长幼的‘姐妹’，原先无依据添加年龄关系的问题已消除。"
+    },
+    "R0017558_d7f333455b": {
+      "disposition": "pass",
+      "id": "R0017558_d7f333455b",
+      "reason": "liability 指负担或累赘；当前译文已由旧译‘靠不住’改为‘累赘’，并与‘没有他，事情会简单得多’形成原文因果，词义争议已消除。"
+    },
+    "R0018264_fc0cead31c": {
+      "disposition": "contextual",
+      "id": "R0018264_fc0cead31c",
+      "reason": "原文 spilling sick 中 sick 是普通名词‘呕吐物’，不是人名；现译‘吐出一滩恶臭的胆汁和残渣’已呈现呕吐动作和污物画面。原文重复 and 属笔误；现译未遗漏必须单列的语义。"
+    },
+    "R0019826_f831a06b4f": {
+      "disposition": "contextual",
+      "id": "R0019826_f831a06b4f",
+      "reason": "本条 Arms 据审校提供的 Torso、Legs 并列语境指身体部位；当前‘手臂’已消除原译‘武器’的词义错误。武器栏术语在此不适用。"
+    },
+    "R0020516_88d0ad16f2": {
+      "disposition": "contextual",
+      "id": "R0020516_88d0ad16f2",
+      "reason": "原文 This fine bow 中 fine 修饰 bow，意为精良；the wood of an elm tree 指榆木。当前译文‘精良的弓’‘榆木’均准确，原译‘芬妮弓’的误认已修正，专名术语不适用。"
+    },
+    "R0022222_75a692785f": {
+      "disposition": "contextual",
+      "id": "R0022222_75a692785f",
+      "reason": "原文 Sicga's bounty for the pagan 表示西格加针对异教徒设下的赏金；当前译文保留出资者、悬赏对象及领取动作。‘悬赏异教徒的赏金’稍绕，但不足以认定关系颠倒或要求同义改写；bounty 在此按赏金语境处理。"
+    },
+    "R0022778_23101f060f": {
+      "disposition": "pass",
+      "id": "R0022778_23101f060f",
+      "reason": "当前译文已将 add Special Property 改为‘附加特殊属性’，并保留 Rank 3 的等级、[x]% 的概率以及原样标签和转义换行；原译‘获得’及空格问题均已修正。"
+    }
+  },
+  "status": "repair_round_prepared",
+  "round": 1,
+  "repair_tasks": [
+    "review-round-b27bae2958b24077"
+  ],
+  "repair_dispatch": [
+    {
+      "task_id": "review-round-b27bae2958b24077",
+      "backend": "api",
+      "repair_tier": "standard",
+      "required_model": null,
+      "repair_counts": {
+        "R0004643_becb557068": 1,
+        "R0012694_ad9e6cdee7": 1,
+        "R0012955_812b14a23e": 1
+      },
+      "automatic_escalation": false
+    }
+  ],
+  "repair_records": 3,
+  "needs_attention_ids": [],
+  "stage_approved": false,
+  "repair_stop_reasons": {}
+}

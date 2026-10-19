@@ -1,0 +1,75 @@
+{
+  "stage": "review",
+  "phase": "round_checked",
+  "scope": "review_round",
+  "checked_records": 5,
+  "checks": [
+    {
+      "id": "R0018087_478126f0c2",
+      "instance": "/root/review_sol_round8",
+      "task_id": "review-round-a601893b783f479c",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0022120_d9cdda1889",
+      "instance": "/root/review_sol_round8",
+      "task_id": "review-round-a601893b783f479c",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0011189_2a56ac36ea",
+      "instance": "/root/review_sol_round8",
+      "task_id": "review-round-a601893b783f479c",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0011483_a4d26a0cb9",
+      "instance": "/root/review_sol_round8",
+      "task_id": "review-round-a601893b783f479c",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    },
+    {
+      "id": "R0008869_cb21b42839",
+      "instance": "/root/review_sol_round8",
+      "task_id": "review-round-a601893b783f479c",
+      "result": "passed",
+      "diagnostic": null,
+      "diagnostic_detail": null,
+      "regressed_terms": []
+    }
+  ],
+  "passed_ids": [
+    "R0018087_478126f0c2",
+    "R0022120_d9cdda1889",
+    "R0011189_2a56ac36ea",
+    "R0011483_a4d26a0cb9",
+    "R0008869_cb21b42839"
+  ],
+  "failure_summary": {
+    "basis": "first_failing_gate_in_this_scan; later checks may be blocked; not translation accuracy",
+    "checked_failures": {},
+    "outstanding_failures": {},
+    "regression_overlap": 0
+  },
+  "failed_records": 0,
+  "problems": {},
+  "repair_tasks": [],
+  "repair_dispatch": [],
+  "needs_attention_ids": [],
+  "clean": true,
+  "repair_stop_reasons": {},
+  "status": "clean",
+  "round": 8
+}

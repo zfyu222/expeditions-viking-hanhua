@@ -1,0 +1,895 @@
+{
+  "status": "collected",
+  "backup": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\backups\\review_format_recovery_5736ffa8600d4b6dae4220fc9028228d",
+  "entries": [
+    {
+      "task_id": "review-r17-00663-70abc202",
+      "session_id": "a72f705463b14d8492da3b89c7478148",
+      "actual_author": "api-review-61af3ff572534599b9921e8830e57d54",
+      "audit": {
+        "task_id": "review-r17-00663-70abc202",
+        "source_session_id": "a72f705463b14d8492da3b89c7478148",
+        "source_instance_binding": "original API response from this exact session; no reassignment",
+        "latest_session_id": "a72f705463b14d8492da3b89c7478148",
+        "selected_latest_session": true,
+        "selection_reason": "latest paid response is complete; deterministic punctuation-only repair preserves all string values and semantic fields",
+        "source_raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00663-70abc202\\handoffs\\a72f705463b14d8492da3b89c7478148\\response.raw.txt",
+        "source_raw_sha256": "3752fdf826ef73af0a762d1b8c2f40d13bc6b66331ef17d255806c592f31f7ce",
+        "source_input_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00663-70abc202\\handoffs\\a72f705463b14d8492da3b89c7478148\\input.md",
+        "source_input_sha256": "46cb4ad062b937c1f682c574ac6075208ca27fece4cdcf4419946d79ba8a2cbc",
+        "source_transport_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00663-70abc202\\handoffs\\a72f705463b14d8492da3b89c7478148\\api_id_transport.v2.json",
+        "source_transport_sha256": "0615f00e80d1f9c9c56bb590e23a3abae6e13dde8557d6611c0224faecdfd95e",
+        "task_input_hash": "ddeddf8d3cb1b1f5b904f4e59de1dfba16838980f4de9fe45c2f324a28502cfa",
+        "record_count": 20,
+        "short_ids": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20"
+        ],
+        "edits": [
+          {
+            "character_offset_before_edit": 3809,
+            "before": "{\"id\":8\"",
+            "after": "{\"id\":\"8\"",
+            "reason": "Quote malformed short ID key value"
+          }
+        ],
+        "validation": [
+          "JSON parsed",
+          "canonical_api_result accepted original session binding and scope",
+          "all input short IDs covered once",
+          "no semantic fields synthesized"
+        ],
+        "recovered_sha256": "f59cf419df60a7c7cef7decba9b641e56f2586b55c5d5662e47a30fd9417a800"
+      },
+      "canonical_result": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00663-70abc202\\handoffs\\a72f705463b14d8492da3b89c7478148\\result.format_recovered.canonical.json",
+      "prior_session_status": "waiting",
+      "prior_session_receipt": null,
+      "prior_lease_until": 1792380038.5492265,
+      "preserved_attempt": 2
+    },
+    {
+      "task_id": "review-r17-00705-bf3381e3",
+      "session_id": "61a0edcdd7d5445da3ee718ad87805ca",
+      "actual_author": "api-review-61671d0397cc4ffa87de57dbff0165f7",
+      "audit": {
+        "task_id": "review-r17-00705-bf3381e3",
+        "source_session_id": "61a0edcdd7d5445da3ee718ad87805ca",
+        "source_instance_binding": "original API response from this exact session; no reassignment",
+        "latest_session_id": "61a0edcdd7d5445da3ee718ad87805ca",
+        "selected_latest_session": true,
+        "selection_reason": "latest paid response is complete; deterministic punctuation-only repair preserves all string values and semantic fields",
+        "source_raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00705-bf3381e3\\handoffs\\61a0edcdd7d5445da3ee718ad87805ca\\response.raw.txt",
+        "source_raw_sha256": "c3c37afc5e14cffa6136c8917562ade5b5a94acbbd07eb8f23eced11e8bf36f2",
+        "source_input_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00705-bf3381e3\\handoffs\\61a0edcdd7d5445da3ee718ad87805ca\\input.md",
+        "source_input_sha256": "79b5b6d66850dea249c54bd179ae0233827a9e95ba0ed07cfe99b3d408e93f6e",
+        "source_transport_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00705-bf3381e3\\handoffs\\61a0edcdd7d5445da3ee718ad87805ca\\api_id_transport.v2.json",
+        "source_transport_sha256": "e68c0be77930c4baef25c5757e1d6f3daf3f9ba387f97cce93ae6a1ff4530c22",
+        "task_input_hash": "c0393f3f22513e93e1db32696a7aa133599ec93b680c3cfe6345ececbdd3b56f",
+        "record_count": 20,
+        "short_ids": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20"
+        ],
+        "edits": [
+          {
+            "character_offset_before_edit": 936,
+            "before": "\",\"}",
+            "after": "\"}",
+            "reason": "Remove stray comma and quote after evidence string"
+          },
+          {
+            "character_offset_before_edit": 5569,
+            "before": "\",\"}",
+            "after": "\"}",
+            "reason": "Remove stray comma and quote after evidence string"
+          }
+        ],
+        "validation": [
+          "JSON parsed",
+          "canonical_api_result accepted original session binding and scope",
+          "all input short IDs covered once",
+          "no semantic fields synthesized"
+        ],
+        "recovered_sha256": "0e24ca5d69f5a1a289ded39b2e02c76298b9272c04244bb973495117bffaebc5"
+      },
+      "canonical_result": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00705-bf3381e3\\handoffs\\61a0edcdd7d5445da3ee718ad87805ca\\result.format_recovered.canonical.json",
+      "prior_session_status": "waiting",
+      "prior_session_receipt": null,
+      "prior_lease_until": 1792380216.9737628,
+      "preserved_attempt": 2
+    },
+    {
+      "task_id": "review-r17-00805-e5dc84a4",
+      "session_id": "ce6399d081664637bb12643afd4b5ed0",
+      "actual_author": "api-review-4b4a2a7389d548e1bf64508deb2a2a45",
+      "audit": {
+        "task_id": "review-r17-00805-e5dc84a4",
+        "source_session_id": "ce6399d081664637bb12643afd4b5ed0",
+        "source_instance_binding": "original API response from this exact session; no reassignment",
+        "latest_session_id": "ce6399d081664637bb12643afd4b5ed0",
+        "selected_latest_session": true,
+        "selection_reason": "latest paid response is complete; deterministic punctuation-only repair preserves all string values and semantic fields",
+        "source_raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00805-e5dc84a4\\handoffs\\ce6399d081664637bb12643afd4b5ed0\\response.raw.txt",
+        "source_raw_sha256": "f258e7dc92ca345b57c5d520ac894913558e099faf865e3d3b397995174ba33e",
+        "source_input_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00805-e5dc84a4\\handoffs\\ce6399d081664637bb12643afd4b5ed0\\input.md",
+        "source_input_sha256": "0339c3ff8f0e680fe2fa2bf0be1a7ae695b5d02135239d8ff84e9d209e157e5a",
+        "source_transport_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00805-e5dc84a4\\handoffs\\ce6399d081664637bb12643afd4b5ed0\\api_id_transport.v2.json",
+        "source_transport_sha256": "e66f68d029fe4e3e4ca03510d8ba7627cd8348dd7ca5994d00b1f130e0fe6886",
+        "task_input_hash": "dde2e6723c2c753fe85ac622d37dc59b9029ba76fa34bde790689544c3023438",
+        "record_count": 23,
+        "short_ids": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23"
+        ],
+        "edits": [
+          {
+            "character_offset_before_edit": 3144,
+            "before": "{\"id\":6\"",
+            "after": "{\"id\":\"6\"",
+            "reason": "Quote malformed short ID key value"
+          },
+          {
+            "character_offset_before_edit": 7941,
+            "before": "{\"id\":14\"",
+            "after": "{\"id\":\"14\"",
+            "reason": "Quote malformed short ID key value"
+          },
+          {
+            "character_offset_before_edit": 8681,
+            "before": "{\"id\":15\"",
+            "after": "{\"id\":\"15\"",
+            "reason": "Quote malformed short ID key value"
+          },
+          {
+            "character_offset_before_edit": 10028,
+            "before": "{\"id\":17\"",
+            "after": "{\"id\":\"17\"",
+            "reason": "Quote malformed short ID key value"
+          },
+          {
+            "character_offset_before_edit": 10551,
+            "before": "{\"id\":18\"",
+            "after": "{\"id\":\"18\"",
+            "reason": "Quote malformed short ID key value"
+          },
+          {
+            "character_offset_before_edit": 13888,
+            "before": "{\"id\":23\"",
+            "after": "{\"id\":\"23\"",
+            "reason": "Quote malformed short ID key value"
+          }
+        ],
+        "validation": [
+          "JSON parsed",
+          "canonical_api_result accepted original session binding and scope",
+          "all input short IDs covered once",
+          "no semantic fields synthesized"
+        ],
+        "recovered_sha256": "1f7b543baefe41319fbf4756b3f048a3e151fbe34af28650ad2c5914e57c19b2"
+      },
+      "canonical_result": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00805-e5dc84a4\\handoffs\\ce6399d081664637bb12643afd4b5ed0\\result.format_recovered.canonical.json",
+      "prior_session_status": "waiting",
+      "prior_session_receipt": null,
+      "prior_lease_until": 1792380786.898013,
+      "preserved_attempt": 2
+    },
+    {
+      "task_id": "review-r17-00840-83e26c88",
+      "session_id": "82c04320a28c426d90def8a75b57ae37",
+      "actual_author": "api-review-df923545770042a387565e5519e1f8c8",
+      "audit": {
+        "task_id": "review-r17-00840-83e26c88",
+        "source_session_id": "82c04320a28c426d90def8a75b57ae37",
+        "source_instance_binding": "original API response from this exact session; no reassignment",
+        "latest_session_id": "82c04320a28c426d90def8a75b57ae37",
+        "selected_latest_session": true,
+        "selection_reason": "latest paid response is complete; deterministic punctuation-only repair preserves all string values and semantic fields",
+        "source_raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00840-83e26c88\\handoffs\\82c04320a28c426d90def8a75b57ae37\\response.raw.txt",
+        "source_raw_sha256": "e72fbf1f81c971ce09753e2e2cdac058c505528b768abf282b76814c6f1d1a86",
+        "source_input_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00840-83e26c88\\handoffs\\82c04320a28c426d90def8a75b57ae37\\input.md",
+        "source_input_sha256": "0ab4d46bf9f574a6ad1b1a9e5cb9d00b946b76145ba504f3f9c7bf8c6be07ee3",
+        "source_transport_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00840-83e26c88\\handoffs\\82c04320a28c426d90def8a75b57ae37\\api_id_transport.v2.json",
+        "source_transport_sha256": "fa2eb3cf2b26b57fd7c1da5f6a60142d3a7d836f9ca2ee7714f9468c3edaebe4",
+        "task_input_hash": "bf4448551c6b2cf83d28b7e55ebd857e6cd9bb4e385b2c50ea04ab775c5e739d",
+        "record_count": 17,
+        "short_ids": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17"
+        ],
+        "edits": [
+          {
+            "character_offset_before_edit": 327,
+            "before": "\",\"completeness\":{",
+            "after": "\"},\"completeness\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 388,
+            "before": "\",\"terminology\":{",
+            "after": "\"},\"terminology\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 479,
+            "before": "\",\"tone\":{",
+            "after": "\"},\"tone\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 538,
+            "before": "\",\"logic\":{",
+            "after": "\"},\"logic\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 596,
+            "before": "\",\"placeholders\":{",
+            "after": "\"},\"placeholders\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 924,
+            "before": "\",\"completeness\":{",
+            "after": "\"},\"completeness\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 987,
+            "before": "\",\"terminology\":{",
+            "after": "\"},\"terminology\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 1047,
+            "before": "\",\"tone\":{",
+            "after": "\"},\"tone\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 1095,
+            "before": "\",\"logic\":{",
+            "after": "\"},\"logic\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 1156,
+            "before": "\",\"placeholders\":{",
+            "after": "\"},\"placeholders\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 1526,
+            "before": "\",\"completeness\":{",
+            "after": "\"},\"completeness\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 1585,
+            "before": "\",\"terminology\":{",
+            "after": "\"},\"terminology\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 1652,
+            "before": "\",\"tone\":{",
+            "after": "\"},\"tone\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 1704,
+            "before": "\",\"logic\":{",
+            "after": "\"},\"logic\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 1758,
+            "before": "\",\"placeholders\":{",
+            "after": "\"},\"placeholders\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 2136,
+            "before": "\",\"completeness\":{",
+            "after": "\"},\"completeness\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 2195,
+            "before": "\",\"terminology\":{",
+            "after": "\"},\"terminology\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 2276,
+            "before": "\",\"tone\":{",
+            "after": "\"},\"tone\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 2328,
+            "before": "\",\"logic\":{",
+            "after": "\"},\"logic\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 2385,
+            "before": "\",\"placeholders\":{",
+            "after": "\"},\"placeholders\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 2774,
+            "before": "\",\"completeness\":{",
+            "after": "\"},\"completeness\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 2842,
+            "before": "\",\"terminology\":{",
+            "after": "\"},\"terminology\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 2924,
+            "before": "\",\"tone\":{",
+            "after": "\"},\"tone\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 2972,
+            "before": "\",\"logic\":{",
+            "after": "\"},\"logic\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 3029,
+            "before": "\",\"placeholders\":{",
+            "after": "\"},\"placeholders\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 3417,
+            "before": "\",\"completeness\":{",
+            "after": "\"},\"completeness\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 3476,
+            "before": "\",\"terminology\":{",
+            "after": "\"},\"terminology\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 3540,
+            "before": "\",\"tone\":{",
+            "after": "\"},\"tone\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 3596,
+            "before": "\",\"logic\":{",
+            "after": "\"},\"logic\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 3649,
+            "before": "\",\"placeholders\":{",
+            "after": "\"},\"placeholders\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 3927,
+            "before": "\",\"completeness\":{",
+            "after": "\"},\"completeness\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 3982,
+            "before": "\",\"terminology\":{",
+            "after": "\"},\"terminology\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 4041,
+            "before": "\",\"tone\":{",
+            "after": "\"},\"tone\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 4086,
+            "before": "\",\"logic\":{",
+            "after": "\"},\"logic\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 4135,
+            "before": "\",\"placeholders\":{",
+            "after": "\"},\"placeholders\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 4665,
+            "before": "\",\"completeness\":{",
+            "after": "\"},\"completeness\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 4730,
+            "before": "\",\"terminology\":{",
+            "after": "\"},\"terminology\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 4804,
+            "before": "\",\"tone\":{",
+            "after": "\"},\"tone\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 4858,
+            "before": "\",\"logic\":{",
+            "after": "\"},\"logic\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 4921,
+            "before": "\",\"placeholders\":{",
+            "after": "\"},\"placeholders\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 5432,
+            "before": "\",\"completeness\":{",
+            "after": "\"},\"completeness\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 5489,
+            "before": "\",\"terminology\":{",
+            "after": "\"},\"terminology\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 5553,
+            "before": "\",\"tone\":{",
+            "after": "\"},\"tone\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 5601,
+            "before": "\",\"logic\":{",
+            "after": "\"},\"logic\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 5660,
+            "before": "\",\"placeholders\":{",
+            "after": "\"},\"placeholders\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 6060,
+            "before": "\",\"completeness\":{",
+            "after": "\"},\"completeness\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 6133,
+            "before": "\",\"terminology\":{",
+            "after": "\"},\"terminology\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 6197,
+            "before": "\",\"tone\":{",
+            "after": "\"},\"tone\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 6246,
+            "before": "\",\"logic\":{",
+            "after": "\"},\"logic\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 6295,
+            "before": "\",\"placeholders\":{",
+            "after": "\"},\"placeholders\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 6590,
+            "before": "\",\"completeness\":{",
+            "after": "\"},\"completeness\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 6649,
+            "before": "\",\"terminology\":{",
+            "after": "\"},\"terminology\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 6713,
+            "before": "\",\"tone\":{",
+            "after": "\"},\"tone\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 6759,
+            "before": "\",\"logic\":{",
+            "after": "\"},\"logic\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 6817,
+            "before": "\",\"placeholders\":{",
+            "after": "\"},\"placeholders\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 7104,
+            "before": "\",\"completeness\":{",
+            "after": "\"},\"completeness\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 7158,
+            "before": "\",\"terminology\":{",
+            "after": "\"},\"terminology\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 7225,
+            "before": "\",\"tone\":{",
+            "after": "\"},\"tone\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 7272,
+            "before": "\",\"logic\":{",
+            "after": "\"},\"logic\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 7322,
+            "before": "\",\"placeholders\":{",
+            "after": "\"},\"placeholders\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 7857,
+            "before": "\",\"completeness\":{",
+            "after": "\"},\"completeness\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 7918,
+            "before": "\",\"terminology\":{",
+            "after": "\"},\"terminology\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 7992,
+            "before": "\",\"tone\":{",
+            "after": "\"},\"tone\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 8039,
+            "before": "\",\"logic\":{",
+            "after": "\"},\"logic\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 8116,
+            "before": "\",\"placeholders\":{",
+            "after": "\"},\"placeholders\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 8352,
+            "before": "\",\"completeness\":{",
+            "after": "\"},\"completeness\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 8402,
+            "before": "\",\"terminology\":{",
+            "after": "\"},\"terminology\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 8466,
+            "before": "\",\"tone\":{",
+            "after": "\"},\"tone\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 8519,
+            "before": "\",\"logic\":{",
+            "after": "\"},\"logic\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 8568,
+            "before": "\",\"placeholders\":{",
+            "after": "\"},\"placeholders\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 8967,
+            "before": "\",\"completeness\":{",
+            "after": "\"},\"completeness\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 9030,
+            "before": "\",\"terminology\":{",
+            "after": "\"},\"terminology\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 9097,
+            "before": "\",\"tone\":{",
+            "after": "\"},\"tone\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 9144,
+            "before": "\",\"logic\":{",
+            "after": "\"},\"logic\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 9197,
+            "before": "\",\"placeholders\":{",
+            "after": "\"},\"placeholders\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 9636,
+            "before": "\",\"completeness\":{",
+            "after": "\"},\"completeness\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 9694,
+            "before": "\",\"terminology\":{",
+            "after": "\"},\"terminology\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 9762,
+            "before": "\",\"tone\":{",
+            "after": "\"},\"tone\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 9809,
+            "before": "\",\"logic\":{",
+            "after": "\"},\"logic\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 9866,
+            "before": "\",\"placeholders\":{",
+            "after": "\"},\"placeholders\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 10479,
+            "before": "\",\"completeness\":{",
+            "after": "\"},\"completeness\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 10566,
+            "before": "\",\"terminology\":{",
+            "after": "\"},\"terminology\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 10669,
+            "before": "\",\"tone\":{",
+            "after": "\"},\"tone\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 10722,
+            "before": "\",\"logic\":{",
+            "after": "\"},\"logic\":{",
+            "reason": "Close preceding checks dimension object"
+          },
+          {
+            "character_offset_before_edit": 10796,
+            "before": "\",\"placeholders\":{",
+            "after": "\"},\"placeholders\":{",
+            "reason": "Close preceding checks dimension object"
+          }
+        ],
+        "validation": [
+          "JSON parsed",
+          "canonical_api_result accepted original session binding and scope",
+          "all input short IDs covered once",
+          "no semantic fields synthesized"
+        ],
+        "recovered_sha256": "afd49034b223422e5d114319a56b62458c094a38661e67923ae66144542871bd"
+      },
+      "canonical_result": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00840-83e26c88\\handoffs\\82c04320a28c426d90def8a75b57ae37\\result.format_recovered.canonical.json",
+      "prior_session_status": "waiting",
+      "prior_session_receipt": null,
+      "prior_lease_until": 1792381300.4284728,
+      "preserved_attempt": 2
+    }
+  ],
+  "receipts": [
+    {
+      "status": "submitted",
+      "session_id": "a72f705463b14d8492da3b89c7478148",
+      "task_id": "review-r17-00663-70abc202",
+      "records": 20,
+      "summary": {
+        "records": {
+          "translate": 23195
+        },
+        "tasks": {
+          "done": 1527,
+          "obsolete": 56,
+          "pending": 641,
+          "running": 4
+        }
+      },
+      "quality": "review_saved; wait for the whole round before review-scan",
+      "remaining_round_batches": 645,
+      "next_action": "finish_current_round"
+    },
+    {
+      "status": "submitted",
+      "session_id": "61a0edcdd7d5445da3ee718ad87805ca",
+      "task_id": "review-r17-00705-bf3381e3",
+      "records": 20,
+      "summary": {
+        "records": {
+          "translate": 23195
+        },
+        "tasks": {
+          "done": 1528,
+          "obsolete": 56,
+          "pending": 641,
+          "running": 3
+        }
+      },
+      "quality": "review_saved; wait for the whole round before review-scan",
+      "remaining_round_batches": 644,
+      "next_action": "finish_current_round"
+    },
+    {
+      "status": "submitted",
+      "session_id": "ce6399d081664637bb12643afd4b5ed0",
+      "task_id": "review-r17-00805-e5dc84a4",
+      "records": 23,
+      "summary": {
+        "records": {
+          "translate": 23195
+        },
+        "tasks": {
+          "done": 1529,
+          "obsolete": 56,
+          "pending": 641,
+          "running": 2
+        }
+      },
+      "quality": "review_saved; wait for the whole round before review-scan",
+      "remaining_round_batches": 643,
+      "next_action": "finish_current_round"
+    },
+    {
+      "status": "submitted",
+      "session_id": "82c04320a28c426d90def8a75b57ae37",
+      "task_id": "review-r17-00840-83e26c88",
+      "records": 17,
+      "summary": {
+        "records": {
+          "translate": 23195
+        },
+        "tasks": {
+          "done": 1530,
+          "obsolete": 56,
+          "pending": 641,
+          "running": 1
+        }
+      },
+      "quality": "review_saved; wait for the whole round before review-scan",
+      "remaining_round_batches": 642,
+      "next_action": "finish_current_round"
+    }
+  ],
+  "recovered_records": 80,
+  "api_history_unchanged": true,
+  "formal_records_unchanged": true,
+  "quality": "candidates_saved; not_semantic_acceptance",
+  "summary": {
+    "records": {
+      "translate": 23195
+    },
+    "tasks": {
+      "done": 1530,
+      "obsolete": 56,
+      "pending": 641,
+      "running": 1
+    }
+  }
+}

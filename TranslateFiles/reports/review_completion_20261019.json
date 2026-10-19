@@ -1,0 +1,315 @@
+{
+  "status": "translation_exported",
+  "revision": 17,
+  "records": 23195,
+  "source": "expeditions-viking_text.csv",
+  "output": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\expeditions-viking_text_translated.csv",
+  "validation": {
+    "status": "passed",
+    "source_sha256": "7d05511f1e62468e65b9f379d613789939c9b4bc6100b040310341bab5c60eb8",
+    "translation_sha256": "c0c645ab0ab89d15a2467fb55099d4c48f1c8778ae3aa3fd9da189b11be4d62f",
+    "records": 23195,
+    "semantic_review": "full",
+    "polish": false,
+    "revision": 17,
+    "glossary": {
+      "hash": "8b1369e804c5c7f66803e0961da266077ff087a5ecc849b9e6806ece5c8b31a4",
+      "path": "glossary\\r8\\freeze_731eced6\\built\\glossary_reviewed.json",
+      "revision": 8
+    },
+    "ainiee": {
+      "actual_commit": "c50570c1dee7df7bd51316a253f0b42d10a8ca4c",
+      "expected_commit": "c50570c1dee7df7bd51316a253f0b42d10a8ca4c",
+      "license": "AGPL-3.0; Tools/AINiee/LICENSE",
+      "modules": {
+        "Domain/PromptBuilder/GlossaryHelper.py": "6b3072989b77c84787774439c79aaea7d4727fcda104667d8833b53bb490446f",
+        "Domain/TextProcessor/TextProcessor.py": "805f49f68302fab2c5832aad8c7597fb4c3382cea131618765248f30a5963eed",
+        "Infrastructure/LLMRequester/LLMClientFactory.py": "70d43af749640604813887241604edf0472a75afbbf106fb5e69cfd3753a1a4b",
+        "Infrastructure/LLMRequester/OpenaiRequester.py": "b2b1f5e6fd3a31727b2e1d2597e1bcca3e5e4db2cfec550ff6cfcd6a6cff3f79"
+      }
+    },
+    "path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\expeditions-viking_text_translated.csv",
+    "quality_review": {
+      "report_hash": "9fd45b7e96151cd0f55a21269b7d9e08d76f15a810ee52cee5f08a7ae08ddb33",
+      "reviewer": "sol"
+    },
+    "in_game_check": "pending_repack"
+  },
+  "record_stages": {
+    "review": 23195
+  },
+  "glossary_sha256": "8b1369e804c5c7f66803e0961da266077ff087a5ecc849b9e6806ece5c8b31a4",
+  "original_draft_snapshot_unchanged": true,
+  "initial_review": {
+    "records": 23195,
+    "passed": 22056,
+    "failed": 1139,
+    "note": "First failing gate statistics are not semantic accuracy rates."
+  },
+  "ordinary_review_rounds": [
+    {
+      "round": 1,
+      "stage": "review",
+      "phase": "round_checked",
+      "scope": "review_round",
+      "checked_records": 23195,
+      "failed_records": 1139,
+      "clean": false,
+      "failure_summary": {
+        "basis": "first_failing_gate_in_this_scan; later checks may be blocked; not translation accuracy",
+        "checked_failures": {
+          "terminology_gate": 71,
+          "review_record_contract": 1050,
+          "reported_blocking_semantic_issue": 16,
+          "structure_gate": 2
+        },
+        "outstanding_failures": {
+          "terminology_gate": 71,
+          "review_record_contract": 1050,
+          "reported_blocking_semantic_issue": 16,
+          "structure_gate": 2
+        },
+        "regression_overlap": 80
+      }
+    },
+    {
+      "round": 2,
+      "stage": "review",
+      "phase": "round_checked",
+      "scope": "review_round",
+      "checked_records": 1139,
+      "failed_records": 57,
+      "clean": false,
+      "failure_summary": {
+        "basis": "first_failing_gate_in_this_scan; later checks may be blocked; not translation accuracy",
+        "checked_failures": {
+          "terminology_gate": 25,
+          "review_record_contract": 17,
+          "reported_blocking_semantic_issue": 13,
+          "structure_gate": 2
+        },
+        "outstanding_failures": {
+          "terminology_gate": 25,
+          "review_record_contract": 17,
+          "reported_blocking_semantic_issue": 13,
+          "structure_gate": 2
+        },
+        "regression_overlap": 0
+      }
+    },
+    {
+      "round": 3,
+      "stage": "review",
+      "phase": "round_checked",
+      "scope": "review_round",
+      "checked_records": 57,
+      "failed_records": 33,
+      "clean": false,
+      "failure_summary": {
+        "basis": "first_failing_gate_in_this_scan; later checks may be blocked; not translation accuracy",
+        "checked_failures": {
+          "terminology_gate": 16,
+          "reported_blocking_semantic_issue": 11,
+          "structure_gate": 2,
+          "review_record_contract": 4
+        },
+        "outstanding_failures": {
+          "terminology_gate": 16,
+          "reported_blocking_semantic_issue": 11,
+          "structure_gate": 2,
+          "review_record_contract": 4
+        },
+        "regression_overlap": 0
+      }
+    },
+    {
+      "round": 4,
+      "stage": "review",
+      "phase": "round_checked",
+      "scope": "review_round",
+      "checked_records": 33,
+      "failed_records": 21,
+      "clean": false,
+      "failure_summary": {
+        "basis": "first_failing_gate_in_this_scan; later checks may be blocked; not translation accuracy",
+        "checked_failures": {
+          "terminology_gate": 11,
+          "structure_gate": 1,
+          "reported_blocking_semantic_issue": 9
+        },
+        "outstanding_failures": {
+          "terminology_gate": 11,
+          "structure_gate": 1,
+          "reported_blocking_semantic_issue": 9
+        },
+        "regression_overlap": 0
+      }
+    },
+    {
+      "round": 5,
+      "stage": "review",
+      "phase": "round_checked",
+      "scope": "review_round",
+      "checked_records": 21,
+      "failed_records": 15,
+      "clean": false,
+      "failure_summary": {
+        "basis": "first_failing_gate_in_this_scan; later checks may be blocked; not translation accuracy",
+        "checked_failures": {
+          "terminology_gate": 5,
+          "reported_blocking_semantic_issue": 9,
+          "structure_gate": 1
+        },
+        "outstanding_failures": {
+          "terminology_gate": 5,
+          "reported_blocking_semantic_issue": 9,
+          "structure_gate": 1
+        },
+        "regression_overlap": 0
+      }
+    },
+    {
+      "round": 6,
+      "stage": "review",
+      "phase": "round_checked",
+      "scope": "review_round",
+      "checked_records": 15,
+      "failed_records": 10,
+      "clean": false,
+      "failure_summary": {
+        "basis": "first_failing_gate_in_this_scan; later checks may be blocked; not translation accuracy",
+        "checked_failures": {
+          "terminology_gate": 5,
+          "reported_blocking_semantic_issue": 5
+        },
+        "outstanding_failures": {
+          "terminology_gate": 5,
+          "reported_blocking_semantic_issue": 5
+        },
+        "regression_overlap": 0
+      }
+    },
+    {
+      "round": 7,
+      "stage": "review",
+      "phase": "round_checked",
+      "scope": "review_round",
+      "checked_records": 10,
+      "failed_records": 5,
+      "clean": false,
+      "failure_summary": {
+        "basis": "first_failing_gate_in_this_scan; later checks may be blocked; not translation accuracy",
+        "checked_failures": {
+          "terminology_gate": 2,
+          "reported_blocking_semantic_issue": 3
+        },
+        "outstanding_failures": {
+          "terminology_gate": 2,
+          "reported_blocking_semantic_issue": 3
+        },
+        "regression_overlap": 0
+      }
+    },
+    {
+      "round": 8,
+      "stage": "review",
+      "phase": "round_checked",
+      "scope": "review_round",
+      "checked_records": 5,
+      "failed_records": 0,
+      "clean": true,
+      "failure_summary": {
+        "basis": "first_failing_gate_in_this_scan; later checks may be blocked; not translation accuracy",
+        "checked_failures": {},
+        "outstanding_failures": {},
+        "regression_overlap": 0
+      }
+    },
+    {
+      "round": 9,
+      "stage": "review",
+      "phase": "round_checked",
+      "scope": "review_round",
+      "checked_records": 3,
+      "failed_records": 1,
+      "clean": false,
+      "failure_summary": {
+        "basis": "first_failing_gate_in_this_scan; later checks may be blocked; not translation accuracy",
+        "checked_failures": {
+          "review_record_contract": 1
+        },
+        "outstanding_failures": {
+          "review_record_contract": 1
+        },
+        "regression_overlap": 0
+      }
+    },
+    {
+      "round": 10,
+      "stage": "review",
+      "phase": "round_checked",
+      "scope": "review_round",
+      "checked_records": 1,
+      "failed_records": 0,
+      "clean": true,
+      "failure_summary": {
+        "basis": "first_failing_gate_in_this_scan; later checks may be blocked; not translation accuracy",
+        "checked_failures": {},
+        "outstanding_failures": {},
+        "regression_overlap": 0
+      }
+    }
+  ],
+  "api_receipts": [
+    "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\6283c04c78b642fd9d860001ff195e98.json",
+    "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\6c8e42b8a94145e2864b24b0021bde8a.json",
+    "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\64b22c9c013a408c999bf584f1cacfb0.json",
+    "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\46020d56ab444d039654eb9562546d5b.json",
+    "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\e6e1efeb9d7449fd8993c5098b1e10d4.json",
+    "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\df132607ab6546eba1579d2da97a6399.json",
+    "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\9f93a47a0ce6443ab48ce22753c8a6d0.json",
+    "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\822d1d8820024392897f99a5af9298ed.json",
+    "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\ea600d195d8c49e58c3c1156aa047fc0.json",
+    "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\dda468d773dc41f79a1ab7fbe0cb5061.json",
+    "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\a079191ac33a443b996c10c7d63ae70d.json",
+    "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\8a6bbd3717b54ba680bfc298aa117e7b.json"
+  ],
+  "api_continuation": {
+    "requests_started": 1720,
+    "accepted_batches": 1483,
+    "failed_attempts": 237,
+    "tokens": {
+      "prompt_tokens": 5758196,
+      "completion_tokens": 5270021,
+      "total_tokens": 11028217,
+      "cached_prompt_tokens": 2459648,
+      "reported_requests": 1720,
+      "unknown_requests": 0
+    },
+    "note": "Cached prompt tokens are a subset of prompt tokens. Prior paid history is retained."
+  },
+  "offline_format_recovery": {
+    "reports": [
+      "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\review_paid_format_recovery_46020d56.json",
+      "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\review_paid_format_recovery_6283c04c.json",
+      "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\review_paid_format_recovery_64b22c9c.json",
+      "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\review_paid_format_recovery_64b22c9c_793.json",
+      "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\review_paid_format_recovery_6c8e42b8.json",
+      "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\review_paid_format_recovery_e6e1efeb.json"
+    ],
+    "records": 340,
+    "api_requests": 0,
+    "semantic_content_unchanged": true
+  },
+  "final_dispute_decisions": [
+    "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\sol_rounds\\round_00001.decisions_0001.json",
+    "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\sol_rounds\\round_00001.decisions_0002.json",
+    "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\sol_rounds\\round_00001.decisions_0003.json",
+    "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\sol_rounds\\round_00002.decisions_remaining.json"
+  ],
+  "known_followups": [
+    "Dynamic visible branches remain protected: 498 occurrences / 53 forms; project-specific repack handling and runtime verification remain.",
+    "No game repack or in-game validation was performed for this export.",
+    "An inherited unmatched exception cannot be removed through API term_refs alone. One failed handoff was completed by an independent Sol using the full shared Codex contract; no transport mapping or shared code was changed."
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "report_hash": "8caff9f1d71d11336d1d5b9c31c3c56100a40c7082f92dadfe430656a0ddeb3c",
+  "reviewer": "sol",
+  "summary": "5 项已裁决：pass 1 项，contextual 4 项，repair 0 项。此前明确的误译已在当前译文中修正；其余提示有语境依据或不构成必须返修的错误。",
+  "decisions": [
+    {
+      "id": "R0018264_fc0cead31c",
+      "disposition": "contextual",
+      "reason": "原文 spilling sick 中 sick 是普通名词‘呕吐物’，不是人名；现译‘吐出一滩恶臭的胆汁和残渣’已呈现呕吐动作和污物画面。原文重复 and 属笔误；现译未遗漏必须单列的语义。"
+    },
+    {
+      "id": "R0019826_f831a06b4f",
+      "disposition": "contextual",
+      "reason": "本条 Arms 据审校提供的 Torso、Legs 并列语境指身体部位；当前‘手臂’已消除原译‘武器’的词义错误。武器栏术语在此不适用。"
+    },
+    {
+      "id": "R0020516_88d0ad16f2",
+      "disposition": "contextual",
+      "reason": "原文 This fine bow 中 fine 修饰 bow，意为精良；the wood of an elm tree 指榆木。当前译文‘精良的弓’‘榆木’均准确，原译‘芬妮弓’的误认已修正，专名术语不适用。"
+    },
+    {
+      "id": "R0022222_75a692785f",
+      "disposition": "contextual",
+      "reason": "原文 Sicga's bounty for the pagan 表示西格加针对异教徒设下的赏金；当前译文保留出资者、悬赏对象及领取动作。‘悬赏异教徒的赏金’稍绕，但不足以认定关系颠倒或要求同义改写；bounty 在此按赏金语境处理。"
+    },
+    {
+      "id": "R0022778_23101f060f",
+      "disposition": "pass",
+      "reason": "当前译文已将 add Special Property 改为‘附加特殊属性’，并保留 Rank 3 的等级、[x]% 的概率以及原样标签和转义换行；原译‘获得’及空格问题均已修正。"
+    }
+  ]
+}

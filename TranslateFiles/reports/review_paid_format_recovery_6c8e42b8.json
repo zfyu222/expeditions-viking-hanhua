@@ -1,0 +1,1025 @@
+{
+  "status": "collected",
+  "backup": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\backups\\review_format_recovery_0a94b1e81c9b4b2a9d76d6c8ec24c57f",
+  "entries": [
+    {
+      "task_id": "review-r17-00476-eff9e9d1",
+      "session_id": "20f456f39ed74973833ea2ac96cfbdbb",
+      "actual_author": "api-review-8ee25ba0a9fa498cb27bc5935842d6eb",
+      "audit": {
+        "task_id": "review-r17-00476-eff9e9d1",
+        "source_session_id": "20f456f39ed74973833ea2ac96cfbdbb",
+        "source_actual_author": "api-review-8ee25ba0a9fa498cb27bc5935842d6eb",
+        "latest_session_id": "20f456f39ed74973833ea2ac96cfbdbb",
+        "selected_latest_session": true,
+        "source_instance_binding": "original paid API reply from this exact session; no reassignment",
+        "task_input_hash": "a41d9053ecc20836c41b0f24d0061f3d357cc90452cd116a58e57a694270e6b9",
+        "source_raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00476-eff9e9d1\\handoffs\\20f456f39ed74973833ea2ac96cfbdbb\\response.raw.txt",
+        "source_raw_sha256": "84505f30cde8abced2837ae5f29c094406fbcca0ba1b98cc1b1547b2954f7587",
+        "source_input_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00476-eff9e9d1\\handoffs\\20f456f39ed74973833ea2ac96cfbdbb\\input.md",
+        "source_input_sha256": "5a820ba8b0d9bfbcdff3e064ca16fba812c66a3cf456eab9a2ee98d69cdf94bb",
+        "source_transport_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00476-eff9e9d1\\handoffs\\20f456f39ed74973833ea2ac96cfbdbb\\api_id_transport.v2.json",
+        "source_transport_sha256": "f890dbd10b2d1358f7650cbad774002be81baa6c779dc1547e76924e1d406cad",
+        "source_finish_reason": "stop",
+        "source_response_model": "deepseek-flash",
+        "source_usage": {
+          "prompt_tokens": 3342,
+          "completion_tokens": 3210,
+          "total_tokens": 6552
+        },
+        "record_count": 16,
+        "short_ids": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16"
+        ],
+        "selection_reason": "latest complete paid reply; missing closing brace after accuracy evidence in each of 16 records",
+        "edits": [
+          {
+            "character_offset_before_edit": 298,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 840,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 1394,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 2107,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 2706,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 3331,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 3908,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 4467,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 5117,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 5668,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 6208,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 6824,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 7411,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 8119,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 8803,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 9418,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          }
+        ],
+        "recovered_sha256": "ea27993c687e5c8f026e1616f3bcc14a6525c33f6904047bed2d63280913cb48",
+        "validation": [
+          "JSON parsed",
+          "all bound short IDs present once",
+          "each record explicitly provides keep:true or translation",
+          "six review checks carry status and evidence",
+          "term references bound to source record",
+          "only listed syntax edits applied",
+          "task collector and semantic review left to main workflow"
+        ]
+      },
+      "canonical_result": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00476-eff9e9d1\\handoffs\\20f456f39ed74973833ea2ac96cfbdbb\\result.format_recovered.canonical.json",
+      "prior_session_status": "waiting",
+      "prior_session_receipt": null,
+      "prior_lease_until": 1792378298.707852,
+      "preserved_attempt": 2
+    },
+    {
+      "task_id": "review-r17-00516-7761588f-s2dc7eb63",
+      "session_id": "bcbff4a8f16e4ad09867c6dddec0eb96",
+      "actual_author": "api-review-20d584e4c1c34a1ea9c20b3d2873a67f",
+      "audit": {
+        "task_id": "review-r17-00516-7761588f-s2dc7eb63",
+        "source_session_id": "bcbff4a8f16e4ad09867c6dddec0eb96",
+        "source_actual_author": "api-review-20d584e4c1c34a1ea9c20b3d2873a67f",
+        "latest_session_id": "bcbff4a8f16e4ad09867c6dddec0eb96",
+        "selected_latest_session": true,
+        "source_instance_binding": "original paid API reply from this exact session; no reassignment",
+        "task_input_hash": "30d1d4ec00c736285d3a8fb65783285b46417b22df59d24ad26fcdb55f5ad740",
+        "source_raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00516-7761588f-s2dc7eb63\\handoffs\\bcbff4a8f16e4ad09867c6dddec0eb96\\response.raw.txt",
+        "source_raw_sha256": "4b236c898e30d0deb7551dd7ca31bf557cb362ea63b88e8bc1151b2e032851f6",
+        "source_input_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00516-7761588f-s2dc7eb63\\handoffs\\bcbff4a8f16e4ad09867c6dddec0eb96\\input.md",
+        "source_input_sha256": "52ef96bfb2e28e54c940cc7da73195892ec5ec8ade9618539c945c3a62577e67",
+        "source_transport_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00516-7761588f-s2dc7eb63\\handoffs\\bcbff4a8f16e4ad09867c6dddec0eb96\\api_id_transport.v2.json",
+        "source_transport_sha256": "bd21898b4ef4386fe46866a82f36b2d2cfa265248e845a5abd8f9a27be29463d",
+        "source_finish_reason": "stop",
+        "source_response_model": "deepseek-flash",
+        "source_usage": {
+          "prompt_tokens": 2793,
+          "completion_tokens": 2345,
+          "total_tokens": 5138
+        },
+        "record_count": 10,
+        "short_ids": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "selection_reason": "latest complete paid reply; missing closing brace after accuracy evidence in each of 10 records",
+        "edits": [
+          {
+            "character_offset_before_edit": 328,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 958,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 1580,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 2161,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 2862,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 3610,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 4212,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 4783,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 5432,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 6159,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          }
+        ],
+        "recovered_sha256": "c0914a64aa5b869e4cda400fc6dd5ff00460b579c2771487d683c87fa2c02ffd",
+        "validation": [
+          "JSON parsed",
+          "all bound short IDs present once",
+          "each record explicitly provides keep:true or translation",
+          "six review checks carry status and evidence",
+          "term references bound to source record",
+          "only listed syntax edits applied",
+          "task collector and semantic review left to main workflow"
+        ]
+      },
+      "canonical_result": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00516-7761588f-s2dc7eb63\\handoffs\\bcbff4a8f16e4ad09867c6dddec0eb96\\result.format_recovered.canonical.json",
+      "prior_session_status": "waiting",
+      "prior_session_receipt": null,
+      "prior_lease_until": 1792378463.331833,
+      "preserved_attempt": 2
+    },
+    {
+      "task_id": "review-r17-00641-8d521850",
+      "session_id": "fa602f0212fd4ab89b9d6091694899e3",
+      "actual_author": "api-review-374fe7e6eec94b2d83e7af7689e53179",
+      "audit": {
+        "task_id": "review-r17-00641-8d521850",
+        "source_session_id": "fa602f0212fd4ab89b9d6091694899e3",
+        "source_actual_author": "api-review-374fe7e6eec94b2d83e7af7689e53179",
+        "latest_session_id": "fa602f0212fd4ab89b9d6091694899e3",
+        "selected_latest_session": true,
+        "source_instance_binding": "original paid API reply from this exact session; no reassignment",
+        "task_input_hash": "74db45543a9bd3b61c47c869c3b5eac5116167561fa605bc83de5daa566a3167",
+        "source_raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00641-8d521850\\handoffs\\fa602f0212fd4ab89b9d6091694899e3\\response.raw.txt",
+        "source_raw_sha256": "f6955a3d4f63646ab90d067d654c8b351711be70bd8f73686057b4da02bc485f",
+        "source_input_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00641-8d521850\\handoffs\\fa602f0212fd4ab89b9d6091694899e3\\input.md",
+        "source_input_sha256": "ddd4d02453e88d4ac7ccda950cd00e0e5d2d3d0f2965a835c90981b1bee4cdd3",
+        "source_transport_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00641-8d521850\\handoffs\\fa602f0212fd4ab89b9d6091694899e3\\api_id_transport.v2.json",
+        "source_transport_sha256": "bd5d9e3ee60d4666df3e330c41dee6b66a53c960e1d5ad68cab1807a8d3ae407",
+        "source_finish_reason": "stop",
+        "source_response_model": "deepseek-flash",
+        "source_usage": {
+          "prompt_tokens": 3506,
+          "completion_tokens": 3080,
+          "total_tokens": 6586
+        },
+        "record_count": 17,
+        "short_ids": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17"
+        ],
+        "selection_reason": "latest complete paid reply; each of 17 records omits five closing braces between six check objects",
+        "edits": [
+          {
+            "character_offset_before_edit": 303,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 365,
+            "before": "\",\"terminology\":",
+            "after": "\"},\"terminology\":",
+            "reason": "close preceding check object before terminology check"
+          },
+          {
+            "character_offset_before_edit": 434,
+            "before": "\",\"tone\":",
+            "after": "\"},\"tone\":",
+            "reason": "close preceding check object before tone check"
+          },
+          {
+            "character_offset_before_edit": 500,
+            "before": "\",\"logic\":",
+            "after": "\"},\"logic\":",
+            "reason": "close preceding check object before logic check"
+          },
+          {
+            "character_offset_before_edit": 568,
+            "before": "\",\"placeholders\":",
+            "after": "\"},\"placeholders\":",
+            "reason": "close preceding check object before placeholders check"
+          },
+          {
+            "character_offset_before_edit": 944,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 1003,
+            "before": "\",\"terminology\":",
+            "after": "\"},\"terminology\":",
+            "reason": "close preceding check object before terminology check"
+          },
+          {
+            "character_offset_before_edit": 1054,
+            "before": "\",\"tone\":",
+            "after": "\"},\"tone\":",
+            "reason": "close preceding check object before tone check"
+          },
+          {
+            "character_offset_before_edit": 1106,
+            "before": "\",\"logic\":",
+            "after": "\"},\"logic\":",
+            "reason": "close preceding check object before logic check"
+          },
+          {
+            "character_offset_before_edit": 1158,
+            "before": "\",\"placeholders\":",
+            "after": "\"},\"placeholders\":",
+            "reason": "close preceding check object before placeholders check"
+          },
+          {
+            "character_offset_before_edit": 1557,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 1621,
+            "before": "\",\"terminology\":",
+            "after": "\"},\"terminology\":",
+            "reason": "close preceding check object before terminology check"
+          },
+          {
+            "character_offset_before_edit": 1700,
+            "before": "\",\"tone\":",
+            "after": "\"},\"tone\":",
+            "reason": "close preceding check object before tone check"
+          },
+          {
+            "character_offset_before_edit": 1743,
+            "before": "\",\"logic\":",
+            "after": "\"},\"logic\":",
+            "reason": "close preceding check object before logic check"
+          },
+          {
+            "character_offset_before_edit": 1799,
+            "before": "\",\"placeholders\":",
+            "after": "\"},\"placeholders\":",
+            "reason": "close preceding check object before placeholders check"
+          },
+          {
+            "character_offset_before_edit": 2124,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 2178,
+            "before": "\",\"terminology\":",
+            "after": "\"},\"terminology\":",
+            "reason": "close preceding check object before terminology check"
+          },
+          {
+            "character_offset_before_edit": 2237,
+            "before": "\",\"tone\":",
+            "after": "\"},\"tone\":",
+            "reason": "close preceding check object before tone check"
+          },
+          {
+            "character_offset_before_edit": 2280,
+            "before": "\",\"logic\":",
+            "after": "\"},\"logic\":",
+            "reason": "close preceding check object before logic check"
+          },
+          {
+            "character_offset_before_edit": 2325,
+            "before": "\",\"placeholders\":",
+            "after": "\"},\"placeholders\":",
+            "reason": "close preceding check object before placeholders check"
+          },
+          {
+            "character_offset_before_edit": 2655,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 2711,
+            "before": "\",\"terminology\":",
+            "after": "\"},\"terminology\":",
+            "reason": "close preceding check object before terminology check"
+          },
+          {
+            "character_offset_before_edit": 2762,
+            "before": "\",\"tone\":",
+            "after": "\"},\"tone\":",
+            "reason": "close preceding check object before tone check"
+          },
+          {
+            "character_offset_before_edit": 2809,
+            "before": "\",\"logic\":",
+            "after": "\"},\"logic\":",
+            "reason": "close preceding check object before logic check"
+          },
+          {
+            "character_offset_before_edit": 2866,
+            "before": "\",\"placeholders\":",
+            "after": "\"},\"placeholders\":",
+            "reason": "close preceding check object before placeholders check"
+          },
+          {
+            "character_offset_before_edit": 3170,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 3225,
+            "before": "\",\"terminology\":",
+            "after": "\"},\"terminology\":",
+            "reason": "close preceding check object before terminology check"
+          },
+          {
+            "character_offset_before_edit": 3274,
+            "before": "\",\"tone\":",
+            "after": "\"},\"tone\":",
+            "reason": "close preceding check object before tone check"
+          },
+          {
+            "character_offset_before_edit": 3317,
+            "before": "\",\"logic\":",
+            "after": "\"},\"logic\":",
+            "reason": "close preceding check object before logic check"
+          },
+          {
+            "character_offset_before_edit": 3366,
+            "before": "\",\"placeholders\":",
+            "after": "\"},\"placeholders\":",
+            "reason": "close preceding check object before placeholders check"
+          },
+          {
+            "character_offset_before_edit": 3611,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 3660,
+            "before": "\",\"terminology\":",
+            "after": "\"},\"terminology\":",
+            "reason": "close preceding check object before terminology check"
+          },
+          {
+            "character_offset_before_edit": 3709,
+            "before": "\",\"tone\":",
+            "after": "\"},\"tone\":",
+            "reason": "close preceding check object before tone check"
+          },
+          {
+            "character_offset_before_edit": 3752,
+            "before": "\",\"logic\":",
+            "after": "\"},\"logic\":",
+            "reason": "close preceding check object before logic check"
+          },
+          {
+            "character_offset_before_edit": 3798,
+            "before": "\",\"placeholders\":",
+            "after": "\"},\"placeholders\":",
+            "reason": "close preceding check object before placeholders check"
+          },
+          {
+            "character_offset_before_edit": 4061,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 4110,
+            "before": "\",\"terminology\":",
+            "after": "\"},\"terminology\":",
+            "reason": "close preceding check object before terminology check"
+          },
+          {
+            "character_offset_before_edit": 4172,
+            "before": "\",\"tone\":",
+            "after": "\"},\"tone\":",
+            "reason": "close preceding check object before tone check"
+          },
+          {
+            "character_offset_before_edit": 4217,
+            "before": "\",\"logic\":",
+            "after": "\"},\"logic\":",
+            "reason": "close preceding check object before logic check"
+          },
+          {
+            "character_offset_before_edit": 4263,
+            "before": "\",\"placeholders\":",
+            "after": "\"},\"placeholders\":",
+            "reason": "close preceding check object before placeholders check"
+          },
+          {
+            "character_offset_before_edit": 4556,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 4605,
+            "before": "\",\"terminology\":",
+            "after": "\"},\"terminology\":",
+            "reason": "close preceding check object before terminology check"
+          },
+          {
+            "character_offset_before_edit": 4676,
+            "before": "\",\"tone\":",
+            "after": "\"},\"tone\":",
+            "reason": "close preceding check object before tone check"
+          },
+          {
+            "character_offset_before_edit": 4719,
+            "before": "\",\"logic\":",
+            "after": "\"},\"logic\":",
+            "reason": "close preceding check object before logic check"
+          },
+          {
+            "character_offset_before_edit": 4765,
+            "before": "\",\"placeholders\":",
+            "after": "\"},\"placeholders\":",
+            "reason": "close preceding check object before placeholders check"
+          },
+          {
+            "character_offset_before_edit": 5205,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 5263,
+            "before": "\",\"terminology\":",
+            "after": "\"},\"terminology\":",
+            "reason": "close preceding check object before terminology check"
+          },
+          {
+            "character_offset_before_edit": 5340,
+            "before": "\",\"tone\":",
+            "after": "\"},\"tone\":",
+            "reason": "close preceding check object before tone check"
+          },
+          {
+            "character_offset_before_edit": 5387,
+            "before": "\",\"logic\":",
+            "after": "\"},\"logic\":",
+            "reason": "close preceding check object before logic check"
+          },
+          {
+            "character_offset_before_edit": 5450,
+            "before": "\",\"placeholders\":",
+            "after": "\"},\"placeholders\":",
+            "reason": "close preceding check object before placeholders check"
+          },
+          {
+            "character_offset_before_edit": 5872,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 5925,
+            "before": "\",\"terminology\":",
+            "after": "\"},\"terminology\":",
+            "reason": "close preceding check object before terminology check"
+          },
+          {
+            "character_offset_before_edit": 5992,
+            "before": "\",\"tone\":",
+            "after": "\"},\"tone\":",
+            "reason": "close preceding check object before tone check"
+          },
+          {
+            "character_offset_before_edit": 6038,
+            "before": "\",\"logic\":",
+            "after": "\"},\"logic\":",
+            "reason": "close preceding check object before logic check"
+          },
+          {
+            "character_offset_before_edit": 6087,
+            "before": "\",\"placeholders\":",
+            "after": "\"},\"placeholders\":",
+            "reason": "close preceding check object before placeholders check"
+          },
+          {
+            "character_offset_before_edit": 6416,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 6465,
+            "before": "\",\"terminology\":",
+            "after": "\"},\"terminology\":",
+            "reason": "close preceding check object before terminology check"
+          },
+          {
+            "character_offset_before_edit": 6514,
+            "before": "\",\"tone\":",
+            "after": "\"},\"tone\":",
+            "reason": "close preceding check object before tone check"
+          },
+          {
+            "character_offset_before_edit": 6559,
+            "before": "\",\"logic\":",
+            "after": "\"},\"logic\":",
+            "reason": "close preceding check object before logic check"
+          },
+          {
+            "character_offset_before_edit": 6605,
+            "before": "\",\"placeholders\":",
+            "after": "\"},\"placeholders\":",
+            "reason": "close preceding check object before placeholders check"
+          },
+          {
+            "character_offset_before_edit": 6865,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 6914,
+            "before": "\",\"terminology\":",
+            "after": "\"},\"terminology\":",
+            "reason": "close preceding check object before terminology check"
+          },
+          {
+            "character_offset_before_edit": 6963,
+            "before": "\",\"tone\":",
+            "after": "\"},\"tone\":",
+            "reason": "close preceding check object before tone check"
+          },
+          {
+            "character_offset_before_edit": 7006,
+            "before": "\",\"logic\":",
+            "after": "\"},\"logic\":",
+            "reason": "close preceding check object before logic check"
+          },
+          {
+            "character_offset_before_edit": 7052,
+            "before": "\",\"placeholders\":",
+            "after": "\"},\"placeholders\":",
+            "reason": "close preceding check object before placeholders check"
+          },
+          {
+            "character_offset_before_edit": 7397,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 7449,
+            "before": "\",\"terminology\":",
+            "after": "\"},\"terminology\":",
+            "reason": "close preceding check object before terminology check"
+          },
+          {
+            "character_offset_before_edit": 7519,
+            "before": "\",\"tone\":",
+            "after": "\"},\"tone\":",
+            "reason": "close preceding check object before tone check"
+          },
+          {
+            "character_offset_before_edit": 7564,
+            "before": "\",\"logic\":",
+            "after": "\"},\"logic\":",
+            "reason": "close preceding check object before logic check"
+          },
+          {
+            "character_offset_before_edit": 7632,
+            "before": "\",\"placeholders\":",
+            "after": "\"},\"placeholders\":",
+            "reason": "close preceding check object before placeholders check"
+          },
+          {
+            "character_offset_before_edit": 8001,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 8053,
+            "before": "\",\"terminology\":",
+            "after": "\"},\"terminology\":",
+            "reason": "close preceding check object before terminology check"
+          },
+          {
+            "character_offset_before_edit": 8102,
+            "before": "\",\"tone\":",
+            "after": "\"},\"tone\":",
+            "reason": "close preceding check object before tone check"
+          },
+          {
+            "character_offset_before_edit": 8145,
+            "before": "\",\"logic\":",
+            "after": "\"},\"logic\":",
+            "reason": "close preceding check object before logic check"
+          },
+          {
+            "character_offset_before_edit": 8191,
+            "before": "\",\"placeholders\":",
+            "after": "\"},\"placeholders\":",
+            "reason": "close preceding check object before placeholders check"
+          },
+          {
+            "character_offset_before_edit": 8561,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 8615,
+            "before": "\",\"terminology\":",
+            "after": "\"},\"terminology\":",
+            "reason": "close preceding check object before terminology check"
+          },
+          {
+            "character_offset_before_edit": 8722,
+            "before": "\",\"tone\":",
+            "after": "\"},\"tone\":",
+            "reason": "close preceding check object before tone check"
+          },
+          {
+            "character_offset_before_edit": 8768,
+            "before": "\",\"logic\":",
+            "after": "\"},\"logic\":",
+            "reason": "close preceding check object before logic check"
+          },
+          {
+            "character_offset_before_edit": 8818,
+            "before": "\",\"placeholders\":",
+            "after": "\"},\"placeholders\":",
+            "reason": "close preceding check object before placeholders check"
+          },
+          {
+            "character_offset_before_edit": 9178,
+            "before": "\",\"completeness\":",
+            "after": "\"},\"completeness\":",
+            "reason": "close preceding check object before completeness check"
+          },
+          {
+            "character_offset_before_edit": 9233,
+            "before": "\",\"terminology\":",
+            "after": "\"},\"terminology\":",
+            "reason": "close preceding check object before terminology check"
+          },
+          {
+            "character_offset_before_edit": 9309,
+            "before": "\",\"tone\":",
+            "after": "\"},\"tone\":",
+            "reason": "close preceding check object before tone check"
+          },
+          {
+            "character_offset_before_edit": 9356,
+            "before": "\",\"logic\":",
+            "after": "\"},\"logic\":",
+            "reason": "close preceding check object before logic check"
+          },
+          {
+            "character_offset_before_edit": 9405,
+            "before": "\",\"placeholders\":",
+            "after": "\"},\"placeholders\":",
+            "reason": "close preceding check object before placeholders check"
+          }
+        ],
+        "recovered_sha256": "64dae216e63f569a5e1bae328e6a7973a48545be2ddf9b51fb87c76204a4739d",
+        "validation": [
+          "JSON parsed",
+          "all bound short IDs present once",
+          "each record explicitly provides keep:true or translation",
+          "six review checks carry status and evidence",
+          "term references bound to source record",
+          "only listed syntax edits applied",
+          "task collector and semantic review left to main workflow"
+        ]
+      },
+      "canonical_result": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00641-8d521850\\handoffs\\fa602f0212fd4ab89b9d6091694899e3\\result.format_recovered.canonical.json",
+      "prior_session_status": "waiting",
+      "prior_session_receipt": null,
+      "prior_lease_until": 1792379283.8829117,
+      "preserved_attempt": 2
+    },
+    {
+      "task_id": "review-r17-00660-909fe4fd",
+      "session_id": "ab57b7db9de84a9484da091f6cb12f33",
+      "actual_author": "api-review-dc55761e48d448399e8e5bdcaaae8c4b",
+      "audit": {
+        "task_id": "review-r17-00660-909fe4fd",
+        "source_session_id": "ab57b7db9de84a9484da091f6cb12f33",
+        "source_actual_author": "api-review-dc55761e48d448399e8e5bdcaaae8c4b",
+        "latest_session_id": "b16c0fd7f7bc474da68877fffbd35843",
+        "selected_latest_session": false,
+        "source_instance_binding": "original paid API reply from this exact session; no reassignment",
+        "task_input_hash": "a32fbc0babdd61cb51226f7af5e7090ad32a2c8c5988fd1036195ea81425bc26",
+        "source_raw_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00660-909fe4fd\\handoffs\\ab57b7db9de84a9484da091f6cb12f33\\response.raw.txt",
+        "source_raw_sha256": "6132ec3d32130dfd6a0fc18cb1600d86d0ecc2e5f7dedb30f72ceb61f0de4c92",
+        "source_input_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00660-909fe4fd\\handoffs\\ab57b7db9de84a9484da091f6cb12f33\\input.md",
+        "source_input_sha256": "717a7e33ec1757cdb9633e2ea60fbba5524fedcbe69d6e8dcbc3c7949a2bcc2b",
+        "source_transport_path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00660-909fe4fd\\handoffs\\ab57b7db9de84a9484da091f6cb12f33\\api_id_transport.v2.json",
+        "source_transport_sha256": "56774e55ff592358ee2ebd04466dfaf82145bdeab96860cb00764146aab6fa25",
+        "source_finish_reason": "stop",
+        "source_response_model": "deepseek-flash",
+        "source_usage": {
+          "prompt_tokens": 3092,
+          "completion_tokens": 3716,
+          "total_tokens": 6808
+        },
+        "record_count": 15,
+        "short_ids": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15"
+        ],
+        "selection_reason": "older complete paid reply from same task and lease; latest reply has an unbound term_ref t10 on record 8",
+        "edits": [
+          {
+            "character_offset_before_edit": 4998,
+            "before": "\"id\":8\"",
+            "after": "\"id\":\"8\"",
+            "reason": "quote bound short ID 8 as JSON string"
+          }
+        ],
+        "recovered_sha256": "8bbba4e2b74af1f5c0ba51c2506ad7b85116cbb1041dae7c8c208fdb47172203",
+        "validation": [
+          "JSON parsed",
+          "all bound short IDs present once",
+          "each record explicitly provides keep:true or translation",
+          "six review checks carry status and evidence",
+          "term references bound to source record",
+          "only listed syntax edits applied",
+          "task collector and semantic review left to main workflow"
+        ]
+      },
+      "canonical_result": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\tasks\\review-r17-00660-909fe4fd\\handoffs\\ab57b7db9de84a9484da091f6cb12f33\\result.format_recovered.canonical.json",
+      "prior_session_status": "superseded",
+      "prior_session_receipt": "{\"format_error\":true,\"reason\":\"invalid_model_result\",\"retry_session\":\"b16c0fd7f7bc474da68877fffbd35843\",\"status\":\"superseded\"}",
+      "prior_lease_until": 1792379629.6783314,
+      "preserved_attempt": 2
+    }
+  ],
+  "receipts": [
+    {
+      "status": "submitted",
+      "session_id": "20f456f39ed74973833ea2ac96cfbdbb",
+      "task_id": "review-r17-00476-eff9e9d1",
+      "records": 16,
+      "summary": {
+        "records": {
+          "translate": 23195
+        },
+        "tasks": {
+          "done": 1347,
+          "obsolete": 56,
+          "pending": 821,
+          "running": 4
+        }
+      },
+      "quality": "review_saved; wait for the whole round before review-scan",
+      "remaining_round_batches": 825,
+      "next_action": "finish_current_round"
+    },
+    {
+      "status": "submitted",
+      "session_id": "bcbff4a8f16e4ad09867c6dddec0eb96",
+      "task_id": "review-r17-00516-7761588f-s2dc7eb63",
+      "records": 10,
+      "summary": {
+        "records": {
+          "translate": 23195
+        },
+        "tasks": {
+          "done": 1348,
+          "obsolete": 56,
+          "pending": 821,
+          "running": 3
+        }
+      },
+      "quality": "review_saved; wait for the whole round before review-scan",
+      "remaining_round_batches": 824,
+      "next_action": "finish_current_round"
+    },
+    {
+      "status": "submitted",
+      "session_id": "fa602f0212fd4ab89b9d6091694899e3",
+      "task_id": "review-r17-00641-8d521850",
+      "records": 17,
+      "summary": {
+        "records": {
+          "translate": 23195
+        },
+        "tasks": {
+          "done": 1349,
+          "obsolete": 56,
+          "pending": 821,
+          "running": 2
+        }
+      },
+      "quality": "review_saved; wait for the whole round before review-scan",
+      "remaining_round_batches": 823,
+      "next_action": "finish_current_round"
+    },
+    {
+      "status": "submitted",
+      "session_id": "ab57b7db9de84a9484da091f6cb12f33",
+      "task_id": "review-r17-00660-909fe4fd",
+      "records": 15,
+      "summary": {
+        "records": {
+          "translate": 23195
+        },
+        "tasks": {
+          "done": 1350,
+          "obsolete": 56,
+          "pending": 821,
+          "running": 1
+        }
+      },
+      "quality": "review_saved; wait for the whole round before review-scan",
+      "remaining_round_batches": 822,
+      "next_action": "finish_current_round"
+    }
+  ],
+  "recovered_records": 58,
+  "api_history_unchanged": true,
+  "formal_records_unchanged": true,
+  "quality": "candidates_saved; not_semantic_acceptance",
+  "summary": {
+    "records": {
+      "translate": 23195
+    },
+    "tasks": {
+      "done": 1350,
+      "obsolete": 56,
+      "pending": 821,
+      "running": 1
+    }
+  }
+}

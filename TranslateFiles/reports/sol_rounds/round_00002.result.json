@@ -1,0 +1,18 @@
+{
+  "report_hash": "9fd45b7e96151cd0f55a21269b7d9e08d76f15a810ee52cee5f08a7ae08ddb33",
+  "decisions": {
+    "R0004643_becb557068": {
+      "disposition": "contextual",
+      "id": "R0004643_becb557068",
+      "reason": "原文 absent for his court trial 指未出席自己的审判，现译已纠正原译的因果误读；1100/600 两档赏金及 Valuables 单位均保留。此处 court 与 trial 连用是法律语境中的法庭，不是王廷，审校所列术语例外成立。‘死亡600贵重物品’虽可润色，告示语境下能对应死者赏金，不构成必须返修的误译。"
+    },
+    "R0012694_ad9e6cdee7": {
+      "disposition": "contextual",
+      "id": "R0012694_ad9e6cdee7",
+      "reason": "原文将 ealdormen 与 gerefas 及各自即将就任者并列为四类；现译保留四类、先后顺序及对贡献的称赞。术语表两词同作‘郡长’会在本句造成重复混淆，gerefas 在此用‘执事’区分并登记例外有语境依据；具体汉语职称可有不同选法，属同义及风格偏好，无需返修。"
+    }
+  },
+  "status": "approved",
+  "kind": "final",
+  "round": 2
+}

@@ -1,0 +1,159 @@
+{
+  "run_id": "a079191ac33a443b996c10c7d63ae70d",
+  "stage": "review",
+  "status": "completed",
+  "started_at": "2026-10-19T04:22:23.242056+00:00",
+  "receipt_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\a079191ac33a443b996c10c7d63ae70d.json",
+  "stdout_log": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\logs\\api_runs\\a079191ac33a443b996c10c7d63ae70d.stdout.log",
+  "stderr_log": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\logs\\api_runs\\a079191ac33a443b996c10c7d63ae70d.stderr.log",
+  "profile_log": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\logs\\api_runs\\a079191ac33a443b996c10c7d63ae70d.profile.jsonl",
+  "profile_summary": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\a079191ac33a443b996c10c7d63ae70d.profile.json",
+  "pid": 44392,
+  "exit_code": 0,
+  "accepted": 0,
+  "failed": 0,
+  "paused": false,
+  "needs_attention_count": 0,
+  "pending_handoffs_count": 0,
+  "continuous": true,
+  "stage_clean": true,
+  "next_action": "stage_complete",
+  "api_rounds": [
+    {
+      "cycle": 1,
+      "accepted": 0,
+      "failed": 0,
+      "records_saved": 0,
+      "scan": {
+        "phase": "round_checked",
+        "status": "clean",
+        "clean": true,
+        "checked_records": 5,
+        "failed_records": 0,
+        "report_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\review_round_status.json"
+      }
+    }
+  ],
+  "last_scan": {
+    "stage": "review",
+    "phase": "round_checked",
+    "status": "clean",
+    "clean": true,
+    "checked_records": 5,
+    "failed_records": 0,
+    "report_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\review_round_status.json"
+  },
+  "finished_at": "2026-10-19T04:22:30.095812+00:00",
+  "elapsed_seconds": 6.8538,
+  "performance": {
+    "run_id": "a079191ac33a443b996c10c7d63ae70d",
+    "stage": "review",
+    "status": "completed",
+    "elapsed_seconds": 6.3165,
+    "first_request_seconds": null,
+    "requests_started": 0,
+    "accepted_batches": 0,
+    "failed_attempts": 0,
+    "peak_in_flight": 0,
+    "total_batches": 1659,
+    "completed_before_run": 1659,
+    "recovered_batches": 0,
+    "records_saved_this_run": 0,
+    "api_cycles": [
+      {
+        "cycle": 1,
+        "accepted": 0,
+        "failed": 0,
+        "records_saved": 0,
+        "scan": {
+          "phase": "round_checked",
+          "status": "clean",
+          "clean": true,
+          "checked_records": 5,
+          "failed_records": 0,
+          "report_file": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\review_round_status.json"
+        }
+      }
+    ],
+    "stage_clean": true,
+    "phase_seconds": {
+      "setup": 0.0071,
+      "prepare": 0.23,
+      "execute": 0.8602,
+      "review_scan": 2.3821
+    },
+    "unfinished_phases": [],
+    "run_tokens": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "cached_prompt_tokens": 0,
+      "reasoning_tokens": 0,
+      "reported_requests": 0,
+      "unknown_requests": 0
+    },
+    "project_tokens": {
+      "prompt_tokens": 22710554,
+      "completion_tokens": 9806815,
+      "total_tokens": 32517369,
+      "cached_prompt_tokens": 5979136,
+      "reasoning_tokens": 0,
+      "reported_requests": 6046,
+      "unknown_requests": 19
+    },
+    "counters": {
+      "term_cache_misses": 5,
+      "term_cache_hits": 5
+    },
+    "timings": {
+      "db_lock_wait": {
+        "count": 34,
+        "sum_seconds": 0.001282,
+        "max_seconds": 0.00017
+      },
+      "config_validate": {
+        "count": 11,
+        "sum_seconds": 0.048565,
+        "max_seconds": 0.040228
+      },
+      "resume": {
+        "count": 1,
+        "sum_seconds": 1e-06,
+        "max_seconds": 1e-06
+      },
+      "glossary_load": {
+        "count": 2,
+        "sum_seconds": 0.01116,
+        "max_seconds": 0.011085
+      },
+      "prepare": {
+        "count": 1,
+        "sum_seconds": 0.229719,
+        "max_seconds": 0.229719
+      },
+      "dispatch_lock_wait": {
+        "count": 5,
+        "sum_seconds": 1.649907,
+        "max_seconds": 0.662629
+      },
+      "batch_open": {
+        "count": 5,
+        "sum_seconds": 0.762576,
+        "max_seconds": 0.155755
+      },
+      "term_match": {
+        "count": 10,
+        "sum_seconds": 1.466149,
+        "max_seconds": 1.337699
+      },
+      "review_scan": {
+        "count": 1,
+        "sum_seconds": 2.381674,
+        "max_seconds": 2.381674
+      }
+    },
+    "timing_note": "Nested spans overlap; concurrent request sums may exceed elapsed wall time.",
+    "profile_log": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\logs\\api_runs\\a079191ac33a443b996c10c7d63ae70d.profile.jsonl",
+    "profile_summary": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\api_runs\\a079191ac33a443b996c10c7d63ae70d.profile.json"
+  }
+}
