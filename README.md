@@ -154,7 +154,7 @@ python batch_replace_uabea.py
 python TranslateFiles\scripts\verify_deployed_assets.py
 ```
 
-### 2026-10-19：新译文回填完成（待实机验证）
+### 2026-10-19：新译文回填完成（已实机验证）
 
 - 输入为本轮正式译文 `expeditions-viking_text_translated.csv`（23,195 条，单列，按源记录顺序）。已确认与 `extracted_strings.csv` 逐行对齐（原文完全一致），因此按行号映射回 9 个类别的 key。
 - 回填不改动已验收译文，而是生成回填副本 `TranslateFiles/repack/translation_for_repack.csv`，共修订 238 条记录（240 处操作，其中 2 条与整体回补重合）：
@@ -166,7 +166,7 @@ python TranslateFiles\scripts\verify_deployed_assets.py
 - 生成结果：9 个中文 XML + `ProcQuestEnglish.xml`（保持英文），写入 23,195 条译文；逐条反查 0 缺失、0 不一致、0 英文性别分支。纯占位模板（`[x]`、`[size="16"][name]` 等）与拉丁语／古英语／盖尔语风味文本按原样保留（共 279 条原文未译）。
 - 回填：从 `backup/resources.assets`（344,539,620 bytes）重建，9/9 TextAsset 导入成功；部署后 `resources.assets` = 344,633,140 bytes，SHA-256 `0c07814ce8ace8232e1b7fd8be69f2c44eeac58447ed9d29ddb25901efde92d3`。
 - 验证：从部署后的资源重新导出 9 个 TextAsset，与生成的 XML 逐字节一致（9/9）；对白中 `{…}` 英文片段 0，英文性别分支 0，`[[hotkey]]` 与 `{攻击。}` 均已就位。报告见 `TranslateFiles/reports/repack_verification.json`、`repack_translation_prep.json`、`build_xml_verification.json`。
-- 待办：启动游戏实机检查（字体、排版、UI、对白、任务），测试前先清空 `Documents\My Games\Expeditions Viking\Custom Localization\`；实机通过后才可制作对外补丁。
+- 实机结果：用户在部署后实机确认字体、排版、UI 与对白/选项正常；任务日志界面未单独检查。可发布。
 
 ### 2026-09-19：动态性别分支标签修复
 
@@ -244,7 +244,7 @@ python TranslateFiles\scripts\verify_deployed_assets.py
 
 ## 已知问题
 
-- 2026-10-19 回填的载荷尚未实机验证：字体、排版、UI、对白、任务五项均为 `pending`，实机通过前不得发布。
+- 2026-10-19 载荷已实机验证字体、排版、UI、对白/选项；任务日志界面未单独检查，记录为 `not_applicable`。
 - 本轮回填副本有 238 条记录未经正式审校流程（100 条整体回补 + 136 条花括号片段回补 + 4 处定向修订），来源为 v1.2 已发布译文与 r8 术语表；如后续重跑导出，需重新应用 `repack_prepare.py`。
 - `expeditions-viking_text_translated.csv` 仍是正式审校产物；回填副本 `TranslateFiles/repack/translation_for_repack.csv` 与它存在上述差异，`final_validation.json` 只对正式 CSV 有效。
 - 纯占位模板与拉丁语／古英语／盖尔语风味台词保持原样（279 条），属预期保留。
@@ -255,7 +255,8 @@ python TranslateFiles\scripts\verify_deployed_assets.py
 
 | 日期 | 操作 | 说明 |
 |------|------|------|
-| 2026-10-19 | 新译文回填 | 用正式译文重建 9 个 TextAsset 并部署；修订 238 条记录（整体回补 100 + 花括号片段 136 + 定向 4，2 处重合），291 处性别分支本地化；资源导出 9/9 逐字节一致，待实机验证 |
+| 2026-10-19 | 发布 v1.3 | 基于新译文生成 HDiffPatch 差分补丁并发布；实机确认字体/排版/UI/对白正常，临时目录按玩家流程安装后哈希与载荷一致 |
+| 2026-10-19 | 新译文回填 | 用正式译文重建 9 个 TextAsset 并部署；修订 238 条记录（整体回补 100 + 花括号片段 136 + 定向 4，2 处重合），291 处性别分支本地化；资源导出 9/9 逐字节一致 |
 | 2026-07-19 | 首次回填 | `build_localization.py` + `batch_replace_uabea.py`，9 个 TextAsset 替换 |
 | 2026-07-25 | 重新回填 | 译文 CSV 更新后重新生成 XML 并回填；`batch_replace_uabea.py` 改为以原始备份为干净基底重建，新增已知 pathId 快速校验模式 |
 | 2026-07-25 | 排查回填不生效 | 定位到游戏读取 `Documents\My Games\Expeditions Viking\Custom Localization\` 覆盖文件夹（旧汉化），删除后回填生效 |
@@ -265,16 +266,16 @@ python TranslateFiles\scripts\verify_deployed_assets.py
 
 ## 对外发布
 
-> 当前线上补丁仍为 v1.2（旧译文）。2026-10-19 的新译文本地回填已完成资源校验，但未实机验证，因此尚未打包发布；实机通过后再按 `game-release-patch` 追加 v1.3。
-
-- 补丁：`Dispatch/Expeditions Viking_子非鱼汉化1.2.zip`
+- 当前版本：**v1.3**（2026-10-19），线上最新。
+- 补丁：`Dispatch/Expeditions Viking_子非鱼汉化1.3.zip`（1,459,964 bytes）
 - 支持版本/平台：Steam Windows 版，Unity 5.6.4f1；仅支持原始 `resources.assets` 为 344,539,620 bytes 的安装。
-- 载荷：`resources.assets.hdiff` 差分文件、HDiffPatch 应用器与一键安装脚本；不包含游戏本体或原始资源文件。
-- 验证结果：已在实际游戏中确认汉化资源、对话、动态称谓和角色名称正常加载；独立临时目录按玩家安装流程还原后 SHA-256 与当前汉化资源一致。
-- 已知问题：AI 自动翻译，部分长文本、术语与语气仍可能需要润色；其他 Mod 或不同游戏版本会导致差分拒绝应用。
-- GitHub Release：`https://github.com/zfyu222/expeditions-viking-hanhua/releases/tag/v1.2`
-- GitHub 下载资产命名：`Expeditions.Viking_ChinesePatch_.{版本号}.zip`（例如 `Expeditions.Viking_ChinesePatch_.1.2.zip`）。后续发布沿用此格式；项目本地归档仍按中文补丁命名规范保存。
-- 百度网盘：待镜像上传。
+- 载荷：`ZFY_Translation_Patch/` 下的 `resources.assets.hdiff`（1,186,334 bytes）、HDiffPatch 应用器 `hpatchz.exe`（v5.1.3）与一键安装脚本；不含游戏本体或原始资源文件。
+- 验证结果：用户已在 Steam Windows 版实机确认字体、排版、UI 与对白/选项正常；在独立临时目录按玩家流程完整安装，结果为 `resources.assets` SHA-256 `0c07814c…efde92d3`，与应用前测试载荷一致，原始文件备份与失败回滚路径均正常。
+- 已知问题：AI 自动翻译，部分长文本、术语与语气仍可能需要润色；任务日志界面本轮未单独实机验证；其他 Mod 或不同游戏版本会导致差分拒绝应用。
+- GitHub Release：`https://github.com/zfyu222/expeditions-viking-hanhua/releases/tag/v1.3`
+- GitHub 下载资产命名：`Expeditions.Viking_ChinesePatch_.{版本号}.zip`（本版为 `Expeditions.Viking_ChinesePatch_.1.3.zip`）。后续发布沿用此格式；项目本地归档仍按中文补丁命名规范保存。
+- 百度网盘：待镜像上传（当前会话未加载 `baidu-netdisk-local-uploader` MCP 工具）。
+- v1.2 归档仍保留在 `Dispatch/`，未覆盖。
 
 ### ⚠ 关键：Custom Localization 覆盖文件夹（务必先处理）
 
