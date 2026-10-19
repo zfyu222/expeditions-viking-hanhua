@@ -69,3 +69,6 @@
 - 正式译文 SHA-256 `bcb10634df1ac8053408cae6492186a674a808982e4e85f3c05c2257a77f7a9b`；新资源 SHA-256 `307cb72ef9b5d1cc34dc2755ec226bdd72e49e154b940354195fd00f2aa3009b`。回填只另处理 291 处性别分支，禁止旧补译覆盖已审正式译文。
 - 用户随后明确要求不进入游戏测试，完成后直接发布。已记录 `reports/release_v14_user_instruction.json`，本版只作资源、差分及实际安装验证，未生成新的实机通过结论。项目专用发布入口验证正式语义与实际载荷绑定，未放宽共享程序。
 - v1.4 ZIP 已从 `Dispatch/Files/` 生成，压缩包校验和、更新日志及按玩家流程实际安装均通过，错误版本拒绝/恢复正常。报告：`reports/release_v14_static_validation.json`、`reports/release_v14_archive_validation.json`。
+
+- 发布完成：GitHub 最新稳定版 `v1.4`，https://github.com/zfyu222/expeditions-viking-hanhua/releases/tag/v1.4 。上传资产 `Expeditions.Viking_ChinesePatch_.1.4.zip` 为 1,997,947 bytes，匿名下载后 SHA-256 `60622bf984f717f0919bf9f977f808011e0945304855445f20b964e9a32631e4` 与本地 ZIP 一致。发布记录见 `reports/release_v14_publication.json`。
+- 当前无百度网盘上传 MCP，网盘镜像未上传；未修改网盘旧版文件。旧 GitHub Releases 及本地归档均保留。

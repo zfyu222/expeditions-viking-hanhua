@@ -1,0 +1,15 @@
+{
+  "status": "published",
+  "release_url": "https://github.com/zfyu222/expeditions-viking-hanhua/releases/tag/v1.4",
+  "asset_url": "https://github.com/zfyu222/expeditions-viking-hanhua/releases/download/v1.4/Expeditions.Viking_ChinesePatch_.1.4.zip",
+  "asset_name": "Expeditions.Viking_ChinesePatch_.1.4.zip",
+  "size": 1997947,
+  "sha256": "60622bf984f717f0919bf9f977f808011e0945304855445f20b964e9a32631e4",
+  "public_anonymous_download_verified": true,
+  "latest_stable": "v1.4",
+  "draft": false,
+  "mirror_status": "not_uploaded; Baidu Netdisk MCP unavailable in this session",
+  "new_in_game_test": false,
+  "user_requested_skip": true,
+  "release_commit": "896c700"
+}
