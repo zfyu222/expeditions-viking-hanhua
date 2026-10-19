@@ -168,6 +168,14 @@ python TranslateFiles\scripts\verify_deployed_assets.py
 - 验证：从部署后的资源重新导出 9 个 TextAsset，与生成的 XML 逐字节一致（9/9）；对白中 `{…}` 英文片段 0，英文性别分支 0，`[[hotkey]]` 与 `{攻击。}` 均已就位。报告见 `TranslateFiles/reports/repack_verification.json`、`repack_translation_prep.json`、`build_xml_verification.json`。
 - 实机结果：用户在部署后实机确认字体、排版、UI 与对白/选项正常；任务日志界面未单独检查。可发布。
 
+### 2026-10-19：独立打包复核
+
+- 重新从当前游戏资源导出 9 个 TextAsset，全部与生成 XML 逐字节一致；按类别及 key 对齐核对回填副本的 23,195 条文本，缺失或不一致为 0。
+- 正式译文 SHA-256 仍为 `c0c645ab…be4d62f`；回填副本为 `a93470b4…3e7cfea`。共 510 条记录与正式译文不同，包含 238 条正文/选项等修订及 272 条可见性别分支本地化。
+- 本地 v1.3 ZIP 完整性、清单载荷哈希和已有实机证据哈希均通过；从原始备份重新应用差分，得到的资源 SHA-256 为 `0c07814c…efde92d3`，与当前部署文件相同。复核未改游戏文件。
+- 结论：打包技术校验通过，仍有审校覆盖缺口。238 条回填修订未经过本轮正式独立语义审校；已发布来源不等于本轮语义验收。任务日志的 `not_applicable` 在现有实机记录中实际表示“未单独检查”，不能解释为无须验证。
+- 本次未重新启动游戏，沿用并核对已有用户实机记录；差分重建测试不冒充整套交互式安装器测试。详细报告：`TranslateFiles/reports/repack_acceptance_20261019.json`。
+
 ### 2026-09-19：动态性别分支标签修复
 
 - 问题：翻译阶段把 `[Player:brother/sis]` 一类标签整体作为不可翻译变量保留；游戏会将斜杠两侧的词直接显示，因此会出现 `brother`、`man` 等英文。
