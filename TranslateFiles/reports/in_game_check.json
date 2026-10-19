@@ -1,0 +1,71 @@
+{
+  "translation_sha256": "c0c645ab0ab89d15a2467fb55099d4c48f1c8778ae3aa3fd9da189b11be4d62f",
+  "game_version": "Steam 当前版本（Unity 5.6.4f1，原始 resources.assets 344,539,620 字节）",
+  "platform": "Steam（Windows）",
+  "payload_files": [
+    {
+      "path": "ReleasePayload/resources.assets.hdiff",
+      "sha256": "b2f470427217275caa5585a30b7ab46dbba7d26882e78fd6bffb4157c247c5e8",
+      "game_path": "ZFY_Translation_Patch/resources.assets.hdiff"
+    },
+    {
+      "path": "ReleasePayload/hpatchz.exe",
+      "sha256": "9703c694b5955c576d9f0e26e98b60941f0bbb53b382b1f1988d75d461e580cb",
+      "game_path": "ZFY_Translation_Patch/hpatchz.exe"
+    },
+    {
+      "path": "ReleasePayload/应用汉化补丁.bat",
+      "sha256": "3e5b68d6a6af1ebb073c5fdc1b98c7715ad9a83c259a78cebafa6402d8131037",
+      "game_path": "ZFY_Translation_Patch/应用汉化补丁.bat"
+    }
+  ],
+  "evidence_files": [
+    {
+      "path": "TranslateFiles/reports/repack_verification.json",
+      "sha256": "7b865c6f94f6a9f2766a16b98a908f842458758255d754edfe6f7d57f057e4d3"
+    },
+    {
+      "path": "TranslateFiles/reports/build_xml_verification.json",
+      "sha256": "3f3b4be1c53312cb70aa81c98c6ea76af9a8a16d3239a3b44499f3af4bf800f1"
+    },
+    {
+      "path": "TranslateFiles/reports/repack_translation_prep.json",
+      "sha256": "9ea09751644fc1a95304a0d98cec49d91e5e9082dbd1d7ce94819af72ba1c4b3"
+    }
+  ],
+  "checks": [
+    {
+      "category": "fonts",
+      "status": "pass",
+      "scene": "启动后主界面与对白界面",
+      "notes": "用户实机确认中文字体显示正常，无缺字或方块。"
+    },
+    {
+      "category": "layout",
+      "status": "pass",
+      "scene": "对白与选项文本",
+      "notes": "用户实机确认文本排版正常，选项与对白未出现换行错乱。"
+    },
+    {
+      "category": "ui",
+      "status": "pass",
+      "scene": "游戏内 UI 与技能/物品提示",
+      "notes": "用户实机确认界面文本为中文。"
+    },
+    {
+      "category": "dialogue",
+      "status": "pass",
+      "scene": "对话与玩家选项",
+      "notes": "用户实机确认对话与选项显示中文，未再出现英文选项片段。"
+    },
+    {
+      "category": "quest",
+      "status": "not_applicable",
+      "scene": "",
+      "notes": "本轮实机确认未单独覆盖任务日志界面，按未验证项记录。"
+    }
+  ],
+  "notes": "载荷由 2026-10-19 回填的 resources.assets 生成差分；用户在部署后实机确认字体、排版、UI 与对话正常。",
+  "quality_report_hash": "9fd45b7e96151cd0f55a21269b7d9e08d76f15a810ee52cee5f08a7ae08ddb33",
+  "status": "passed"
+}
