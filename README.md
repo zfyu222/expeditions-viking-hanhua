@@ -157,7 +157,7 @@ python TranslateFiles\scripts\verify_deployed_assets.py
 ### 2026-10-19：新译文回填完成（待实机验证）
 
 - 输入为本轮正式译文 `expeditions-viking_text_translated.csv`（23,195 条，单列，按源记录顺序）。已确认与 `extracted_strings.csv` 逐行对齐（原文完全一致），因此按行号映射回 9 个类别的 key。
-- 回填不改动已验收译文，而是生成回填副本 `TranslateFiles/repack/translation_for_repack.csv`，共调整 240 条：
+- 回填不改动已验收译文，而是生成回填副本 `TranslateFiles/repack/translation_for_repack.csv`，共修订 238 条记录（240 处操作，其中 2 条与整体回补重合）：
   - 100 条整体漏译的选项（`{Attack.}`、`{Leave.}` 等）沿用 v1.2 已发布译法回补；
   - 136 条仅花括号片段漏译的对白，仅替换 `{…}` 内文本，句体保留本轮译文；
   - 4 条定向修订：`Asleifr`→阿斯莱夫（术语表）、`Ready`→戒备（术语表）、`[[hotkey]]` 双层转义修复、1 条全角括号统一为花括号。
@@ -245,7 +245,7 @@ python TranslateFiles\scripts\verify_deployed_assets.py
 ## 已知问题
 
 - 2026-10-19 回填的载荷尚未实机验证：字体、排版、UI、对白、任务五项均为 `pending`，实机通过前不得发布。
-- 本轮 AI 译文有 240 条未经正式审校流程（100 条整体回补 + 136 条花括号片段回补 + 4 条定向修订），来源为 v1.2 已发布译文与 r8 术语表；如后续重跑导出，需重新应用 `repack_prepare.py`。
+- 本轮回填副本有 238 条记录未经正式审校流程（100 条整体回补 + 136 条花括号片段回补 + 4 处定向修订），来源为 v1.2 已发布译文与 r8 术语表；如后续重跑导出，需重新应用 `repack_prepare.py`。
 - `expeditions-viking_text_translated.csv` 仍是正式审校产物；回填副本 `TranslateFiles/repack/translation_for_repack.csv` 与它存在上述差异，`final_validation.json` 只对正式 CSV 有效。
 - 纯占位模板与拉丁语／古英语／盖尔语风味台词保持原样（279 条），属预期保留。
 - 对白中 `[Player:甲/乙]` 分支必须保持 `[Player:…/…]` 形式；若后续译文重新保护该标签，需再次运行 `repack_prepare.py --variants`。
@@ -255,7 +255,7 @@ python TranslateFiles\scripts\verify_deployed_assets.py
 
 | 日期 | 操作 | 说明 |
 |------|------|------|
-| 2026-10-19 | 新译文回填 | 用正式译文重建 9 个 TextAsset 并部署；回补 240 条漏译/格式问题，291 处性别分支本地化；资源导出 9/9 逐字节一致，待实机验证 |
+| 2026-10-19 | 新译文回填 | 用正式译文重建 9 个 TextAsset 并部署；修订 238 条记录（整体回补 100 + 花括号片段 136 + 定向 4，2 处重合），291 处性别分支本地化；资源导出 9/9 逐字节一致，待实机验证 |
 | 2026-07-19 | 首次回填 | `build_localization.py` + `batch_replace_uabea.py`，9 个 TextAsset 替换 |
 | 2026-07-25 | 重新回填 | 译文 CSV 更新后重新生成 XML 并回填；`batch_replace_uabea.py` 改为以原始备份为干净基底重建，新增已知 pathId 快速校验模式 |
 | 2026-07-25 | 排查回填不生效 | 定位到游戏读取 `Documents\My Games\Expeditions Viking\Custom Localization\` 覆盖文件夹（旧汉化），删除后回填生效 |
