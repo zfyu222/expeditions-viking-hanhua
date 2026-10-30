@@ -286,6 +286,9 @@ python TranslateFiles\scripts\verify_deployed_assets.py
 
 ## 对外发布
 
+- 汉化封面：`Dispatch/Artwork/title.png`，参考 [Steam 官方素材](https://store.steampowered.com/app/445190/)，使用内置图像工具制作并视觉检查；来源及提示词见 `Dispatch/Artwork/source.json`。封面不进入安装载荷。
+
+
 ### v1.4（当前最新稳定版）
 
 - 补丁：`Dispatch/Expeditions Viking_子非鱼汉化1.4.zip`（1,997,947 bytes），SHA-256 `60622bf984f717f0919bf9f977f808011e0945304855445f20b964e9a32631e4`。
