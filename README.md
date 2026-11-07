@@ -289,7 +289,7 @@ python TranslateFiles\scripts\verify_deployed_assets.py
 - 汉化封面：`Dispatch/Artwork/title.png`，参考 [Steam 官方素材](https://store.steampowered.com/app/445190/)，使用内置图像工具制作并视觉检查；来源及提示词见 `Dispatch/Artwork/source.json`。封面不进入安装载荷。
 
 
-### v1.4（当前最新稳定版）
+### v1.4（历史版本）
 
 - 补丁：`Dispatch/Expeditions Viking_子非鱼汉化1.4.zip`（1,997,947 bytes），SHA-256 `60622bf984f717f0919bf9f977f808011e0945304855445f20b964e9a32631e4`。
 - 载荷：`ZFY_Translation_Patch/resources.assets.hdiff`、`hpatchz.exe` 和一键安装脚本；不含原始游戏资源、凭据或开发日志。
@@ -366,4 +366,4 @@ C:\Users\<用户名>\Documents\My Games\Expeditions Viking\Custom Localization\
 - 新装、重复安装、v1.4 升级、已装计时修复、卸载/重复卸载、不兼容文件拒绝、第二份差分损坏保护及坏备份卸载保护均通过；最终 ZIP 解压后实际运行玩家 CMD 入口重复验证通过。
 - 共享流程把报告里的 Sol 命名改为 standard 后，旧审校报告哈希因字段名/说明变化失配。仅在本项目校验全部实质字段与原已验收报告相等后复用原审批；未改动基础程序、正文或原审批。发布授权按真实指令记录为实机待测，不伪造实测。
 - 补丁：`Dispatch/Expeditions Viking_子非鱼汉化1.5.zip`，SHA-256 `f772433a870f7d29ca55efae869436d60b6fa1f7cb91223ae122802b35614828`。验证见 `TranslateFiles/reports/release_v15_archive_validation.json`。
-- 预定发布页：https://github.com/zfyu222/expeditions-viking-hanhua/releases/tag/v1.5 。旧版历史保留，本版仅上传一个完整包；网盘镜像未更新。
+- 当前最新稳定版：[v1.5 发布页](https://github.com/zfyu222/expeditions-viking-hanhua/releases/tag/v1.5)。已公开发布且匿名下载 SHA-256/ZIP CRC 校验通过，仅有一个完整汉化 ZIP 附件。旧版历史保留；网盘镜像未更新。

@@ -1,0 +1,14 @@
+{
+  "status": "published_and_anonymous_download_verified",
+  "version": "1.5",
+  "release_url": "https://github.com/zfyu222/expeditions-viking-hanhua/releases/tag/v1.5",
+  "download_url": "https://github.com/zfyu222/expeditions-viking-hanhua/releases/download/v1.5/Expeditions.Viking_ChinesePatch_1.5.zip",
+  "asset_count": 1,
+  "sha256": "f772433a870f7d29ca55efae869436d60b6fa1f7cb91223ae122802b35614828",
+  "bytes": 3297387,
+  "latest_stable": true,
+  "zip_crc": "passed",
+  "cover_url": "https://raw.githubusercontent.com/zfyu222/expeditions-viking-hanhua/main/Dispatch/Artwork/title.jpg",
+  "mirror_upload": "not_performed_no_upload_connector",
+  "new_in_game_test": false
+}
