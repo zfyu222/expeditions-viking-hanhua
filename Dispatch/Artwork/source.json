@@ -1,7 +1,8 @@
 {
   "official_page": "https://store.steampowered.com/app/445190/",
   "official_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/445190/header.jpg",
-  "output": "title.png",
+  "output": "title.jpg",
   "method": "内置 image_gen 参考官方图片编辑；已视觉检查标题、品牌和构图",
-  "prompt": "以参考图为编辑对象，制作横版游戏汉化发布封面，保留原图人物、画面主体及原游戏艺术风格；将游戏标题设计为清晰醒目的“远征：维京”，另加完整品牌文字“子非鱼汉化”。两处文字必须准确，字体材质配色与原画协调，不遮挡主体，不加版本号。"
+  "prompt": "以参考图为编辑对象，制作横版游戏汉化发布封面，保留原图人物、画面主体及原游戏艺术风格；将游戏标题设计为清晰醒目的“远征：维京”，另加完整品牌文字“子非鱼汉化”。两处文字必须准确，字体材质配色与原画协调，不遮挡主体，不加版本号。",
+  "reused_for": "v1.5"
 }

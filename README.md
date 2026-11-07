@@ -356,3 +356,14 @@ C:\Users\<用户名>\Documents\My Games\Expeditions Viking\Custom Localization\
 - DLL 仅一处原方法增加计时调用，新增一个无依赖计算函数；其余方法指令和程序集引用核对不变。9 个离线计时用例和安装/重复安装/卸载/重复卸载/不兼容版本拒绝/损坏补丁保护通过。截图对应句子计时约 5.2 秒。
 - 已安装到本地游戏目录，按用户要求未启动游戏，实机效果待确认。正式译文、资源汉化及已发布 v1.4 包未修改。
 - 单独安装包：`Dispatch/Expeditions Viking_悬浮文字时间修复.zip`；可叠加 v1.4，含安装与卸载入口，仅分发脚本差分而非游戏 DLL。验证报告：`TranslateFiles/reports/overhead_timing_fix.json`、`overhead_timing_installer.json`、`overhead_timing_cases.json`。当前修复包尚未上传 GitHub。
+
+
+### v1.5：完整包统一发布（2026-11-07）
+
+- 后续发布固定为单个完整汉化 ZIP，不再要求玩家叠加单独修复包；偏好保存在 `TranslateFiles/config/release_preferences.json`。
+- 本版包含 v1.4 全部已审校译文及悬浮中文计时修复，正式 CSV、r8 术语及中文资源哈希不变。安装入口统一为根目录“安装汉化.cmd”，卸载入口“卸载汉化.cmd”，仍用原游戏 EXE 启动。
+- 新安装器先核验两个目标及备份，再准备全部输出；失败时还原本次操作前状态。从 v1.4 原安装器留下的原始资源备份升级，保持原件；卸载同时恢复资源和脚本。已装计时修复时可以直接升级。
+- 新装、重复安装、v1.4 升级、已装计时修复、卸载/重复卸载、不兼容文件拒绝、第二份差分损坏保护及坏备份卸载保护均通过；最终 ZIP 解压后实际运行玩家 CMD 入口重复验证通过。
+- 共享流程把报告里的 Sol 命名改为 standard 后，旧审校报告哈希因字段名/说明变化失配。仅在本项目校验全部实质字段与原已验收报告相等后复用原审批；未改动基础程序、正文或原审批。发布授权按真实指令记录为实机待测，不伪造实测。
+- 补丁：`Dispatch/Expeditions Viking_子非鱼汉化1.5.zip`，SHA-256 `f772433a870f7d29ca55efae869436d60b6fa1f7cb91223ae122802b35614828`。验证见 `TranslateFiles/reports/release_v15_archive_validation.json`。
+- 预定发布页：https://github.com/zfyu222/expeditions-viking-hanhua/releases/tag/v1.5 。旧版历史保留，本版仅上传一个完整包；网盘镜像未更新。

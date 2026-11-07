@@ -1,0 +1,62 @@
+{
+  "authorization": "explicit_user_release",
+  "in_game_validation": "pending",
+  "accept_pending_runtime": true,
+  "user_statement": "不用进入游戏测试，好了就直接打包发布；对，发布永远一个包。",
+  "translation_sha256": "bcb10634df1ac8053408cae6492186a674a808982e4e85f3c05c2257a77f7a9b",
+  "game_version": "Steam 当前版本（Unity 5.6.4f1，原始 resources.assets 344,539,620 字节）",
+  "platform": "Steam（Windows）",
+  "payload_files": [
+    {
+      "path": "ReleasePayload/v1.5/config.json",
+      "sha256": "78396ca38a7b97887d246a6646101d50defbec98aaf388871e6f77d14d24011c",
+      "game_path": "汉化工具/config.json"
+    },
+    {
+      "path": "ReleasePayload/v1.5/hpatchz.exe",
+      "sha256": "9703c694b5955c576d9f0e26e98b60941f0bbb53b382b1f1988d75d461e580cb",
+      "game_path": "汉化工具/hpatchz.exe"
+    },
+    {
+      "path": "ReleasePayload/v1.5/install.ps1",
+      "sha256": "f74f7a77fb0c9d26041b25714b90e82d754ba3a7b1722edda6b00abeac7cba01",
+      "game_path": "汉化工具/install.ps1"
+    },
+    {
+      "path": "ReleasePayload/v1.5/overhead-timing.hdiff",
+      "sha256": "e6720f18f9a438a48ab42ae9ce168ec63900aabbe30b5a5e3fb74f42821fb0dd",
+      "game_path": "汉化工具/overhead-timing.hdiff"
+    },
+    {
+      "path": "ReleasePayload/v1.5/resources.assets.hdiff",
+      "sha256": "752ae8cabc57f7e6dff0d856212d993322789d1ffcc917f93cf335c5d75c36eb",
+      "game_path": "汉化工具/resources.assets.hdiff"
+    },
+    {
+      "path": "ReleasePayload/v1.5/卸载汉化.cmd",
+      "sha256": "ef9771b3dc51bee637afd7d3d856585c95f7c1423f48f4da41dbb530ad2a832e",
+      "game_path": "卸载汉化.cmd"
+    },
+    {
+      "path": "ReleasePayload/v1.5/安装汉化.cmd",
+      "sha256": "ea8b94c9a27380d0234b7d8632be042cfac8c457e4f07782a9f269cf7d998395",
+      "game_path": "安装汉化.cmd"
+    }
+  ],
+  "evidence_files": [
+    {
+      "path": "TranslateFiles/reports/release_v15_user_instruction.json",
+      "sha256": "5644046567ba107ef23a40fb5fabca56a17698a56dc5e1781950160699a2b995"
+    },
+    {
+      "path": "TranslateFiles/reports/release_v15_install_validation.json",
+      "sha256": "0d6da77b0227268bd277d9a849d4dc94e056374140bb8d98bd3a8d411b6cfd94"
+    },
+    {
+      "path": "TranslateFiles/reports/overhead_timing_fix.json",
+      "sha256": "e6b492fde625e4f85e44e6f81d866d7cbb1091d0aedd3345d3e954da571572b9"
+    }
+  ],
+  "status": "authorized",
+  "quality_report_hash": "16cecb6807d4c8b6f371e1f458637a5cfabff17df2eb83d96296eeee816431b4"
+}

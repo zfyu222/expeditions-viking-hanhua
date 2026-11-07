@@ -1,0 +1,6 @@
+{
+  "version": "1.5",
+  "user_statement": "不用进入游戏测试，好了就直接打包发布；对，发布永远一个包。",
+  "distribution": "single_full_package",
+  "in_game_validation": "pending"
+}

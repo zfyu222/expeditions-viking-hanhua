@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "version": "1.5",
+  "checks": [
+    "fresh_install",
+    "idempotent_install",
+    "uninstall_both_originals",
+    "idempotent_uninstall",
+    "upgrade_v14",
+    "upgrade_with_timer_hotfix_already_present",
+    "unknown_second_file_no_first_file_change",
+    "corrupt_second_diff_transaction_preserved",
+    "bad_backup_uninstall_no_partial_changes"
+  ],
+  "fixture": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\cache\\v15 整包 2p2f5pl6",
+  "new_in_game_test": false,
+  "formal_sha256": "bcb10634df1ac8053408cae6492186a674a808982e4e85f3c05c2257a77f7a9b",
+  "resources_sha256": "307cb72ef9b5d1cc34dc2755ec226bdd72e49e154b940354195fd00f2aa3009b",
+  "dll_sha256": "456812cc062145b3958bb234c265e4d0d91713b0f1025836ef4d6d90da16b203"
+}

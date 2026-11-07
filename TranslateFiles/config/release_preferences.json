@@ -1,0 +1,6 @@
+{
+  "distribution": "single_full_package",
+  "supplementary_patch_assets": false,
+  "user_statement": "发布永远一个包",
+  "launch_mode": "original_exe"
+}
