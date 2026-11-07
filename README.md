@@ -367,3 +367,13 @@ C:\Users\<用户名>\Documents\My Games\Expeditions Viking\Custom Localization\
 - 共享流程把报告里的 Sol 命名改为 standard 后，旧审校报告哈希因字段名/说明变化失配。仅在本项目校验全部实质字段与原已验收报告相等后复用原审批；未改动基础程序、正文或原审批。发布授权按真实指令记录为实机待测，不伪造实测。
 - 补丁：`Dispatch/Expeditions Viking_子非鱼汉化1.5.zip`，SHA-256 `f772433a870f7d29ca55efae869436d60b6fa1f7cb91223ae122802b35614828`。验证见 `TranslateFiles/reports/release_v15_archive_validation.json`。
 - 当前最新稳定版：[v1.5 发布页](https://github.com/zfyu222/expeditions-viking-hanhua/releases/tag/v1.5)。已公开发布且匿名下载 SHA-256/ZIP CRC 校验通过，仅有一个完整汉化 ZIP 附件。旧版历史保留；网盘镜像未更新。
+
+
+### v1.6：修复旧汉化缺少原版备份时的升级（2026-11-08）
+
+- 用户截图的 `Original backup is missing` 已在 v1.5 安装器上复现。v1.5 只测试了带 `.zfy.backup` 的升级，漏测已安装汉化但原件备份缺失的状态；原先即使资源已是目标版本也会报错。
+- 新版使用绑定已知 SHA-256 的反向差分，从 v1.3/v1.4 中文资源或已修复脚本重建原版备份，验证原版哈希后再安装/卸载。仅支持明确确认的版本，未知输入和损坏备份仍拒绝，不将中文资源冒充原版；不下载或分发完整原始游戏文件。
+- 15 项离线回放覆盖：原报错复现、v1.3/v1.4 无备份升级、两个备份均缺失时的补齐、恢复后卸载准确还原、损坏恢复差分无改写，以及新装/重复安装/正常升级/异常预检等。最终完整 ZIP 的玩家 CMD 入口另行回放验证。
+- 正文、术语、中文资源和计时 DLL 均未改动；只修复安装程序并增加三份恢复差分。用户明确不启动游戏，实机状态仍保留待测。
+- 完整包：`Dispatch/Expeditions Viking_子非鱼汉化1.6.zip`；SHA-256 `285d8e217de7d517b57a5d61f7702e5f95181a7ed0c7ba7396523e547093f4a1`。仍只发布一个完整 ZIP，封面复用现有 title.jpg。
+- 预定发布页：https://github.com/zfyu222/expeditions-viking-hanhua/releases/tag/v1.6 。证据：`TranslateFiles/reports/release_v16_install_validation.json`、`release_v16_archive_validation.json`、`release_v16_recovery_bindings.json`。

@@ -8,49 +8,64 @@
   "platform": "Steam（Windows）",
   "payload_files": [
     {
-      "path": "ReleasePayload/v1.5/config.json",
-      "sha256": "78396ca38a7b97887d246a6646101d50defbec98aaf388871e6f77d14d24011c",
+      "path": "ReleasePayload/v1.6/config.json",
+      "sha256": "4d3782bb2103f4f6d323882a4e13ac8a21ce7002800537713a54c682e91a856b",
       "game_path": "汉化工具/config.json"
     },
     {
-      "path": "ReleasePayload/v1.5/hpatchz.exe",
+      "path": "ReleasePayload/v1.6/hpatchz.exe",
       "sha256": "9703c694b5955c576d9f0e26e98b60941f0bbb53b382b1f1988d75d461e580cb",
       "game_path": "汉化工具/hpatchz.exe"
     },
     {
-      "path": "ReleasePayload/v1.5/install.ps1",
-      "sha256": "f74f7a77fb0c9d26041b25714b90e82d754ba3a7b1722edda6b00abeac7cba01",
+      "path": "ReleasePayload/v1.6/install.ps1",
+      "sha256": "290d4b62d578238f924e82c229c75f7e71230ac9d89374fc795573522de6eff2",
       "game_path": "汉化工具/install.ps1"
     },
     {
-      "path": "ReleasePayload/v1.5/overhead-timing.hdiff",
+      "path": "ReleasePayload/v1.6/overhead-timing.hdiff",
       "sha256": "e6720f18f9a438a48ab42ae9ce168ec63900aabbe30b5a5e3fb74f42821fb0dd",
       "game_path": "汉化工具/overhead-timing.hdiff"
     },
     {
-      "path": "ReleasePayload/v1.5/resources.assets.hdiff",
+      "path": "ReleasePayload/v1.6/recover-timer-dll.hdiff",
+      "sha256": "7fe680c46799cbf4a3025b2a6e1698cfe7ba9a13e101277367ac84170c4c1503",
+      "game_path": "汉化工具/recover-timer-dll.hdiff"
+    },
+    {
+      "path": "ReleasePayload/v1.6/recover-v13-resources.hdiff",
+      "sha256": "6086d61dbbf02c8b492da171d7d9e30488a393dcc764a1d0972ffe7d769763f8",
+      "game_path": "汉化工具/recover-v13-resources.hdiff"
+    },
+    {
+      "path": "ReleasePayload/v1.6/recover-v14-resources.hdiff",
+      "sha256": "94d0373770b967974f5a252770fdf8db19b0ef6ad1a431bf239fd16b86072ec1",
+      "game_path": "汉化工具/recover-v14-resources.hdiff"
+    },
+    {
+      "path": "ReleasePayload/v1.6/resources.assets.hdiff",
       "sha256": "752ae8cabc57f7e6dff0d856212d993322789d1ffcc917f93cf335c5d75c36eb",
       "game_path": "汉化工具/resources.assets.hdiff"
     },
     {
-      "path": "ReleasePayload/v1.5/卸载汉化.cmd",
+      "path": "ReleasePayload/v1.6/卸载汉化.cmd",
       "sha256": "ef9771b3dc51bee637afd7d3d856585c95f7c1423f48f4da41dbb530ad2a832e",
       "game_path": "卸载汉化.cmd"
     },
     {
-      "path": "ReleasePayload/v1.5/安装汉化.cmd",
+      "path": "ReleasePayload/v1.6/安装汉化.cmd",
       "sha256": "ea8b94c9a27380d0234b7d8632be042cfac8c457e4f07782a9f269cf7d998395",
       "game_path": "安装汉化.cmd"
     }
   ],
   "evidence_files": [
     {
-      "path": "TranslateFiles/reports/release_v15_user_instruction.json",
-      "sha256": "5644046567ba107ef23a40fb5fabca56a17698a56dc5e1781950160699a2b995"
+      "path": "TranslateFiles/reports/release_v16_user_instruction.json",
+      "sha256": "aeee395529147c746653069811c0b80e0ec56244a8bfd35307cce6782fcd48c6"
     },
     {
-      "path": "TranslateFiles/reports/release_v15_install_validation.json",
-      "sha256": "0d6da77b0227268bd277d9a849d4dc94e056374140bb8d98bd3a8d411b6cfd94"
+      "path": "TranslateFiles/reports/release_v16_install_validation.json",
+      "sha256": "905ff7aca1cdbf70e8b691095b7d0902ab824f9910d829cdc0e7f0aca1e4d7a2"
     },
     {
       "path": "TranslateFiles/reports/overhead_timing_fix.json",

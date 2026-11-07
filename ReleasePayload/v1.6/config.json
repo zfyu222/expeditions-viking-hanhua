@@ -1,0 +1,40 @@
+﻿{
+  "version": "1.6",
+  "launch_mode": "original_exe",
+  "files": [
+    {
+      "path": "Expeditions Viking_Data/resources.assets",
+      "diff": "resources.assets.hdiff",
+      "original": "5ffb6e099860f06e325ffefd1784a074bf50c01074f856272c2d9084c3e9eba8",
+      "patched": "307cb72ef9b5d1cc34dc2755ec226bdd72e49e154b940354195fd00f2aa3009b",
+      "legacy": [
+        "0c07814ce8ace8232e1b7fd8be69f2c44eeac58447ed9d29ddb25901efde92d3"
+      ],
+      "backup_suffix": ".zfy.backup",
+      "recoveries": [
+        {
+          "source": "307cb72ef9b5d1cc34dc2755ec226bdd72e49e154b940354195fd00f2aa3009b",
+          "diff": "recover-v14-resources.hdiff"
+        },
+        {
+          "source": "0c07814ce8ace8232e1b7fd8be69f2c44eeac58447ed9d29ddb25901efde92d3",
+          "diff": "recover-v13-resources.hdiff"
+        }
+      ]
+    },
+    {
+      "path": "Expeditions Viking_Data/Managed/Assembly-CSharp.dll",
+      "diff": "overhead-timing.hdiff",
+      "original": "c7b37f617f2e4561b939f02aebba5841ee87c554d8c5f43bf18887d362106af5",
+      "patched": "456812cc062145b3958bb234c265e4d0d91713b0f1025836ef4d6d90da16b203",
+      "legacy": [],
+      "backup_suffix": ".zfy-timing.backup",
+      "recoveries": [
+        {
+          "source": "456812cc062145b3958bb234c265e4d0d91713b0f1025836ef4d6d90da16b203",
+          "diff": "recover-timer-dll.hdiff"
+        }
+      ]
+    }
+  ]
+}
