@@ -1,0 +1,19 @@
+{
+  "status": "installed_and_verified_offline",
+  "date": "2026-11-07",
+  "archive": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\Dispatch\\Expeditions Viking_悬浮文字时间修复.zip",
+  "archive_bytes": 1565868,
+  "archive_sha256": "d4c1c3c344967b5568c340422a72a697e39fc47d6b2d54eeea2f55bd624b03a8",
+  "payload": {
+    "Apply-TimingFix.ps1": "3562ac8ce8a96908b74719f108587e96bd32de6a6364204ccedaa8ca28295f4d",
+    "hpatchz.exe": "9703c694b5955c576d9f0e26e98b60941f0bbb53b382b1f1988d75d461e580cb",
+    "overhead-timing.hdiff": "e6720f18f9a438a48ab42ae9ce168ec63900aabbe30b5a5e3fb74f42821fb0dd",
+    "使用说明.txt": "142ed63d881d4b500e98b9a09dc7110ebeb1183ccf027fda1650e61020e04e24",
+    "卸载悬浮文字修复.bat": "749c1e9b512df1812d378ecf6e45862d3b21ebc9e9db494c02ff01d746685b71",
+    "安装悬浮文字修复.bat": "5afa1690f0e47691b2941edaefba3967fc1d6427e3c1db7f60ded06409182077"
+  },
+  "new_in_game_test": false,
+  "changed_existing_methods": 1,
+  "added_methods": 1,
+  "policy": "Chinese only: max(original seconds, 3 seconds, Han characters * 0.2 seconds); skip angle-bracket tags; all original voice/fade handling retained"
+}

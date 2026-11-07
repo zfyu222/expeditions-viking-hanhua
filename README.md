@@ -347,3 +347,12 @@ C:\Users\<用户名>\Documents\My Games\Expeditions Viking\Custom Localization\
 - TypeTreeEnabled：False
 - TextAsset 数量：858（含多语言变体）
 - 实际替换：9 个英文 TextAsset
+
+
+### 2026-11-07：中文悬浮文字计时修复
+
+- 已确认 `OverheadPanel.SetText` 原逻辑按空格计数，连续中文被当作一个词；仅为该计时结果增加中文下限：`max(原时间, 3秒, 可见汉字数×0.2秒)`。忽略尖括号富文本标签，纯英文沿用原值，语音等待、淡入淡出和回调保持原样。
+- 原脚本 SHA-256：`c7b37f617f2e4561b939f02aebba5841ee87c554d8c5f43bf18887d362106af5`；修复后：`456812cc062145b3958bb234c265e4d0d91713b0f1025836ef4d6d90da16b203`。原文件已在项目 Analysis 及游戏 Managed 目录的 `.zfy-timing.backup` 保存。
+- DLL 仅一处原方法增加计时调用，新增一个无依赖计算函数；其余方法指令和程序集引用核对不变。9 个离线计时用例和安装/重复安装/卸载/重复卸载/不兼容版本拒绝/损坏补丁保护通过。截图对应句子计时约 5.2 秒。
+- 已安装到本地游戏目录，按用户要求未启动游戏，实机效果待确认。正式译文、资源汉化及已发布 v1.4 包未修改。
+- 单独安装包：`Dispatch/Expeditions Viking_悬浮文字时间修复.zip`；可叠加 v1.4，含安装与卸载入口，仅分发脚本差分而非游戏 DLL。验证报告：`TranslateFiles/reports/overhead_timing_fix.json`、`overhead_timing_installer.json`、`overhead_timing_cases.json`。当前修复包尚未上传 GitHub。

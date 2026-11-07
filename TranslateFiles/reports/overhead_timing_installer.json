@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "checks": [
+    "install",
+    "repeat_install",
+    "uninstall",
+    "repeat_uninstall",
+    "wrong_version_refused",
+    "corrupt_patch_original_unchanged"
+  ],
+  "original_sha256": "c7b37f617f2e4561b939f02aebba5841ee87c554d8c5f43bf18887d362106af5",
+  "patched_sha256": "456812cc062145b3958bb234c265e4d0d91713b0f1025836ef4d6d90da16b203",
+  "fixture": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\cache\\timing fix zf313ovs",
+  "new_in_game_test": false
+}

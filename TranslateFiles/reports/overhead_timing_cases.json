@@ -1,0 +1,47 @@
+[
+  {
+    "text": "Hello world.",
+    "patched_seconds": 0.4,
+    "original_seconds": 0.4
+  },
+  {
+    "text": "",
+    "patched_seconds": 0.2,
+    "original_seconds": 0.2
+  },
+  {
+    "text": "你好。",
+    "patched_seconds": 3.0,
+    "original_seconds": 0.2
+  },
+  {
+    "text": "中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中",
+    "patched_seconds": 6.0,
+    "original_seconds": 0.2
+  },
+  {
+    "text": "中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中",
+    "patched_seconds": 12.0,
+    "original_seconds": 0.2
+  },
+  {
+    "text": "<color=\"中文颜色\">Hello</color>",
+    "patched_seconds": 0.2,
+    "original_seconds": 0.2
+  },
+  {
+    "text": "<color=\"#ff0000\">中中中中中中中中中中中中中中中中中中中中中中中中中中中中中中</color>",
+    "patched_seconds": 6.0,
+    "original_seconds": 0.2
+  },
+  {
+    "text": "你好 World",
+    "patched_seconds": 8.0,
+    "original_seconds": 8.0
+  },
+  {
+    "text": "一锅兔肉炖菜在火坑上咕嘟作响，诱人的香味弥漫了整间长屋。",
+    "patched_seconds": 5.2000003,
+    "original_seconds": 0.2
+  }
+]
