@@ -1,8 +1,8 @@
 {
   "official_csv": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\expeditions-viking_text_translated.csv",
-  "official_sha256": "bcb10634df1ac8053408cae6492186a674a808982e4e85f3c05c2257a77f7a9b",
+  "official_sha256": "cf705fea3fb0f230f0ad95f019c96b7d58e878d2d56f45a8acc717caaaf691af",
   "repack_csv": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\repack\\translation_for_repack.csv",
-  "repack_sha256": "cc6b6b089d987b58235a09e3fc39dfd2006a10c4469726e12945740ddb0523e0",
+  "repack_sha256": "f69acf24e0e9739585156b1549ce794c8f89a5ec22444a7100476425ed29557b",
   "restored_count": 0,
   "restored": [],
   "brace_fixes_count": 0,
@@ -10,8 +10,8 @@
   "overrides": [],
   "problems": [],
   "term_conflict_count": 0,
-  "reviewed_repack_records": 238,
-  "review_report": "TranslateFiles/reports/repack_review_acceptance_20261019.json",
+  "reviewed_repack_records": 23195,
+  "review_report": "TranslateFiles/reports/final_validation.json",
   "player_variants": {
     "replaced": 291,
     "records": 272,

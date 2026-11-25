@@ -185,6 +185,13 @@ python TranslateFiles\scripts\verify_deployed_assets.py
 - 共用工作流按现有 API 优先级执行，实际请求使用 Codex 接口的 gpt-6-luna，疑难修复和裁决使用独立 gpt-6-sol 实例。润色和复审中的格式恢复保留原始回复。
 - 正式 CSV 通过 23,195 条结构、占位符及术语校验，并完成最终质量验收。详细范围与用量见 TranslateFiles/reports/polish_scope_20261125.json 和 polish_completion_20261125.json。当前译文待回填。
 
+### 2026-11-25 润色版回填
+
+- [build_v17.py](TranslateFiles/scripts/build_v17.py) 使用 Python 3.12、UABEAvalonia CLI（.NET 8）及 HDiffPatch 5.1.3。输入为当前[正式译文](expeditions-viking_text_translated.csv)、[资源键映射](extracted_strings.csv)和当前导出校验报告。按 9 个原始 TextAsset 的名称及 pathId 核对原件，再回填 23,195 条译文。两个重复名称键的原文和译文逐条一致，291 处 Player 性别分支按原规则本地化。
+- 构建需从自有 Steam 1.0.7.4 安装中备份原始 `resources.assets`，按本页「提取文本」导出 Unity 资源。上一版差分与安装工具可从 v1.6 ZIP 的 `汉化工具` 取出，放到 `ReleasePayload/v1.6`。在工作区运行 `python TranslateFiles/scripts/build_v17.py` 后，使用 [verify_v17.py](TranslateFiles/scripts/verify_v17.py) 验证构建。依赖的游戏原件和本地缓存由构建者自行准备。
+- 已同步至本机 Steam。由安装目标重新导出的 9 个 TextAsset 与生成 XML 逐字节一致，原版资源与脚本备份哈希通过。实机覆盖主菜单、读档、装备教程、宴会对白与任务日志，交谈后任务追踪从 1/3 更新到 2/3。实机检查报告与截图保存在本地。
+- 个别运行时姓名仍显示原拼写。详见[回填报告](TranslateFiles/reports/release_v17_repack.json)和 [XML 核对](TranslateFiles/reports/v17_build_xml_verification.json)。
+
 ### 2026-10-19：独立打包复核
 
 - 重新从当前游戏资源导出 9 个 TextAsset，全部与生成 XML 逐字节一致；按类别及 key 对齐核对回填副本的 23,195 条文本，缺失或不一致为 0。

@@ -62,7 +62,7 @@ def bracket_tokens(text):
 def prepare_reviewed_base(official, review, variants):
     """Once supplementary review is accepted, never re-import legacy proposals."""
     official_path = BASE / 'expeditions-viking_text_translated.csv'
-    if review.get('status') != 'accepted' or sha256(official_path) != review['official_sha256']:
+    if sha256(official_path) != review['official_sha256']:
         raise SystemExit('补充审校报告与正式译文不匹配；停止，避免覆盖已审结果。')
     out = list(official)
     localized = []
@@ -96,7 +96,7 @@ def prepare_reviewed_base(official, review, variants):
         'restored_count': 0, 'restored': [], 'brace_fixes_count': 0, 'brace_fixes': [],
         'overrides': [], 'problems': [], 'term_conflict_count': 0,
         'reviewed_repack_records': review['scope_records'],
-        'review_report': 'TranslateFiles/reports/repack_review_acceptance_20261019.json',
+        'review_report': review['report_path'],
         'player_variants': {'replaced': replaced, 'records': len(localized), 'unknown': []}}
     (BASE / 'TranslateFiles/reports/repack_translation_prep.json').write_text(
         json.dumps(report, ensure_ascii=False, indent=2), encoding='utf-8')
@@ -108,12 +108,38 @@ def main():
     parser.add_argument("--variants", action="store_true", help="同时本地化 [Player:x/y] 分支")
     args = parser.parse_args()
 
-    rows = list(csv.DictReader(open(BASE / "extracted_strings.csv", encoding="utf-8-sig")))
     source = load_csv(BASE / "expeditions-viking_text.csv")
     official = load_csv(BASE / "expeditions-viking_text_translated.csv")
+    with (BASE / "extracted_strings.csv").open(encoding="utf-8-sig", newline="") as stream:
+        rows = list(csv.DictReader(stream))
+    if len(rows) != len(official) or source != [row["原文"] for row in rows]:
+        raise SystemExit('原文、译文和资源键映射不一致；停止回填。')
+    mapped = {}
+    for row, translation in zip(rows, official):
+        key = (row["category"], row["key"])
+        pair = (row["原文"], translation)
+        if mapped.setdefault(key, pair) != pair:
+            raise SystemExit(f'同一个资源键存在不同原文或译文：{key!r}')
+    final_path = BASE / 'TranslateFiles/reports/final_validation.json'
+    if final_path.exists():
+        final = json.loads(final_path.read_text(encoding='utf-8'))
+        if (final.get('status') == 'passed' and final.get('semantic_review') == 'full'
+                and final.get('source_sha256') == sha256(BASE / 'expeditions-viking_text.csv')
+                and final.get('translation_sha256') == sha256(BASE / 'expeditions-viking_text_translated.csv')
+                and final.get('records') == len(official)):
+            prepare_reviewed_base(official, {
+                'official_sha256': final['translation_sha256'],
+                'scope_records': final['records'],
+                'report_path': final_path.relative_to(BASE).as_posix(),
+            }, args.variants)
+            return
     accepted = BASE / 'TranslateFiles/reports/repack_review_acceptance_20261019.json'
     if accepted.exists():
-        prepare_reviewed_base(official, json.loads(accepted.read_text(encoding='utf-8')), args.variants)
+        review = json.loads(accepted.read_text(encoding='utf-8'))
+        if review.get('status') != 'accepted':
+            raise SystemExit('补充审校报告尚未通过。')
+        review['report_path'] = accepted.relative_to(BASE).as_posix()
+        prepare_reviewed_base(official, review, args.variants)
         return
     legacy = load_csv(BASE / "extracted_for_ainiee_translated.csv")[1:]
     assert len(rows) == len(source) == len(official) == len(legacy) == 23195

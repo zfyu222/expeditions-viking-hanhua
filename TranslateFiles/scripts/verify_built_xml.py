@@ -1,3 +1,4 @@
+import argparse
 import csv
 import json
 import re
@@ -8,6 +9,11 @@ from pathlib import Path
 BASE = Path(r"D:\StaticHanHua\Projects\Expeditions Viking")
 sys.path.insert(0, str(BASE))
 from build_localization import CUSTOM_CATEGORY_DIRS, build_key
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--output', type=Path, default=BASE / 'Chinese_Localization')
+parser.add_argument('--report', type=Path, default=BASE / 'TranslateFiles/reports/build_xml_verification.json')
+args = parser.parse_args()
 
 CJK = re.compile(r"[\u4e00-\u9fff]")
 PLAYER = re.compile(r"\[Player:([^\]]*)\]")
@@ -41,7 +47,7 @@ def collect(category, path):
 
 report = {"categories": {}, "problems": []}
 for category, dirname in CUSTOM_CATEGORY_DIRS.items():
-    path = BASE / "Chinese_Localization/Chinese/Localization" / dirname / f"{dirname}Chinese.xml"
+    path = args.output / "Chinese/Localization" / dirname / f"{dirname}Chinese.xml"
     found = collect(category, path)
     cat_expected = {k[1]: v for k, v in expected.items() if k[0] == category}
     mismatched = [k for k in cat_expected if k in found and found[k] != cat_expected[k]]
@@ -58,6 +64,8 @@ for category, dirname in CUSTOM_CATEGORY_DIRS.items():
     for k in mismatched[:3]:
         report["problems"].append({"category": category, "key": k, "expected": cat_expected[k], "actual": found[k]})
 
-(BASE / "TranslateFiles/reports/build_xml_verification.json").write_text(
+args.report.write_text(
     json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
 print(json.dumps(report["categories"], ensure_ascii=False, indent=2))
+if any(cat['mismatched'] or cat['missing'] or cat['english_variants'] for cat in report['categories'].values()):
+    raise SystemExit(1)

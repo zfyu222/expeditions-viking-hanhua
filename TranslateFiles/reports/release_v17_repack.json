@@ -1,0 +1,103 @@
+{
+  "status": "passed",
+  "records": 23195,
+  "official_sha256": "cf705fea3fb0f230f0ad95f019c96b7d58e878d2d56f45a8acc717caaaf691af",
+  "resources_sha256": "0023dc2cc378b0091f35525a57ebb1f1f1307731d41a75082906a1c322c9a324",
+  "original_resources_sha256": "5ffb6e099860f06e325ffefd1784a074bf50c01074f856272c2d9084c3e9eba8",
+  "assets": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\cache\\v17-build-ys5t0pit\\resources.assets",
+  "text_assets": {
+    "DialogueEnglish": {
+      "path_id": 9146,
+      "xml_sha256": "7f38d8b36c002798edb53607a85ff9377c22a0ce3974091c160b2ca18550456a"
+    },
+    "GUIEnglish": {
+      "path_id": 9040,
+      "xml_sha256": "342b4b8cdfc64bd91ae3cfd92bb2f9f54f26548d6aeea3e044f58efdde31f39f"
+    },
+    "SkillsEnglish": {
+      "path_id": 9165,
+      "xml_sha256": "b583837a411b9807491af6a96d5c46f0557e2a43578aea29bc5f01406fb3eab5"
+    },
+    "ItemsEnglish": {
+      "path_id": 9309,
+      "xml_sha256": "3514899ad200f096af5bd153ac803fb1603e561072a4359db61b4e0a16738a62"
+    },
+    "TutorialEnglish": {
+      "path_id": 9799,
+      "xml_sha256": "e51513fb51ffe99a35908ae569d695c7cf18a5bd65281036dbc0fb986bf34b90"
+    },
+    "HomesteadUpgradesEnglish": {
+      "path_id": 9063,
+      "xml_sha256": "84b0c6bcb3a542606d7a39c196e397804f1aa80c54491018e316668c21d3a6b4"
+    },
+    "CharacterNamesEnglish": {
+      "path_id": 9804,
+      "xml_sha256": "1a9ab3b6cf8b610c932e4f047006fa9d0f567b698fbdda6712218997fdb9abee"
+    },
+    "SceneDataEnglish": {
+      "path_id": 9795,
+      "xml_sha256": "b3cef75d8e77f7b54a6804bc748b4d2581689585b91f698691b5868ba0c2688c"
+    },
+    "InputEnglish": {
+      "path_id": 9744,
+      "xml_sha256": "239bd66022ee4265630ff5d1ce8451185b605de3858a7a6bc24222b54c24fbcd"
+    }
+  },
+  "payload_files": [
+    {
+      "path": "ReleasePayload/v1.7/config.json",
+      "game_path": "汉化工具/config.json",
+      "sha256": "c3bb17d074762145d63bcd65c6099a6785ae6f91c832a3e27741ac451e82b409"
+    },
+    {
+      "path": "ReleasePayload/v1.7/hpatchz.exe",
+      "game_path": "汉化工具/hpatchz.exe",
+      "sha256": "9703c694b5955c576d9f0e26e98b60941f0bbb53b382b1f1988d75d461e580cb"
+    },
+    {
+      "path": "ReleasePayload/v1.7/install.ps1",
+      "game_path": "汉化工具/install.ps1",
+      "sha256": "290d4b62d578238f924e82c229c75f7e71230ac9d89374fc795573522de6eff2"
+    },
+    {
+      "path": "ReleasePayload/v1.7/overhead-timing.hdiff",
+      "game_path": "汉化工具/overhead-timing.hdiff",
+      "sha256": "e6720f18f9a438a48ab42ae9ce168ec63900aabbe30b5a5e3fb74f42821fb0dd"
+    },
+    {
+      "path": "ReleasePayload/v1.7/recover-timer-dll.hdiff",
+      "game_path": "汉化工具/recover-timer-dll.hdiff",
+      "sha256": "7fe680c46799cbf4a3025b2a6e1698cfe7ba9a13e101277367ac84170c4c1503"
+    },
+    {
+      "path": "ReleasePayload/v1.7/recover-v13-resources.hdiff",
+      "game_path": "汉化工具/recover-v13-resources.hdiff",
+      "sha256": "6086d61dbbf02c8b492da171d7d9e30488a393dcc764a1d0972ffe7d769763f8"
+    },
+    {
+      "path": "ReleasePayload/v1.7/recover-v14-resources.hdiff",
+      "game_path": "汉化工具/recover-v14-resources.hdiff",
+      "sha256": "94d0373770b967974f5a252770fdf8db19b0ef6ad1a431bf239fd16b86072ec1"
+    },
+    {
+      "path": "ReleasePayload/v1.7/recover-v17-resources.hdiff",
+      "game_path": "汉化工具/recover-v17-resources.hdiff",
+      "sha256": "410099644f91266c5dd1dbc8f225f82264ee2d5b2360eecaf3efcf4f4add5652"
+    },
+    {
+      "path": "ReleasePayload/v1.7/resources.assets.hdiff",
+      "game_path": "汉化工具/resources.assets.hdiff",
+      "sha256": "a9d6e2b53baa1c001660c224519c4b71323680795510f093805052992cdd9b79"
+    },
+    {
+      "path": "ReleasePayload/v1.7/卸载汉化.cmd",
+      "game_path": "卸载汉化.cmd",
+      "sha256": "ef9771b3dc51bee637afd7d3d856585c95f7c1423f48f4da41dbb530ad2a832e"
+    },
+    {
+      "path": "ReleasePayload/v1.7/安装汉化.cmd",
+      "game_path": "安装汉化.cmd",
+      "sha256": "ea8b94c9a27380d0234b7d8632be042cfac8c457e4f07782a9f269cf7d998395"
+    }
+  ]
+}

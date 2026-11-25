@@ -11,13 +11,13 @@
   },
   {
     "index": 222,
-    "before": "抱歉，我的[Player:boy/girl]，你差点就说对了，可你漏掉了倒数第二部分！真正的基督徒不会犯这种错。",
-    "after": "抱歉，我的[Player:男孩/女孩]，你差点就说对了，可你漏掉了倒数第二部分！真正的基督徒不会犯这种错。"
+    "before": "抱歉，我的[Player:boy/girl]，你差点就答对了，可你漏掉了倒数第二部分！真正的基督徒不会犯这种错。",
+    "after": "抱歉，我的[Player:男孩/女孩]，你差点就答对了，可你漏掉了倒数第二部分！真正的基督徒不会犯这种错。"
   },
   {
     "index": 223,
-    "before": "[Player:Velkominn/Velkomin]来到里伯，[Player:Name]。是什么风把您吹来了？",
-    "after": "[Player:欢迎/欢迎]来到里伯，[Player:Name]。是什么风把您吹来了？"
+    "before": "[Player:Velkominn/Velkomin]，欢迎来到里伯，[Player:Name]。您大驾光临，有何贵干？",
+    "after": "[Player:欢迎/欢迎]，欢迎来到里伯，[Player:Name]。您大驾光临，有何贵干？"
   },
   {
     "index": 357,
@@ -31,8 +31,8 @@
   },
   {
     "index": 382,
-    "before": "好吧，至少[Player:he/she]还[i]觉得抱歉[/i]，把我们丢下等死。",
-    "after": "好吧，至少[Player:他/她]还[i]觉得抱歉[/i]，把我们丢下等死。"
+    "before": "好吧，至少[Player:he/she]还[i]为把我们丢下等死感到抱歉[/i]。",
+    "after": "好吧，至少[Player:他/她]还[i]为把我们丢下等死感到抱歉[/i]。"
   },
   {
     "index": 441,
@@ -61,8 +61,8 @@
   },
   {
     "index": 987,
-    "before": "啊！哦，我亲爱的[Player:boy/girl]，你还活着，我太高兴了！来，起来吧，快站起来……",
-    "after": "啊！哦，我亲爱的[Player:男孩/女孩]，你还活着，我太高兴了！来，起来吧，快站起来……"
+    "before": "啊！哦，亲爱的[Player:boy/girl]，你还活着真是太好了！来，快起来……",
+    "after": "啊！哦，亲爱的[Player:男孩/女孩]，你还活着真是太好了！来，快起来……"
   },
   {
     "index": 991,
@@ -111,8 +111,8 @@
   },
   {
     "index": 1638,
-    "before": "你该四处看看这地方，[Player:brother/sister]。这儿没什么可交易的，除非你的氏族正面临着岩石短缺的危险。",
-    "after": "你该四处看看这地方，[Player:兄弟/姐妹]。这儿没什么可交易的，除非你的氏族正面临着岩石短缺的危险。"
+    "before": "你该四处看看这地方，[Player:brother/sister]。这儿没什么可交易的，除非你的氏族正缺石头，缺得厉害。",
+    "after": "你该四处看看这地方，[Player:兄弟/姐妹]。这儿没什么可交易的，除非你的氏族正缺石头，缺得厉害。"
   },
   {
     "index": 1698,
@@ -236,8 +236,8 @@
   },
   {
     "index": 2785,
-    "before": "其他人错了。我是你的[Player:brother/sister]，我了解你的力量。你的智慧和善良的力量。",
-    "after": "其他人错了。我是你的[Player:兄弟/姐妹]，我了解你的力量。你的智慧和善良的力量。"
+    "before": "其他人都错了。我是你的[Player:brother/sister]，我了解你的力量——你的智慧与善良所蕴含的力量。",
+    "after": "其他人都错了。我是你的[Player:兄弟/姐妹]，我了解你的力量——你的智慧与善良所蕴含的力量。"
   },
   {
     "index": 2972,
@@ -251,13 +251,13 @@
   },
   {
     "index": 3089,
-    "before": "希望你到这儿来不是为了找麻烦，[Player:Norseman/Norsewoman]。我们麻烦已经够多了。",
-    "after": "希望你到这儿来不是为了找麻烦，[Player:诺斯人/诺斯女子]。我们麻烦已经够多了。"
+    "before": "希望你不是来找麻烦的，[Player:Norseman/Norsewoman]。我们这儿的麻烦已经够多了。",
+    "after": "希望你不是来找麻烦的，[Player:诺斯人/诺斯女子]。我们这儿的麻烦已经够多了。"
   },
   {
     "index": 3133,
-    "before": "你三两下就收拾了那些犟骡子。[Player:Man/Woman]真是合我心意。",
-    "after": "你三两下就收拾了那些犟骡子。[Player:男子/女子]真是合我心意。"
+    "before": "你三两下就收拾了那些骡子。[Player:Man/Woman]真是深得我心。",
+    "after": "你三两下就收拾了那些骡子。[Player:男子/女子]真是深得我心。"
   },
   {
     "index": 3165,
@@ -271,8 +271,8 @@
   },
   {
     "index": 3341,
-    "before": "……对斯库勒再也不构成威胁了……只要[Player:he/she]还能在[Player:his/her]伤势下活下来……",
-    "after": "……对斯库勒再也不构成威胁了……只要[Player:他/她]还能在[Player:他/她]伤势下活下来……"
+    "before": "……不再对斯库勒构成威胁了……如果[Player:he/she]能在[Player:his/her]的伤势下活下来……",
+    "after": "……不再对斯库勒构成威胁了……如果[Player:他/她]能在[Player:他/她]的伤势下活下来……"
   },
   {
     "index": 3371,
@@ -296,8 +296,8 @@
   },
   {
     "index": 3678,
-    "before": "我觉得这可能就是[Player:Name]在埃塞尔雷德的营地、[Player:he/she]审问那名间谍之后提到的那个丈夫。",
-    "after": "我觉得这可能就是[Player:Name]在埃塞尔雷德的营地、[Player:他/她]审问那名间谍之后提到的那个丈夫。"
+    "before": "我觉得这可能就是[Player:Name]在审问间谍后提到的那位丈夫；当时[Player:he/she]在埃塞尔雷德的营地审问了间谍。",
+    "after": "我觉得这可能就是[Player:Name]在审问间谍后提到的那位丈夫；当时[Player:他/她]在埃塞尔雷德的营地审问了间谍。"
   },
   {
     "index": 3775,
@@ -316,8 +316,8 @@
   },
   {
     "index": 4137,
-    "before": "你已证明自己是个好[Player:man/woman]，也是诺森布里亚人民的朋友。如果有什么我能为你做的，我向你保证给你公道价钱。",
-    "after": "你已证明自己是个好[Player:男子/女子]，也是诺森布里亚人民的朋友。如果有什么我能为你做的，我向你保证给你公道价钱。"
+    "before": "你已经证明自己是个好[Player:man/woman]，也是诺森布里亚人民的朋友。如果有我能帮得上忙的地方，我保证给你公道的价格。",
+    "after": "你已经证明自己是个好[Player:男子/女子]，也是诺森布里亚人民的朋友。如果有我能帮得上忙的地方，我保证给你公道的价格。"
   },
   {
     "index": 4201,
@@ -351,8 +351,8 @@
   },
   {
     "index": 4566,
-    "before": "这个[Player:man/woman]是冒牌货！这些全是异教徒的混入者，他们代表不了我们的国王！",
-    "after": "这个[Player:男子/女子]是冒牌货！这些全是异教徒的混入者，他们代表不了我们的国王！"
+    "before": "这个[Player:man/woman]是冒牌货！这些全是异教徒，是闯入者，代表不了我们的国王！",
+    "after": "这个[Player:男子/女子]是冒牌货！这些全是异教徒，是闯入者，代表不了我们的国王！"
   },
   {
     "index": 4576,
@@ -381,8 +381,8 @@
   },
   {
     "index": 4863,
-    "before": "[Player:King/Queen]？你这个人，对诚实、善良和怜悯这些基督徒美德全然陌生？你连统治皮克特人都不配！",
-    "after": "[Player:国王/女王]？你这个人，对诚实、善良和怜悯这些基督徒美德全然陌生？你连统治皮克特人都不配！"
+    "before": "[Player:King/Queen]？你这个人，对诚实、善良和怜悯这些基督徒的美德全然陌生？你连统治皮克特人都不配！",
+    "after": "[Player:国王/女王]？你这个人，对诚实、善良和怜悯这些基督徒的美德全然陌生？你连统治皮克特人都不配！"
   },
   {
     "index": 4869,
@@ -501,13 +501,13 @@
   },
   {
     "index": 6365,
-    "before": "记住利害。在我们赶到[Player:him/her]之前，[Player:Name]就任他们宰割。要是我们失败，我们的领主就完了。",
-    "after": "记住利害。在我们赶到[Player:他/她]之前，[Player:Name]就任他们宰割。要是我们失败，我们的领主就完了。"
+    "before": "记住其中的利害。在我们赶到[Player:him/her]之前，[Player:Name]都任人宰割。要是失败，我们的领主就完了。",
+    "after": "记住其中的利害。在我们赶到[Player:他/她]之前，[Player:Name]都任人宰割。要是失败，我们的领主就完了。"
   },
   {
     "index": 6435,
-    "before": "[Player:Velkominn/Velkomin]回来，[Player:Name]。今天是什么风把你吹到我这小店里来了？",
-    "after": "[Player:欢迎/欢迎]回来，[Player:Name]。今天是什么风把你吹到我这小店里来了？"
+    "before": "[Player:Velkominn/Velkomin]，欢迎回来，[Player:Name]。今天是什么风把你吹到我这小店里来了？",
+    "after": "[Player:欢迎/欢迎]，欢迎回来，[Player:Name]。今天是什么风把你吹到我这小店里来了？"
   },
   {
     "index": 6504,
@@ -651,8 +651,8 @@
   },
   {
     "index": 8510,
-    "before": "又见面了，[Player:lad/lass]。你发现有什么地方需要我的船吗？",
-    "after": "又见面了，[Player:小伙子/姑娘]。你发现有什么地方需要我的船吗？"
+    "before": "又见面了，[Player:lad/lass]。你需要我的船吗？",
+    "after": "又见面了，[Player:小伙子/姑娘]。你需要我的船吗？"
   },
   {
     "index": 8552,
@@ -686,8 +686,8 @@
   },
   {
     "index": 9120,
-    "before": "重荣誉的[Player:warrior/shieldmaiden]！请留步，占用您片刻时间。",
-    "after": "重荣誉的[Player:战士/盾女]！请留步，占用您片刻时间。"
+    "before": "重荣誉的[Player:warrior/shieldmaiden]！请借一步说话。",
+    "after": "重荣誉的[Player:战士/盾女]！请借一步说话。"
   },
   {
     "index": 9122,
@@ -716,8 +716,8 @@
   },
   {
     "index": 9379,
-    "before": "上前来，好心的[Player:man/woman]。你要是想找食物或药品，可算来对地方了。",
-    "after": "上前来，好心的[Player:男子/女子]。你要是想找食物或药品，可算来对地方了。"
+    "before": "上前来，我的朋友[Player:man/woman]。你要是想找食物或药品，可算来对地方了。",
+    "after": "上前来，我的朋友[Player:男子/女子]。你要是想找食物或药品，可算来对地方了。"
   },
   {
     "index": 9387,
@@ -851,8 +851,8 @@
   },
   {
     "index": 10541,
-    "before": "斯凯恩的领主[Player:Name] [Player:Lastname]和[Player:his/her]名勇猛的战士为这个王国做了许多事。为此，[Player:Name]，我承诺支持你在日德兰的战役。",
-    "after": "斯凯恩的领主[Player:Name] [Player:Lastname]和[Player:他/她]名勇猛的战士为这个王国做了许多事。为此，[Player:Name]，我承诺支持你在日德兰的战役。"
+    "before": "斯凯恩的领主[Player:Name] [Player:Lastname]和[Player:his/her]的勇猛战士为这个王国立下了不少功劳。为此，[Player:Name]，我承诺支持你在日德兰的战役。",
+    "after": "斯凯恩的领主[Player:Name] [Player:Lastname]和[Player:他/她]的勇猛战士为这个王国立下了不少功劳。为此，[Player:Name]，我承诺支持你在日德兰的战役。"
   },
   {
     "index": 10561,
@@ -896,8 +896,8 @@
   },
   {
     "index": 11284,
-    "before": "我去过斯凯恩，我知道你是个熟练的[Player:craftsman/craftswoman]。",
-    "after": "我去过斯凯恩，我知道你是个熟练的[Player:工匠/女工匠]。"
+    "before": "我去过斯凯恩，也知道你是位熟练的[Player:craftsman/craftswoman]。",
+    "after": "我去过斯凯恩，也知道你是位熟练的[Player:工匠/女工匠]。"
   },
   {
     "index": 11358,
@@ -921,8 +921,8 @@
   },
   {
     "index": 11581,
-    "before": "[Player:Velkominn/Velkomin]回来，仁慈的领主。您是想补充补给吗？",
-    "after": "[Player:欢迎/欢迎]回来，仁慈的领主。您是想补充补给吗？"
+    "before": "[Player:Velkominn/Velkomin]回来，仁慈的领主。您要添置补给吗？",
+    "after": "[Player:欢迎/欢迎]回来，仁慈的领主。您要添置补给吗？"
   },
   {
     "index": 11623,
@@ -936,8 +936,8 @@
   },
   {
     "index": 11837,
-    "before": "你应该称呼这位丹麦人[Player:Name]，神父。[Player:He/She]是这群人的领袖，我只是跟来看看、学学的。",
-    "after": "你应该称呼这位丹麦人[Player:Name]，神父。[Player:他/她]是这群人的领袖，我只是跟来看看、学学的。"
+    "before": "神父，你该称呼这位丹麦人[Player:Name]。 [Player:He/She]是这群人的领袖，我只是跟来看看、学学。",
+    "after": "神父，你该称呼这位丹麦人[Player:Name]。 [Player:他/她]是这群人的领袖，我只是跟来看看、学学。"
   },
   {
     "index": 11977,
@@ -956,8 +956,8 @@
   },
   {
     "index": 12334,
-    "before": "我需要你把这数目翻一倍。你这些货物换来的，是斯凯恩领主——声名远扬的战士[Player:Father]的[Player:son/daughter]——以及我最信任的侍卫为你效力。",
-    "after": "我需要你把这数目翻一倍。你这些货物换来的，是斯凯恩领主——声名远扬的战士[Player:Father]的[Player:儿子/女儿]——以及我最信任的侍卫为你效力。"
+    "before": "这笔钱我得要双倍。你这些货物，雇来的是斯凯恩领主——声名远扬的战士[Player:Father]的[Player:son/daughter]——以及我最信任的侍卫为你效力。",
+    "after": "这笔钱我得要双倍。你这些货物，雇来的是斯凯恩领主——声名远扬的战士[Player:Father]的[Player:儿子/女儿]——以及我最信任的侍卫为你效力。"
   },
   {
     "index": 12338,
@@ -996,8 +996,8 @@
   },
   {
     "index": 12954,
-    "before": "万分敬仰的[Player:warrior/thieldmaiden]，[Player:Velkominn/Velkomin]光临我们简陋的帐篷！我叫格尼普利，今天能为您做些什么？",
-    "after": "万分敬仰的[Player:战士/盾女]，[Player:欢迎/欢迎]光临我们简陋的帐篷！我叫格尼普利，今天能为您做些什么？"
+    "before": "万分敬仰的[Player:warrior/thieldmaiden]，欢迎[Player:Velkominn/Velkomin]光临我们简陋的帐篷！我叫格尼普利，今天有什么能为您效劳？",
+    "after": "万分敬仰的[Player:战士/盾女]，欢迎[Player:欢迎/欢迎]光临我们简陋的帐篷！我叫格尼普利，今天有什么能为您效劳？"
   },
   {
     "index": 12979,
@@ -1011,8 +1011,8 @@
   },
   {
     "index": 13036,
-    "before": "哈哈！你可算不上什么外交家，亲爱的[Player:man/woman]，这一点毫无疑问。不过没关系！",
-    "after": "哈哈！你可算不上什么外交家，亲爱的[Player:男子/女子]，这一点毫无疑问。不过没关系！"
+    "before": "哈哈！你可不是什么外交家，亲爱的[Player:man/woman]，这点毫无疑问。不过没关系！",
+    "after": "哈哈！你可不是什么外交家，亲爱的[Player:男子/女子]，这点毫无疑问。不过没关系！"
   },
   {
     "index": 13132,
@@ -1096,8 +1096,8 @@
   },
   {
     "index": 14118,
-    "before": "你还真是[i]是[/i][Player:Father]的[Player:son/daughter]，对吧？只是在你急着保护族人的时候，可别疏忽了他们真正的需求。",
-    "after": "你还真是[i]是[/i][Player:Father]的[Player:儿子/女儿]，对吧？只是在你急着保护族人的时候，可别疏忽了他们真正的需求。"
+    "before": "你还真是[i]是[/i][Player:Father]的[Player:son/daughter]，对吧？只是你急着保护族人时，可别忘了体察他们的需求。",
+    "after": "你还真是[i]是[/i][Player:Father]的[Player:儿子/女儿]，对吧？只是你急着保护族人时，可别忘了体察他们的需求。"
   },
   {
     "index": 14237,
@@ -1111,8 +1111,8 @@
   },
   {
     "index": 14293,
-    "before": "我是[Player:Name] [Player:son/daughter]，是[Player:Father]的孩子，这里确实是我这个领主做主。",
-    "after": "我是[Player:Name] [Player:儿子/女儿]，是[Player:Father]的孩子，这里确实是我这个领主做主。"
+    "before": "我是[Player:Name]，[Player:Father]的[Player:son/daughter]，这里确实由我这个领主做主。",
+    "after": "我是[Player:Name]，[Player:Father]的[Player:儿子/女儿]，这里确实由我这个领主做主。"
   },
   {
     "index": 14354,
@@ -1226,8 +1226,8 @@
   },
   {
     "index": 16600,
-    "before": "这位是，呃，斯凯恩的[Player:Name]。[Player:He/She]有些问题想请教？",
-    "after": "这位是，呃，斯凯恩的[Player:Name]。[Player:他/她]有些问题想请教？"
+    "before": "这位是，呃，来自斯凯恩的[Player:Name]。[Player:He/She]有几个问题想问？",
+    "after": "这位是，呃，来自斯凯恩的[Player:Name]。[Player:他/她]有几个问题想问？"
   },
   {
     "index": 16667,
