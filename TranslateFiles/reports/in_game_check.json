@@ -1,71 +1,139 @@
 {
-  "translation_sha256": "c0c645ab0ab89d15a2467fb55099d4c48f1c8778ae3aa3fd9da189b11be4d62f",
-  "game_version": "Steam 当前版本（Unity 5.6.4f1，原始 resources.assets 344,539,620 字节）",
+  "game_version": "Steam 1.0.7.4（Unity 5.6.4f1）",
   "platform": "Steam（Windows）",
+  "translation_sha256": "cf705fea3fb0f230f0ad95f019c96b7d58e878d2d56f45a8acc717caaaf691af",
   "payload_files": [
     {
-      "path": "ReleasePayload/resources.assets.hdiff",
-      "sha256": "b2f470427217275caa5585a30b7ab46dbba7d26882e78fd6bffb4157c247c5e8",
-      "game_path": "ZFY_Translation_Patch/resources.assets.hdiff"
+      "path": "ReleasePayload/v1.7/config.json",
+      "sha256": "c3bb17d074762145d63bcd65c6099a6785ae6f91c832a3e27741ac451e82b409",
+      "game_path": "汉化工具/config.json"
     },
     {
-      "path": "ReleasePayload/hpatchz.exe",
+      "path": "ReleasePayload/v1.7/hpatchz.exe",
       "sha256": "9703c694b5955c576d9f0e26e98b60941f0bbb53b382b1f1988d75d461e580cb",
-      "game_path": "ZFY_Translation_Patch/hpatchz.exe"
+      "game_path": "汉化工具/hpatchz.exe"
     },
     {
-      "path": "ReleasePayload/应用汉化补丁.bat",
-      "sha256": "3e5b68d6a6af1ebb073c5fdc1b98c7715ad9a83c259a78cebafa6402d8131037",
-      "game_path": "ZFY_Translation_Patch/应用汉化补丁.bat"
+      "path": "ReleasePayload/v1.7/install.ps1",
+      "sha256": "290d4b62d578238f924e82c229c75f7e71230ac9d89374fc795573522de6eff2",
+      "game_path": "汉化工具/install.ps1"
+    },
+    {
+      "path": "ReleasePayload/v1.7/overhead-timing.hdiff",
+      "sha256": "e6720f18f9a438a48ab42ae9ce168ec63900aabbe30b5a5e3fb74f42821fb0dd",
+      "game_path": "汉化工具/overhead-timing.hdiff"
+    },
+    {
+      "path": "ReleasePayload/v1.7/recover-timer-dll.hdiff",
+      "sha256": "7fe680c46799cbf4a3025b2a6e1698cfe7ba9a13e101277367ac84170c4c1503",
+      "game_path": "汉化工具/recover-timer-dll.hdiff"
+    },
+    {
+      "path": "ReleasePayload/v1.7/recover-v13-resources.hdiff",
+      "sha256": "6086d61dbbf02c8b492da171d7d9e30488a393dcc764a1d0972ffe7d769763f8",
+      "game_path": "汉化工具/recover-v13-resources.hdiff"
+    },
+    {
+      "path": "ReleasePayload/v1.7/recover-v14-resources.hdiff",
+      "sha256": "94d0373770b967974f5a252770fdf8db19b0ef6ad1a431bf239fd16b86072ec1",
+      "game_path": "汉化工具/recover-v14-resources.hdiff"
+    },
+    {
+      "path": "ReleasePayload/v1.7/recover-v17-resources.hdiff",
+      "sha256": "410099644f91266c5dd1dbc8f225f82264ee2d5b2360eecaf3efcf4f4add5652",
+      "game_path": "汉化工具/recover-v17-resources.hdiff"
+    },
+    {
+      "path": "ReleasePayload/v1.7/resources.assets.hdiff",
+      "sha256": "a9d6e2b53baa1c001660c224519c4b71323680795510f093805052992cdd9b79",
+      "game_path": "汉化工具/resources.assets.hdiff"
+    },
+    {
+      "path": "ReleasePayload/v1.7/卸载汉化.cmd",
+      "sha256": "ef9771b3dc51bee637afd7d3d856585c95f7c1423f48f4da41dbb530ad2a832e",
+      "game_path": "卸载汉化.cmd"
+    },
+    {
+      "path": "ReleasePayload/v1.7/安装汉化.cmd",
+      "sha256": "ea8b94c9a27380d0234b7d8632be042cfac8c457e4f07782a9f269cf7d998395",
+      "game_path": "安装汉化.cmd"
     }
   ],
   "evidence_files": [
     {
-      "path": "TranslateFiles/reports/repack_verification.json",
-      "sha256": "7b865c6f94f6a9f2766a16b98a908f842458758255d754edfe6f7d57f057e4d3"
+      "path": "TranslateFiles/cache/v17-game-evidence/01-main-menu.jpg",
+      "sha256": "3f8b286e8969aafd13c91c9265df0398fba1d04210450bd4d1c9dd01a667f0b9"
     },
     {
-      "path": "TranslateFiles/reports/build_xml_verification.json",
-      "sha256": "3f3b4be1c53312cb70aa81c98c6ea76af9a8a16d3239a3b44499f3af4bf800f1"
+      "path": "TranslateFiles/cache/v17-game-evidence/02-feast-objectives.jpg",
+      "sha256": "d1f7c223cf6893427205cf093a0d42320b3840076a3ecd33dc8d56cbe38df524"
     },
     {
-      "path": "TranslateFiles/reports/repack_translation_prep.json",
-      "sha256": "9ea09751644fc1a95304a0d98cec49d91e5e9082dbd1d7ce94819af72ba1c4b3"
+      "path": "TranslateFiles/cache/v17-game-evidence/03-equipment-tutorial.jpg",
+      "sha256": "bdb570c1ae836e760e1e7131e09f85582bf71cbc8717faeeec26acc5e8566a29"
+    },
+    {
+      "path": "TranslateFiles/cache/v17-game-evidence/04-quest-journal.jpg",
+      "sha256": "8ca3007adc8bb6d7abed5cd5a07f51ce9792c0c9f8291e81afe5b3b802961053"
+    },
+    {
+      "path": "TranslateFiles/cache/v17-game-evidence/05-feast-dialogue-intro.jpg",
+      "sha256": "b742e1669338b59bac4435c29e58fadf99ae8a0829ade6aff55c84862aafdf56"
+    },
+    {
+      "path": "TranslateFiles/cache/v17-game-evidence/06-feast-dialogue-options.jpg",
+      "sha256": "92e39a1bc8441a702eeac5f99387aba5987fec8cbf44d5b4decc6f1008404e96"
+    },
+    {
+      "path": "TranslateFiles/cache/v17-game-evidence/07-feast-quest-progress.jpg",
+      "sha256": "7bd279f8256f905948f79e7a7853801354aa6e29c708b1453890b67d33c73c04"
     }
   ],
+  "installed_game_files": [
+    {
+      "game_path": "Expeditions Viking_Data/resources.assets",
+      "sha256": "0023dc2cc378b0091f35525a57ebb1f1f1307731d41a75082906a1c322c9a324",
+      "original_sha256": "5ffb6e099860f06e325ffefd1784a074bf50c01074f856272c2d9084c3e9eba8"
+    },
+    {
+      "game_path": "Expeditions Viking_Data/Managed/Assembly-CSharp.dll",
+      "sha256": "456812cc062145b3958bb234c265e4d0d91713b0f1025836ef4d6d90da16b203",
+      "original_sha256": "c7b37f617f2e4561b939f02aebba5841ee87c554d8c5f43bf18887d362106af5"
+    }
+  ],
+  "profile_restored_after_test": true,
   "checks": [
     {
       "category": "fonts",
       "status": "pass",
-      "scene": "启动后主界面与对白界面",
-      "notes": "用户实机确认中文字体显示正常，无缺字或方块。"
+      "scene": "主菜单、装备教程、长屋宴会",
+      "notes": "中文、标点、对白角色名与 UI 数字均显示清晰，所查画面未见缺字或乱码。"
     },
     {
       "category": "layout",
       "status": "pass",
-      "scene": "对白与选项文本",
-      "notes": "用户实机确认文本排版正常，选项与对白未出现换行错乱。"
+      "scene": "装备教程和拉格恩希尔德的多条对白",
+      "notes": "教程正文、宴会长对白、多行描述及四个选择均在对应面板内显示，支持正常切换及点选。"
     },
     {
       "category": "ui",
       "status": "pass",
-      "scene": "游戏内 UI 与技能/物品提示",
-      "notes": "用户实机确认界面文本为中文。"
+      "scene": "主菜单、读档、装备、任务日志",
+      "notes": "主菜单中文版按钮、读档、装备和任务页签的实际操作与界面一致。"
     },
     {
       "category": "dialogue",
       "status": "pass",
-      "scene": "对话与玩家选项",
-      "notes": "用户实机确认对话与选项显示中文，未再出现英文选项片段。"
+      "scene": "与拉格恩希尔德 白衣者交谈",
+      "notes": "阅读多段中文叙述及对白，人物称谓、玩家名替换和选项可正常显示，选中告辞后进入结束对话节点；仍可见个别原拼写人名。"
     },
     {
       "category": "quest",
-      "status": "not_applicable",
-      "scene": "",
-      "notes": "本轮实机确认未单独覆盖任务日志界面，按未验证项记录。"
+      "status": "pass",
+      "scene": "长屋的宴会任务与任务日志",
+      "notes": "主线目标、可选目标与任务进度在日志及追踪面板显示。结束领主对话后收到更新提示，「和领主们谈谈」计数从 1/3 增至 2/3。"
     }
   ],
-  "notes": "载荷由 2026-10-19 回填的 resources.assets 生成差分；用户在部署后实机确认字体、排版、UI 与对话正常。",
-  "quality_report_hash": "9fd45b7e96151cd0f55a21269b7d9e08d76f15a810ee52cee5f08a7ae08ddb33",
+  "quality_report_hash": "3e6fc2dba8a2e592991832bf1e0784892639a8e09e433643e1e429b629fe7701",
   "status": "passed"
 }

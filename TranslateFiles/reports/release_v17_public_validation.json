@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "release_url": "https://github.com/zfyu222/expeditions-viking-hanhua/releases/tag/v1.7",
+  "asset_url": "https://github.com/zfyu222/expeditions-viking-hanhua/releases/download/v1.7/Expeditions.Viking_ChinesePatch_.1.7.zip",
+  "asset_name": "Expeditions.Viking_ChinesePatch_.1.7.zip",
+  "archive_sha256": "3d36d38ff8e79ecc5f1ba99bdd59a3cb181f4134d347c91552f9a6bae4445a8a",
+  "download_size": 6155304,
+  "public": true,
+  "latest": true,
+  "zip_crc": "passed",
+  "player_guide_matches_release_body": true,
+  "cover_public": true
+}
