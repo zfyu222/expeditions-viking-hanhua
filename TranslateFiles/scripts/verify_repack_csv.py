@@ -3,7 +3,7 @@ import json
 import re
 from pathlib import Path
 
-BASE = Path(r"D:\StaticHanHua\Projects\Expeditions Viking")
+BASE = Path(__file__).resolve().parents[2]
 src = [r[0] for r in csv.reader(open(BASE / "expeditions-viking_text.csv", encoding="utf-8-sig", newline=""))]
 rep = [r[0] for r in csv.reader(open(BASE / "TranslateFiles/repack/translation_for_repack.csv", encoding="utf-8-sig", newline=""))]
 off = [r[0] for r in csv.reader(open(BASE / "expeditions-viking_text_translated.csv", encoding="utf-8-sig", newline=""))]

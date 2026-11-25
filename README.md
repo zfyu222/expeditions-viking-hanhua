@@ -230,9 +230,11 @@ python TranslateFiles\scripts\verify_deployed_assets.py
 
 ### 调整翻译后重新回填
 
-1. 修改 `extracted_for_ainiee_translated.csv` 中的译文
-2. 运行 `python build_localization.py` 重新生成中文 XML
-3. 运行 `python batch_replace_uabea.py` 写回游戏
+1. 新克隆先运行 `python TranslateFiles/scripts/restore_source_csv.py`，从 [资源键映射](extracted_strings.csv) 恢复并按正式报告校验原文 CSV 的 SHA-256。修改 [正式译文](expeditions-viking_text_translated.csv)时保持行序一致。已有原文 CSV 可直接使用。提交新版正式译文时同步生成适用的验证报告。
+2. 从同版本的原版 Steam 安装复制英文 `resources.assets` 到 `backup/resources.assets`。用 AssetRipper 导出到 `output/full-project`，使九份英文 TextAsset 位于 `output/full-project/ExportedProject/Assets/Resources/localization/` 下的对应分类目录。文件名和分类见 [构建脚本](build_localization.py)，原件哈希见 [v1.6 安装配置](ReleasePayload/v1.6/config.json)。
+3. 在项目根目录运行 `python TranslateFiles/scripts/repack_prepare.py --variants`、`python TranslateFiles/scripts/verify_repack_csv.py`、`python build_localization.py`，再运行 `python TranslateFiles/scripts/verify_built_xml.py` 校验生成的中文 XML。
+4. 要离线重建 v1.7 差分，运行 `python TranslateFiles/scripts/build_v17.py`。它会用 UABEA 回读核对九个 TextAsset，构建目录为 `ReleasePayload/v1.7/`。修复版 UABEA CLI 默认从 StaticHanHua 工作区的 `Tools/UABEA/` 找，其他位置可用 PowerShell 的 `$env:ZFY_UABEA` 指定 EXE 路径。HDiffPatch 的 `hdiffz.exe` 放在工作区 `Tools/HDiffPatch/windows64/`。
+5. 完整安装载荷还需 v1.6 的安装工具和时间修复差分。将自己从 [v1.6 发布包](https://github.com/zfyu222/expeditions-viking-hanhua/releases/tag/v1.6) 解压得到的 `汉化工具/` 文件及根目录 CMD 放到 `ReleasePayload/v1.6/`。玩家补丁和安装说明见 [GitHub Releases](https://github.com/zfyu222/expeditions-viking-hanhua/releases/)。
 
 ### 只改某个类别的翻译
 

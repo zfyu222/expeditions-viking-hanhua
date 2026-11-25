@@ -6,7 +6,7 @@ import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-BASE = Path(r"D:\StaticHanHua\Projects\Expeditions Viking")
+BASE = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(BASE))
 from build_localization import CUSTOM_CATEGORY_DIRS, build_key
 

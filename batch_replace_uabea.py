@@ -7,9 +7,12 @@ import os
 import subprocess
 import shutil
 import re
+from pathlib import Path
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-UABEA = r"D:\StaticHanHua\Tools\UABEA\UABEAvalonia\bin\Release\net8.0\UABEAvalonia.exe"
+UABEA = os.environ.get("ZFY_UABEA") or str(
+    Path(BASE_DIR).parents[1] / "Tools/UABEA/UABEAvalonia/bin/Release/net8.0/UABEAvalonia.exe"
+)
 ASSETS_FILE = os.path.join(BASE_DIR, "Game", "Expeditions Viking_Data", "resources.assets")
 BACKUP_FILE = os.path.join(BASE_DIR, "backup", "resources.assets")
 CHINESE_DIR = os.path.join(BASE_DIR, "Chinese_Localization", "Chinese", "Localization")

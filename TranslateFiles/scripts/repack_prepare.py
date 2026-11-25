@@ -10,7 +10,7 @@ import json
 import re
 from pathlib import Path
 
-BASE = Path(r"D:\StaticHanHua\Projects\Expeditions Viking")
+BASE = Path(__file__).resolve().parents[2]
 GLOSSARY = BASE / "TranslateFiles/glossary/r8/freeze_731eced6/built/glossary_reviewed.json"
 REPACK_DIR = BASE / "TranslateFiles/repack"
 
