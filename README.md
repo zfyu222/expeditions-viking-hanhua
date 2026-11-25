@@ -391,3 +391,9 @@ C:\Users\<用户名>\Documents\My Games\Expeditions Viking\Custom Localization\
 - 正文、术语、中文资源和计时 DLL 均未改动；只修复安装程序并增加三份恢复差分。用户明确不启动游戏，实机状态仍保留待测。
 - 完整包：`Dispatch/Expeditions Viking_子非鱼汉化1.6.zip`；SHA-256 `285d8e217de7d517b57a5d61f7702e5f95181a7ed0c7ba7396523e547093f4a1`。仍只发布一个完整 ZIP，封面复用现有 title.jpg。
 - 当前最新稳定版：[v1.6 发布页](https://github.com/zfyu222/expeditions-viking-hanhua/releases/tag/v1.6)，仅一个完整 ZIP 附件，匿名下载哈希及 CRC 校验通过；网盘镜像未更新。证据：`TranslateFiles/reports/release_v16_install_validation.json`、`release_v16_archive_validation.json`、`release_v16_recovery_bindings.json`。
+
+### v1.7 完整单包（2026-11-25）
+
+- [GitHub Releases 下载](https://github.com/zfyu222/expeditions-viking-hanhua/releases/tag/v1.7)。`Expeditions Viking_子非鱼汉化1.7.zip`，适用 Steam Windows 1.0.7.4（Unity 5.6.4f1）。玩家入口为安装和卸载 CMD，游玩使用原游戏 EXE。
+- 完整包含新版文本差分、悬浮文字计时修复及逆向恢复差分。最终 ZIP 经 CRC、清单与哈希核对，并通过新装、重复安装、v1.6 升级、原始备份缺失恢复、卸载与异常保护回放。详见[安装回放报告](TranslateFiles/reports/release_v17_archive_validation.json)。
+- ZIP SHA-256 `3d36d38ff8e79ecc5f1ba99bdd59a3cb181f4134d347c91552f9a6bae4445a8a`。复用[汉化封面](Dispatch/Artwork/title.jpg)。

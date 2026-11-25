@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "version": "1.7",
+  "checks": [
+    "fresh_install_and_original_backups",
+    "idempotent_install",
+    "uninstall_and_idempotent_uninstall",
+    "v16_upgrade_with_original_backup",
+    "v16_upgrade_with_no_original_backups",
+    "v17_recovers_both_missing_backups_and_uninstalls",
+    "unsupported_second_input_leaves_first_untouched",
+    "corrupt_second_delta_leaves_both_originals"
+  ],
+  "official_sha256": "cf705fea3fb0f230f0ad95f019c96b7d58e878d2d56f45a8acc717caaaf691af",
+  "resources_sha256": "0023dc2cc378b0091f35525a57ebb1f1f1307731d41a75082906a1c322c9a324",
+  "dll_sha256": "456812cc062145b3958bb234c265e4d0d91713b0f1025836ef4d6d90da16b203"
+}
