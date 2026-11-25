@@ -72,3 +72,10 @@
 
 - 发布完成：GitHub 最新稳定版 `v1.4`，https://github.com/zfyu222/expeditions-viking-hanhua/releases/tag/v1.4 。上传资产 `Expeditions.Viking_ChinesePatch_.1.4.zip` 为 1,997,947 bytes，匿名下载后 SHA-256 `60622bf984f717f0919bf9f977f808011e0945304855445f20b964e9a32631e4` 与本地 ZIP 一致。发布记录见 `reports/release_v14_publication.json`。
 - 当前无百度网盘上传 MCP，网盘镜像未上传；未修改网盘旧版文件。旧 GitHub Releases 及本地归档均保留。
+
+## 2026-11-25 译文润色与增量复审
+
+- 本次以现有正式译文为基准，对全部 23,195 条做独立润色。按实际译文差异只复审 1,395 条，21,800 条沿用已有六维审校证据。复审范围以逻辑记录 ID 对齐核验，最终保留 1,394 条改动。
+- 主要处理对白语气、句序、术语在本句中的词义和 UI 表述。沿用 r8 冻结表与占位符规则。原文确有歧义的条目按裁决保留可辨语义。
+- 共用工作流按现有 API 优先级执行，实际请求使用 Codex 接口的 gpt-6-luna，疑难修复和裁决使用独立 gpt-6-sol 实例。润色和复审中的格式恢复保留原始回复。
+- 正式 CSV 通过 23,195 条结构、占位符及术语校验，并完成最终质量验收。详细范围与用量见 TranslateFiles/reports/polish_scope_20261125.json 和 polish_completion_20261125.json。当前译文待回填。

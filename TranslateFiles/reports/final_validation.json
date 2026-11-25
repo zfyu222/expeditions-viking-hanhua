@@ -1,11 +1,11 @@
 {
   "status": "passed",
   "source_sha256": "7d05511f1e62468e65b9f379d613789939c9b4bc6100b040310341bab5c60eb8",
-  "translation_sha256": "bcb10634df1ac8053408cae6492186a674a808982e4e85f3c05c2257a77f7a9b",
+  "translation_sha256": "cf705fea3fb0f230f0ad95f019c96b7d58e878d2d56f45a8acc717caaaf691af",
   "records": 23195,
   "semantic_review": "full",
-  "polish": false,
-  "revision": 17,
+  "polish": true,
+  "revision": 19,
   "glossary": {
     "hash": "8b1369e804c5c7f66803e0961da266077ff087a5ecc849b9e6806ece5c8b31a4",
     "path": "glossary\\r8\\freeze_731eced6\\built\\glossary_reviewed.json",
@@ -24,8 +24,13 @@
   },
   "path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\expeditions-viking_text_translated.csv",
   "quality_review": {
-    "report_hash": "16cecb6807d4c8b6f371e1f458637a5cfabff17df2eb83d96296eeee816431b4",
-    "reviewer": "sol"
+    "report_hash": "3e6fc2dba8a2e592991832bf1e0784892639a8e09e433643e1e429b629fe7701",
+    "reviewer": "standard"
   },
-  "in_game_check": "pending_repack"
+  "in_game_check": "pending_repack",
+  "mixed_language_audit": {
+    "path": "D:\\StaticHanHua\\Projects\\Expeditions Viking\\TranslateFiles\\reports\\mixed_language_audit.json",
+    "candidate_records": 1798,
+    "status": "candidates_only"
+  }
 }

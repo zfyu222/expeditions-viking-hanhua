@@ -1,7 +1,8 @@
 {
   "workflow": "custom",
   "backend": "api",
-  "model": "gpt-6-luna",
+  "record_constraints": {},
+  "escalation_backend": "subagent",
   "source_language": "英语",
   "target_language": "简体中文",
   "style": "历史题材维京策略 RPG。剧情对白口语自然、粗犷直接，保留人物声线和情绪；叙述简洁有画面感；UI 用短而清楚的现代简体中文。人名、地名、组织、技能及专名统一使用冻结术语表译名。保留所有游戏标记、标签、变量、占位符与大小写敏感内容；仅翻译玩家可见文本。 普通英语词与专名同形时，必须按本句真实词义判断；助动词缩写、普通城镇名词、亲属称谓不得强套人名、地名或宗教称谓。不要为满足术语检查把普通词义换成专名，应保留准确译文并提供具体语境例外。严格保留原文条件、推测和不确定性，不将 if/may 等改为既定事实。亲属关系未说明长幼时不得补出姐姐、妹妹等；前后出现双胞胎时保持一致。对白称呼用自然口语，避免生硬逐词照译。",
@@ -50,15 +51,15 @@
   "task_input_chars": 48000,
   "review_batch_records": 80,
   "extract_batch_records": null,
-  "glossary_review_batch_records": 60,
+  "glossary_review_batch_records": 12,
   "batch_tokens": 1024,
   "extract_batch_tokens": 10000,
   "glossary_review_batch_tokens": 10000,
   "review_batch_tokens": 1024,
-  "task_input_tokens": 16384,
-  "review_output_tokens": 16384,
-  "sol_repair_round_limit": 3,
-  "sol_no_progress_limit": 2,
+  "task_input_tokens": 65536,
+  "review_output_tokens": 32768,
+  "standard_repair_round_limit": 3,
+  "standard_no_progress_limit": 2,
   "review_output_reserve_percent": 20,
   "review_estimate": {
     "ascii_chars_per_token": 3,
@@ -68,13 +69,13 @@
     "translation_multiplier": 3
   },
   "draft_scan_workers": 1,
+  "layout_normalization": "exact_v1",
   "case_sensitive": false,
   "whole_word": true,
   "protect_named_curly": null,
-  "polish": false,
+  "polish": true,
   "max_attempts": 3,
   "body_repair_round_limit": 6,
-  "sol_repair_model": "gpt-6-sol",
   "lease_seconds": 3600,
   "exclusions": [],
   "stage_backends": {},
@@ -94,5 +95,9 @@
     "temperature": 1,
     "think_switch": false,
     "tls_switch": false
-  }
+  },
+  "model": "gpt-6-luna",
+  "sol_no_progress_limit": 2,
+  "sol_repair_model": "gpt-6-sol",
+  "sol_repair_round_limit": 3
 }

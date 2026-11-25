@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "records": 23195,
+  "reviewed_changed_records": 1395,
+  "reused_independent_reviews": 21800,
+  "final_changed_records": 1394,
+  "reverted_to_previous_text": 1,
+  "reverted_ids": [
+    "R0019601_764555688b"
+  ],
+  "unchanged_records_sent_for_review": 0,
+  "baseline_sha256": "bcb10634df1ac8053408cae6492186a674a808982e4e85f3c05c2257a77f7a9b",
+  "translation_sha256": "cf705fea3fb0f230f0ad95f019c96b7d58e878d2d56f45a8acc717caaaf691af",
+  "source_sha256": "7d05511f1e62468e65b9f379d613789939c9b4bc6100b040310341bab5c60eb8",
+  "frozen_glossary_sha256": "8b1369e804c5c7f66803e0961da266077ff087a5ecc849b9e6806ece5c8b31a4",
+  "approval_sha256": "3e6fc2dba8a2e592991832bf1e0784892639a8e09e433643e1e429b629fe7701",
+  "api_runs": [
+    "8908b997ea6c49ebb8835508488a7d25",
+    "b04377f841a945b2a921e9805e45f323",
+    "0796485d0ca54449af4f03b8ce69e939",
+    "5ea22cbe02b84cfa957cc4ea590a3060",
+    "81c5534a6e054331ac5bd6cc89ebf995"
+  ],
+  "api_reported_usage": {
+    "prompt_tokens": 7093943,
+    "completion_tokens": 665398,
+    "total_tokens": 7759341,
+    "cached_prompt_tokens": 2464768,
+    "reasoning_tokens": 9675,
+    "reported_requests": 672,
+    "unknown_requests": 0
+  }
+}
